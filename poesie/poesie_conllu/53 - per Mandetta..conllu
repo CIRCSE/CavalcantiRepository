@@ -1,0 +1,142 @@
+# newdoc id = 53 - per Mandetta.
+# text = Una giovane donna di Tolosa bell’ e gentil, d’onesta leggiadria, tant’è diritta e simigliante cosa, ne’ suoi dolci occhi, de la donna mia,
+# sent_id = 0
+1	Una	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=0|end_char=3
+2	giovane	giovane	ADJ	a2fs	Gender=Fem|Number=Sing	3	amod	_	start_char=4|end_char=11
+3	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	17	nsubj	_	start_char=12|end_char=17
+4	di	di	ADP	epskg	_	5	case	_	start_char=18|end_char=20
+5	Tolosa	Tolosa	PROPN	np	_	3	nmod	_	start_char=21|end_char=27|SpacesAfter=\n
+6	bell	bello	ADJ	a2ms	Gender=Masc|Number=Sing	5	amod	_	start_char=28|end_char=32|SpaceAfter=No
+7	’	’	PUNCT	_	_	17	punct	_	start_char=32|end_char=33
+8	e	e	CCONJ	cscc	_	9	cc	_	start_char=34|end_char=35
+9	gentil	gentile	ADJ	a2fs	Gender=Fem|Number=Sing	6	conj	_	start_char=36|end_char=42|SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	start_char=42|end_char=43
+11	d’	di	ADP	eps	_	13	case	_	start_char=44|end_char=46|SpaceAfter=No
+12	onesta	onesto	ADJ	a1fs	Gender=Fem|Number=Sing	13	amod	_	start_char=46|end_char=52
+13	leggiadria	leggiadrio	NOUN	sf1fs	Gender=Fem|Number=Sing	17	obl	_	start_char=53|end_char=63|SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	start_char=63|end_char=64|SpacesAfter=\n
+15	tant’	tanto	ADV	b	_	17	advmod	_	start_char=65|end_char=70|SpaceAfter=No
+16	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=70|end_char=71
+17	diritta	diritto	ADJ	a1fs	Gender=Fem|Number=Sing	0	root	_	start_char=72|end_char=79
+18	e	e	CCONJ	cscc	_	19	cc	_	start_char=80|end_char=81
+19	simigliante	somigliare	VERB	vi2ppa2fs	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	20	conj	_	start_char=82|end_char=93
+20	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	17	obl	_	start_char=94|end_char=98|SpaceAfter=No
+21	,	,	PUNCT	_	_	26	punct	_	start_char=98|end_char=99|SpacesAfter=\n
+22	ne	in	ADP	rdmp	_	26	case	_	start_char=100|end_char=102|SpaceAfter=No
+23	’	’	ADP	epsk	_	26	case	_	start_char=102|end_char=103
+24	suoi	suo	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	26	det:poss	_	start_char=104|end_char=108
+25	dolci	dolce	ADJ	a2mp	Gender=Masc|Number=Plur	26	amod	_	start_char=109|end_char=114
+26	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	17	obl	_	start_char=115|end_char=120|SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	start_char=120|end_char=121
+28	de	di	ADP	eps	_	30	case	_	start_char=122|end_char=124
+29	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	start_char=125|end_char=127
+30	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	26	nmod	_	start_char=128|end_char=133
+31	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	30	det:poss	_	start_char=134|end_char=137|SpaceAfter=No
+32	,	,	PUNCT	_	_	17	punct	_	start_char=137|end_char=138|SpacesAfter=\n\n
+
+# text = ch’è fatta dentro al cor desiderosa l’anima in guisa, che da lui si svia e vanne a lei; ma tant’è paurosa, che no le dice di qual donna sia.
+# sent_id = 1
+1	ch	ch	ADV	b	_	4	advmod	_	start_char=140|end_char=142|SpaceAfter=No
+2	’	’	PUNCT	_	_	4	punct	_	start_char=142|end_char=143|SpaceAfter=No
+3	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=143|end_char=144
+4	fatta	fare	VERB	vip1ips3	Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	start_char=145|end_char=150
+5	dentro	dentro	ADV	_	_	8	advmod:lmod	_	start_char=151|end_char=157
+6-7	al	_	_	_	_	_	_	_	start_char=158|end_char=160
+6	a	a	ADP	_	_	8	case	_	_
+7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	4	obl:lmod	_	start_char=161|end_char=164
+9	desiderosa	desideroso	ADJ	a1fs	Gender=Fem|Number=Sing	8	amod	_	start_char=165|end_char=175|SpacesAfter=\n
+10	l’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	start_char=176|end_char=178|SpaceAfter=No
+11	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	4	nsubj:pass	_	start_char=178|end_char=183
+12	in	in	ADP	_	_	13	case	_	start_char=184|end_char=186
+13	guisa	guisa	NOUN	_	Gender=Fem|Number=Sing	4	obl:lmod	_	start_char=187|end_char=192|SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	start_char=192|end_char=193
+15	che	che	PRON	pr	PronType=Rel	19	nsubj	_	start_char=194|end_char=197
+16	da	da	ADP	epska	_	17	case	_	start_char=198|end_char=200
+17	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	start_char=201|end_char=204
+18	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	19	expl:pv	_	start_char=205|end_char=207
+19	svia	sviare	VERB	vta+1pps3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	start_char=208|end_char=212|SpacesAfter=\n
+20	e	e	CCONJ	cscc	_	21	cc	_	start_char=213|end_char=214
+21	vanne	vanire	VERB	vi1ipp3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	start_char=215|end_char=220
+22	a	a	ADP	epskml	_	23	case	_	start_char=221|end_char=222
+23	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obl:lmod	_	start_char=223|end_char=226|SpaceAfter=No
+24	;	;	PUNCT	_	_	28	punct	_	start_char=226|end_char=227
+25	ma	ma	CCONJ	csca	_	28	cc	_	start_char=228|end_char=230
+26	tant’	tanto	ADV	b	_	28	advmod	_	start_char=231|end_char=236|SpaceAfter=No
+27	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	start_char=236|end_char=237
+28	paurosa	pauroso	ADJ	a1fs	Gender=Fem|Number=Sing	4	parataxis	_	start_char=238|end_char=245|SpaceAfter=No
+29	,	,	PUNCT	_	_	33	punct	_	start_char=245|end_char=246|SpacesAfter=\n
+30	che	che	SCONJ	cssu	_	33	mark	_	start_char=247|end_char=250
+31	no	non	ADV	b	_	33	advmod	_	start_char=251|end_char=253
+32	le	le	PRON	pp3fsyda	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	iobj	_	start_char=254|end_char=256
+33	dice	dire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	start_char=257|end_char=261
+34	di	di	ADP	epskg	_	36	case	_	start_char=262|end_char=264
+35	qual	quale	DET	at2fs	Number=Sing|PronType=Int	36	det	_	start_char=265|end_char=269
+36	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	33	obl	_	start_char=270|end_char=275
+37	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	start_char=276|end_char=279|SpaceAfter=No
+38	.	.	PUNCT	_	_	28	punct	_	start_char=279|end_char=280|SpacesAfter=\n\n
+
+# text = Quella la mira nel su’ dolce sguardo, ne lo qual face rallegrare amore, perchè v’è dentro la sua donna dritta.
+# sent_id = 2
+1	Quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	start_char=282|end_char=288
+2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=289|end_char=291
+3	mira	mirare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=292|end_char=296
+4-5	nel	_	_	_	_	_	_	_	start_char=297|end_char=300
+4	in	in	ADP	_	_	9	case	_	_
+5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+6	su	su	ADP	np	_	9	case	_	start_char=301|end_char=303|SpaceAfter=No
+7	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=303|end_char=304
+8	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	9	amod	_	start_char=305|end_char=310
+9	sguardo	sguardo	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl:lmod	_	start_char=311|end_char=318|SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	start_char=318|end_char=319|SpacesAfter=\n
+11	ne	in	ADP	epaksl	_	13	case	_	start_char=320|end_char=322
+12	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=323|end_char=325
+13	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	14	obl:lmod	_	start_char=326|end_char=330
+14	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=331|end_char=335
+15	rallegrare	rallegrare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=336|end_char=346
+16	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	15	obj	_	start_char=347|end_char=352|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	start_char=352|end_char=353|SpacesAfter=\n
+18	perchè	perchè	SCONJ	ccsc	_	21	mark	_	start_char=354|end_char=360
+19	v’	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	21	iobj	_	start_char=361|end_char=363|SpaceAfter=No
+20	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=363|end_char=364
+21	dentro	dentro	ADV	b	_	24	advmod:lmod	_	start_char=365|end_char=371
+22	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	start_char=372|end_char=374
+23	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	start_char=375|end_char=378
+24	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	25	nsubj	_	start_char=379|end_char=384
+25	dritta	diritto	ADJ	a1fs	Gender=Fem|Number=Sing	14	advcl	_	start_char=385|end_char=391|SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	start_char=391|end_char=392|SpacesAfter=\n\n
+
+# text = Po’ torna, piena di sospir, nel core, ferita a morte d’un tagliente dardo, che questa donna nel partir li gitta.
+# sent_id = 3
+1	Po	Po	INTJ	i	_	3	discourse	_	start_char=394|end_char=396|SpaceAfter=No
+2	’	’	PUNCT	_	_	1	punct	_	start_char=396|end_char=397
+3	torna	tornare	VERB	vi1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=398|end_char=403|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	start_char=403|end_char=404
+5	piena	pieno	ADJ	a1fsxc5	Gender=Fem|Number=Sing	3	xcomp	_	start_char=405|end_char=410
+6	di	di	ADP	epskg	_	7	mark	_	start_char=411|end_char=413
+7	sospir	sospiro	VERB	vtaffp	Tense=Pres|VerbForm=Inf|Voice=Act	5	advcl	_	start_char=414|end_char=420|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	start_char=420|end_char=421
+9-10	nel	_	_	_	_	_	_	_	start_char=422|end_char=425
+9	in	in	ADP	_	_	11	case	_	_
+10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obl:lmod	_	start_char=426|end_char=430|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	start_char=430|end_char=431|SpacesAfter=\n
+13	ferita	ferita	VERB	vta2pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	advcl	_	start_char=432|end_char=438
+14	a	a	ADP	epskm	_	15	case	_	start_char=439|end_char=440
+15	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	13	obl	_	start_char=441|end_char=446
+16	d’	di	ADP	eps	_	19	case	_	start_char=447|end_char=449|SpaceAfter=No
+17	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=449|end_char=451
+18	tagliente	tagliere	VERB	vi2ppa2mss	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	19	amod	_	start_char=452|end_char=461
+19	dardo	dardo	NOUN	sm2ms	Gender=Masc|Number=Sing	15	nmod	_	start_char=462|end_char=467|SpaceAfter=No
+20	,	,	PUNCT	_	_	28	punct	_	start_char=467|end_char=468|SpacesAfter=\n
+21	che	che	PRON	pr	PronType=Rel	28	nsubj	_	start_char=469|end_char=472
+22	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	23	det	_	start_char=473|end_char=479
+23	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	28	nsubj	_	start_char=480|end_char=485
+24-25	nel	_	_	_	_	_	_	_	start_char=486|end_char=489
+24	in	in	ADP	_	_	26	case	_	_
+25	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	partir	partire	VERB	vi3fpsm3ms	Tense=Pres|VerbForm=Inf	28	obl:lmod	_	start_char=490|end_char=496
+27	li	li	PRON	pp3pyac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	obj	_	start_char=497|end_char=499
+28	gitta	gettare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=500|end_char=505|SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	start_char=505|end_char=506|SpaceAfter=No
+

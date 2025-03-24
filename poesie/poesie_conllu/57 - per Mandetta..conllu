@@ -1,0 +1,127 @@
+# newdoc id = 57 - per Mandetta.
+# text = Noi sian le triste penne isbigotite, le cesoiuze e ’l coltellin dolente c’avemo scritte dolorosamente quelle parole che vo’ avete udite.
+# sent_id = 0
+1	Noi	noi	PRON	pp1plso	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=0|end_char=3
+2	sian	essere	AUX	vi4cpp3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=4|end_char=8
+3	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	start_char=9|end_char=11
+4	triste	tristo	ADJ	a1fp	Gender=Fem|Number=Plur	5	amod	_	start_char=12|end_char=18
+5	penne	penna	NOUN	sf1fp	Gender=Fem|Number=Plur	0	root	_	start_char=19|end_char=24
+6	isbigotite	sbigotito	ADJ	a1fp	Gender=Fem|Number=Plur	5	amod	_	start_char=25|end_char=35|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	start_char=35|end_char=36|SpacesAfter=\n
+8	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	9	det	_	start_char=37|end_char=39
+9	cesoiuze	Cesoiuzze	NOUN	sf1fp	Gender=Fem|Number=Plur	6	nsubj	_	start_char=40|end_char=48
+10	e	e	CCONJ	cscc	_	12	cc	_	start_char=49|end_char=50
+11	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=51|end_char=53
+12	coltellin	coltellino	NOUN	sm2mp	Gender=Masc|Number=Plur	9	conj	_	start_char=54|end_char=63
+13	dolente	dolente	ADJ	a2ms	Gender=Masc|Number=Sing	12	amod	_	start_char=64|end_char=71|SpacesAfter=\n
+14	c’	ci	PRON	pr	PronType=Rel	15	nsubj	_	start_char=72|end_char=74|SpaceAfter=No
+15	avemo	avere	VERB	vta5ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	start_char=74|end_char=79
+16	scritte	scrivere	VERB	vta2prp1fp	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	15	xcomp	_	start_char=80|end_char=87
+17	dolorosamente	dolorosamente	ADV	b	_	15	advmod	_	start_char=88|end_char=101|SpacesAfter=\n
+18	quelle	quello	DET	ad1fp	Gender=Fem|Number=Plur|PronType=Dem	19	det	_	start_char=102|end_char=108
+19	parole	parola	NOUN	sf1fp	Gender=Fem|Number=Plur	15	obj	_	start_char=109|end_char=115
+20	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=116|end_char=119
+21	vo	andare	VERB	vi1ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	start_char=120|end_char=122|SpaceAfter=No
+22	’	’	PRON	pp2py	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	24	obj	_	start_char=122|end_char=123
+23	avete	avere	AUX	vta5ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	start_char=124|end_char=129
+24	udite	udire	VERB	vta3ibp2	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|VerbForm=Part|Voice=Act	19	acl:relcl	_	start_char=130|end_char=135|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	punct	_	start_char=135|end_char=136|SpacesAfter=\n\n
+
+# text = Or vi dician perchè noi sian partite e sian venute a voi quì di presente: la man, che ci movea, dice che sente cose dubiose nel core apparite,
+# sent_id = 1
+1	Or	ora	ADV	b	_	3	advmod:tmod	_	start_char=138|end_char=140
+2	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	iobj	_	start_char=141|end_char=143
+3	dician	dire	VERB	vta3iip3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=144|end_char=150
+4	perchè	perchè	SCONJ	ccsc	_	7	mark	_	start_char=151|end_char=157
+5	noi	noi	PRON	pp1plso	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=158|end_char=161
+6	sian	essere	AUX	vi4cpp3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=162|end_char=166
+7	partite	partire	VERB	via2pp11f	Aspect=Perf|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=167|end_char=174|SpacesAfter=\n
+8	e	e	CCONJ	cscc	_	10	cc	_	start_char=175|end_char=176
+9	sian	essere	AUX	vi4cpp3	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=177|end_char=181
+10	venute	venire	VERB	vi2ibp3	Aspect=Perf|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	start_char=182|end_char=188
+11	a	a	ADP	epskml	_	12	case	_	start_char=189|end_char=190
+12	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	10	obl:lmod	_	start_char=191|end_char=194
+13	quì	quì	ADV	b	_	10	advmod	_	start_char=195|end_char=198
+14	di	di	ADP	_	_	15	case	_	start_char=199|end_char=201
+15	presente	presente	ADJ	_	Gender=Masc|Number=Sing	10	obl:lmod	_	start_char=202|end_char=210|SpaceAfter=No
+16	:	:	PUNCT	_	_	24	punct	_	start_char=210|end_char=211|SpacesAfter=\n
+17	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	start_char=212|end_char=214
+18	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	24	nsubj	_	start_char=215|end_char=218|SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	start_char=218|end_char=219
+20	che	che	PRON	pr	PronType=Rel	22	nsubj	_	start_char=220|end_char=223
+21	ci	ci	PRON	pp1pyac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	22	obj	_	start_char=224|end_char=226
+22	movea	muovere	VERB	vta2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	start_char=227|end_char=232|SpaceAfter=No
+23	,	,	PUNCT	_	_	18	punct	_	start_char=232|end_char=233
+24	dice	dire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=234|end_char=238
+25	che	che	SCONJ	csso	_	26	mark	_	start_char=239|end_char=242
+26	sente	sentire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	ccomp	_	start_char=243|end_char=248|SpacesAfter=\n
+27	cose	cosa	NOUN	sf1fp	Gender=Fem|Number=Plur	26	obj	_	start_char=249|end_char=253
+28	dubiose	dubioso	ADJ	a1fp	Gender=Fem|Number=Plur	27	amod	_	start_char=254|end_char=261
+29-30	nel	_	_	_	_	_	_	_	start_char=262|end_char=265
+29	in	in	ADP	_	_	31	case	_	_
+30	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obl:lmod	_	start_char=266|end_char=270
+32	apparite	apparire	VERB	vi1pp	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	26	xcomp	_	start_char=271|end_char=279|SpaceAfter=No
+33	,	,	PUNCT	_	_	3	punct	_	start_char=279|end_char=280|SpacesAfter=\n\n
+
+# text = le quali anno destrutto sì costui ed ànno ’l posto sì presso a la morte, ch’altro non n’è rimaso che sospiri.
+# sent_id = 2
+1	le	la	DET	adfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	start_char=282|end_char=284
+2	quali	quale	PRON	pr	Number=Plur|PronType=Rel	4	nsubj	_	start_char=285|end_char=290
+3	anno	anno	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=291|end_char=295
+4	destrutto	destruggere	VERB	vta2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	start_char=296|end_char=305
+5	sì	così	ADV	b	_	6	advmod	_	start_char=306|end_char=308
+6	costui	costui	PRON	pd3ms	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	start_char=309|end_char=315|SpacesAfter=\n
+7	ed	e	CCONJ	cscc	_	8	cc	_	start_char=316|end_char=318
+8	ànno	ànno	ADV	b	_	6	conj	_	start_char=319|end_char=323
+9	’	’	PUNCT	_	_	11	punct	_	start_char=324|end_char=325|SpaceAfter=No
+10	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=325|end_char=326
+11	posto	porre	VERB	vta2prsmm	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	start_char=327|end_char=332
+12	sì	così	ADV	b	_	11	advmod	_	start_char=333|end_char=335
+13	presso	presso	ADV	_	_	16	advmod:lmod	_	start_char=336|end_char=342
+14	a	a	ADP	_	_	16	case	_	start_char=343|end_char=344
+15	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	start_char=345|end_char=347
+16	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	11	nmod	_	start_char=348|end_char=353|SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	start_char=353|end_char=354|SpacesAfter=\n
+18	ch	ch	SCONJ	cssu	_	25	mark	_	start_char=355|end_char=357|SpaceAfter=No
+19	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=357|end_char=358|SpaceAfter=No
+20	altro	altro	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	25	nsubj	_	start_char=358|end_char=363
+21	non	non	ADV	b	PronType=Neg	25	advmod:neg	_	start_char=364|end_char=367
+22	n	n	ADV	b	_	25	advmod	_	start_char=368|end_char=369|SpaceAfter=No
+23	’	’	PUNCT	_	_	25	punct	_	start_char=369|end_char=370|SpaceAfter=No
+24	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	start_char=370|end_char=371
+25	rimaso	rimanere	VERB	vi2ibs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	11	acl:relcl	_	start_char=372|end_char=378
+26	che	che	SCONJ	css	_	27	mark	_	start_char=379|end_char=382
+27	sospiri	sospiro	NOUN	sm2mp	Gender=Masc|Number=Plur	25	advcl:cmp	_	start_char=383|end_char=390|SpaceAfter=No
+28	.	.	PUNCT	_	_	25	punct	_	start_char=390|end_char=391|SpacesAfter=\n\n
+
+# text = Or vi preghian quanto possian più forte, che non sdegnate di tenerci noi tanto, ch’un poco di pietà vi miri.
+# sent_id = 3
+1	Or	ora	ADV	b	_	3	advmod:tmod	_	start_char=393|end_char=395
+2	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	iobj	_	start_char=396|end_char=398
+3	preghian	preghiare	VERB	vta+1ppp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=399|end_char=407
+4	quanto	quanto	ADV	b	_	7	mark	_	start_char=408|end_char=414
+5	possian	potere	AUX	vta2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	start_char=415|end_char=422
+6	più	più	ADV	b	_	7	advmod	_	start_char=423|end_char=426
+7	forte	forte	ADV	bc	_	3	advmod	_	start_char=427|end_char=432|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	start_char=432|end_char=433|SpacesAfter=\n
+9	che	che	SCONJ	cssu	_	11	mark	_	start_char=434|end_char=437
+10	non	non	ADV	b	PronType=Neg	11	advmod:neg	_	start_char=438|end_char=441
+11	sdegnate	sdegnare	VERB	vta1ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=442|end_char=450
+12	di	di	ADP	epsd	_	13	mark	_	start_char=451|end_char=453
+13-14	tenerci	_	_	_	_	_	_	_	start_char=454|end_char=461
+13	tenere	tenere	VERB	vta+2fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	_
+14	ci	ci	PRON	pf1pxpr	Clitic=Yes|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	13	obj	_	_
+15	noi	noi	PRON	pp1plso	Number=Plur|Person=1|PronType=Prs	13	obj	_	start_char=462|end_char=465|SpacesAfter=\n
+16	tanto	tanto	ADV	b	_	13	advmod	_	start_char=466|end_char=471|SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	start_char=471|end_char=472
+18	ch	ch	SCONJ	cssu	_	25	mark	_	start_char=473|end_char=475|SpaceAfter=No
+19	’	’	PUNCT	_	_	25	punct	_	start_char=475|end_char=476|SpaceAfter=No
+20	un	uno	DET	_	Gender=Masc|Number=Sing	21	det	_	start_char=476|end_char=478
+21	poco	poco	ADV	_	_	25	advmod:lmod	_	start_char=479|end_char=483
+22	di	di	ADP	epskg	_	23	case	_	start_char=484|end_char=486
+23	pietà	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	25	obl	_	start_char=487|end_char=492
+24	vi	vi	PRON	pp2pyac	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	25	obj	_	start_char=493|end_char=495
+25	miri	mirare	VERB	vta1cps3	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=496|end_char=500|SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	start_char=500|end_char=501|SpaceAfter=No
+

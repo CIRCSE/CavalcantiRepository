@@ -1,0 +1,137 @@
+# newdoc id = 19 - A Guido Orlandi.
+# text = La bella donna, dove amor si mostra ch’è tanto di valor pleno ed adorno, tragge lo cor de la persona vostra e prende vita in far con lei soggiorno.
+# sent_id = 0
+1	La	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=0|end_char=2
+2	bella	bello	ADJ	a1fs	Gender=Fem|Number=Sing	3	amod	_	start_char=3|end_char=8
+3	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nsubj	_	start_char=9|end_char=14|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	start_char=14|end_char=15
+5	dove	dove	ADV	pr	_	8	advmod:lmod	_	start_char=16|end_char=20
+6	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=21|end_char=25
+7	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	start_char=26|end_char=28
+8	mostra	mostrare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=29|end_char=35|SpacesAfter=\n
+9	ch	chi	PRON	pr	PronType=Rel	19	nsubj	_	start_char=36|end_char=38|SpaceAfter=No
+10	’	’	PUNCT	_	_	14	punct	_	start_char=38|end_char=39|SpaceAfter=No
+11	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=39|end_char=40
+12	tanto	tanto	ADV	b	_	14	advmod	_	start_char=41|end_char=46
+13	di	di	ADP	epskg	_	14	case	_	start_char=47|end_char=49
+14	valor	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	obl	_	start_char=50|end_char=55
+15	pleno	pleno	ADJ	a1ms	Gender=Masc|Number=Sing	14	amod	_	start_char=56|end_char=61
+16	ed	e	CCONJ	cscc	_	17	cc	_	start_char=62|end_char=64
+17	adorno	adorno	ADJ	a1ms	Gender=Masc|Number=Sing	15	conj	_	start_char=65|end_char=71|SpaceAfter=No
+18	,	,	PUNCT	_	_	3	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+19	tragge	trarre	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=73|end_char=79
+20	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	start_char=80|end_char=82
+21	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	obj	_	start_char=83|end_char=86
+22	de	di	ADP	eps	_	24	case	_	start_char=87|end_char=89
+23	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	start_char=90|end_char=92
+24	persona	persona	NOUN	sf1fs	Gender=Fem|Number=Sing	21	nmod	_	start_char=93|end_char=100
+25	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	start_char=101|end_char=107|SpacesAfter=\n
+26	e	e	CCONJ	cscc	_	27	cc	_	start_char=108|end_char=109
+27	prende	prendere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	start_char=110|end_char=116
+28	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	27	obj	_	start_char=117|end_char=121
+29	in	in	ADP	epsk	_	30	mark	_	start_char=122|end_char=124
+30	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	27	advcl	_	start_char=125|end_char=128
+31	con	con	ADP	epskw	_	32	case	_	start_char=129|end_char=132
+32	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	obl:lmod	_	start_char=133|end_char=136
+33	soggiorno	soggiorno	NOUN	sm2ms	Gender=Masc|Number=Sing	30	obl	_	start_char=137|end_char=146|SpaceAfter=No
+34	.	.	PUNCT	_	_	19	punct	_	start_char=146|end_char=147|SpacesAfter=\n\n
+
+# text = Perch’à sì dolce guardia la sua chiostra che ’l sente in India ciascun lunicorno: e la vertù de l’arma à fera giostra: vizio pos dir no i fa crudel ritorno.
+# sent_id = 1
+1	Perch’	perché	SCONJ	ccsc	_	2	mark	_	start_char=149|end_char=155|SpaceAfter=No
+2	à	à	PART	i	_	5	discourse	_	start_char=155|end_char=156
+3	sì	così	ADV	b	_	5	advmod	_	start_char=157|end_char=159
+4	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	5	amod	_	start_char=160|end_char=165
+5	guardia	guardia	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=166|end_char=173
+6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=174|end_char=176
+7	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	start_char=177|end_char=180
+8	chiostra	chiostra	NOUN	sf1fs	Gender=Fem|Number=Sing	5	nsubj	_	start_char=181|end_char=189|SpacesAfter=\n
+9	che	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=190|end_char=193
+10	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=194|end_char=196
+11	sente	sentire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=197|end_char=202
+12	in	in	ADP	epsksl	_	13	case	_	start_char=203|end_char=205
+13	India	India	PROPN	np	_	11	obl:lmod	_	start_char=206|end_char=211
+14	ciascun	ciascuno	DET	ai	PronType=Ind	15	det	_	start_char=212|end_char=219
+15	lunicorno	lunicorno	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obj	_	start_char=220|end_char=229|SpaceAfter=No
+16	:	:	PUNCT	_	_	32	punct	_	start_char=229|end_char=230|SpacesAfter=\n
+17	e	e	CCONJ	cscc	_	32	cc	_	start_char=231|end_char=232
+18	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	start_char=233|end_char=235
+19	vertù	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	32	nsubj	_	start_char=236|end_char=241
+20	de	di	ADP	eps	_	22	case	_	start_char=242|end_char=244
+21	l’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=245|end_char=247|SpaceAfter=No
+22	arma	armare	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nmod	_	start_char=247|end_char=251
+23	à	à	ADJ	a1fs	Gender=Fem|Number=Sing	25	amod	_	start_char=252|end_char=253
+24	fera	fiera	ADJ	a1fs	Gender=Fem|Number=Sing	25	amod	_	start_char=254|end_char=258
+25	giostra	giostra	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nmod	_	start_char=259|end_char=266|SpaceAfter=No
+26	:	:	PUNCT	_	_	32	punct	_	start_char=266|end_char=267|SpacesAfter=\n
+27	vizio	vizio	NOUN	sm2ms	Gender=Masc|Number=Sing	32	nsubj	_	start_char=268|end_char=273
+28	pos	pos	X	_	_	29	advmod	_	start_char=274|end_char=277
+29	dir	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	32	advcl	_	start_char=278|end_char=281
+30	no	non	ADV	b	_	32	advmod:lmod	_	start_char=282|end_char=284
+31	i	li	PRON	pp3mpya	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	32	obj	_	start_char=285|end_char=286
+32	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=287|end_char=289
+33	crudel	crudel	ADJ	a2ms	Gender=Masc|Number=Sing	34	amod	_	start_char=290|end_char=296
+34	ritorno	ritorno	NOUN	sm2ms	Gender=Masc|Number=Sing	32	obj	_	start_char=297|end_char=304|SpaceAfter=No
+35	.	.	PUNCT	_	_	32	punct	_	start_char=304|end_char=305|SpacesAfter=\n\n
+
+# text = Ch’ell’è per certo di sì gran valenza, che già non manca in lei cosa da bene, ma’ che natura la creò mortale.
+# sent_id = 2
+1	Ch	ch	PUNCT	_	_	3	punct	_	start_char=307|end_char=309|SpaceAfter=No
+2	’	’	PUNCT	_	_	3	punct	_	start_char=309|end_char=310|SpaceAfter=No
+3	ell	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=310|end_char=313|SpaceAfter=No
+4	’	’	PUNCT	_	_	7	punct	_	start_char=313|end_char=314|SpaceAfter=No
+5	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=314|end_char=315
+6	per	per	ADP	epskr	_	7	case	_	start_char=316|end_char=319
+7	certo	certo	NOUN	sm2ms	Gender=Masc|Number=Sing	3	ccomp:reported	_	start_char=320|end_char=325
+8	di	di	ADP	epskg	_	11	case	_	start_char=326|end_char=328
+9	sì	così	ADV	b	_	11	advmod	_	start_char=329|end_char=331
+10	gran	grande	ADJ	a2fs	Gender=Fem|Number=Sing	11	amod	_	start_char=332|end_char=336
+11	valenza	valenza	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nmod	_	start_char=337|end_char=344|SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	start_char=344|end_char=345|SpacesAfter=\n
+13	che	che	SCONJ	cssu	_	16	mark	_	start_char=346|end_char=349
+14	già	già	ADV	b	_	16	advmod:tmod	_	start_char=350|end_char=353
+15	non	non	ADV	b	PronType=Neg	16	advmod:neg	_	start_char=354|end_char=357
+16	manca	mancare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=358|end_char=363
+17	in	in	ADP	epsksl	_	18	case	_	start_char=364|end_char=366
+18	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obl:lmod	_	start_char=367|end_char=370
+19	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	16	nsubj	_	start_char=371|end_char=375
+20	da	da	ADP	epska	_	21	case	_	start_char=376|end_char=378
+21	bene	bene	NOUN	sm3ms	Gender=Masc|Number=Sing	16	obl:lmod	_	start_char=379|end_char=383|SpaceAfter=No
+22	,	,	PUNCT	_	_	28	punct	_	start_char=383|end_char=384|SpacesAfter=\n
+23	ma	ma	CCONJ	csca	_	28	cc	_	start_char=385|end_char=387|SpaceAfter=No
+24	’	’	PUNCT	_	_	28	punct	_	start_char=387|end_char=388
+25	che	che	PRON	pr	PronType=Rel	28	nsubj	_	start_char=389|end_char=392
+26	natura	natura	NOUN	sf1fs	Gender=Fem|Number=Sing	28	nsubj	_	start_char=393|end_char=399
+27	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	obj	_	start_char=400|end_char=402
+28	creò	creare	VERB	vta1irs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	21	acl:relcl	_	start_char=403|end_char=407
+29	mortale	mortale	ADJ	a2fs	Gender=Fem|Number=Sing	28	xcomp	_	start_char=408|end_char=415|SpaceAfter=No
+30	.	.	PUNCT	_	_	7	punct	_	start_char=415|end_char=416|SpacesAfter=\n\n
+
+# text = Poi mostra che ’n ciò mise provedenza ch’al vostro intendimento si convene far perconoscer quel ch’à lui sia tale.
+# sent_id = 3
+1	Poi	poi	ADV	b	_	2	advmod:tmod	_	start_char=418|end_char=421
+2	mostra	mostrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=422|end_char=428
+3	che	che	SCONJ	csso	_	6	mark	_	start_char=429|end_char=432
+4	’n	in	ADP	epskm	_	5	case	_	start_char=433|end_char=435
+5	ciò	cio'	PRON	pd	PronType=Dem	6	obl	_	start_char=436|end_char=439
+6	mise	mettere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=440|end_char=444
+7	provedenza	provvidenza	NOUN	sf1fs	Gender=Fem|Number=Sing	6	obj	_	start_char=445|end_char=455|SpacesAfter=\n
+8	ch	chi	PRON	pr	PronType=Rel	15	nsubj	_	start_char=456|end_char=458|SpaceAfter=No
+9	’	’	PUNCT	_	_	15	punct	_	start_char=458|end_char=459|SpaceAfter=No
+10-11	al	_	_	_	_	_	_	_	start_char=459|end_char=461
+10	a	a	ADP	_	_	13	case	_	_
+11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	start_char=462|end_char=468
+13	intendimento	intendimento	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obl:lmod	_	start_char=469|end_char=481
+14	si	si	PRON	pf3yim	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	15	expl:impers	_	start_char=482|end_char=484
+15	convene	convenire	VERB	vi*3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=485|end_char=492|SpacesAfter=\n
+16	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	15	csubj	_	start_char=493|end_char=496
+17	perconoscer	perconoscere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	_	start_char=497|end_char=508
+18	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	17	obj	_	start_char=509|end_char=513
+19	ch’	che	PRON	pr	PronType=Rel	23	nsubj	_	start_char=514|end_char=517|SpaceAfter=No
+20	à	à	ADP	epsk1d	_	21	case	_	start_char=517|end_char=518
+21	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=519|end_char=522
+22	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=523|end_char=526
+23	tale	tale	ADJ	a2ns	_	18	acl:relcl	_	start_char=527|end_char=531|SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	start_char=531|end_char=532|SpaceAfter=No
+

@@ -1,0 +1,126 @@
+# newdoc id = LIII - Non posso rafrenar lo mi' talento
+# text = Non posso rafrenar lo mi' talento, c'ognor mi pingie in gioia dimostrare; lo core allegro la lingua parlare fa lietamente per lo ben, ch' i' sento.
+# sent_id = 0
+1	Non	non	ADV	b	PronType=Neg	3	advmod:neg	_	start_char=0|end_char=3
+2	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	start_char=4|end_char=9
+3	rafrenar	rafrinare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=10|end_char=18
+4	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=19|end_char=21
+5	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	start_char=22|end_char=25
+6	talento	talento	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obj	_	start_char=26|end_char=33|SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	start_char=33|end_char=34|SpacesAfter=\n
+8	c'	che	SCONJ	cssu	_	11	mark	_	start_char=35|end_char=37|SpaceAfter=No
+9	ognor	ognore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	nsubj	_	start_char=37|end_char=42
+10	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	obj	_	start_char=43|end_char=45
+11	pingie	pingere	VERB	vta2irs3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=46|end_char=52
+12	in	in	ADP	epskm	_	13	case	_	start_char=53|end_char=55
+13	gioia	gioia	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obl	_	start_char=56|end_char=61
+14	dimostrare	dimostrare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=62|end_char=72|SpaceAfter=No
+15	;	;	PUNCT	_	_	22	punct	_	start_char=72|end_char=73|SpacesAfter=\n
+16	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	start_char=74|end_char=76
+17	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	22	nsubj	_	start_char=77|end_char=81
+18	allegro	allegro	ADJ	a1ms	Gender=Masc|Number=Sing	17	amod	_	start_char=82|end_char=89
+19	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=90|end_char=92
+20	lingua	lingua	NOUN	sf1fs	Gender=Fem|Number=Sing	22	nsubj	_	start_char=93|end_char=99
+21	parlare	parlare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	22	xcomp	_	start_char=100|end_char=107|SpacesAfter=\n
+22	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=108|end_char=110
+23	lietamente	lietamente	ADV	b	_	22	advmod	_	start_char=111|end_char=121
+24	per	per	ADP	epskr	_	26	case	_	start_char=122|end_char=125
+25	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	start_char=126|end_char=128
+26	ben	bene	NOUN	sm3ms	Gender=Masc|Number=Sing	22	obl:lmod	_	start_char=129|end_char=132|SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	start_char=132|end_char=133
+28	ch'	che	SCONJ	cssu	_	30	mark	_	start_char=134|end_char=137
+29	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	30	nsubj	_	start_char=138|end_char=140
+30	sento	sentire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	start_char=141|end_char=146|SpaceAfter=No
+31	.	.	PUNCT	_	_	22	punct	_	start_char=146|end_char=147|SpacesAfter=\n\n
+
+# text = Ciascun de' senni miei si sta contento quand' i' m'acordo 'n gioia dimenare, e 'n questa guisa or posso confortare e di tutto penar donarmi abento.
+# sent_id = 1
+1	Ciascun	ciascuno	PRON	pi	PronType=Ind	7	nsubj	_	start_char=149|end_char=156
+2-3	de'	_	_	_	_	_	_	_	start_char=157|end_char=160
+2	di	di	ADP	_	_	4	case	_	_
+3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	senni	senno	NOUN	sm2mp	Gender=Masc|Number=Plur	7	obl:lmod	_	start_char=161|end_char=166
+5	miei	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	start_char=167|end_char=171
+6	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	start_char=172|end_char=174
+7	sta	stare	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=175|end_char=178
+8	contento	contento	ADJ	a1msxo	Gender=Masc|Number=Sing	7	xcomp	_	start_char=179|end_char=187|SpacesAfter=\n
+9	quand'	quando	SCONJ	csst	_	12	mark	_	start_char=188|end_char=194
+10	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=195|end_char=197
+11	m'	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	12	obj	_	start_char=198|end_char=200|SpaceAfter=No
+12	acordo	acordare	VERB	vta+1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=200|end_char=206
+13	'n	in	ADP	epskml	_	14	case	_	start_char=207|end_char=209
+14	gioia	gioia	NOUN	sf1fs	Gender=Fem|Number=Sing	12	obl	_	start_char=210|end_char=215
+15	dimenare	dimenare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=216|end_char=224|SpaceAfter=No
+16	,	,	PUNCT	_	_	23	punct	_	start_char=224|end_char=225|SpacesAfter=\n
+17	e	e	CCONJ	cscc	_	23	cc	_	start_char=226|end_char=227
+18	'n	in	ADP	epsksl	_	20	case	_	start_char=228|end_char=230
+19	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	20	det	_	start_char=231|end_char=237
+20	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	23	obl:lmod	_	start_char=238|end_char=243
+21	or	ora	ADV	b	_	23	advmod:tmod	_	start_char=244|end_char=246
+22	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	start_char=247|end_char=252
+23	confortare	confortare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	start_char=253|end_char=263|SpacesAfter=\n
+24	e	e	CCONJ	cscc	_	30	cc	_	start_char=264|end_char=265
+25	di	di	ADP	epsk	_	27	case	_	start_char=266|end_char=268
+26	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	27	det	_	start_char=269|end_char=274
+27	penar	penare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	30	obl	_	start_char=275|end_char=280
+28-29	donarmi	_	_	_	_	_	_	_	start_char=281|end_char=288
+28	donare	donare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	30	advcl	_	_
+29	mi	mi	PRON	pf1sxpr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	30	obj	_	_
+30	abento	abentare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=289|end_char=295|SpaceAfter=No
+31	.	.	PUNCT	_	_	7	punct	_	start_char=295|end_char=296|SpacesAfter=\n\n
+
+# text = Là 'nd' io ne rendo a voi grazie e merzede, donn'amorosa più d'altra gientile, compiuta di savere e canoscenza;
+# sent_id = 2
+1	Là	là	ADV	_	_	5	advmod:lmod	_	start_char=298|end_char=300
+2	'nd'	indo	ADV	_	_	5	advmod:lmod	_	start_char=301|end_char=305
+3	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	5	nsubj	_	start_char=306|end_char=308
+4	ne	ne	PRON	pptypt	Clitic=Yes|PronType=Prs	5	obl:arg	_	start_char=309|end_char=311
+5	rendo	rendere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=312|end_char=317
+6	a	a	ADP	epsk1d	_	7	case	_	start_char=318|end_char=319
+7	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	5	obl	_	start_char=320|end_char=323
+8	grazie	grazia	NOUN	sf1fp	Gender=Fem|Number=Plur	5	obj	_	start_char=324|end_char=330
+9	e	e	CCONJ	cscc	_	10	cc	_	start_char=331|end_char=332
+10	merzede	merzede	NOUN	sf3fs	Gender=Fem|Number=Sing	8	conj	_	start_char=333|end_char=340|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	start_char=340|end_char=341|SpacesAfter=\n
+12	donn'	donno	NOUN	sf3fs	Gender=Fem|Number=Sing	5	vocative	_	start_char=342|end_char=347|SpaceAfter=No
+13	amorosa	amoroso	ADJ	a1fs	Gender=Fem|Number=Sing	12	amod	_	start_char=347|end_char=354
+14	più	più	ADV	bc+	_	12	advmod	_	start_char=355|end_char=358
+15	d'	di	ADP	eps	_	17	case	_	start_char=359|end_char=361|SpaceAfter=No
+16	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	17	det	_	start_char=361|end_char=366
+17	gientile	gientile	ADJ	a2fs	Gender=Fem|Number=Sing	12	amod	_	start_char=367|end_char=375|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	start_char=375|end_char=376|SpacesAfter=\n
+19	compiuta	compiere	VERB	vtp2pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	acl	_	start_char=377|end_char=385
+20	di	di	ADP	epskg	_	21	case	_	start_char=386|end_char=388
+21	savere	sapere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	19	obl	_	start_char=389|end_char=395
+22	e	e	CCONJ	cscc	_	23	cc	_	start_char=396|end_char=397
+23	canoscenza	conoscenza	NOUN	sf1fs	Gender=Fem|Number=Sing	21	conj	_	start_char=398|end_char=408|SpaceAfter=No
+24	;	;	PUNCT	_	_	5	punct	_	start_char=408|end_char=409|SpacesAfter=\n\n
+
+# text = che tutto ciò da voi nasce e comenza perseverando, ond'io co 'l cor umile dimoro 'ngnora 'nclino al vostro pede.
+# sent_id = 3
+1	che	che	SCONJ	cssu	_	6	mark	_	start_char=411|end_char=414
+2	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=415|end_char=420
+3	ciò	cio'	PRON	pd	PronType=Dem	6	nsubj	_	start_char=421|end_char=424
+4	da	da	ADP	epska	_	5	case	_	start_char=425|end_char=427
+5	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	6	obl:lmod	_	start_char=428|end_char=431
+6	nasce	nascere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	start_char=432|end_char=437
+7	e	e	CCONJ	cscc	_	8	cc	_	start_char=438|end_char=439
+8	comenza	commenzare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=440|end_char=447|SpacesAfter=\n
+9	perseverando	perseverare	VERB	vi1gp	VerbForm=Conv|Voice=Act	6	advcl	_	start_char=448|end_char=460|SpaceAfter=No
+10	,	,	PUNCT	_	_	18	punct	_	start_char=460|end_char=461
+11	ond'	onde	PRON	pr	PronType=Rel	18	obl:lmod	_	start_char=462|end_char=466|SpaceAfter=No
+12	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	18	nsubj	_	start_char=466|end_char=468
+13	co	con	ADP	epsk	_	15	case	_	start_char=469|end_char=471
+14	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=472|end_char=474
+15	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	obl:lmod	_	start_char=475|end_char=478
+16	umile	umile	ADJ	a2ms	Gender=Masc|Number=Sing	17	amod	_	start_char=479|end_char=484|SpacesAfter=\n
+17	dimoro	dimora	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obj	_	start_char=485|end_char=491
+18	'ngnora	ingorare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=492|end_char=499
+19	'nclino	inclino	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obj	_	start_char=500|end_char=507
+20-21	al	_	_	_	_	_	_	_	start_char=508|end_char=510
+20	a	a	ADP	_	_	23	case	_	_
+21	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	start_char=511|end_char=517
+23	pede	pede	NOUN	sm3ms	Gender=Masc|Number=Sing	18	obl	_	start_char=518|end_char=522|SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	start_char=522|end_char=523|SpaceAfter=No
+

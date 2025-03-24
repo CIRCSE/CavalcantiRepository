@@ -1,0 +1,140 @@
+# newdoc id = XXXIX - Nessuna cosa tengo sia sí grave
+# text = Nessuna cosa tengo sia sì grave, in verità, né di si gran molesta come t'attender, che lo cor tempesta più forte che nel mar turbato nave.
+# sent_id = 0
+1	Nessuna	nessuno	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	start_char=0|end_char=7
+2	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nsubj	_	start_char=8|end_char=12
+3	tengo	tengere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=13|end_char=18
+4	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=22
+5	sì	così	ADV	b	_	6	advmod	_	start_char=23|end_char=25
+6	grave	grave	ADJ	a2ms	Gender=Masc|Number=Sing	3	xcomp	_	start_char=26|end_char=31|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	start_char=31|end_char=32|SpacesAfter=\n
+8	in	in	ADP	epskm	_	9	case	_	start_char=33|end_char=35
+9	verità	verità	NOUN	sf3fs	Gender=Fem|Number=Sing	3	obl	_	start_char=36|end_char=42|SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	start_char=42|end_char=43
+11	né	né	CCONJ	cscc	_	15	cc	_	start_char=44|end_char=46
+12	di	di	ADP	epsk	_	15	case	_	start_char=47|end_char=49
+13	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	15	expl:pv	_	start_char=50|end_char=52
+14	gran	grande	ADJ	a2fs	Gender=Fem|Number=Sing	15	amod	_	start_char=53|end_char=57
+15	molesta	molesto	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl	_	start_char=58|end_char=65|SpacesAfter=\n
+16	come	come	ADV	b	_	18	mark	_	start_char=66|end_char=70
+17	t'	ti	PRON	pf2sypr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	18	obj	_	start_char=71|end_char=73|SpaceAfter=No
+18	attender	attendere	VERB	vta22pss3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl:cmp	_	start_char=73|end_char=81|SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	start_char=81|end_char=82
+20	che	che	SCONJ	cssu	_	23	mark	_	start_char=83|end_char=86
+21	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=87|end_char=89
+22	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	23	nsubj	_	start_char=90|end_char=93
+23	tempesta	tempesta	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=94|end_char=102|SpacesAfter=\n
+24	più	più	ADV	bc+	Degree=Cmp	25	advmod	_	start_char=103|end_char=106
+25	forte	forte	ADV	bc+	_	23	advmod	_	start_char=107|end_char=112
+26	che	che	SCONJ	c	_	29	mark	_	start_char=113|end_char=116
+27-28	nel	_	_	_	_	_	_	_	start_char=117|end_char=120
+27	in	in	ADP	_	_	29	case	_	_
+28	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	mar	mare	NOUN	sm3ms	Gender=Masc|Number=Sing	31	nmod	_	start_char=121|end_char=124
+30	turbato	turbare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	31	acl	_	start_char=125|end_char=132
+31	nave	nave	NOUN	sf3fs	Gender=Fem|Number=Sing	25	advcl:cmp	_	start_char=133|end_char=137|SpaceAfter=No
+32	.	.	PUNCT	_	_	6	punct	_	start_char=137|end_char=138|SpacesAfter=\n\n
+
+# text = E quanto, al mi parer, sì mal non ave chi ismarruto truovasi 'n foresta, benché veggia venir la notte presta e senta fiere cose onde tem'ave,
+# sent_id = 1
+1	E	e	CCONJ	cscc	_	21	cc	_	start_char=140|end_char=141
+2	quanto	quanto	ADV	b	_	21	advmod	_	start_char=142|end_char=148|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	start_char=148|end_char=149
+4-5	al	_	_	_	_	_	_	_	start_char=150|end_char=152
+4	a	a	ADP	_	_	7	case	_	_
+5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=153|end_char=155
+7	parer	parere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	12	advcl	_	start_char=156|end_char=161|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	start_char=161|end_char=162
+9	sì	così	ADV	b	_	12	advmod	_	start_char=163|end_char=165
+10	mal	male	ADV	b	_	12	advmod	_	start_char=166|end_char=169
+11	non	non	ADV	b	PronType=Neg	12	advmod:neg	_	start_char=170|end_char=173
+12	ave	avere	VERB	vta5ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=174|end_char=177|SpacesAfter=\n
+13	chi	chi	PRON	pr	PronType=Rel	15	nsubj	_	start_char=178|end_char=181
+14	ismarruto	ismarruto	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obj	_	start_char=182|end_char=191
+15-16	truovasi	_	_	_	_	_	_	_	start_char=192|end_char=200
+15	truovare	trovare	VERB	vta+1fp	Tense=Pres|VerbForm=Inf|Voice=Act	12	advcl	_	_
+16	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
+17	'n	in	ADP	epsksl	_	18	case	_	start_char=201|end_char=203
+18	foresta	foresta	NOUN	sf1fs	Gender=Fem|Number=Sing	15	obl:lmod	_	start_char=204|end_char=211|SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	start_char=211|end_char=212|SpacesAfter=\n
+20	benché	benche+	ADV	b	_	21	advmod	_	start_char=213|end_char=219
+21	veggia	vedere	VERB	vta2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	start_char=220|end_char=226
+22	venir	venire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	21	xcomp	_	start_char=227|end_char=232
+23	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	start_char=233|end_char=235
+24	notte	notte	NOUN	sf3fs	Gender=Fem|Number=Sing	22	obj	_	start_char=236|end_char=241
+25	presta	presto	ADJ	a1fs	Gender=Fem|Number=Sing	24	amod	_	start_char=242|end_char=248|SpacesAfter=\n
+26	e	e	CCONJ	cscc	_	27	cc	_	start_char=249|end_char=250
+27	senta	sentire	VERB	vta3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	start_char=251|end_char=256
+28	fiere	fiero	ADJ	a1fp	Gender=Fem|Number=Plur	29	amod	_	start_char=257|end_char=262
+29	cose	cosa	NOUN	sf1fp	Gender=Fem|Number=Plur	27	obj	_	start_char=263|end_char=267
+30	onde	onde	PRON	p	_	31	obl:lmod	_	start_char=268|end_char=272
+31	tem'	teme	X	_	Foreign=Yes	29	acl:relcl	_	start_char=273|end_char=277|SpaceAfter=No
+32	ave	ave	X	_	Foreign=Yes	31	flat:foreign	_	start_char=277|end_char=280|SpaceAfter=No
+33	,	,	PUNCT	_	_	21	punct	_	start_char=280|end_char=281|SpacesAfter=\n\n
+
+# text = che chi attende.
+# sent_id = 2
+1	che	che	SCONJ	css	_	3	mark	_	start_char=283|end_char=286
+2	chi	chi	PRON	pr	PronType=Rel	3	nsubj	_	start_char=287|end_char=290
+3	attende	attendere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=291|end_char=298|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	start_char=298|end_char=299
+
+# text = Cierto è maraviglia come non si smarrisce nel penserò o come non percuote il capo al muro.
+# sent_id = 3
+1	Cierto	Cierto	PROPN	np	_	3	nsubj	_	start_char=300|end_char=306
+2	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=307|end_char=308
+3	maraviglia	meraviglia	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=309|end_char=319|SpacesAfter=\n
+4	come	come	ADV	b	_	7	mark	_	start_char=320|end_char=324
+5	non	non	ADV	b	PronType=Neg	7	advmod:neg	_	start_char=325|end_char=328
+6	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	7	expl:impers	_	start_char=329|end_char=331
+7	smarrisce	smarrire	VERB	vta+2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=332|end_char=341
+8-9	nel	_	_	_	_	_	_	_	start_char=342|end_char=345
+8	in	in	ADP	_	_	10	case	_	_
+9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	penserò	pensare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=346|end_char=353|SpacesAfter=\n
+11	o	o	CCONJ	cscd	_	14	cc	_	start_char=354|end_char=355
+12	come	come	ADV	b	_	14	mark	_	start_char=356|end_char=360
+13	non	non	ADV	b	PronType=Neg	14	advmod:neg	_	start_char=361|end_char=364
+14	percuote	percuotere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl:cmp	_	start_char=365|end_char=373
+15	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=374|end_char=376
+16	capo	capo	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obj	_	start_char=377|end_char=381
+17-18	al	_	_	_	_	_	_	_	start_char=382|end_char=384
+17	a	a	ADP	_	_	19	case	_	_
+18	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	muro	muro	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obl:lmod	_	start_char=385|end_char=389|SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	start_char=389|end_char=390|SpacesAfter=\n\n
+
+# text = Quei, ch'è 'n mare o 'n foresta, istà sicuro di tosto esserne 'n capo o campar vero; ma qua' ch'aspetta morendo sbadiglia.
+# sent_id = 4
+1	Quei	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	start_char=392|end_char=396|SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	start_char=396|end_char=397
+3	ch'	che	PRON	pr	PronType=Rel	6	nsubj	_	start_char=398|end_char=401|SpaceAfter=No
+4	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=401|end_char=402
+5	'n	in	ADP	epskm	_	6	case	_	start_char=403|end_char=405
+6	mare	mare	NOUN	sm3ms	Gender=Masc|Number=Sing	1	acl:relcl	_	start_char=406|end_char=410
+7	o	o	CCONJ	cscd	_	9	cc	_	start_char=411|end_char=412
+8	'n	in	ADP	epskm	_	9	case	_	start_char=413|end_char=415
+9	foresta	foresta	NOUN	sf1fs	Gender=Fem|Number=Sing	6	conj	_	start_char=416|end_char=423|SpaceAfter=No
+10	,	,	PUNCT	_	_	1	punct	_	start_char=423|end_char=424
+11	istà	istà	NOUN	sf1fs	Gender=Fem|Number=Sing	12	nsubj	_	start_char=425|end_char=429
+12	sicuro	sicuro	ADJ	a1msx	Gender=Masc|Number=Sing	0	root	_	start_char=430|end_char=436|SpacesAfter=\n
+13	di	di	ADP	eps	_	14	case	_	start_char=437|end_char=439
+14	tosto	tosto	ADV	b	_	15	advmod:tmod	_	start_char=440|end_char=445
+15-16	esserne	_	_	_	_	_	_	_	start_char=446|end_char=453
+15	sssere	sesare	VERB	vi2fp	Tense=Pres|VerbForm=Inf	12	advcl	_	_
+16	ne	ne	PRON	ppt	Clitic=Yes|PronType=Prs	15	obl:arg	_	_
+17	'n	in	ADP	epsksl	_	18	case	_	start_char=454|end_char=456
+18	capo	capo	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obl:lmod	_	start_char=457|end_char=461
+19	o	o	CCONJ	cscd	_	20	cc	_	start_char=462|end_char=463
+20	campar	campare	VERB	vi1fpsm3ms	Tense=Pres|VerbForm=Inf	21	conj	_	start_char=464|end_char=470
+21	vero	vero	ADJ	a1ms	Gender=Masc|Number=Sing	18	amod	_	start_char=471|end_char=475|SpaceAfter=No
+22	;	;	PUNCT	_	_	28	punct	_	start_char=475|end_char=476|SpacesAfter=\n
+23	ma	ma	CCONJ	csca	_	28	cc	_	start_char=477|end_char=479
+24	qua'	quale	ADV	_	_	28	advmod	_	start_char=480|end_char=484
+25	ch'	che	SCONJ	_	_	26	mark	_	start_char=485|end_char=488|SpaceAfter=No
+26	aspetta	aspettare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	start_char=488|end_char=495
+27	morendo	morire	VERB	vi1gp	VerbForm=Conv|Voice=Act	28	advcl	_	start_char=496|end_char=503
+28	sbadiglia	sbadigliare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	start_char=504|end_char=513|SpaceAfter=No
+29	.	.	PUNCT	_	_	28	punct	_	start_char=513|end_char=514|SpaceAfter=No
+

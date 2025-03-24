@@ -1,0 +1,124 @@
+# newdoc id = 38 - Sonetto.
+# text = Pe’ gli occhi fere un spirito sottile, che fa in la mente spirito destare, dal qual si move spirito d’amare, e ogn’altro spiritel si fa gentile.
+# sent_id = 0
+1	Pe	pe	INTJ	i	_	5	discourse	_	start_char=0|end_char=2|SpaceAfter=No
+2	’	’	PUNCT	_	_	1	punct	_	start_char=2|end_char=3
+3	gli	gli	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=4|end_char=7
+4	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	5	nsubj	_	start_char=8|end_char=13
+5	fere	ferire	VERB	vta1ips3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=14|end_char=18
+6	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=19|end_char=21
+7	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obj	_	start_char=22|end_char=29
+8	sottile	sottile	ADJ	a2ms	Gender=Masc|Number=Sing	7	amod	_	start_char=30|end_char=37|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	start_char=37|end_char=38|SpacesAfter=\n
+10	che	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=39|end_char=42
+11	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=43|end_char=45
+12	in	in	ADP	epsksl	_	14	case	_	start_char=46|end_char=48
+13	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=49|end_char=51
+14	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	11	obl:lmod	_	start_char=52|end_char=57
+15	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obj	_	start_char=58|end_char=65
+16	destare	destare	VERB	vtaffp	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=66|end_char=73|SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	start_char=73|end_char=74|SpacesAfter=\n
+18-19	dal	_	_	_	_	_	_	_	start_char=75|end_char=78
+18	da	da	ADP	_	_	20	case	_	_
+19	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	22	obl:lmod	_	start_char=79|end_char=83
+21	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	22	expl:pv	_	start_char=84|end_char=86
+22	move	muovere	VERB	vta*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=87|end_char=91
+23	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	22	obj	_	start_char=92|end_char=99
+24	d’	di	ADP	epsb	_	25	mark	_	start_char=100|end_char=102|SpaceAfter=No
+25	amare	amare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	22	advcl	_	start_char=102|end_char=107|SpaceAfter=No
+26	,	,	PUNCT	_	_	33	punct	_	start_char=107|end_char=108|SpacesAfter=\n
+27	e	e	CCONJ	cscc	_	33	cc	_	start_char=109|end_char=110
+28	ogn	ogno	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	31	det	_	start_char=111|end_char=114|SpaceAfter=No
+29	’	’	ADP	epskml	_	31	case	_	start_char=114|end_char=115|SpaceAfter=No
+30	altro	altro	DET	ai	PronType=Ind	31	det	_	start_char=115|end_char=120
+31	spiritel	spiritello	NOUN	sm2ms	Gender=Masc|Number=Sing	33	obl:lmod	_	start_char=121|end_char=129
+32	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	33	expl:impers	_	start_char=130|end_char=132
+33	fa	fare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	start_char=133|end_char=135
+34	gentile	gentile	ADJ	a2fs	Gender=Fem|Number=Sing	33	xcomp	_	start_char=136|end_char=143|SpaceAfter=No
+35	.	.	PUNCT	_	_	5	punct	_	start_char=143|end_char=144|SpacesAfter=\n\n
+
+# text = Sentir non po’ di lui spirito vile, di cotanta virtù spirito appare: quest’è lo spiritel, che fa tremare lo spiritel, che fa la donna umile.
+# sent_id = 1
+1	Sentir	sentire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=146|end_char=152
+2	non	non	ADV	b	PronType=Neg	1	advmod:neg	_	start_char=153|end_char=156
+3	po	potere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	start_char=157|end_char=159|SpaceAfter=No
+4	’	’	PUNCT	_	_	1	punct	_	start_char=159|end_char=160
+5	di	di	ADP	epskg	_	6	case	_	start_char=161|end_char=163
+6	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	start_char=164|end_char=167
+7	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	1	obl	_	start_char=168|end_char=175
+8	vile	vile	ADJ	a2ms	Gender=Masc|Number=Sing	7	amod	_	start_char=176|end_char=180|SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	_	start_char=180|end_char=181|SpacesAfter=\n
+10	di	di	ADP	epskg	_	12	case	_	start_char=182|end_char=184
+11	cotanta	cotanto	ADJ	a1fs	Gender=Fem|Number=Sing	12	amod	_	start_char=185|end_char=192
+12	virtù	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	14	obl	_	start_char=193|end_char=198
+13	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	14	nsubj	_	start_char=199|end_char=206
+14	appare	apparire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=207|end_char=213|SpaceAfter=No
+15	:	:	PUNCT	_	_	20	punct	_	start_char=213|end_char=214|SpacesAfter=\n
+16	quest	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	start_char=215|end_char=220|SpaceAfter=No
+17	’	’	PUNCT	_	_	20	punct	_	start_char=220|end_char=221|SpaceAfter=No
+18	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=221|end_char=222
+19	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=223|end_char=225
+20	spiritel	spiritello	NOUN	sm3ms	Gender=Masc|Number=Sing	14	parataxis	_	start_char=226|end_char=234|SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	start_char=234|end_char=235
+22	che	che	PRON	pr	PronType=Rel	23	nsubj	_	start_char=236|end_char=239
+23	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	start_char=240|end_char=242
+24	tremare	tremare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	23	xcomp	_	start_char=243|end_char=250|SpacesAfter=\n
+25	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	start_char=251|end_char=253
+26	spiritel	spiritello	NOUN	sm3ms	Gender=Masc|Number=Sing	24	obj	_	start_char=254|end_char=262|SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	start_char=262|end_char=263
+28	che	che	PRON	pr	PronType=Rel	29	nsubj	_	start_char=264|end_char=267
+29	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	start_char=268|end_char=270
+30	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	start_char=271|end_char=273
+31	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	29	obj	_	start_char=274|end_char=279
+32	umile	umile	ADJ	a2fs	Gender=Fem|Number=Sing	31	amod	_	start_char=280|end_char=285|SpaceAfter=No
+33	.	.	PUNCT	_	_	14	punct	_	start_char=285|end_char=286|SpacesAfter=\n\n
+
+# text = Poi da questo spirito si move un altro dolce spirito soave, che segue un spiritello di mercede,
+# sent_id = 2
+1	Poi	poi	ADV	b	_	6	advmod:tmod	_	start_char=288|end_char=291
+2	da	da	ADP	epska	_	4	case	_	start_char=292|end_char=294
+3	questo	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=295|end_char=301
+4	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=302|end_char=309
+5	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	start_char=310|end_char=312
+6	move	muovere	VERB	vta+2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=313|end_char=317|SpacesAfter=\n
+7	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=318|end_char=320
+8	altro	altro	DET	ai	Gender=Masc|Number=Sing|PronType=Ind	10	det	_	start_char=321|end_char=326
+9	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	10	amod	_	start_char=327|end_char=332
+10	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=333|end_char=340
+11	soave	soave	ADJ	a2ms	Gender=Masc|Number=Sing	10	amod	_	start_char=341|end_char=346|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	start_char=346|end_char=347|SpacesAfter=\n
+13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=348|end_char=351
+14	segue	seguire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=352|end_char=357
+15	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=358|end_char=360
+16	spiritello	spiritello	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obj	_	start_char=361|end_char=371
+17	di	di	ADP	epskg	_	18	case	_	start_char=372|end_char=374
+18	mercede	mercede	NOUN	sf3fs	Gender=Fem|Number=Sing	16	nmod	_	start_char=375|end_char=382|SpaceAfter=No
+19	,	,	PUNCT	_	_	6	punct	_	start_char=382|end_char=383|SpacesAfter=\n\n
+
+# text = lo quale spiritel spiriti piove; che di ciascuno spirit’à la chiave per forza d’uno spirito che ’l vede.
+# sent_id = 3
+1-2	lo	_	_	_	_	_	_	_	start_char=385|end_char=387
+1	lon	lone	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	_
+2	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	quale	quale	PRON	pr	PronType=Rel	6	nsubj	_	start_char=388|end_char=393
+4	spiritel	spiritello	ADJ	a2ms	Gender=Masc|Number=Sing	5	amod	_	start_char=394|end_char=402
+5	spiriti	spirito	NOUN	sm2mp	Gender=Masc|Number=Plur	6	nsubj	_	start_char=403|end_char=410
+6	piove	piovere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=411|end_char=416|SpaceAfter=No
+7	;	;	PUNCT	_	_	11	punct	_	start_char=416|end_char=417|SpacesAfter=\n
+8	che	che	SCONJ	cssc	_	11	mark	_	start_char=418|end_char=421
+9	di	di	ADP	epskg	_	10	case	_	start_char=422|end_char=424
+10	ciascuno	ciascuno	PRON	pi	PronType=Ind	11	obl	_	start_char=425|end_char=433
+11	spirit’à	spirire	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=434|end_char=442
+12	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=443|end_char=445
+13	chiave	chiave	NOUN	sf3fs	Gender=Fem|Number=Sing	11	nsubj	_	start_char=446|end_char=452|SpacesAfter=\n
+14	per	per	ADP	epskr	_	15	case	_	start_char=453|end_char=456
+15	forza	forza	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obl	_	start_char=457|end_char=462
+16	d’	di	ADP	eps	_	18	case	_	start_char=463|end_char=465|SpaceAfter=No
+17	uno	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	start_char=465|end_char=468
+18	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	15	nmod	_	start_char=469|end_char=476
+19	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=477|end_char=480
+20	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=481|end_char=483
+21	vede	vedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	start_char=484|end_char=488|SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	start_char=488|end_char=489|SpaceAfter=No
+

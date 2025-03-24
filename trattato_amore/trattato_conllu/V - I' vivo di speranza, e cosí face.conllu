@@ -1,0 +1,131 @@
+# newdoc id = V - I' vivo di speranza, e cosí face
+# text = I' vivo di speranza: e cosí face ciascun ch'al mondo vene, al mi' parere; e, poi mi veggio compagnia avere di tanta buona gente, dòmmi pace.
+# sent_id = 0
+1	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	vivo	vivo	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	start_char=3|end_char=7
+3	di	di	ADP	epskg	_	4	case	_	start_char=8|end_char=10
+4	speranza	speranza	NOUN	sf1fs	Gender=Fem|Number=Sing	2	orphan	_	start_char=11|end_char=19|SpaceAfter=No
+5	:	:	PUNCT	_	_	8	punct	_	start_char=19|end_char=20
+6	e	e	CCONJ	cscc	_	8	cc	_	start_char=21|end_char=22
+7	cosí	cosí	ADV	b	_	8	advmod	_	start_char=23|end_char=27
+8	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=28|end_char=32|SpacesAfter=\n
+9	ciascun	ciascuno	PRON	pi	Gender=Masc|PronType=Ind	8	obj	_	start_char=33|end_char=40
+10	ch'	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=41|end_char=44|SpaceAfter=No
+11-12	al	_	_	_	_	_	_	_	start_char=44|end_char=46
+11	a	a	ADP	_	_	13	case	_	_
+12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obl:lmod	_	start_char=47|end_char=52
+14	vene	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=53|end_char=57|SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	start_char=57|end_char=58
+16-17	al	_	_	_	_	_	_	_	start_char=59|end_char=61
+16	a	a	ADP	_	_	19	case	_	_
+17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	start_char=62|end_char=65
+19	parere	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	14	obl:lmod	_	start_char=66|end_char=72|SpaceAfter=No
+20	;	;	PUNCT	_	_	25	punct	_	start_char=72|end_char=73|SpacesAfter=\n
+21	e	e	CCONJ	cscc	_	25	cc	_	start_char=74|end_char=75|SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	start_char=75|end_char=76
+23	poi	poi	ADV	b	_	25	advmod:tmod	_	start_char=77|end_char=80
+24	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	25	iobj	_	start_char=81|end_char=83
+25	veggio	vedere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=84|end_char=90
+26	compagnia	compagnia	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obj	_	start_char=91|end_char=100
+27	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=101|end_char=106|SpacesAfter=\n
+28	di	di	ADP	epskg	_	31	case	_	start_char=107|end_char=109
+29	tanta	tanto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	31	det	_	start_char=110|end_char=115
+30	buona	buono	ADJ	a1fs	Gender=Fem|Number=Sing	31	amod	_	start_char=116|end_char=121
+31	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	27	obl	_	start_char=122|end_char=127|SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	start_char=127|end_char=128
+33-34	dòmmi	_	_	_	_	_	_	_	start_char=129|end_char=134
+33	dire	dire	VERB	vta3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	_
+34	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	33	iobj	_	_
+35	pace	pace	NOUN	sf3fs	Gender=Fem|Number=Sing	33	obj	_	start_char=135|end_char=139|SpaceAfter=No
+36	.	.	PUNCT	_	_	25	punct	_	start_char=139|end_char=140|SpacesAfter=\n\n
+
+# text = Tuttor aspetto e l'aspettar mi piace, credendomi avanzar lo mi' podere: così segue ciascun questo volere e 'n sì fatto disio dimora e giace.
+# sent_id = 1
+1	Tuttor	tuttoro	ADJ	a1ms	Gender=Masc|Number=Sing	2	amod	_	start_char=142|end_char=148
+2	aspetto	aspetto	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=149|end_char=156
+3	e	e	CCONJ	cscc	_	5	cc	_	start_char=157|end_char=158
+4	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=159|end_char=161|SpaceAfter=No
+5	aspettar	aspettare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	7	nsubj	_	start_char=161|end_char=169
+6	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	7	iobj	_	start_char=170|end_char=172
+7	piace	piacere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=173|end_char=178|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	start_char=178|end_char=179|SpacesAfter=\n
+9-10	credendomi	_	_	_	_	_	_	_	start_char=180|end_char=190
+9	credendo	credere	VERB	vta2gp	VerbForm=Conv|Voice=Act	7	advcl	_	start_char=180|end_char=188
+10	mi	mi	PRON	pp1sxac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	9	obj	_	start_char=188|end_char=190
+11	avanzar	avanzare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=191|end_char=198
+12	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	start_char=199|end_char=201
+13	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=202|end_char=205
+14	podere	potere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	11	obj	_	start_char=206|end_char=212|SpaceAfter=No
+15	:	:	PUNCT	_	_	17	punct	_	start_char=212|end_char=213|SpacesAfter=\n
+16	così	così	ADV	b	_	17	advmod	_	start_char=214|end_char=218
+17	segue	seguire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=219|end_char=224
+18	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	17	obj	_	start_char=225|end_char=232
+19	questo	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	20	det	_	start_char=233|end_char=239
+20	volere	volere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	17	obj	_	start_char=240|end_char=246|SpacesAfter=\n
+21	e	e	CCONJ	cscc	_	26	cc	_	start_char=247|end_char=248
+22	'n	in	ADP	epsksl	_	25	case	_	start_char=249|end_char=251
+23	sì	così	ADV	b	_	24	advmod	_	start_char=252|end_char=254
+24	fatto	fare	VERB	vta2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	25	acl	_	start_char=255|end_char=260
+25	disio	desiderio	NOUN	sm2ms	Gender=Masc|Number=Sing	26	obl	_	start_char=261|end_char=266
+26	dimora	dimorare	VERB	vi1ip3s	Mood=Ind|Tense=Pres|VerbForm=Fin	17	conj	_	start_char=267|end_char=273
+27	e	e	CCONJ	cscc	_	28	cc	_	start_char=274|end_char=275
+28	giace	giacere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	conj	_	start_char=276|end_char=281|SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	start_char=281|end_char=282|SpacesAfter=\n\n
+
+# text = Ma tutta volta ci è men tormentato quei che si sape acconcio comportare ciò che ne lo sperare altrui avene.
+# sent_id = 2
+1	Ma	ma	CCONJ	csca	_	7	cc	_	start_char=284|end_char=286
+2	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	start_char=287|end_char=292
+3	volta	volta	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=293|end_char=298
+4	ci	ci	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=299|end_char=301
+5	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=302|end_char=303
+6	men	meno	ADV	bc+	_	7	advmod	_	start_char=304|end_char=307
+7	tormentato	tormentare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=308|end_char=318|SpacesAfter=\n
+8	quei	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	start_char=319|end_char=323
+9	che	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=324|end_char=327
+10	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	11	expl:pv	_	start_char=328|end_char=330
+11	sape	sapere	VERB	vta*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=331|end_char=335
+12	acconcio	acconcio	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obj	_	start_char=336|end_char=344
+13	comportare	comportare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=345|end_char=355|SpacesAfter=\n
+14	ciò	cio'	PRON	pd	PronType=Dem	13	obj	_	start_char=356|end_char=359
+15	che	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=360|end_char=363
+16	ne	in	ADP	epaks	_	18	case	_	start_char=364|end_char=366
+17	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	start_char=367|end_char=369
+18	sperare	sperare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	20	obl:lmod	_	start_char=370|end_char=377
+19	altrui	altrui	PRON	pi	PronType=Ind	20	obj	_	start_char=378|end_char=384
+20	avene	avere	VERB	vta5ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=385|end_char=390|SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	start_char=390|end_char=391|SpacesAfter=\n\n
+
+# text = Non dich'io questo già certo per mene, che 'n nessun tempo l'ò saputo fare, e s'or l'apprendo, l'ò car comperato.
+# sent_id = 3
+1	Non	non	ADV	b	PronType=Neg	2	advmod:neg	_	start_char=393|end_char=396
+2	dich'	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=397|end_char=402|SpaceAfter=No
+3	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=402|end_char=404
+4	questo	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	start_char=405|end_char=411
+5	già	già	ADV	b	_	6	advmod:tmod	_	start_char=412|end_char=415
+6	certo	certo	ADJ	a1ms	Gender=Masc|Number=Sing	2	xcomp	_	start_char=416|end_char=421
+7	per	per	ADP	epskr	_	8	case	_	start_char=422|end_char=425
+8	mene	mene	NOUN	sm3ms	Gender=Masc|Number=Sing	2	obl	_	start_char=426|end_char=430|SpaceAfter=No
+9	,	,	PUNCT	_	_	15	punct	_	start_char=430|end_char=431|SpacesAfter=\n
+10	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=432|end_char=435
+11	'n	in	ADP	epsks	_	13	case	_	start_char=436|end_char=438
+12	nessun	nessuno	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	13	det	_	start_char=439|end_char=445
+13	tempo	tempo	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obl:lmod	_	start_char=446|end_char=451
+14	l'ò	lote	AUX	viairs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	start_char=452|end_char=455
+15	saputo	sapere	VERB	vta1ibs3	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	acl:relcl	_	start_char=456|end_char=462
+16	fare	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=463|end_char=467|SpaceAfter=No
+17	,	,	PUNCT	_	_	27	punct	_	start_char=467|end_char=468|SpacesAfter=\n
+18	e	e	CCONJ	cscc	_	27	cc	_	start_char=469|end_char=470
+19	s'	se	SCONJ	cssv	_	22	mark	_	start_char=471|end_char=473|SpaceAfter=No
+20	or	ora	ADV	b	_	22	advmod:tmod	_	start_char=473|end_char=475
+21	l'	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=476|end_char=478|SpaceAfter=No
+22	apprendo	apprendere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl	_	start_char=478|end_char=486|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	start_char=486|end_char=487
+24	l'	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=488|end_char=490|SpaceAfter=No
+25	ò	otso	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux:pass	_	start_char=490|end_char=491
+26	car	care	ADV	b	_	27	advmod	_	start_char=492|end_char=495
+27	comperato	comperare	VERB	vtp2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	parataxis	_	start_char=496|end_char=505|SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	start_char=505|end_char=506|SpaceAfter=No
+

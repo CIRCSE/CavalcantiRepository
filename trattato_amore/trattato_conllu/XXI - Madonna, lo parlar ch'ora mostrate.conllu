@@ -1,0 +1,127 @@
+# newdoc id = XXI - Madonna, lo parlar ch'ora mostrate
+# text = Madonna, lo parlar ch'ora mostrate al tutto face che 'l mi' cor ublia onne vano penserò, e lo fermate ne la speranza dolce, in che disia.
+# sent_id = 0
+1	Madonna	Madonna	PROPN	np	_	11	nsubj	_	start_char=0|end_char=7|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	start_char=7|end_char=8
+3	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=9|end_char=11
+4	parlar	parlare	VERB	vi1fpsm3ms	Tense=Pres|VerbForm=Inf	1	conj	_	start_char=12|end_char=18
+5	ch'	che	PRON	pr	PronType=Rel	7	nsubj	_	start_char=19|end_char=22|SpaceAfter=No
+6	ora	ora	ADV	b	_	7	advmod:tmod	_	start_char=22|end_char=25
+7	mostrate	mostrare	VERB	vta1ips2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=26|end_char=34|SpacesAfter=\n
+8-9	al	_	_	_	_	_	_	_	start_char=35|end_char=37
+8	a	a	ADP	_	_	10	case	_	_
+9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	11	obl	_	start_char=38|end_char=43
+11	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=44|end_char=48
+12	che	che	SCONJ	csso	_	19	mark	_	start_char=49|end_char=52
+13	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=53|end_char=55
+14	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	start_char=56|end_char=59
+15	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	nsubj	_	start_char=60|end_char=63
+16	ublia	ublio	ADJ	a1fs	Gender=Fem|Number=Sing	17	amod	_	start_char=64|end_char=69|SpacesAfter=\n
+17	onne	onna	NOUN	sf1fs	Gender=Fem|Number=Plur	19	nsubj	_	start_char=70|end_char=74
+18	vano	vano	ADJ	a1ms	Gender=Masc|Number=Sing	17	amod	_	start_char=75|end_char=79
+19	penserò	pensare	VERB	vi1ifs1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	23	ccomp	_	start_char=80|end_char=87|SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	start_char=87|end_char=88
+21	e	e	CCONJ	cscc	_	23	cc	_	start_char=89|end_char=90
+22	lo	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=91|end_char=93
+23	fermate	fermare	VERB	vta1ips2	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=94|end_char=101|SpacesAfter=\n
+24	ne	in	ADP	epaksl	_	26	case	_	start_char=102|end_char=104
+25	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	start_char=105|end_char=107
+26	speranza	speranza	NOUN	sf1fs	Gender=Fem|Number=Sing	23	obl:lmod	_	start_char=108|end_char=116
+27	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	26	amod	_	start_char=117|end_char=122|SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	start_char=122|end_char=123
+29	in	in	ADP	epsksl	_	30	case	_	start_char=124|end_char=126
+30	che	che	PRON	pr	PronType=Rel	31	obl	_	start_char=127|end_char=130
+31	disia	desiderare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	start_char=131|end_char=136|SpaceAfter=No
+32	.	.	PUNCT	_	_	23	punct	_	start_char=136|end_char=137|SpacesAfter=\n\n
+
+# text = Che 'n nulla guisa la vostr'amistate non chero aver, se non ch'onor vi sia.
+# sent_id = 1
+1	Che	che	SCONJ	cssv	_	9	mark	_	start_char=139|end_char=142
+2	'n	in	ADP	epsksl	_	4	case	_	start_char=143|end_char=145
+3	nulla	nullo	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	start_char=146|end_char=151
+4	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl:lmod	_	start_char=152|end_char=157
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=158|end_char=160
+6	vostr'	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=161|end_char=167|SpaceAfter=No
+7	amistate	amistà	NOUN	sf1fs	Gender=Fem|Number=Sing	9	nsubj	_	start_char=167|end_char=175|SpacesAfter=\n
+8	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	start_char=176|end_char=179
+9	chero	chiere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=180|end_char=185
+10	aver	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=186|end_char=190|SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	start_char=190|end_char=191
+12	se	se	SCONJ	_	_	15	mark	_	start_char=192|end_char=194
+13	non	non	ADV	_	PronType=Neg	15	advmod:neg	_	start_char=195|end_char=198
+14	ch'	che	SCONJ	_	_	15	mark	_	start_char=199|end_char=202|SpaceAfter=No
+15	onor	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	9	advcl:cmp	_	start_char=202|end_char=206
+16	vi	vi	PRON	pp2pyda	Clitic=Yes|Person=2|PronType=Prs	15	iobj	_	start_char=207|end_char=209
+17	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=210|end_char=213|SpaceAfter=No
+18	.	.	PUNCT	_	_	9	punct	_	start_char=213|end_char=214|SpacesAfter=\n
+
+# text = e se 'n cotal maniera me la date così son ricco com'esser cheria.
+# sent_id = 2
+1	e	e	CCONJ	cscc	_	11	cc	_	start_char=215|end_char=216
+2	se	se	SCONJ	cssv	_	8	mark	_	start_char=217|end_char=219
+3	'n	in	ADP	epsksl	_	5	case	_	start_char=220|end_char=222
+4	cotal	cotale	DET	ai2fs	Number=Sing|PronType=Ind	5	det	_	start_char=223|end_char=228
+5	maniera	maniera	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obl:lmod	_	start_char=229|end_char=236
+6	me	me	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	8	iobj	_	start_char=237|end_char=239
+7	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=240|end_char=242
+8	date	dare	VERB	vta1ipp2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=243|end_char=247|SpacesAfter=\n
+9	così	così	ADV	b	_	8	advmod	_	start_char=248|end_char=252
+10	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=253|end_char=256
+11	ricco	ricco	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	start_char=257|end_char=262
+12	com'	come	ADV	b	_	14	mark	_	start_char=263|end_char=267|SpaceAfter=No
+13	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	14	cop	_	start_char=267|end_char=272
+14	cheria	chieria	ADJ	a1fs	Gender=Fem|Number=Sing	11	advcl:cmp	_	start_char=273|end_char=279|SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	start_char=279|end_char=280|SpacesAfter=\n\n
+
+# text = Ch'unqua, mia donna, tanto non amai cosa neuna, quant'io agi' amata vostra onoranza ed amo ed amerai.
+# sent_id = 3
+1	Ch'	che	SCONJ	cssc	_	9	mark	_	start_char=282|end_char=285|SpaceAfter=No
+2	unqua	unqua	ADV	b	_	9	advmod:tmod	_	start_char=285|end_char=290|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	start_char=290|end_char=291
+4	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	start_char=292|end_char=295
+5	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	9	vocative	_	start_char=296|end_char=301|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	start_char=301|end_char=302
+7	tanto	tanto	ADV	b	_	9	advmod	_	start_char=303|end_char=308
+8	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	start_char=309|end_char=312
+9	amai	amare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=313|end_char=317|SpacesAfter=\n
+10	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obj	_	start_char=318|end_char=322
+11	neuna	neuno	ADJ	a1fs	Gender=Fem|Number=Sing	10	amod	_	start_char=323|end_char=328|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	start_char=328|end_char=329
+13	quant'	quanto	ADV	b	_	15	mark	_	start_char=330|end_char=336|SpaceAfter=No
+14	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	15	nsubj	_	start_char=336|end_char=338
+15	agi'	agare	VERB	vi2iis1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=339|end_char=343
+16	amata	amare	VERB	vta1pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	15	xcomp	_	start_char=344|end_char=349|SpacesAfter=\n
+17	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	start_char=350|end_char=356
+18	onoranza	onoranza	NOUN	sf1fs	Gender=Fem|Number=Sing	16	obj	_	start_char=357|end_char=365
+19	ed	e	CCONJ	cscc	_	20	cc	_	start_char=366|end_char=368
+20	amo	amare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	start_char=369|end_char=372
+21	ed	e	CCONJ	cscc	_	22	cc	_	start_char=373|end_char=375
+22	amerai	amerare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	start_char=376|end_char=382|SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	start_char=382|end_char=383|SpacesAfter=\n\n
+
+# text = Altro disio al mio cor non agrata; perchè dovete voi amar colai, dove d'onor vedetevi onorata.
+# sent_id = 4
+1	Altro	altro	DET	ai	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	start_char=385|end_char=390
+2	disio	desiderio	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=391|end_char=396
+3-4	al	_	_	_	_	_	_	_	start_char=397|end_char=399
+3	a	a	ADP	_	_	6	case	_	_
+4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	start_char=400|end_char=403
+6	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	obl	_	start_char=404|end_char=407
+7	non	non	ADV	b	PronType=Neg	8	advmod:neg	_	start_char=408|end_char=411
+8	agrata	agrato	ADJ	a1fs	Gender=Fem|Number=Sing	0	root	_	start_char=412|end_char=418|SpaceAfter=No
+9	;	;	PUNCT	_	_	13	punct	_	start_char=418|end_char=419|SpacesAfter=\n
+10	perchè	perchè	SCONJ	ccsc	_	13	mark	_	start_char=420|end_char=426
+11	dovete	dovere	AUX	vta2dpp2	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|Voice=Act	13	aux	_	start_char=427|end_char=433
+12	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	start_char=434|end_char=437
+13	amar	amare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	start_char=438|end_char=442
+14	colai	colai	NOUN	sm2mp	Gender=Masc|Number=Plur	13	obj	_	start_char=443|end_char=448|SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	start_char=448|end_char=449|SpacesAfter=\n
+16	dove	dove	ADV	b	_	19	advmod:lmod	_	start_char=450|end_char=454
+17	d'	di	ADP	eps	_	18	case	_	start_char=455|end_char=457|SpaceAfter=No
+18	onor	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	obl	_	start_char=457|end_char=461
+19	vedetevi	vedere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=462|end_char=470
+20	onorata	onorare	VERB	vta1pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	xcomp	_	start_char=471|end_char=478|SpaceAfter=No
+21	.	.	PUNCT	_	_	8	punct	_	start_char=478|end_char=479|SpaceAfter=No
+

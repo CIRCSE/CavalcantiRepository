@@ -1,0 +1,124 @@
+# newdoc id = IV - Amico mio, per Dio, prendi conforto
+# text = Amico mio, per dio, prendi conforto in questa tenebrosa val mondana, mentre che ci dimori, e vieni a porto in qual maniera far lo puoi più sana
+# sent_id = 0
+1	Amico	amico	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=0|end_char=5
+2	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	det:poss	_	start_char=6|end_char=9|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	start_char=9|end_char=10
+4	per	per	ADP	epskr	_	5	case	_	start_char=11|end_char=14
+5	dio	dio	NOUN	sm2ms	Gender=Masc|Number=Sing	7	obl	_	start_char=15|end_char=18|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	start_char=18|end_char=19
+7	prendi	prendere	VERB	vta2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=20|end_char=26
+8	conforto	conforto	NOUN	sm2ms	Gender=Masc|Number=Sing	7	obj	_	start_char=27|end_char=35|SpacesAfter=\n
+9	in	in	ADP	epsksl	_	12	case	_	start_char=36|end_char=38
+10	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=39|end_char=45
+11	tenebrosa	tenebroso	ADJ	a1fs	Gender=Fem|Number=Sing	12	amod	_	start_char=46|end_char=55
+12	val	valle	NOUN	sf3fs	Gender=Fem|Number=Sing	7	obl:lmod	_	start_char=56|end_char=59
+13	mondana	mondano	ADJ	a1fs	Gender=Fem|Number=Sing	12	amod	_	start_char=60|end_char=67|SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	start_char=67|end_char=68|SpacesAfter=\n
+15	mentre	mentre	ADV	_	_	18	advmod	_	start_char=69|end_char=75
+16	che	che	SCONJ	_	_	18	mark	_	start_char=76|end_char=79
+17	ci	ci	PRON	pp1pyac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	obj	_	start_char=80|end_char=82
+18	dimori	dimorare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=83|end_char=89|SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	start_char=89|end_char=90
+20	e	e	CCONJ	cscc	_	21	cc	_	start_char=91|end_char=92
+21	vieni	venire	VERB	vi3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=93|end_char=98
+22	a	a	ADP	epskml	_	23	case	_	start_char=99|end_char=100
+23	porto	porto	NOUN	sm2ms	Gender=Masc|Number=Sing	21	obl:lmod	_	start_char=101|end_char=106|SpacesAfter=\n
+24	in	in	ADP	epsksl	_	26	case	_	start_char=107|end_char=109
+25	qual	quale	DET	at2fs	Number=Sing|PronType=Int	26	det	_	start_char=110|end_char=114
+26	maniera	maniera	NOUN	sf1fs	Gender=Fem|Number=Sing	27	obl:lmod	_	start_char=115|end_char=122
+27	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	21	advcl	_	start_char=123|end_char=126
+28	lo	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=127|end_char=129
+29	puoi	potere	AUX	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	27	aux	_	start_char=130|end_char=134
+30	più	più	ADV	b	_	31	advmod	_	start_char=135|end_char=138
+31	sana	sano	ADJ	a1fsc+	Degree=Cmp|Gender=Fem|Number=Sing	27	xcomp	_	start_char=139|end_char=143|SpacesAfter=\n\n
+
+# text = né non ti lamentar già d'alcun torto che ci ricevi, né ti paia istrana cosa ch'avvenir veggi, ma accorto dimora de la ria farti lontana.
+# sent_id = 1
+1	né	né	CCONJ	cscc	_	4	cc	_	start_char=145|end_char=147
+2	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=148|end_char=151
+3	ti	ti	PRON	pf2sypr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	4	obj	_	start_char=152|end_char=154
+4	lamentar	lamentare	VERB	vi+1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=155|end_char=163
+5	già	già	ADV	_	_	4	advmod:tmod	_	start_char=164|end_char=167
+6	d'	di	ADP	eps	_	8	case	_	start_char=168|end_char=170|SpaceAfter=No
+7	alcun	alcuno	DET	ai	PronType=Ind	8	det	_	start_char=170|end_char=175
+8	torto	torto	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl:lmod	_	start_char=176|end_char=181|SpacesAfter=\n
+9	che	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=182|end_char=185
+10	ci	ci	PRON	pp1pyac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	obj	_	start_char=186|end_char=188
+11	ricevi	ricevere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=189|end_char=195|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	start_char=195|end_char=196
+13	né	né	CCONJ	cscc	_	15	cc	_	start_char=197|end_char=199
+14	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	15	iobj	_	start_char=200|end_char=202
+15	paia	parere	VERB	vi2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=203|end_char=207
+16	istrana	strano	ADJ	a1fs	Gender=Fem|Number=Sing	17	amod	_	start_char=208|end_char=215|SpacesAfter=\n
+17	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=216|end_char=220
+18	ch'	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=221|end_char=224|SpaceAfter=No
+19	avvenir	avvenire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	start_char=224|end_char=231
+20	veggi	vedere	VERB	vta2cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=232|end_char=237|SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	start_char=237|end_char=238
+22	ma	ma	CCONJ	csca	_	24	cc	_	start_char=239|end_char=241
+23	accorto	accorgere	VERB	vi2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	24	advcl:pred	_	start_char=242|end_char=249|SpacesAfter=\n
+24	dimora	dimorare	VERB	vi1ip33	Mood=Ind|Tense=Pres|VerbForm=Fin	15	conj	_	start_char=250|end_char=256
+25	de	di	ADP	eps	_	28	case	_	start_char=257|end_char=259
+26	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	start_char=260|end_char=262
+27	ria	rio	ADJ	a1fs	Gender=Fem|Number=Sing	28	amod	_	start_char=263|end_char=266
+28	farti	farte	NOUN	sf1fs	Gender=Fem|Number=Sing	24	obl	_	start_char=267|end_char=272
+29	lontana	lontano	ADJ	a1fs	Gender=Fem|Number=Sing	28	amod	_	start_char=273|end_char=280|SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	start_char=280|end_char=281|SpacesAfter=\n\n
+
+# text = Che questo mondo fue così chiamato da la scrittura che' santi trovaro, che non ci vien neun, sì sia beato,
+# sent_id = 2
+1	Che	che	SCONJ	cssv	_	6	mark	_	start_char=283|end_char=286
+2	questo	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=287|end_char=293
+3	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj:pass	_	start_char=294|end_char=299
+4	fue	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=300|end_char=303
+5	così	così	ADV	b	_	6	advmod	_	start_char=304|end_char=308
+6	chiamato	chiamare	VERB	vtp1irs3	Aspect=Perf|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	_	start_char=309|end_char=317|SpacesAfter=\n
+7	da	da	ADP	epski	_	9	case	_	start_char=318|end_char=320
+8	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=321|end_char=323
+9	scrittura	scrittura	NOUN	sf1fs	Gender=Fem|Number=Sing	6	obl:agent	_	start_char=324|end_char=333
+10	che	che	PRON	pr	PronType=Rel	13	nsubj	_	start_char=334|end_char=337|SpaceAfter=No
+11	'	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	start_char=337|end_char=338
+12	santi	santo	NOUN	sm2mp	Gender=Masc|Number=Plur	13	obj	_	start_char=339|end_char=344
+13	trovaro	trovare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=345|end_char=352|SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	start_char=352|end_char=353|SpacesAfter=\n
+15	che	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=354|end_char=357
+16	non	non	ADV	b	PronType=Neg	18	advmod:neg	_	start_char=358|end_char=361
+17	ci	ci	PRON	byyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	obj	_	start_char=362|end_char=364
+18	vien	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	start_char=365|end_char=369
+19	neun	nessuno	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obj	_	start_char=370|end_char=374|SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	start_char=374|end_char=375
+21	sì	così	ADV	b	_	23	advmod	_	start_char=376|end_char=378
+22	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=379|end_char=382
+23	beato	beato	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	start_char=383|end_char=388|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	start_char=388|end_char=389|SpacesAfter=\n\n
+
+# text = ch'assai lo stallo no li sembri amaro: onde se ci ti senti tu gravato in pace il ti comporta ch'i lo' mparo.
+# sent_id = 3
+1	ch'	che	SCONJ	cssc	_	7	mark	_	start_char=391|end_char=394|SpaceAfter=No
+2	assai	assai	ADV	b	_	7	advmod	_	start_char=394|end_char=399
+3	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=400|end_char=402
+4	stallo	stallo	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=403|end_char=409
+5	no	non	ADV	b	_	7	advmod:lmod	_	start_char=410|end_char=412
+6	li	li	PRON	pp3msyda	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=413|end_char=415
+7	sembri	sembrare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=416|end_char=422
+8	amaro	amaro	ADJ	a1ms	Gender=Masc|Number=Sing	7	xcomp	_	start_char=423|end_char=428|SpaceAfter=No
+9	:	:	PUNCT	_	_	14	punct	_	start_char=428|end_char=429|SpacesAfter=\n
+10	onde	onde	ADV	cscn	_	14	advmod	_	start_char=430|end_char=434
+11	se	se	SCONJ	cssv	_	14	mark	_	start_char=435|end_char=437
+12	ci	ci	PRON	by	Clitic=Yes|PronType=Prs	14	obj	_	start_char=438|end_char=440
+13	ti	ti	PRON	pf2sypr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	14	obj	_	start_char=441|end_char=443
+14	senti	sentire	VERB	vta3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=444|end_char=449
+15	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	16	nsubj	_	start_char=450|end_char=452
+16	gravato	gravare	VERB	vta1ips2	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	ccomp	_	start_char=453|end_char=460|SpacesAfter=\n
+17	in	in	ADP	epskm	_	18	case	_	start_char=461|end_char=463
+18	pace	pace	NOUN	sf3fs	Gender=Fem|Number=Sing	16	obl:lmod	_	start_char=464|end_char=468
+19	il	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=469|end_char=471
+20	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	21	obj	_	start_char=472|end_char=474
+21	comporta	comportare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	start_char=475|end_char=483
+22	ch'	che	SCONJ	cssu	_	25	mark	_	start_char=484|end_char=487|SpaceAfter=No
+23	i	li	PRON	pp3ms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=487|end_char=488
+24	lo'	logo	PRON	pp3mpya	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	start_char=489|end_char=492
+25	mparo	mparare	VERB	vta1cps3	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	start_char=493|end_char=498|SpaceAfter=No
+26	.	.	PUNCT	_	_	21	punct	_	start_char=498|end_char=499|SpaceAfter=No
+

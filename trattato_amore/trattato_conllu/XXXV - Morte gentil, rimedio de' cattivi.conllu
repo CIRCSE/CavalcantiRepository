@@ -1,0 +1,143 @@
+# newdoc id = XXXV - Morte gentil, rimedio de' cattivi
+# text = Morte gientil, rimedio de' cattivi, merzè merzè a man giunte ti cheggio: vienmi a vedere e prendimi, che peggio mi face amor: che mie' spiriti vivi
+# sent_id = 0
+1	Morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=0|end_char=5
+2	gientil	gientile	ADJ	a2fs	Gender=Fem|Number=Sing	4	amod	_	start_char=6|end_char=13|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	start_char=13|end_char=14
+4	rimedio	rimedio	NOUN	sm2ms	Gender=Masc|Number=Sing	15	vocative	_	start_char=15|end_char=22
+5-6	de'	_	_	_	_	_	_	_	start_char=23|end_char=26
+5	di	di	ADP	_	_	7	case	_	_
+6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	cattivi	cattivo	NOUN	sm2mp	Gender=Masc|Number=Plur	4	nmod	_	start_char=27|end_char=34|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	start_char=34|end_char=35|SpacesAfter=\n
+9	merzè	merzè	ADV	b	_	15	advmod	_	start_char=36|end_char=41
+10	merzè	merzè	X	_	Foreign=Yes	15	ccomp:reported	_	start_char=42|end_char=47
+11	a	a	ADP	epskml	_	12	case	_	start_char=48|end_char=49
+12	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	15	obl:lmod	_	start_char=50|end_char=53
+13	giunte	giungere	VERB	vta2pp	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	15	advcl	_	start_char=54|end_char=60
+14	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	15	obj	_	start_char=61|end_char=63
+15	cheggio	chiedere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=64|end_char=71|SpaceAfter=No
+16	:	:	PUNCT	_	_	17	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+17-18	vienmi	_	_	_	_	_	_	_	start_char=73|end_char=79
+17	vien	venire	VERB	vi3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=73|end_char=77
+18	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	17	iobj	_	start_char=77|end_char=79
+19	a	a	ADP	epsb	_	20	mark	_	start_char=80|end_char=81
+20	vedere	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=82|end_char=88
+21	e	e	CCONJ	cscc	_	22	cc	_	start_char=89|end_char=90
+22-23	prendimi	_	_	_	_	_	_	_	start_char=91|end_char=99|SpaceAfter=No
+22	prendi	prendere	VERB	vta2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	start_char=91|end_char=97
+23	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	22	iobj	_	start_char=97|end_char=99
+24	,	,	PUNCT	_	_	28	punct	_	start_char=99|end_char=100
+25	che	che	SCONJ	css	_	28	mark	_	start_char=101|end_char=104
+26	peggio	peggio	ADV	b	_	28	advmod:lmod	_	start_char=105|end_char=111|SpacesAfter=\n
+27	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	28	obj	_	start_char=112|end_char=114
+28	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=115|end_char=119
+29	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	28	obj	_	start_char=120|end_char=124|SpaceAfter=No
+30	:	:	PUNCT	_	_	33	punct	_	start_char=124|end_char=125
+31	che	che	SCONJ	cssu	_	33	mark	_	start_char=126|end_char=129
+32	mie'	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	33	det:poss	_	start_char=130|end_char=134
+33	spiriti	spirito	NOUN	sm2mp	Gender=Masc|Number=Plur	28	nsubj	_	start_char=135|end_char=142
+34	vivi	vivo	ADJ	a1mp	Gender=Masc|Number=Plur	33	amod	_	start_char=143|end_char=147|SpacesAfter=\n\n
+
+# text = son consumati e spenti sì, che quivi, dov' i' stava gioioso, ora mi veggio in parte, lasso, là dov' io posseggio pena e dolor con pianto: e vuol ch'arrivi
+# sent_id = 1
+1	son	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	start_char=149|end_char=152
+2	consumati	consumare	VERB	vtp1prp3p	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=153|end_char=162
+3	e	e	CCONJ	cscc	_	4	cc	_	start_char=163|end_char=164
+4	spenti	spegnere	VERB	vta2pra1mp	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	2	conj	_	start_char=165|end_char=171
+5	sì	così	ADV	b	_	2	advmod	_	start_char=172|end_char=174|SpaceAfter=No
+6	,	,	PUNCT	_	_	17	punct	_	start_char=174|end_char=175
+7	che	che	SCONJ	cssu	_	17	mark	_	start_char=176|end_char=179
+8	quivi	quivi	ADV	b	_	17	advmod:lmod	_	start_char=180|end_char=185|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	start_char=185|end_char=186|SpacesAfter=\n
+10	dov'	dove	ADV	b	_	12	advmod:lmod	_	start_char=187|end_char=191
+11	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=192|end_char=194
+12	stava	stare	VERB	vi1iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=195|end_char=200
+13	gioioso	gioioso	ADJ	a1ms	Gender=Masc|Number=Sing	12	xcomp	_	start_char=201|end_char=208|SpaceAfter=No
+14	,	,	PUNCT	_	_	12	punct	_	start_char=208|end_char=209
+15	ora	ora	ADV	b	_	17	advmod:tmod	_	start_char=210|end_char=213
+16	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	17	obj	_	start_char=214|end_char=216
+17	veggio	vedere	VERB	vta+2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=217|end_char=223|SpacesAfter=\n
+18	in	in	ADP	epskml	_	19	case	_	start_char=224|end_char=226
+19	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	17	obl:lmod	_	start_char=227|end_char=232|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	start_char=232|end_char=233
+21	lasso	lasso	ADJ	_	Gender=Masc|Number=Sing	17	vocative	_	start_char=234|end_char=239|SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	start_char=239|end_char=240
+23	là	là	ADV	_	_	17	advmod:lmod	_	start_char=241|end_char=243
+24	dov'	dove	ADV	_	_	26	advmod:lmod	_	start_char=244|end_char=248
+25	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	26	nsubj	_	start_char=249|end_char=251
+26	posseggio	possedere	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	start_char=252|end_char=261|SpacesAfter=\n
+27	pena	pena	NOUN	sf1fs	Gender=Fem|Number=Sing	26	obj	_	start_char=262|end_char=266
+28	e	e	CCONJ	cscc	_	29	cc	_	start_char=267|end_char=268
+29	dolor	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	27	conj	_	start_char=269|end_char=274
+30	con	con	ADP	epskw	_	31	case	_	start_char=275|end_char=278
+31	pianto	pianto	NOUN	sm2ms	Gender=Masc|Number=Sing	26	obl	_	start_char=279|end_char=285|SpaceAfter=No
+32	:	:	PUNCT	_	_	34	punct	_	start_char=285|end_char=286
+33	e	e	CCONJ	cscc	_	34	cc	_	start_char=287|end_char=288
+34	vuol	volere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	start_char=289|end_char=293
+35	ch'	che	SCONJ	csso	_	36	mark	_	start_char=294|end_char=297|SpaceAfter=No
+36	arrivi	arrivare	VERB	vi1cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	34	ccomp	_	start_char=297|end_char=303|SpacesAfter=\n\n
+
+# text = ancóra in più di mal s'esser più puote; perchè tu, morte, ora valer mi puoi di trarmi de le man di tal nemico.
+# sent_id = 2
+1	ancóra	ancóra	ADV	b	_	3	advmod	_	start_char=305|end_char=311
+2	in	in	ADP	epskb	_	3	case	_	start_char=312|end_char=314
+3	più	più	DET	a	_	7	obl	_	start_char=315|end_char=318
+4	di	di	ADP	epskg	_	5	case	_	start_char=319|end_char=321
+5	mal	male	ADV	b	_	7	advmod	_	start_char=322|end_char=325
+6	s'	se	SCONJ	cssv	_	7	mark	_	start_char=326|end_char=328|SpaceAfter=No
+7	esser	essere	VERB	vi4fp	Tense=Pres|VerbForm=Inf	0	root	_	start_char=328|end_char=333
+8	più	più	ADV	b	_	7	advmod	_	start_char=334|end_char=337
+9	puote	potere	AUX	vta*2pss3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	start_char=338|end_char=343|SpaceAfter=No
+10	;	;	PUNCT	_	_	17	punct	_	start_char=343|end_char=344|SpacesAfter=\n
+11	perchè	perchè	SCONJ	ccsc	_	17	mark	_	start_char=345|end_char=351
+12	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	17	nsubj	_	start_char=352|end_char=354|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	start_char=354|end_char=355
+14	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	17	vocative	_	start_char=356|end_char=361|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	start_char=361|end_char=362
+16	ora	ora	ADV	b	_	17	advmod:tmod	_	start_char=363|end_char=366
+17	valer	valere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=367|end_char=372
+18	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	17	obj	_	start_char=373|end_char=375
+19	puoi	potere	AUX	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	start_char=376|end_char=380|SpacesAfter=\n
+20	di	di	ADP	epsd	_	21	mark	_	start_char=381|end_char=383
+21-22	trarmi	_	_	_	_	_	_	_	start_char=384|end_char=390
+21	trarre	trarre	VERB	vta+2fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	_
+22	mi	mi	PRON	pp1sxac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	21	obj	_	_
+23	de	di	ADP	eps	_	25	case	_	start_char=391|end_char=393
+24	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	25	det	_	start_char=394|end_char=396
+25	man	mano	NOUN	sf2fp	Gender=Fem|Number=Plur	21	obl:lmod	_	start_char=397|end_char=400
+26	di	di	ADP	epskg	_	28	case	_	start_char=401|end_char=403
+27	tal	tale	DET	a2ms	Gender=Masc|Number=Sing	28	det	_	start_char=404|end_char=407
+28	nemico	nemico	NOUN	sm2ms	Gender=Masc|Number=Sing	25	nmod	_	start_char=408|end_char=414|SpaceAfter=No
+29	.	.	PUNCT	_	_	17	punct	_	start_char=414|end_char=415|SpacesAfter=\n\n
+
+# text = Aime! lasso quante volte dico: amor, perchè fai mal pur sol a' tuoi come quel de lo 'nferno che i percuote?
+# sent_id = 3
+1	Aime	aime	INTJ	i	_	11	discourse	_	start_char=417|end_char=421|SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	start_char=421|end_char=422
+3	lasso	lasso	X	_	Foreign=Yes	1	flat:foreign	_	start_char=423|end_char=428
+4	quante	quanto	DET	ar1fp	Gender=Fem|Number=Plur|PronType=Exc	5	det	_	start_char=429|end_char=435
+5	volte	volta	NOUN	sf1fp	Gender=Fem|Number=Plur	6	nsubj	_	start_char=436|end_char=441
+6	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=442|end_char=446|SpaceAfter=No
+7	:	:	PUNCT	_	_	11	punct	_	start_char=446|end_char=447|SpacesAfter=\n
+8	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	vocative	_	start_char=448|end_char=452|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	start_char=452|end_char=453
+10	perchè	perchè	ADV	b	_	11	advmod	_	start_char=454|end_char=460
+11	fai	fare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp:reported	_	start_char=461|end_char=464
+12	mal	male	ADV	b	_	11	advmod	_	start_char=465|end_char=468
+13	pur	pure	ADV	b	_	11	advmod	_	start_char=469|end_char=472
+14	sol	solo	ADV	b	_	11	advmod	_	start_char=473|end_char=476
+15-16	a'	_	_	_	_	_	_	_	start_char=477|end_char=479
+15	a	a	ADP	_	_	17	case	_	_
+16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	tuoi	tuo	PRON	ps1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	obl:lmod	_	start_char=480|end_char=484|SpacesAfter=\n
+18	come	come	ADV	b	_	19	mark	_	start_char=485|end_char=489
+19	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	11	advcl:cmp	_	start_char=490|end_char=494
+20	de	di	ADP	eps	_	22	case	_	start_char=495|end_char=497
+21	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=498|end_char=500
+22	'nferno	inferno	NOUN	sm2ms	Gender=Masc|Number=Sing	19	nmod	_	start_char=501|end_char=508
+23	che	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=509|end_char=512
+24	i	li	PRON	pp3mpyac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	obj	_	start_char=513|end_char=514
+25	percuote	percuotere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=515|end_char=523|SpaceAfter=No
+26	?	?	PUNCT	_	_	11	punct	_	start_char=523|end_char=524|SpaceAfter=No
+

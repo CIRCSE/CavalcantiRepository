@@ -1,0 +1,123 @@
+# newdoc id = VII - Molto m'è viso che sia da blasmare
+# text = Molto m'è viso che sia da blasinare chi puote e non tener vuol buona via e chi più crede un falso lusingare ch'un dolce amaestrar di cortesia.
+# sent_id = 0
+1	Molto	molto	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	start_char=0|end_char=5
+2	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	4	iobj	_	start_char=6|end_char=8|SpaceAfter=No
+3	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=9
+4	viso	viso	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=10|end_char=14
+5	che	che	SCONJ	csse	_	8	mark	_	start_char=15|end_char=18
+6	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=19|end_char=22
+7	da	da	ADP	epsb	_	8	mark	_	start_char=23|end_char=25
+8	blasinare	blasinare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	start_char=26|end_char=35|SpacesAfter=\n
+9	chi	chi	PRON	pr	PronType=Rel	10	nsubj	_	start_char=36|end_char=39
+10	puote	potere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=40|end_char=45
+11	e	e	CCONJ	cscc	_	13	cc	_	start_char=46|end_char=47
+12	non	non	ADV	b	PronType=Neg	13	advmod:neg	_	start_char=48|end_char=51
+13	tener	tenere	VERB	vta2fps	Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	start_char=52|end_char=57
+14	vuol	volere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=58|end_char=62
+15	buona	buono	ADJ	a1fs	Gender=Fem|Number=Sing	16	amod	_	start_char=63|end_char=68
+16	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obj	_	start_char=69|end_char=72|SpacesAfter=\n
+17	e	e	CCONJ	cscc	_	20	cc	_	start_char=73|end_char=74
+18	chi	chi	PRON	pr	PronType=Rel	20	nsubj	_	start_char=75|end_char=78
+19	più	più	ADV	b	_	20	advmod	_	start_char=79|end_char=82
+20	crede	credere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=83|end_char=88
+21	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	start_char=89|end_char=91
+22	falso	falso	ADJ	a1ms	Gender=Masc|Number=Sing	23	amod	_	start_char=92|end_char=97
+23	lusingare	lusingare	VERB	viaffpm3ms	Tense=Pres|VerbForm=Inf	20	obj	_	start_char=98|end_char=107|SpacesAfter=\n
+24	ch'	che	SCONJ	cssu	_	27	mark	_	start_char=108|end_char=111|SpaceAfter=No
+25	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=111|end_char=113
+26	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	27	amod	_	start_char=114|end_char=119
+27	amaestrar	amastrare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	23	nsubj	_	start_char=120|end_char=129
+28	di	di	ADP	epskg	_	29	case	_	start_char=130|end_char=132
+29	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	27	nmod	_	start_char=133|end_char=141|SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	start_char=141|end_char=142|SpacesAfter=\n\n
+
+# text = E anche più chi non sape acquistare e l'acquistato perde a sua follia, e lascia quel che doveria pigliare, e prende ciò ch'onn'altr'om lasceria.
+# sent_id = 1
+1	E	e	CCONJ	cscc	_	11	cc	_	start_char=144|end_char=145
+2	anche	anche	ADV	b	_	6	advmod	_	start_char=146|end_char=151
+3	più	più	ADV	bc+	_	0	root	_	start_char=152|end_char=155
+4	chi	chi	PRON	pr	PronType=Rel	6	nsubj	_	start_char=156|end_char=159
+5	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	start_char=160|end_char=163
+6	sape	sapere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl:cmp	_	start_char=164|end_char=168
+7	acquistare	acquistare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=169|end_char=179|SpacesAfter=\n
+8	e	e	CCONJ	cscc	_	10	cc	_	start_char=180|end_char=181
+9	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=182|end_char=184|SpaceAfter=No
+10	acquistato	acquistare	VERB	vta1prsm2ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	11	obj	_	start_char=184|end_char=194
+11	perde	perdere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=195|end_char=200
+12	a	a	ADP	epsk1d	_	14	case	_	start_char=201|end_char=202
+13	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=203|end_char=206
+14	follia	follia	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obl	_	start_char=207|end_char=213|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	start_char=213|end_char=214|SpacesAfter=\n
+16	e	e	CCONJ	cscc	_	17	cc	_	start_char=215|end_char=216
+17	lascia	lasciare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=217|end_char=223
+18	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	17	obj	_	start_char=224|end_char=228
+19	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=229|end_char=232
+20	doveria	dovere	AUX	vta2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	21	aux	_	start_char=233|end_char=240
+21	pigliare	pigliare	VERB	vtaff	Tense=Pres|VerbForm=Inf	18	acl:relcl	_	start_char=241|end_char=249|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	start_char=249|end_char=250|SpacesAfter=\n
+23	e	e	CCONJ	cscc	_	24	cc	_	start_char=251|end_char=252
+24	prende	prendere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	start_char=253|end_char=259
+25	ciò	cio'	PRON	pd	PronType=Dem	24	obj	_	start_char=260|end_char=263
+26	ch'	che	PRON	pr	PronType=Rel	30	nsubj	_	start_char=264|end_char=267|SpaceAfter=No
+27	onn'	onino	ADV	b	_	30	advmod	_	start_char=267|end_char=271|SpaceAfter=No
+28	altr'	altro	DET	ai	PronType=Ind	29	det	_	start_char=271|end_char=276|SpaceAfter=No
+29	om	uomo	PRON	p	_	30	obj	_	start_char=276|end_char=278
+30	lasceria	lasciare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	start_char=279|end_char=287|SpaceAfter=No
+31	.	.	PUNCT	_	_	17	punct	_	start_char=287|end_char=288|SpacesAfter=\n\n
+
+# text = E sovre tutto i' blasmo forte ancóra chi, per su' ngiegno, di leale amico fa che nemico sempre li dimora.
+# sent_id = 2
+1	E	e	CCONJ	cscc	_	2	cc	_	start_char=290|end_char=291
+2	sovre	soprare	VERB	vta2pps	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=292|end_char=297
+3	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	5	det:predet	_	start_char=298|end_char=303
+4	i'	io	PRON	pp1slso	Person=1|PronType=Prs	2	nsubj	_	start_char=304|end_char=306
+5	blasmo	blasimo	NOUN	sm2ms	Gender=Masc|Number=Sing	2	obj	_	start_char=307|end_char=313
+6	forte	forte	ADV	b	_	2	advmod	_	start_char=314|end_char=319
+7	ancóra	ancóra	ADV	b	_	2	advmod	_	start_char=320|end_char=326|SpacesAfter=\n
+8	chi	chi	PRON	pr	PronType=Rel	2	nsubj	_	start_char=327|end_char=330|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	start_char=330|end_char=331
+10	per	per	ADP	epskr	_	12	case	_	start_char=332|end_char=335
+11	su'	suo	ADJ	a2ms	Gender=Masc|Number=Sing	12	amod	_	start_char=336|end_char=339
+12	ngiegno	ngegno	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obl	_	start_char=340|end_char=347|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	start_char=347|end_char=348
+14	di	di	ADP	epskg	_	16	case	_	start_char=349|end_char=351
+15	leale	leale	ADJ	a2ms	Gender=Masc|Number=Sing	16	amod	_	start_char=352|end_char=357
+16	amico	amico	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obl	_	start_char=358|end_char=363|SpacesAfter=\n
+17	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=364|end_char=366
+18	che	che	PRON	pr	PronType=Rel	22	nsubj	_	start_char=367|end_char=370
+19	nemico	nemico	NOUN	sm2ms	Gender=Masc|Number=Sing	22	nsubj	_	start_char=371|end_char=377
+20	sempre	sempre	ADV	b	_	22	advmod:tmod	_	start_char=378|end_char=384
+21	li	li	PRON	pp3mpyac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	obj	_	start_char=385|end_char=387
+22	dimora	dimorare	VERB	vi1ip3s	Mood=Ind|Tense=Pres|VerbForm=Fin	17	ccomp	_	start_char=388|end_char=394|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	start_char=394|end_char=395|SpacesAfter=\n\n
+
+# text = Ormai 'ntenda chi voi ciò ch'i' dico e' mpari senno chi bisogno fora.
+# sent_id = 3
+1	Ormai	ormai	ADV	b	_	2	advmod	_	start_char=397|end_char=402
+2	'ntenda	intendere	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=403|end_char=410
+3	chi	chi	PRON	pr	PronType=Rel	2	nsubj	_	start_char=411|end_char=414
+4	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=415|end_char=418
+5	ciò	cio'	PRON	pd	PronType=Dem	2	obj	_	start_char=419|end_char=422
+6	ch'	che	PRON	pr	PronType=Rel	8	obj	_	start_char=423|end_char=426|SpaceAfter=No
+7	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	8	nsubj	_	start_char=426|end_char=428
+8	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=429|end_char=433|SpacesAfter=\n
+9	e'	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=434|end_char=436
+10	mpari	mpari	ADJ	a1ms	Gender=Masc|Number=Plur	11	amod	_	start_char=437|end_char=442
+11	senno	senno	NOUN	sm2ms	Gender=Masc|Number=Sing	8	obj	_	start_char=443|end_char=448
+12	chi	chi	PRON	pr	PronType=Rel	13	nsubj	_	start_char=449|end_char=452
+13	bisogno	bisogno	NOUN	sm2ms	Gender=Masc|Number=Sing	11	acl:relcl	_	start_char=453|end_char=460
+14	fora	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	13	cop	_	start_char=461|end_char=465|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	start_char=465|end_char=466|SpacesAfter=\n
+
+# text = Se no li piace indarno mi fatico.
+# sent_id = 4
+1	Se	se	SCONJ	cssv	_	4	mark	_	start_char=467|end_char=469
+2	no	non	ADV	b	_	4	advmod	_	start_char=470|end_char=472
+3	li	li	PRON	pp3msyda	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=473|end_char=475
+4	piace	piacere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=476|end_char=481
+5	indarno	indarno	ADV	b	_	7	advmod:tmod	_	start_char=482|end_char=489
+6	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	7	obj	_	start_char=490|end_char=492
+7	fatico	fatire	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=493|end_char=499|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	start_char=499|end_char=500|SpaceAfter=No
+

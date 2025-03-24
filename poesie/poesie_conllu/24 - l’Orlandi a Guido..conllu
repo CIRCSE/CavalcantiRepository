@@ -1,0 +1,178 @@
+# newdoc id = 24 - l’Orlandi a Guido.
+# text = Per troppa sottiglianza il fil si rompe e ’l grosso ferma l’arcone al tenero: e, se la sguarda non dirizza al vero, in te forse t’avven, che se ripompe.
+# sent_id = 0
+1	Per	per	ADP	epskr	_	3	case	_	start_char=0|end_char=3
+2	troppa	troppo	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	start_char=4|end_char=10
+3	sottiglianza	sottiglianza	NOUN	sf1fs	Gender=Fem|Number=Sing	7	obl:lmod	_	start_char=11|end_char=23
+4	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=24|end_char=26
+5	fil	filo	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=27|end_char=30
+6	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	start_char=31|end_char=33
+7	rompe	rompere	VERB	vta+2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=34|end_char=39|SpacesAfter=\n
+8	e	e	CCONJ	cscc	_	11	cc	_	start_char=40|end_char=41
+9	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=42|end_char=44
+10	grosso	grosso	NOUN	sm2ms	Gender=Masc|Number=Sing	11	nsubj	_	start_char=45|end_char=51
+11	ferma	fermare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=52|end_char=57
+12	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=58|end_char=60|SpaceAfter=No
+13	arcone	arcone	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obj	_	start_char=60|end_char=66
+14-15	al	_	_	_	_	_	_	_	start_char=67|end_char=69
+14	a	a	ADP	_	_	16	case	_	_
+15	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	tenero	tenero	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obl:lmod	_	start_char=70|end_char=76|SpaceAfter=No
+17	:	:	PUNCT	_	_	33	punct	_	start_char=76|end_char=77|SpacesAfter=\n
+18	e	e	CCONJ	cscc	_	33	cc	_	start_char=78|end_char=79|SpaceAfter=No
+19	,	,	PUNCT	_	_	24	punct	_	start_char=79|end_char=80
+20	se	se	SCONJ	cssv	_	24	mark	_	start_char=81|end_char=83
+21	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=84|end_char=86
+22	sguarda	sguarda	NOUN	sf1fs	Gender=Fem|Number=Sing	24	nsubj	_	start_char=87|end_char=94
+23	non	non	ADV	b	PronType=Neg	24	advmod:neg	_	start_char=95|end_char=98
+24	dirizza	drizzare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	start_char=99|end_char=106
+25-26	al	_	_	_	_	_	_	_	start_char=107|end_char=109
+25	a	a	ADP	_	_	27	case	_	_
+26	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	vero	vero	NOUN	sm2ms	Gender=Masc|Number=Sing	24	obl:lmod	_	start_char=110|end_char=114|SpaceAfter=No
+28	,	,	PUNCT	_	_	24	punct	_	start_char=114|end_char=115|SpacesAfter=\n
+29	in	in	ADP	epsksl	_	30	case	_	start_char=116|end_char=118
+30	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	33	obl:lmod	_	start_char=119|end_char=121
+31	forse	forse	ADV	b	_	33	advmod	_	start_char=122|end_char=127
+32	t’	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	33	obj	_	start_char=128|end_char=130|SpaceAfter=No
+33	avven	avvenire	VERB	vta+2pps	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=130|end_char=135|SpaceAfter=No
+34	,	,	PUNCT	_	_	37	punct	_	start_char=135|end_char=136
+35	che	che	SCONJ	cssu	_	37	mark	_	start_char=137|end_char=140
+36	se	se	SCONJ	cssv	_	37	mark	_	start_char=141|end_char=143
+37	ripompe	ripompere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	start_char=144|end_char=151|SpaceAfter=No
+38	.	.	PUNCT	_	_	33	punct	_	start_char=151|end_char=152|SpacesAfter=\n\n
+
+# text = E qual non pone ben dritto lo sompe, traballa spesso non languendo intero . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+# sent_id = 1
+1	E	e	CCONJ	cscc	_	10	cc	_	start_char=154|end_char=155
+2	qual	quale	DET	ar	PronType=Rel	4	nsubj	_	start_char=156|end_char=160
+3	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=161|end_char=164
+4	pone	porre	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=165|end_char=169
+5	ben	bene	ADV	b	_	6	advmod	_	start_char=170|end_char=173
+6	dritto	diritto	ADJ	a1ms	Gender=Masc|Number=Sing	8	amod	_	start_char=174|end_char=180
+7	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=181|end_char=183
+8	sompe	sompa	NOUN	sm3ms	Gender=Masc|Number=Sing	4	obj	_	start_char=184|end_char=189|SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	start_char=189|end_char=190|SpacesAfter=\n
+10	traballa	traballare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=191|end_char=199
+11	spesso	spesso	ADV	b	_	10	advmod:tmod	_	start_char=200|end_char=206
+12	non	non	ADV	b	PronType=Neg	13	advmod:neg	_	start_char=207|end_char=210
+13	languendo	languire	VERB	vi1gp	VerbForm=Conv|Voice=Act	10	advcl	_	start_char=211|end_char=220
+14	intero	intero	ADJ	a1ms	Gender=Masc|Number=Sing	10	xcomp	_	start_char=221|end_char=227|SpacesAfter=\n
+15	.	.	PUNCT	_	_	10	punct	_	start_char=228|end_char=229
+16	.	.	PUNCT	_	_	10	punct	_	start_char=230|end_char=231
+17	.	.	PUNCT	_	_	10	punct	_	start_char=232|end_char=233
+18	.	.	PUNCT	_	_	10	punct	_	start_char=234|end_char=235
+19	.	.	PUNCT	_	_	10	punct	_	start_char=236|end_char=237
+20	.	.	PUNCT	_	_	10	punct	_	start_char=238|end_char=239
+21	.	.	PUNCT	_	_	10	punct	_	start_char=240|end_char=241
+22	.	.	PUNCT	_	_	10	punct	_	start_char=242|end_char=243
+23	.	.	PUNCT	_	_	10	punct	_	start_char=244|end_char=245
+24	.	.	PUNCT	_	_	10	punct	_	start_char=246|end_char=247
+25	.	.	PUNCT	_	_	10	punct	_	start_char=248|end_char=249
+26	.	.	PUNCT	_	_	10	punct	_	start_char=250|end_char=251
+27	.	.	PUNCT	_	_	10	punct	_	start_char=252|end_char=253
+28	.	.	PUNCT	_	_	10	punct	_	start_char=254|end_char=255
+29	.	.	PUNCT	_	_	10	punct	_	start_char=256|end_char=257
+30	.	.	PUNCT	_	_	10	punct	_	start_char=258|end_char=259
+31	.	.	PUNCT	_	_	10	punct	_	start_char=260|end_char=261
+32	.	.	PUNCT	_	_	10	punct	_	start_char=262|end_char=263
+33	.	.	PUNCT	_	_	10	punct	_	start_char=264|end_char=265
+34	.	.	PUNCT	_	_	10	punct	_	start_char=266|end_char=267
+35	.	.	PUNCT	_	_	10	punct	_	start_char=268|end_char=269
+36	.	.	PUNCT	_	_	10	punct	_	start_char=270|end_char=271
+37	.	.	PUNCT	_	_	10	punct	_	start_char=272|end_char=273
+38	.	.	PUNCT	_	_	10	punct	_	start_char=274|end_char=275
+39	.	.	PUNCT	_	_	10	punct	_	start_char=276|end_char=277
+40	.	.	PUNCT	_	_	10	punct	_	start_char=278|end_char=279
+41	.	.	PUNCT	_	_	10	punct	_	start_char=280|end_char=281|SpacesAfter=\n
+42	.	.	PUNCT	_	_	10	punct	_	start_char=282|end_char=283
+43	.	.	PUNCT	_	_	10	punct	_	start_char=284|end_char=285
+44	.	.	PUNCT	_	_	10	punct	_	start_char=286|end_char=287
+45	.	.	PUNCT	_	_	10	punct	_	start_char=288|end_char=289
+46	.	.	PUNCT	_	_	10	punct	_	start_char=290|end_char=291
+47	.	.	PUNCT	_	_	10	punct	_	start_char=292|end_char=293
+48	.	.	PUNCT	_	_	10	punct	_	start_char=294|end_char=295
+49	.	.	PUNCT	_	_	10	punct	_	start_char=296|end_char=297
+50	.	.	PUNCT	_	_	10	punct	_	start_char=298|end_char=299
+51	.	.	PUNCT	_	_	10	punct	_	start_char=300|end_char=301
+52	.	.	PUNCT	_	_	10	punct	_	start_char=302|end_char=303
+53	.	.	PUNCT	_	_	10	punct	_	start_char=304|end_char=305
+54	.	.	PUNCT	_	_	10	punct	_	start_char=306|end_char=307
+55	.	.	PUNCT	_	_	10	punct	_	start_char=308|end_char=309
+56	.	.	PUNCT	_	_	10	punct	_	start_char=310|end_char=311
+57	.	.	PUNCT	_	_	10	punct	_	start_char=312|end_char=313
+58	.	.	PUNCT	_	_	10	punct	_	start_char=314|end_char=315
+59	.	.	PUNCT	_	_	10	punct	_	start_char=316|end_char=317
+60	.	.	PUNCT	_	_	10	punct	_	start_char=318|end_char=319
+61	.	.	PUNCT	_	_	10	punct	_	start_char=320|end_char=321
+62	.	.	PUNCT	_	_	10	punct	_	start_char=322|end_char=323
+63	.	.	PUNCT	_	_	10	punct	_	start_char=324|end_char=325
+64	.	.	PUNCT	_	_	10	punct	_	start_char=326|end_char=327
+65	.	.	PUNCT	_	_	10	punct	_	start_char=328|end_char=329
+66	.	.	PUNCT	_	_	10	punct	_	start_char=330|end_char=331
+67	.	.	PUNCT	_	_	10	punct	_	start_char=332|end_char=333
+68	.	.	PUNCT	_	_	10	punct	_	start_char=334|end_char=335|SpacesAfter=\n\n
+
+# text = Ch’amor sincero non piange nè ride: in ciò conduce spesso uomo o fema, per segnoraggio prende e divide.
+# sent_id = 2
+1	Ch	ch	CCONJ	cscc	_	6	cc	_	start_char=337|end_char=339|SpaceAfter=No
+2	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=339|end_char=340|SpaceAfter=No
+3	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=340|end_char=344
+4	sincero	sincero	ADJ	a1ms	Gender=Masc|Number=Sing	3	amod	_	start_char=345|end_char=352
+5	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	start_char=353|end_char=356
+6	piange	piangere	VERB	vt22ps33	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=357|end_char=363
+7	nè	nè	CCONJ	cscc	_	8	cc	_	start_char=364|end_char=366
+8	ride	ridere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=367|end_char=371|SpaceAfter=No
+9	:	:	PUNCT	_	_	12	punct	_	start_char=371|end_char=372|SpacesAfter=\n
+10	in	in	ADP	epsks	_	11	case	_	start_char=373|end_char=375
+11	ciò	cio'	PRON	pd	PronType=Dem	12	obl	_	start_char=376|end_char=379
+12	conduce	condurre	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=380|end_char=387
+13	spesso	spesso	ADV	b	_	12	advmod:tmod	_	start_char=388|end_char=394
+14	uomo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obj	_	start_char=395|end_char=399
+15	o	o	CCONJ	cscd	_	16	cc	_	start_char=400|end_char=401
+16	fema	fema	NOUN	sf1fs	Gender=Fem|Number=Sing	14	conj	_	start_char=402|end_char=406|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	start_char=406|end_char=407|SpacesAfter=\n
+18	per	per	ADP	epskr	_	19	case	_	start_char=408|end_char=411
+19	segnoraggio	segnoraggio	NOUN	sm2ms	Gender=Masc|Number=Sing	20	obl	_	start_char=412|end_char=423
+20	prende	prendere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=424|end_char=430
+21	e	e	CCONJ	cscc	_	22	cc	_	start_char=431|end_char=432
+22	divide	dividere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	start_char=433|end_char=439|SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	start_char=439|end_char=440|SpacesAfter=\n\n
+
+# text = E tu ’l feristi e nolli parla sema.
+# sent_id = 3
+1	E	e	CCONJ	cscc	_	4	cc	_	start_char=442|end_char=443
+2	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	4	nsubj	_	start_char=444|end_char=446
+3	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=447|end_char=449
+4	feristi	ferire	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=450|end_char=457
+5	e	e	CCONJ	cscc	_	6	cc	_	start_char=458|end_char=459
+6	nolli	nollo	NOUN	sm2mp	Gender=Masc|Number=Sing	4	conj	_	start_char=460|end_char=465
+7	parla	parlare	VERB	vi1ips2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=466|end_char=471
+8	sema	semo	ADJ	a1fs	Gender=Fem|Number=Sing	7	xcomp	_	start_char=472|end_char=476|SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	start_char=476|end_char=477|SpacesAfter=\n
+
+# text = Ovidio leggi; più di te ne vide.
+# sent_id = 4
+1	Ovidio	Ovidio	PROPN	np	_	2	nsubj	_	start_char=478|end_char=484
+2	leggi	leggere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=485|end_char=490|SpaceAfter=No
+3	;	;	PUNCT	_	_	8	punct	_	start_char=490|end_char=491
+4	più	più	ADV	b	_	8	advmod	_	start_char=492|end_char=495
+5	di	di	ADP	epsky	_	6	case	_	start_char=496|end_char=498
+6	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	8	obl	_	start_char=499|end_char=501
+7	ne	ne	PRON	pp1ypt	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obl:arg	_	start_char=502|end_char=504
+8	vide	vedere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=505|end_char=509|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	start_char=509|end_char=510|SpacesAfter=\n
+
+# text = Dal mio balestro guarda ed aggi tema.
+# sent_id = 5
+1-2	Dal	_	_	_	_	_	_	_	start_char=511|end_char=514
+1	da	da	ADP	_	_	4	case	_	_
+2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	start_char=515|end_char=518
+4	balestro	balestro	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=519|end_char=527
+5	guarda	guardare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=528|end_char=534
+6	ed	e	CCONJ	cscc	_	7	cc	_	start_char=535|end_char=537
+7	aggi	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=538|end_char=542
+8	tema	tema	NOUN	sf1fs	Gender=Fem|Number=Sing	7	obj	_	start_char=543|end_char=547|SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	start_char=547|end_char=548|SpaceAfter=No
+

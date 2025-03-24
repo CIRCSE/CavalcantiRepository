@@ -1,0 +1,132 @@
+# newdoc id = XL - I' sí mi tengo, lasso! a mala posta
+# text = l' sì mi tengo, lasso, a mala posta (or ecco il fatto) e sonvi per lo fermo a tal, che non mi vai neuno schermo, e assalito son da ogne costa.
+# sent_id = 0
+1	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	start_char=0|end_char=2
+2	sì	così	ADV	b	_	4	advmod	_	start_char=3|end_char=5
+3	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	4	obj	_	start_char=6|end_char=8
+4	tengo	tengere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=9|end_char=14|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	start_char=14|end_char=15
+6	lasso	lasso	ADJ	ams	Gender=Masc|Number=Sing	4	advcl:pred	_	start_char=16|end_char=21|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	start_char=21|end_char=22
+8	a	a	ADP	epskm	_	10	case	_	start_char=23|end_char=24
+9	mala	malo	ADJ	a1fs	Gender=Fem|Number=Sing	10	amod	_	start_char=25|end_char=29
+10	posta	posta	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obl	_	start_char=30|end_char=35|SpacesAfter=\n
+11	(	(	PUNCT	_	_	15	punct	_	start_char=36|end_char=37|SpaceAfter=No
+12	or	ora	ADV	b	_	15	advmod:tmod	_	start_char=37|end_char=39
+13	ecco	ecco	ADV	b	_	15	advmod	_	start_char=40|end_char=44
+14	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=45|end_char=47
+15	fatto	fare	VERB	vta2prsm2ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	nsubj	_	start_char=48|end_char=53|SpaceAfter=No
+16	)	)	PUNCT	_	_	18	punct	_	start_char=53|end_char=54
+17	e	e	CCONJ	cscc	_	18	cc	_	start_char=55|end_char=56
+18	sonvi	suonvere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=57|end_char=62
+19	per	per	ADP	epskr	_	21	case	_	start_char=63|end_char=66
+20	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	start_char=67|end_char=69
+21	fermo	fermo	ADJ	a1ms	Gender=Masc|Number=Sing	18	obl	_	start_char=70|end_char=75|SpacesAfter=\n
+22	a	a	ADP	epskm	_	23	case	_	start_char=76|end_char=77
+23	tal	tale	DET	a2ns	Number=Sing	21	det	_	start_char=78|end_char=81|SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	start_char=81|end_char=82
+25	che	che	SCONJ	cssu	_	28	mark	_	start_char=83|end_char=86
+26	non	non	ADV	b	PronType=Neg	28	advmod:neg	_	start_char=87|end_char=90
+27	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	28	iobj	_	start_char=91|end_char=93
+28	vai	andare	VERB	vi1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	start_char=94|end_char=97
+29	neuno	nesno	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	30	det	_	start_char=98|end_char=103
+30	schermo	schermo	NOUN	sm2ms	Gender=Masc|Number=Sing	28	obj	_	start_char=104|end_char=111|SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	start_char=111|end_char=112|SpacesAfter=\n
+32	e	e	CCONJ	cscc	_	33	cc	_	start_char=113|end_char=114
+33	assalito	assalire	VERB	vta2irs3	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	conj	_	start_char=115|end_char=123
+34	son	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	start_char=124|end_char=127
+35	da	da	ADP	epsksl	_	37	case	_	start_char=128|end_char=130
+36	ogne	ogni	DET	ai2fs	Number=Sing|PronType=Tot	37	det	_	start_char=131|end_char=135
+37	costa	costa	NOUN	sf1fs	Gender=Fem|Number=Sing	33	obl:lmod	_	start_char=136|end_char=141|SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	_	start_char=141|end_char=142|SpacesAfter=\n\n
+
+# text = E non mi dànno i miei nemici sosta perchè fedito veggianmi ed infermo: ned io medesmo non mando a Palermo per tal dolor sanar, che tanto costa.
+# sent_id = 1
+1	E	e	CCONJ	cscc	_	4	cc	_	start_char=144|end_char=145
+2	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=146|end_char=149
+3	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	4	iobj	_	start_char=150|end_char=152
+4	dànno	dare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=153|end_char=158
+5	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	start_char=159|end_char=160
+6	miei	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=161|end_char=165
+7	nemici	nemico	NOUN	sm2mp	Gender=Masc|Number=Plur	4	obj	_	start_char=166|end_char=172
+8	sosta	sostare	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obj	_	start_char=173|end_char=178|SpacesAfter=\n
+9	perchè	perchè	SCONJ	ccsc	_	10	mark	_	start_char=179|end_char=185
+10	fedito	ferire	VERB	vta2irs1	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	start_char=186|end_char=192
+11-12	veggianmi	_	_	_	_	_	_	_	start_char=193|end_char=202
+11	veggiare	veggiare	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	iobj	_	_
+13	ed	e	CCONJ	cscc	_	14	cc	_	start_char=203|end_char=205
+14	infermo	infermare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=206|end_char=213|SpaceAfter=No
+15	:	:	PUNCT	_	_	20	punct	_	start_char=213|end_char=214|SpacesAfter=\n
+16	ned	nede	CCONJ	cscc	_	20	cc	_	start_char=215|end_char=218
+17	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	20	nsubj	_	start_char=219|end_char=221
+18	medesmo	medesimo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	start_char=222|end_char=229
+19	non	non	ADV	b	PronType=Neg	20	advmod:neg	_	start_char=230|end_char=233
+20	mando	mandare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=234|end_char=239
+21	a	a	ADP	epskml	_	22	case	_	start_char=240|end_char=241
+22	Palermo	Palermo	PROPN	np	_	20	obl:lmod	_	start_char=242|end_char=249|SpacesAfter=\n
+23	per	per	ADP	epskr	_	25	case	_	start_char=250|end_char=253
+24	tal	tale	DET	a2ms	Gender=Masc|Number=Sing	25	det	_	start_char=254|end_char=257
+25	dolor	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obl:lmod	_	start_char=258|end_char=263
+26	sanar	sanare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	20	advcl	_	start_char=264|end_char=269|SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	start_char=269|end_char=270
+28	che	che	SCONJ	cssu	_	30	mark	_	start_char=271|end_char=274
+29	tanto	tanto	ADV	b	_	30	advmod	_	start_char=275|end_char=280
+30	costa	costare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	start_char=281|end_char=286|SpaceAfter=No
+31	.	.	PUNCT	_	_	4	punct	_	start_char=286|end_char=287|SpacesAfter=\n\n
+
+# text = Ch'anzi mi sforzo pur de li contrari: e quanto posso tuttor traggo a essi ed e' così mi pagan de la via.
+# sent_id = 2
+1	Ch'	che	SCONJ	cssc	_	4	mark	_	start_char=289|end_char=292|SpaceAfter=No
+2	anzi	anzi	SCONJ	csca	_	4	mark	_	start_char=292|end_char=296
+3	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	4	obj	_	start_char=297|end_char=299
+4	sforzo	sforzare	VERB	vta+1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=300|end_char=306
+5	pur	pure	ADV	b	_	4	advmod	_	start_char=307|end_char=310
+6	de	di	ADP	eps	_	8	case	_	start_char=311|end_char=313
+7	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=314|end_char=316
+8	contrari	contrario	NOUN	sm2mp	Gender=Masc|Number=Plur	4	obl:lmod	_	start_char=317|end_char=325|SpaceAfter=No
+9	:	:	PUNCT	_	_	21	punct	_	start_char=325|end_char=326|SpacesAfter=\n
+10	e	e	CCONJ	cscc	_	21	cc	_	start_char=327|end_char=328
+11	quanto	quanto	ADV	b	_	14	advmod	_	start_char=329|end_char=335
+12	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	start_char=336|end_char=341
+13	tuttor	tuttora	ADV	b	_	14	advmod	_	start_char=342|end_char=348
+14	traggo	traggo	ADJ	a1ms	Gender=Masc|Number=Sing	21	advcl	_	start_char=349|end_char=355
+15	a	a	ADP	epsk1d	_	16	case	_	start_char=356|end_char=357
+16	essi	esso	PRON	pp3mplco	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obl	_	start_char=358|end_char=362|SpacesAfter=\n
+17	ed	e	CCONJ	cscc	_	21	cc	_	start_char=363|end_char=365
+18	e'	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=366|end_char=368
+19	così	così	ADV	b	_	21	advmod	_	start_char=369|end_char=373
+20	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	21	obj	_	start_char=374|end_char=376
+21	pagan	pagare	VERB	vi1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=377|end_char=382
+22	de	di	ADP	eps	_	24	case	_	start_char=383|end_char=385
+23	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	start_char=386|end_char=388
+24	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obl:lmod	_	start_char=389|end_char=392|SpaceAfter=No
+25	.	.	PUNCT	_	_	14	punct	_	start_char=392|end_char=393|SpacesAfter=\n\n
+
+# text = Trovar non posso in alcun cortesia, ed io dolente i miei spiriti messi tutto tempo aggio in far d'amor suo gradi.
+# sent_id = 3
+1	Trovar	trovare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=395|end_char=401
+2	non	non	ADV	b	PronType=Neg	1	advmod:neg	_	start_char=402|end_char=405
+3	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	start_char=406|end_char=411
+4	in	in	ADP	epskml	_	6	case	_	start_char=412|end_char=414
+5	alcun	alcuno	DET	ai	PronType=Ind	6	det	_	start_char=415|end_char=420
+6	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	1	obl:lmod	_	start_char=421|end_char=429|SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	start_char=429|end_char=430|SpacesAfter=\n
+8	ed	e	CCONJ	cscc	_	14	cc	_	start_char=431|end_char=433
+9	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	14	nsubj	_	start_char=434|end_char=436
+10	dolente	dolente	ADJ	a2mp	Gender=Masc|Number=Plur	14	advcl:pred	_	start_char=437|end_char=444
+11	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	start_char=445|end_char=446
+12	miei	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det:poss	_	start_char=447|end_char=451
+13	spiriti	spirito	NOUN	sm2mp	Gender=Masc|Number=Plur	14	nsubj	_	start_char=452|end_char=459
+14	messi	mettere	VERB	vta2irp1	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	conj	_	start_char=460|end_char=465|SpacesAfter=\n
+15	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	start_char=466|end_char=471
+16	tempo	tempo	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obj	_	start_char=472|end_char=477
+17	aggio	avere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	start_char=478|end_char=483
+18	in	in	ADP	epsk	_	19	mark	_	start_char=484|end_char=486
+19	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=487|end_char=490
+20	d'	di	ADP	eps	_	21	case	_	start_char=491|end_char=493|SpaceAfter=No
+21	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	obl	_	start_char=493|end_char=497
+22	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	start_char=498|end_char=501
+23	gradi	grado	NOUN	sm2mp	Gender=Masc|Number=Plur	19	obj	_	start_char=502|end_char=507|SpaceAfter=No
+24	.	.	PUNCT	_	_	14	punct	_	start_char=507|end_char=508|SpaceAfter=No
+

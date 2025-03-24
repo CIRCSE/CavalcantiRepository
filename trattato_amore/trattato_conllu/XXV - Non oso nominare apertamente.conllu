@@ -1,0 +1,124 @@
+# newdoc id = XXV - Non oso nominare apertamente
+# text = Non oso nominare apertamente quella, cui m'ave dato a servidore quei, ch'à 'n tutto podere, ciò è amore, che voi ch'i' tema e non falli neente;
+# sent_id = 0
+1	Non	non	ADV	b	PronType=Neg	3	advmod:neg	_	start_char=0|end_char=3
+2	oso	osare	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	start_char=4|end_char=7
+3	nominare	nominare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=8|end_char=16
+4	apertamente	apertamente	ADV	b	_	3	advmod	_	start_char=17|end_char=28|SpacesAfter=\n
+5	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	start_char=29|end_char=35|SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	start_char=35|end_char=36
+7	cui	cui	PRON	pr	PronType=Rel	10	obl	_	start_char=37|end_char=40
+8	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	10	obj	_	start_char=41|end_char=43|SpaceAfter=No
+9	ave	avere	AUX	vta5ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	start_char=43|end_char=46
+10	dato	dare	VERB	vta1ibs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	5	acl:relcl	_	start_char=47|end_char=51
+11	a	a	ADP	epsk1	_	12	case	_	start_char=52|end_char=53
+12	servidore	servidore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl	_	start_char=54|end_char=63|SpacesAfter=\n
+13	quei	quello	PRON	pd1mp	Gender=Masc|Number=Plur|PronType=Dem	10	obj	_	start_char=64|end_char=68|SpaceAfter=No
+14	,	,	PUNCT	_	_	22	punct	_	start_char=68|end_char=69
+15	ch'à	che'a	SCONJ	cssu	_	22	mark	_	start_char=70|end_char=74
+16	'n	in	ADP	epsks	_	18	case	_	start_char=75|end_char=77
+17	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	18	det	_	start_char=78|end_char=83
+18	podere	potere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	22	obl	_	start_char=84|end_char=90|SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	start_char=90|end_char=91
+20	ciò	cio'	PRON	pd	PronType=Dem	22	nsubj	_	start_char=92|end_char=95
+21	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=96|end_char=97
+22	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	parataxis	_	start_char=98|end_char=103|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	start_char=103|end_char=104|SpacesAfter=\n
+24	che	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=105|end_char=108
+25	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	22	nsubj	_	start_char=109|end_char=112
+26	ch'	che	PRON	pr	PronType=Rel	31	nsubj	_	start_char=113|end_char=116|SpaceAfter=No
+27	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	28	nsubj	_	start_char=116|end_char=118
+28	tema	tema	NOUN	sf1fs	Gender=Fem|Number=Sing	31	obj	_	start_char=119|end_char=123
+29	e	e	CCONJ	cscc	_	31	cc	_	start_char=124|end_char=125
+30	non	non	ADV	b	PronType=Neg	31	advmod:neg	_	start_char=126|end_char=129
+31	falli	fallare	VERB	vta1cps2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	start_char=130|end_char=135
+32	neente	niente	PRON	pi	PronType=Ind	31	obj	_	start_char=136|end_char=142|SpaceAfter=No
+33	;	;	PUNCT	_	_	3	punct	_	start_char=142|end_char=143|SpacesAfter=\n\n
+
+# text = ma voi sapete ben veracemente qual è la donna cui son amadore: però voi raccomando il mi' fin core, che voi ben conoscete ad ubidente,
+# sent_id = 1
+1	ma	ma	CCONJ	csca	_	3	cc	_	start_char=145|end_char=147
+2	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=148|end_char=151
+3	sapete	sapere	VERB	vta2ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=152|end_char=158
+4	ben	bene	ADV	b	_	3	advmod	_	start_char=159|end_char=162
+5	veracemente	veracemente	ADV	b	_	3	advmod	_	start_char=163|end_char=174|SpacesAfter=\n
+6	qual	quale	DET	at2f	Number=Sing|PronType=Int	9	det	_	start_char=175|end_char=179
+7	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=180|end_char=181
+8	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=182|end_char=184
+9	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nsubj	_	start_char=185|end_char=190
+10	cui	cui	PRON	pr	PronType=Rel	12	nsubj	_	start_char=191|end_char=194
+11	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=195|end_char=198
+12	amadore	amadore	NOUN	sm3ms	Gender=Masc|Number=Sing	9	acl:relcl	_	start_char=199|end_char=206|SpaceAfter=No
+13	:	:	PUNCT	_	_	16	punct	_	start_char=206|end_char=207|SpacesAfter=\n
+14	però	però	ADV	cssc	_	16	advmod	_	start_char=208|end_char=212
+15	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	start_char=213|end_char=216
+16	raccomando	raccomandare	VERB	vta2ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=217|end_char=227
+17	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=228|end_char=230
+18	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	start_char=231|end_char=234
+19	fin	fino	ADJ	a2ms	Gender=Masc|Number=Sing	20	amod	_	start_char=235|end_char=238
+20	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	16	obj	_	start_char=239|end_char=243|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	start_char=243|end_char=244|SpacesAfter=\n
+22	che	che	SCONJ	cssu	_	25	mark	_	start_char=245|end_char=248
+23	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	25	nsubj	_	start_char=249|end_char=252
+24	ben	bene	ADV	b	_	25	advmod	_	start_char=253|end_char=256
+25	conoscete	conoscere	VERB	vta2ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=257|end_char=266
+26	ad	a	ADP	epsk1d	_	27	case	_	start_char=267|end_char=269
+27	ubidente	ubbidire	VERB	vi2ppsmms	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	25	obl	_	start_char=270|end_char=278|SpaceAfter=No
+28	,	,	PUNCT	_	_	16	punct	_	start_char=278|end_char=279|SpacesAfter=\n\n
+
+# text = che 'n vostro ragionar per voi aitato essere puote più ch'i' non so dire: perch'io ve 'n prego, dolce donna mia:
+# sent_id = 2
+1	che	che	SCONJ	cssu	_	7	mark	_	start_char=281|end_char=284
+2	'n	in	ADP	epsksl	_	4	case	_	start_char=285|end_char=287
+3	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	start_char=288|end_char=294
+4	ragionar	ragionare	VERB	vi1fpsm3ms	Tense=Pres|VerbForm=Inf	7	obl:lmod	_	start_char=295|end_char=303
+5	per	per	ADP	epskr	_	6	case	_	start_char=304|end_char=307
+6	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	7	obl	_	start_char=308|end_char=311
+7	aitato	aitare	VERB	vta1irs1	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=312|end_char=318|SpacesAfter=\n
+8	essere	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	7	aux	_	start_char=319|end_char=325
+9	puote	potere	AUX	vta22ps3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	start_char=326|end_char=331
+10	più	più	ADV	bc+	Degree=Cmp	7	advmod	_	start_char=332|end_char=335
+11	ch'	che	SCONJ	cssp	_	14	mark	_	start_char=336|end_char=339|SpaceAfter=No
+12	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=339|end_char=341
+13	non	non	ADV	b	PronType=Neg	14	advmod:neg	_	start_char=342|end_char=345
+14	so	sapere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=346|end_char=348
+15	dire	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=349|end_char=353|SpaceAfter=No
+16	:	:	PUNCT	_	_	21	punct	_	start_char=353|end_char=354|SpacesAfter=\n
+17	perch'	perché	SCONJ	ccsc	_	21	mark	_	start_char=355|end_char=361|SpaceAfter=No
+18	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	21	nsubj	_	start_char=361|end_char=363
+19	ve	ve	PRON	pp2syac	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	21	obj	_	start_char=364|end_char=366
+20	'n	in	ADP	epskw	_	21	mark	_	start_char=367|end_char=369
+21	prego	pregare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=370|end_char=375|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	start_char=375|end_char=376
+23	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	24	amod	_	start_char=377|end_char=382
+24	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	21	vocative	_	start_char=383|end_char=388
+25	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	start_char=389|end_char=392|SpaceAfter=No
+26	:	:	PUNCT	_	_	7	punct	_	start_char=392|end_char=393|SpacesAfter=\n\n
+
+# text = e per la vostra nobil cortesia non vi dispiaccia questo mio ardire, ch'amore in ciò mi sforza e.'l m'à 'nsegnato.
+# sent_id = 3
+1	e	e	CCONJ	cscc	_	9	cc	_	start_char=395|end_char=396
+2	per	per	ADP	epskr	_	6	case	_	start_char=397|end_char=400
+3	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=401|end_char=403
+4	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	start_char=404|end_char=410
+5	nobil	nobile	ADJ	a2fs	Gender=Fem|Number=Sing	6	amod	_	start_char=411|end_char=416
+6	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl:lmod	_	start_char=417|end_char=425|SpacesAfter=\n
+7	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	start_char=426|end_char=429
+8	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	9	iobj	_	start_char=430|end_char=432
+9	dispiaccia	dispiacere	VERB	vi2cps3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=433|end_char=443
+10	questo	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	start_char=444|end_char=450
+11	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	start_char=451|end_char=454
+12	ardire	ardire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	9	nsubj	_	start_char=455|end_char=461|SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	start_char=461|end_char=462|SpacesAfter=\n
+14	ch'	che	SCONJ	cssu	_	19	mark	_	start_char=463|end_char=466|SpaceAfter=No
+15	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	nsubj	_	start_char=466|end_char=471
+16	in	in	ADP	epskml	_	17	case	_	start_char=472|end_char=474
+17	ciò	cio'	PRON	pd	PronType=Dem	19	obl	_	start_char=475|end_char=478
+18	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	19	obj	_	start_char=479|end_char=481
+19	sforza	sforzare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=482|end_char=488
+20	e	e	CCONJ	cscc	_	23	cc	_	start_char=489|end_char=490|SpaceAfter=No
+21	.'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=490|end_char=493
+22	m'à	issere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	start_char=494|end_char=497
+23	'nsegnato	insegnare	VERB	vta2ips3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	conj	_	start_char=498|end_char=507|SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	start_char=507|end_char=508|SpaceAfter=No
+

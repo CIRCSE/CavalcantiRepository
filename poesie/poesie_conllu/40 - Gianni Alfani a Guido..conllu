@@ -1,0 +1,134 @@
+# newdoc id = 40 - Gianni Alfani a Guido.
+# text = Guido, quel Gianni ch’a te fu l’altr’ieri salute quanto piace alle tue risa da parte della giovane da Pisa che fier d’amor me’ che tu di trafieri.
+# sent_id = 0
+1	Guido	Guido	PROPN	np	_	0	root	_	start_char=0|end_char=5|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	start_char=5|end_char=6
+3	quel	quello	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=7|end_char=11
+4	Gianni	Gianni	PROPN	np	_	1	conj	_	start_char=12|end_char=18
+5	ch	chi	PRON	pr	PronType=Rel	4	nsubj	_	start_char=19|end_char=21|SpaceAfter=No
+6	’	’	PUNCT	_	_	4	punct	_	start_char=21|end_char=22|SpaceAfter=No
+7	a	a	ADP	epsk1d	_	8	case	_	start_char=22|end_char=23
+8	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	4	nmod	_	start_char=24|end_char=26
+9	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=27|end_char=29
+10	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=30|end_char=32|SpaceAfter=No
+11	altr’	altro	DET	ai	Number=Sing|PronType=Ind	13	det	_	start_char=32|end_char=37|SpaceAfter=No
+12	ieri	ieri	ADJ	a1fs	Gender=Fem|Number=Sing	13	amod	_	start_char=37|end_char=41|SpacesAfter=\n
+13	salute	salute	NOUN	sf3fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=42|end_char=48
+14	quanto	quanto	ADV	b	_	15	mark	_	start_char=49|end_char=55
+15	piace	piacere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=56|end_char=61
+16	alle	alla	NOUN	sf1fp	Gender=Fem|Number=Plur	15	nsubj	_	start_char=62|end_char=66
+17	tue	tuo	DET	as1fp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	start_char=67|end_char=70
+18	risa	risa	NOUN	sf1fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=71|end_char=75|SpacesAfter=\n
+19	da	da	ADP	epsks	_	20	case	_	start_char=76|end_char=78
+20	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	15	obl:lmod	_	start_char=79|end_char=84
+21	della	dello	ADJ	a1fs	Gender=Fem|Number=Sing	22	amod	_	start_char=85|end_char=90
+22	giovane	giovane	NOUN	sf3fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=91|end_char=98
+23	da	da	ADP	epsk6	_	24	case	_	start_char=99|end_char=101
+24	Pisa	Pisa	PROPN	np	_	22	nmod	_	start_char=102|end_char=106|SpacesAfter=\n
+25	che	che	PRON	pr	PronType=Rel	29	nsubj	_	start_char=107|end_char=110
+26	fier	essere	AUX	vi4ifp3	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	29	cop	_	start_char=111|end_char=115
+27	d’	di	ADP	eps	_	28	case	_	start_char=116|end_char=118|SpaceAfter=No
+28	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	24	acl:relcl	_	start_char=118|end_char=122
+29	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	24	acl:relcl	_	start_char=123|end_char=125|SpaceAfter=No
+30	’	’	PUNCT	_	_	34	punct	_	start_char=125|end_char=126
+31	che	che	SCONJ	cssu	_	34	mark	_	start_char=127|end_char=130
+32	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	34	nsubj	_	start_char=131|end_char=133
+33	di	di	ADP	epskg	_	34	mark	_	start_char=134|end_char=136
+34	trafieri	trafiare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	start_char=137|end_char=145|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	punct	_	start_char=145|end_char=146|SpacesAfter=\n\n
+
+# text = Ella mi domandò come tu eri acconcio di servir chi l’ae uccisa, s’ella con lui a te venisse in guisa che nol sapesse altri ch’egli e Gualtieri:
+# sent_id = 1
+1	Ella	ella	PRON	pp3fslso	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=148|end_char=152
+2	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	start_char=153|end_char=155
+3	domandò	domandare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=156|end_char=163
+4	come	come	ADV	b	_	7	mark	_	start_char=164|end_char=168
+5	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	7	nsubj	_	start_char=169|end_char=171
+6	eri	essere	AUX	vi4iis2	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	7	cop	_	start_char=172|end_char=175|SpacesAfter=\n
+7	acconcio	acconcio	ADJ	a1ms	Gender=Masc|Number=Sing	3	ccomp	_	start_char=176|end_char=184
+8	di	di	ADP	epsd	_	9	mark	_	start_char=185|end_char=187
+9	servir	servire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=188|end_char=194
+10	chi	chi	PRON	pr	PronType=Rel	13	nsubj	_	start_char=195|end_char=198
+11	l’	lo	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=199|end_char=201|SpaceAfter=No
+12	ae	avere	AUX	vta5cps3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	start_char=201|end_char=203
+13	uccisa	uccire	VERB	vta2irs3	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	9	ccomp	_	start_char=204|end_char=210|SpaceAfter=No
+14	,	,	PUNCT	_	_	21	punct	_	start_char=210|end_char=211|SpacesAfter=\n
+15	s’	se	SCONJ	cssv	_	21	mark	_	start_char=212|end_char=214|SpaceAfter=No
+16	ella	ella	PRON	pp3fslso	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=214|end_char=218
+17	con	con	ADP	epskc	_	18	case	_	start_char=219|end_char=222
+18	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	start_char=223|end_char=226
+19	a	a	ADP	epsk1d	_	20	case	_	start_char=227|end_char=228
+20	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	21	obl	_	start_char=229|end_char=231
+21	venisse	venire	VERB	vi1cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	start_char=232|end_char=239
+22	in	in	ADP	_	_	23	case	_	start_char=240|end_char=242
+23	guisa	guisa	NOUN	_	Gender=Fem|Number=Sing	21	obl:lmod	_	start_char=243|end_char=248|SpacesAfter=\n
+24	che	che	SCONJ	_	_	27	mark	_	start_char=249|end_char=252
+25-26	nol	_	_	_	_	_	_	_	start_char=253|end_char=256
+25	non	non	ADV	_	PronType=Neg	27	advmod:neg	_	_
+26	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	_
+27	sapesse	sapere	VERB	vta2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	advcl	_	start_char=257|end_char=264
+28	altri	altro	PRON	pi	Gender=Masc|Number=Plur|PronType=Ind	27	obj	_	start_char=265|end_char=270
+29	ch’	che	PRON	pr	PronType=Rel	30	nsubj	_	start_char=271|end_char=274|SpaceAfter=No
+30	egli	egli	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	start_char=274|end_char=278
+31	e	e	CCONJ	cscc	_	32	cc	_	start_char=279|end_char=280
+32	Gualtieri	Gualtieri	PROPN	np	_	30	conj	_	start_char=281|end_char=290|SpaceAfter=No
+33	:	:	PUNCT	_	_	3	punct	_	start_char=290|end_char=291|SpacesAfter=\n\n
+
+# text = si ch’e’ suo’ parenti da far macco non potesser giammai lor più far danno che dir meno di te da lunge iscacco.
+# sent_id = 2
+1-2	si	_	_	_	_	_	_	_	start_char=293|end_char=295
+1	si	si	PRON	pf3xlm	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	17	expl:impers	_	_
+2	si	si	PRON	pf3xim	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	10	expl:impers	_	_
+3	ch’	che	SCONJ	csss	_	10	mark	_	start_char=296|end_char=299|SpaceAfter=No
+4	e	e	CCONJ	cscc	_	8	cc	_	start_char=299|end_char=300|SpaceAfter=No
+5	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=300|end_char=301
+6	suo	suo	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	start_char=302|end_char=305|SpaceAfter=No
+7	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=305|end_char=306
+8	parenti	parente	NOUN	sm3mp	Gender=Masc|Number=Plur	10	obj	_	start_char=307|end_char=314
+9	da	da	ADP	eps	_	10	mark	_	start_char=315|end_char=317
+10	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=318|end_char=321
+11	macco	macco	NOUN	sm2ms	Gender=Masc|Number=Sing	10	obj	_	start_char=322|end_char=327|SpacesAfter=\n
+12	non	non	ADV	b	PronType=Neg	14	advmod:neg	_	start_char=328|end_char=331
+13	potesser	potere	AUX	vta2crp3	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	14	aux	_	start_char=332|end_char=340
+14	giammai	giammare	VERB	vta1pp	Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	start_char=341|end_char=348
+15	lor	loro	DET	as	Poss=Yes|PronType=Prs	18	det:poss	_	start_char=349|end_char=352
+16	più	più	ADV	b	_	17	advmod	_	start_char=353|end_char=356
+17	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=357|end_char=360
+18	danno	danno	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obj	_	start_char=361|end_char=366|SpacesAfter=\n
+19	che	che	SCONJ	cssu	_	20	mark	_	start_char=367|end_char=370
+20	dir	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=371|end_char=374
+21	meno	meno	ADV	b	_	26	advmod	_	start_char=375|end_char=379
+22	di	di	ADP	epskg	_	23	case	_	start_char=380|end_char=382
+23	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	26	obl	_	start_char=383|end_char=385
+24	da	da	ADP	_	_	25	case	_	start_char=386|end_char=388
+25	lunge	lungo	ADV	_	_	26	advmod:lmod	_	start_char=389|end_char=394
+26	iscacco	scaccare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=395|end_char=402|SpaceAfter=No
+27	.	.	PUNCT	_	_	17	punct	_	start_char=402|end_char=403|SpacesAfter=\n\n
+
+# text = Io le respuosi che tu senza inganno portavi pien di ta’ saette un sacco che gli trarresti di briga e d’affanno.
+# sent_id = 3
+1	Io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=405|end_char=407
+2	le	le	PRON	pp3fsydc	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=408|end_char=410
+3	respuosi	rispuore	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=411|end_char=419
+4	che	che	SCONJ	csso	_	8	mark	_	start_char=420|end_char=423
+5	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	8	nsubj	_	start_char=424|end_char=426
+6	senza	senza	ADP	epskm	_	7	case	_	start_char=427|end_char=432
+7	inganno	inganno	NOUN	sm2ms	Gender=Masc|Number=Sing	8	obl	_	start_char=433|end_char=440|SpacesAfter=\n
+8	portavi	portare	VERB	vta1irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=441|end_char=448
+9	pien	pieno	ADJ	a1msxc5	Gender=Masc|Number=Sing	8	xcomp	_	start_char=449|end_char=453
+10	di	di	ADP	epskg	_	11	case	_	start_char=454|end_char=456
+11	ta	ta	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl	_	start_char=457|end_char=459|SpaceAfter=No
+12	’	’	PUNCT	_	_	13	punct	_	start_char=459|end_char=460
+13	saette	saetta	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=461|end_char=467
+14	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=468|end_char=470
+15	sacco	sacco	NOUN	sm2ms	Gender=Masc|Number=Sing	13	obj	_	start_char=471|end_char=476|SpacesAfter=\n
+16	che	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=477|end_char=480
+17	gli	gli	PRON	pp3myac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	start_char=481|end_char=484
+18	trarresti	trarre	VERB	vta1cps2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	start_char=485|end_char=494
+19	di	di	ADP	epskg	_	20	case	_	start_char=495|end_char=497
+20	briga	briga	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl	_	start_char=498|end_char=503
+21	e	e	CCONJ	cscc	_	23	cc	_	start_char=504|end_char=505
+22	d’	di	ADP	eps	_	23	case	_	start_char=506|end_char=508|SpaceAfter=No
+23	affanno	affanno	NOUN	sm2ms	Gender=Masc|Number=Sing	20	conj	_	start_char=508|end_char=515|SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	start_char=515|end_char=516|SpaceAfter=No
+

@@ -1,0 +1,158 @@
+# newdoc id = 26 - risposta dell’Orlandi a Guido.
+# text = Amico, i’ saccio ben che sa’ limare con punta lata maglia di coretto, di palo in frasca come uccel volare, con grande ingegno gir per loco stretto,
+# sent_id = 0
+1	Amico	amico	NOUN	sm2ms	Gender=Masc|Number=Sing	5	nsubj	_	start_char=0|end_char=5|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5|end_char=6
+3	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	1	det	_	start_char=7|end_char=8|SpaceAfter=No
+4	’	’	PUNCT	_	_	5	punct	_	start_char=8|end_char=9
+5	saccio	sacire	VERB	vta2ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=10|end_char=16
+6	ben	bene	ADV	b	_	5	advmod	_	start_char=17|end_char=20
+7	che	che	PRON	pr	PronType=Rel	8	nsubj	_	start_char=21|end_char=24
+8	sa	sapere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=25|end_char=27|SpaceAfter=No
+9	’	’	PUNCT	_	_	10	punct	_	start_char=27|end_char=28
+10	limare	limare	VERB	vta1p	Tense=Pres|VerbForm=Inf	5	advcl	_	start_char=29|end_char=35|SpacesAfter=\n
+11	con	con	ADP	epskm	_	12	case	_	start_char=36|end_char=39
+12	punta	punta	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obl	_	start_char=40|end_char=45
+13	lata	lato	ADJ	a1fs	Gender=Fem|Number=Sing	14	amod	_	start_char=46|end_char=50
+14	maglia	maglia	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obj	_	start_char=51|end_char=57
+15	di	di	ADP	epskz	_	16	case	_	start_char=58|end_char=60
+16	coretto	coretto	NOUN	sm2ms	Gender=Masc|Number=Sing	14	nmod	_	start_char=61|end_char=68|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	start_char=68|end_char=69|SpacesAfter=\n
+18	di	di	ADP	epskd	_	19	case	_	start_char=70|end_char=72
+19	palo	palo	NOUN	sm2ms	Gender=Masc|Number=Sing	21	nmod	_	start_char=73|end_char=77
+20	in	in	ADP	epskml	_	21	case	_	start_char=78|end_char=80
+21	frasca	frasca	NOUN	sf1fs	Gender=Fem|Number=Sing	24	obl:lmod	_	start_char=81|end_char=87
+22	come	come	ADV	b	_	23	mark	_	start_char=88|end_char=92
+23	uccel	uccello	NOUN	sm2ms	Gender=Masc|Number=Sing	24	advcl:cmp	_	start_char=93|end_char=98
+24	volare	volare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	29	advcl	_	start_char=99|end_char=105|SpaceAfter=No
+25	,	,	PUNCT	_	_	23	punct	_	start_char=105|end_char=106|SpacesAfter=\n
+26	con	con	ADP	epskm	_	28	case	_	start_char=107|end_char=110
+27	grande	grande	ADJ	a2ms	Gender=Masc|Number=Sing	28	amod	_	start_char=111|end_char=117
+28	ingegno	ingegno	NOUN	sm2ms	Gender=Masc|Number=Sing	29	obl	_	start_char=118|end_char=125
+29	gir	gire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	10	advcl	_	start_char=126|end_char=129
+30	per	per	ADP	epskp	_	31	case	_	start_char=130|end_char=133
+31	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	29	obl	_	start_char=134|end_char=138
+32	stretto	stringere	VERB	vta2a1s	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	29	xcomp	_	start_char=139|end_char=146|SpaceAfter=No
+33	,	,	PUNCT	_	_	5	punct	_	start_char=146|end_char=147|SpacesAfter=\n\n
+
+# text = e largamente prendere e donare, salvar lo guadagnato (ciò m’è detto) accoglier gente, terra guadagnare: in te non trovo mai ch’uno difetto,
+# sent_id = 1
+1	e	e	CCONJ	cscc	_	16	cc	_	start_char=149|end_char=150
+2	largamente	largamente	ADV	b	_	3	advmod	_	start_char=151|end_char=161
+3	prendere	prendere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=162|end_char=170
+4	e	e	CCONJ	cscc	_	5	cc	_	start_char=171|end_char=172
+5	donare	donare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	conj	_	start_char=173|end_char=179|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	start_char=179|end_char=180|SpacesAfter=\n
+7	salvar	salvare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=181|end_char=187
+8	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=188|end_char=190
+9	guadagnato	guadagnare	VERB	vta1prsm2m	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	obj	_	start_char=191|end_char=201
+10	(	(	PUNCT	_	_	14	punct	_	start_char=202|end_char=203|SpaceAfter=No
+11	ciò	cio'	PRON	pd	PronType=Dem	14	nsubj	_	start_char=203|end_char=206
+12	m’	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	14	iobj	_	start_char=207|end_char=209|SpaceAfter=No
+13	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=209|end_char=210
+14	detto	dire	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	start_char=211|end_char=216|SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	start_char=216|end_char=217|SpacesAfter=\n
+16	accoglier	accogliere	VERB	vta2fp2	Person=2|Tense=Pres|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=218|end_char=227
+17	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	16	obj	_	start_char=228|end_char=233|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	start_char=233|end_char=234
+19	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	20	nsubj	_	start_char=235|end_char=240
+20	guadagnare	guadagnare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	16	advcl	_	start_char=241|end_char=251|SpaceAfter=No
+21	:	:	PUNCT	_	_	25	punct	_	start_char=251|end_char=252|SpacesAfter=\n
+22	in	in	ADP	epsksl	_	23	case	_	start_char=253|end_char=255
+23	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	25	obl	_	start_char=256|end_char=258
+24	non	non	ADV	b	PronType=Neg	25	advmod:neg	_	start_char=259|end_char=262
+25	trovo	trovare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	start_char=263|end_char=268
+26	mai	mai	ADV	b	_	25	advmod:tmod	_	start_char=269|end_char=272
+27	ch	ch	ADV	b	_	25	advmod	_	start_char=273|end_char=275|SpaceAfter=No
+28	’	’	PUNCT	_	_	30	punct	_	start_char=275|end_char=276|SpaceAfter=No
+29	uno	uno	DET	an1ms	Gender=Masc|Number=Sing	30	det	_	start_char=276|end_char=279
+30	difetto	difetto	NOUN	sm2ms	Gender=Masc|Number=Sing	25	obj	_	start_char=280|end_char=287|SpaceAfter=No
+31	,	,	PUNCT	_	_	25	punct	_	start_char=287|end_char=288|SpacesAfter=\n\n
+
+# text = che vai dicendo in tra la savia gente, faresti Amore piangere in tuo stato.
+# sent_id = 2
+1	che	che	PRON	pt	PronType=Int	2	nsubj	_	start_char=290|end_char=293
+2	vai	andare	VERB	vi1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=294|end_char=297
+3	dicendo	dire	VERB	vta3gp	VerbForm=Conv|Voice=Act	2	advcl	_	start_char=298|end_char=305
+4	in	in	ADP	_	_	8	case	_	start_char=306|end_char=308
+5	tra	tra	ADP	epsksl	_	8	case	_	start_char=309|end_char=312
+6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=313|end_char=315
+7	savia	savio	ADJ	a1fs	Gender=Fem|Number=Sing	8	amod	_	start_char=316|end_char=321
+8	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	2	obl:lmod	_	start_char=322|end_char=327|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	start_char=327|end_char=328|SpacesAfter=\n
+10	faresti	fare	VERB	vta1dps2	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|Voice=Act	2	conj	_	start_char=329|end_char=336
+11	Amore	Amore	PROPN	np	_	10	obj	_	start_char=337|end_char=342
+12	piangere	piangere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	10	xcomp	_	start_char=343|end_char=351
+13	in	in	ADP	epskml	_	15	case	_	start_char=352|end_char=354
+14	tuo	tuo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	start_char=355|end_char=358
+15	stato	stato	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obl:lmod	_	start_char=359|end_char=364|SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	start_char=364|end_char=365|SpacesAfter=\n
+
+# text = Non credo: poi non vede: quest’è piano.
+# sent_id = 3
+1	Non	non	ADV	b	PronType=Neg	2	advmod:neg	_	start_char=366|end_char=369
+2	credo	credere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=370|end_char=375|SpaceAfter=No
+3	:	:	PUNCT	_	_	6	punct	_	start_char=375|end_char=376
+4	poi	poi	ADV	b	_	6	advmod:tmod	_	start_char=377|end_char=380
+5	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	start_char=381|end_char=384
+6	vede	vedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=385|end_char=389|SpaceAfter=No
+7	:	:	PUNCT	_	_	10	punct	_	start_char=389|end_char=390
+8	quest’	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	start_char=391|end_char=397|SpaceAfter=No
+9	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=397|end_char=398
+10	piano	piano	NOUN	sm2ms	Gender=Masc|Number=Sing	6	parataxis	_	start_char=399|end_char=404|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	start_char=404|end_char=405|SpacesAfter=\n\n
+
+# text = E ben di’ ’l ver che non si porta in mano: anzi per passïon punge la mente dell’omo ch’ama e non si trova amato.
+# sent_id = 4
+1	E	e	CCONJ	cscc	_	2	cc	_	start_char=407|end_char=408
+2	ben	bene	ADV	b	_	7	advmod	_	start_char=409|end_char=412
+3	di	di	ADP	_	_	7	case	_	start_char=413|end_char=415|SpaceAfter=No
+4	’	’	PUNCT	_	_	7	punct	_	start_char=415|end_char=416
+5	’	’	PUNCT	_	_	7	punct	_	start_char=417|end_char=418|SpaceAfter=No
+6	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=418|end_char=419
+7	ver	vero	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=420|end_char=423
+8	che	che	PRON	pr	PronType=Rel	11	nsubj:pass	_	start_char=424|end_char=427
+9	non	non	ADV	b	PronType=Neg	11	advmod:neg	_	start_char=428|end_char=431
+10	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	11	expl:impers	_	start_char=432|end_char=434
+11	porta	portare	VERB	vtp1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=435|end_char=440
+12	in	in	ADP	epsksl	_	13	case	_	start_char=441|end_char=443
+13	mano	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	11	obl:lmod	_	start_char=444|end_char=448|SpaceAfter=No
+14	:	:	PUNCT	_	_	18	punct	_	start_char=448|end_char=449|SpacesAfter=\n
+15	anzi	anzi	CCONJ	csca	_	18	cc	_	start_char=450|end_char=454
+16	per	per	ADP	epskr	_	17	case	_	start_char=455|end_char=458
+17	passïon	passïone	NOUN	sf3fs	Gender=Fem|Number=Sing	18	obl	_	start_char=459|end_char=466
+18	punge	pungere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=467|end_char=472
+19	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=473|end_char=475
+20	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	18	obj	_	start_char=476|end_char=481|SpacesAfter=\n
+21	dell	dello	CCONJ	cscc	_	23	cc	_	start_char=482|end_char=486|SpaceAfter=No
+22	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	start_char=486|end_char=487|SpaceAfter=No
+23	omo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	20	conj	_	start_char=487|end_char=490
+24	ch’	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=491|end_char=494|SpaceAfter=No
+25	ama	amare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	start_char=494|end_char=497
+26	e	e	CCONJ	cscc	_	29	cc	_	start_char=498|end_char=499
+27	non	non	ADV	b	PronType=Neg	29	advmod:neg	_	start_char=500|end_char=503
+28	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	29	expl:impers	_	start_char=504|end_char=506
+29	trova	trovare	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	start_char=507|end_char=512
+30	amato	amato	VERB	vta1iia1ms	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	29	xcomp	_	start_char=513|end_char=518|SpaceAfter=No
+31	.	.	PUNCT	_	_	18	punct	_	start_char=518|end_char=519|SpacesAfter=\n\n
+
+# text = Io per lung’uso disusai lo primo amor carnale: non tangio nel limo.
+# sent_id = 5
+1	Io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	5	nsubj	_	start_char=521|end_char=523
+2	per	per	ADP	epskr	_	4	case	_	start_char=524|end_char=527
+3	lung’	lungo	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	start_char=528|end_char=533|SpaceAfter=No
+4	uso	uso	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=533|end_char=536
+5	disusai	disusare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=537|end_char=544
+6	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=545|end_char=547
+7	primo	primo	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	8	amod	_	start_char=548|end_char=553|SpacesAfter=\n
+8	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obj	_	start_char=554|end_char=558
+9	carnale	carnale	ADJ	a2ms	Number=Sing	8	amod	_	start_char=559|end_char=566|SpaceAfter=No
+10	:	:	PUNCT	_	_	12	punct	_	start_char=566|end_char=567
+11	non	non	ADV	b	PronType=Neg	12	advmod:neg	_	start_char=568|end_char=571
+12	tangio	tanciare	VERB	vi1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	parataxis	_	start_char=572|end_char=578
+13-14	nel	_	_	_	_	_	_	_	start_char=579|end_char=582
+13	in	in	ADP	_	_	15	case	_	_
+14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	limo	limo	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obl:lmod	_	start_char=583|end_char=587|SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	start_char=587|end_char=588|SpaceAfter=No
+

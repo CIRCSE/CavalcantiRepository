@@ -1,0 +1,119 @@
+# newdoc id = 60 - Farinata degli Uberti a Guido.
+# text = Guido, quando dicesti pasturella, vorre' ch'avessi dett' un bel pastore: chè si conven ad om che vogl' onore se vol contar verace sua novella.
+# sent_id = 0
+1	Guido	Guido	PROPN	np	_	7	nsubj	_	start_char=0|end_char=5|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	start_char=5|end_char=6
+3	quando	quando	SCONJ	csst	_	4	mark	_	start_char=7|end_char=13
+4	dicesti	dire	VERB	vta3irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=14|end_char=21
+5	pasturella	pasturella	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obj	_	start_char=22|end_char=32|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	start_char=32|end_char=33|SpacesAfter=\n
+7	vorre'	volere	VERB	vta2ips2	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	start_char=34|end_char=40
+8	ch'	che	SCONJ	csso	_	10	mark	_	start_char=41|end_char=44|SpaceAfter=No
+9	avessi	avere	AUX	vta5cis2	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin|Voice=Act	10	aux	_	start_char=44|end_char=50
+10	dett'	dire	VERB	vta2ibs2	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	ccomp	_	start_char=51|end_char=56
+11	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=57|end_char=59
+12	bel	bello	ADJ	a1ms	Gender=Masc|Number=Sing	13	amod	_	start_char=60|end_char=63
+13	pastore	pastore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obj	_	start_char=64|end_char=71|SpaceAfter=No
+14	:	:	PUNCT	_	_	17	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+15	chè	chè	SCONJ	cssc	_	17	mark	_	start_char=73|end_char=76
+16	si	si	PRON	pf3ypm	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	17	expl:impers	_	start_char=77|end_char=79
+17	conven	convenire	VERB	vi*3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	start_char=80|end_char=86
+18	ad	a	ADP	epskml	_	19	case	_	start_char=87|end_char=89
+19	om	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obl	_	start_char=90|end_char=92
+20	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=93|end_char=96
+21	vogl'	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=97|end_char=102
+22	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	21	obj	_	start_char=103|end_char=108|SpacesAfter=\n
+23	se	se	SCONJ	cssv	_	25	mark	_	start_char=109|end_char=111
+24	vol	volo	X	_	Foreign=Yes	25	nsubj	_	start_char=112|end_char=115
+25	contar	contare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=116|end_char=122
+26	verace	verace	ADJ	a2fs	Gender=Fem|Number=Sing	28	amod	_	start_char=123|end_char=129
+27	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	det:poss	_	start_char=130|end_char=133
+28	novella	novella	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obj	_	start_char=134|end_char=141|SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	start_char=141|end_char=142|SpacesAfter=\n\n
+
+# text = Tuttor verghetta avia piacent' e bella: pertanto lo tu' dir non à fallore, ch'i' non conosco re nè 'mperatore che no l'avesse agiata camerella.
+# sent_id = 1
+1	Tuttor	tuttora	ADV	b	_	3	advmod	_	start_char=144|end_char=150
+2	verghetta	verghetta	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nsubj	_	start_char=151|end_char=160
+3	avia	avere	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=161|end_char=165
+4	piacent'	piacenlo	ADJ	a2fs	Gender=Fem|Number=Sing	3	xcomp	_	start_char=166|end_char=174
+5	e	e	CCONJ	cscc	_	6	cc	_	start_char=175|end_char=176
+6	bella	bello	ADJ	a1fs	Gender=Fem|Number=Sing	4	conj	_	start_char=177|end_char=182|SpaceAfter=No
+7	:	:	PUNCT	_	_	13	punct	_	start_char=182|end_char=183|SpacesAfter=\n
+8	pertanto	pertanto	ADV	b	_	13	advmod	_	start_char=184|end_char=192
+9	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=193|end_char=195
+10	tu'	tui	PRON	pp2ms	Number=Sing|PronType=Prs	13	nsubj	_	start_char=196|end_char=199
+11	dir	dire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	13	nsubj	_	start_char=200|end_char=203
+12	non	non	ADV	b	PronType=Neg	13	advmod:neg	_	start_char=204|end_char=207
+13	à	andare	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=208|end_char=209
+14	fallore	fallore	NOUN	sm3ms	Gender=Masc|Number=Sing	13	obj	_	start_char=210|end_char=217|SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	start_char=217|end_char=218|SpacesAfter=\n
+16	ch'	che	SCONJ	cssu	_	19	mark	_	start_char=219|end_char=222|SpaceAfter=No
+17	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=222|end_char=224
+18	non	non	ADV	b	PronType=Neg	19	advmod:neg	_	start_char=225|end_char=228
+19	conosco	conoscere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=229|end_char=236
+20	re	re	NOUN	sm3ms	Gender=Masc|Number=Sing	19	obj	_	start_char=237|end_char=239
+21	nè	nè	CCONJ	cscc	_	22	cc	_	start_char=240|end_char=242
+22	'mperatore	imperatore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	conj	_	start_char=243|end_char=253|SpacesAfter=\n
+23	che	che	PRON	pr	PronType=Rel	27	nsubj	_	start_char=254|end_char=257
+24	no	non	ADV	b	_	27	advmod:lmod	_	start_char=258|end_char=260
+25	l'	il	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=261|end_char=263|SpaceAfter=No
+26	avesse	avere	AUX	vta5cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	27	aux	_	start_char=263|end_char=269
+27	agiata	agiare	VERB	vta1cts3	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	22	acl:relcl	_	start_char=270|end_char=276
+28	camerella	camerella	NOUN	sf1fs	Gender=Fem|Number=Sing	27	obj	_	start_char=277|end_char=286|SpaceAfter=No
+29	.	.	PUNCT	_	_	3	punct	_	start_char=286|end_char=287|SpacesAfter=\n\n
+
+# text = Ma dicem un' che fu tec' al boschetto il giorno che si pasturan gli agnelli, che non s'avvide se non d'un valletto
+# sent_id = 2
+1	Ma	ma	CCONJ	csca	_	2	cc	_	start_char=289|end_char=291
+2	dicem	dire	VERB	vta3mpp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=292|end_char=297
+3	un'	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	obj	_	start_char=298|end_char=301
+4	che	che	PRON	pr	PronType=Rel	6	nsubj	_	start_char=302|end_char=305
+5	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=306|end_char=308
+6	tec'	teco	NOUN	sf3fs	Gender=Fem|Number=Sing	2	ccomp	_	start_char=309|end_char=313
+7-8	al	_	_	_	_	_	_	_	start_char=314|end_char=316
+7	a	a	ADP	_	_	9	case	_	_
+8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	boschetto	boschetto	NOUN	sm2ms	Gender=Masc|Number=Sing	2	obl:lmod	_	start_char=317|end_char=326|SpacesAfter=\n
+10	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=327|end_char=329
+11	giorno	giorno	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=330|end_char=336
+12	che	che	PRON	pr	PronType=Rel	14	nsubj:pass	_	start_char=337|end_char=340
+13	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	14	expl:impers	_	start_char=341|end_char=343
+14	pasturan	pastorare	VERB	vtp1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	start_char=344|end_char=352
+15	gli	gli	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	start_char=353|end_char=356
+16	agnelli	agnello	NOUN	sm2mp	Gender=Masc|Number=Plur	14	nsubj:pass	_	start_char=357|end_char=364|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	start_char=364|end_char=365|SpacesAfter=\n
+18	che	che	PRON	pr	PronType=Rel	21	nsubj:pass	_	start_char=366|end_char=369
+19	non	non	ADV	b	PronType=Neg	21	advmod:neg	_	start_char=370|end_char=373
+20	s'	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	21	expl:impers	_	start_char=374|end_char=376|SpaceAfter=No
+21	avvide	avvedere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	acl:relcl	_	start_char=376|end_char=382
+22	se	se	SCONJ	_	_	26	mark	_	start_char=383|end_char=385
+23	non	non	ADV	_	PronType=Neg	26	advmod:neg	_	start_char=386|end_char=389
+24	d'	di	ADP	eps	_	26	case	_	start_char=390|end_char=392|SpaceAfter=No
+25	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	start_char=392|end_char=394
+26	valletto	valletto	NOUN	sm2ms	Gender=Masc|Number=Sing	21	obl	_	start_char=395|end_char=403|SpacesAfter=\n\n
+
+# text = che cavalcava ed era biondetto ed avea li suo' panni corterelli: però rassetta, se vuo', tuo mottetto.
+# sent_id = 3
+1	che	che	PRON	pr	PronType=Rel	2	nsubj	_	start_char=405|end_char=408
+2	cavalcava	cavalcare	VERB	vi1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=409|end_char=418
+3	ed	e	CCONJ	cscc	_	5	cc	_	start_char=419|end_char=421
+4	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=422|end_char=425
+5	biondetto	biondetto	ADJ	a1ms	Gender=Masc|Number=Sing	2	xcomp	_	start_char=426|end_char=435|SpacesAfter=\n
+6	ed	e	CCONJ	cscc	_	10	cc	_	start_char=436|end_char=438
+7	avea	avere	AUX	vta5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	start_char=439|end_char=443
+8	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	start_char=444|end_char=446
+9	suo'	suo	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	start_char=447|end_char=451
+10	panni	panno	NOUN	sm2mp	Gender=Masc|Number=Plur	5	nsubj	_	start_char=452|end_char=457
+11	corterelli	corterello	NOUN	sm2mp	Gender=Masc|Number=Plur	5	nsubj	_	start_char=458|end_char=468|SpaceAfter=No
+12	:	:	PUNCT	_	_	14	punct	_	start_char=468|end_char=469|SpacesAfter=\n
+13	però	però	ADV	cssc	_	14	advmod	_	start_char=470|end_char=474
+14	rassetta	rossettare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=475|end_char=483|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	start_char=483|end_char=484
+16	se	se	SCONJ	cssv	_	17	mark	_	start_char=485|end_char=487
+17	vuo'	volere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	start_char=488|end_char=492|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	start_char=492|end_char=493
+19	tuo	tuo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	start_char=494|end_char=497
+20	mottetto	mottetto	NOUN	sm2ms	Gender=Masc|Number=Sing	14	nsubj	_	start_char=498|end_char=506|SpaceAfter=No
+21	.	.	PUNCT	_	_	14	punct	_	start_char=506|end_char=507|SpaceAfter=No
+

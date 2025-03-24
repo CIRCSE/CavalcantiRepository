@@ -1,0 +1,128 @@
+# newdoc id = XIII - Ne l'amoroso affanno son tornato
+# text = Ne l'amoroso affanno son tornato ed òmmi miso amore a sostenere: la più dolce fatica, al mi' parere, che sostenesse mai null'omo nato.
+# sent_id = 0
+1	Ne	in	ADP	epaksl	_	4	case	_	start_char=0|end_char=2
+2	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=3|end_char=5|SpaceAfter=No
+3	amoroso	amoroso	ADJ	a1ms	Gender=Masc|Number=Sing	4	amod	_	start_char=5|end_char=12
+4	affanno	affanno	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=13|end_char=20
+5	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=21|end_char=24
+6	tornato	tornare	VERB	vi1ibs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	start_char=25|end_char=32|SpacesAfter=\n
+7	ed	e	CCONJ	cscc	_	8	cc	_	start_char=33|end_char=35
+8	òmmi	apere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=36|end_char=40
+9	miso	mettere	ADJ	a1ms	Gender=Masc|Number=Sing	10	amod	_	start_char=41|end_char=45
+10	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=46|end_char=51
+11	a	a	ADP	epsb	_	12	mark	_	start_char=52|end_char=53
+12	sostenere	sostenere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=54|end_char=63|SpaceAfter=No
+13	:	:	PUNCT	_	_	6	punct	_	start_char=63|end_char=64|SpacesAfter=\n
+14	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=65|end_char=67
+15	più	più	ADV	b	_	17	advmod	_	start_char=68|end_char=71
+16	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	17	amod	_	start_char=72|end_char=77
+17	fatica	fatica	NOUN	sf1fs	Gender=Fem|Number=Sing	6	parataxis	_	start_char=78|end_char=84|SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	start_char=84|end_char=85
+19-20	al	_	_	_	_	_	_	_	start_char=86|end_char=88
+19	a	a	ADP	_	_	22	case	_	_
+20	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	start_char=89|end_char=92
+22	parere	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	17	nmod	_	start_char=93|end_char=99|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	start_char=99|end_char=100|SpacesAfter=\n
+24	che	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=101|end_char=104
+25	sostenesse	sostenere	VERB	vta2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=105|end_char=115
+26	mai	mai	ADV	b	_	25	advmod:tmod	_	start_char=116|end_char=119
+27	null'	nullo	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	28	det	_	start_char=120|end_char=125|SpaceAfter=No
+28	omo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	29	nsubj	_	start_char=125|end_char=128
+29	nato	nascere	VERB	vi2pra1s	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	25	ccomp	_	start_char=129|end_char=133|SpaceAfter=No
+30	.	.	PUNCT	_	_	6	punct	_	start_char=133|end_char=134|SpacesAfter=\n\n
+
+# text = Chè 'n quello loco, ove m'à servo dato, dimoro sì con tutto il mi' volere, che segnoria non è nè nul piacere ch'i' più volesse nè mi fosse 'n grato.
+# sent_id = 1
+1	Chè	chè	ADV	b	_	11	advmod	_	start_char=136|end_char=139
+2	'n	in	ADP	epsksl	_	4	case	_	start_char=140|end_char=142
+3	quello	quello	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=143|end_char=149
+4	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obl:lmod	_	start_char=150|end_char=154|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	start_char=154|end_char=155
+6	ove	ove	PRON	p	_	9	obl:lmod	_	start_char=156|end_char=159
+7	m'à	m'a	ADV	b	_	9	advmod:tmod	_	start_char=160|end_char=163
+8	servo	servo	NOUN	sm2ms	Gender=Masc|Number=Sing	9	nsubj	_	start_char=164|end_char=169
+9	dato	dare	VERB	vtp1irs3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl:relcl	_	start_char=170|end_char=174|SpaceAfter=No
+10	,	,	PUNCT	_	_	4	punct	_	start_char=174|end_char=175|SpacesAfter=\n
+11	dimoro	dimora	VERB	vi1ipp1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=176|end_char=182
+12	sì	così	ADV	b	_	11	advmod	_	start_char=183|end_char=185
+13	con	con	ADP	epskw	_	17	case	_	start_char=186|end_char=189
+14	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	17	det:predet	_	start_char=190|end_char=195
+15	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	start_char=196|end_char=198
+16	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	start_char=199|end_char=202
+17	volere	volere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	11	obl:lmod	_	start_char=203|end_char=209|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	start_char=209|end_char=210|SpacesAfter=\n
+19	che	che	SCONJ	cssu	_	20	mark	_	start_char=211|end_char=214
+20	segnoria	signoria	NOUN	sf1fs	Gender=Fem|Number=Sing	11	nsubj	_	start_char=215|end_char=223
+21	non	non	ADV	b	PronType=Neg	26	advmod:neg	_	start_char=224|end_char=227
+22	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	start_char=228|end_char=229
+23	nè	nè	CCONJ	cscc	_	26	cc	_	start_char=230|end_char=232
+24-25	nul	_	_	_	_	_	_	_	start_char=233|end_char=236
+24	in	in	ADP	_	_	26	case	_	_
+25	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	piacere	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	20	orphan	_	start_char=237|end_char=244|SpacesAfter=\n
+27	ch'	che	PRON	pr	PronType=Rel	30	nsubj	_	start_char=245|end_char=248|SpaceAfter=No
+28	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	start_char=248|end_char=250
+29	più	più	ADV	b	_	30	advmod	_	start_char=251|end_char=254
+30	volesse	volere	VERB	vta2cis1	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	26	acl:relcl	_	start_char=255|end_char=262
+31	nè	nè	ADV	b	_	35	advmod	_	start_char=263|end_char=265
+32	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	35	iobj	_	start_char=266|end_char=268
+33	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	35	cop	_	start_char=269|end_char=274
+34	'n	in	ADP	epskm	_	35	case	_	start_char=275|end_char=277
+35	grato	grado	NOUN	sm2ms	Gender=Masc|Number=Sing	30	obl:lmod	_	start_char=278|end_char=283|SpaceAfter=No
+36	.	.	PUNCT	_	_	11	punct	_	start_char=283|end_char=284|SpacesAfter=\n\n
+
+# text = Chè giovane bieltade e cortesia, saver compiuto con perfetto onore tuttor si trova in quella, cui disio.
+# sent_id = 2
+1	Chè	chè	SCONJ	cssv	_	3	mark	_	start_char=286|end_char=289
+2	giovane	giovane	ADJ	a2fs	Gender=Fem|Number=Sing	3	amod	_	start_char=290|end_char=297
+3	bieltade	bieltà	NOUN	sf3fs	Gender=Fem|Number=Sing	14	nsubj:pass	_	start_char=298|end_char=306
+4	e	e	CCONJ	cscc	_	5	cc	_	start_char=307|end_char=308
+5	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	3	conj	_	start_char=309|end_char=317|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	start_char=317|end_char=318|SpacesAfter=\n
+7	saver	sapere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	3	conj	_	start_char=319|end_char=324
+8	compiuto	compiere	VERB	vtp2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl:pred	_	start_char=325|end_char=333
+9	con	con	ADP	epskm	_	11	case	_	start_char=334|end_char=337
+10	perfetto	perficere	ADJ	a1ms	Gender=Masc|Number=Sing	11	amod	_	start_char=338|end_char=346
+11	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	14	obl:agent	_	start_char=347|end_char=352|SpacesAfter=\n
+12	tuttor	tuttora	ADV	b	_	14	advmod:tmod	_	start_char=353|end_char=359
+13	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	start_char=360|end_char=362
+14	trova	trovare	VERB	vtp1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=363|end_char=368
+15	in	in	ADP	_	_	16	case	_	start_char=369|end_char=371
+16	quella	quello	ADJ	_	Gender=Fem|Number=Sing|PronType=Dem	14	obl:agent	_	start_char=372|end_char=378|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	start_char=378|end_char=379
+18	cui	cui	PRON	pr	PronType=Rel	19	nmod	_	start_char=380|end_char=383
+19	disio	desiderio	NOUN	sm2ms	Gender=Masc|Number=Sing	14	conj	_	start_char=384|end_char=389|SpaceAfter=No
+20	.	.	PUNCT	_	_	14	punct	_	start_char=389|end_char=390|SpacesAfter=\n\n
+
+# text = Più non ne dico: chè teme 'l cor mio, se più contasse di su' gran valore, ciascun saprebbe: quegli in tal disia.
+# sent_id = 3
+1	Più	più	ADV	b	_	4	advmod	_	start_char=392|end_char=395
+2	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=396|end_char=399
+3	ne	ne	PRON	pp3ypt	Clitic=Yes|Person=3|PronType=Prs	4	obl:arg	_	start_char=400|end_char=402
+4	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=403|end_char=407|SpaceAfter=No
+5	:	:	PUNCT	_	_	7	punct	_	start_char=407|end_char=408
+6	chè	chè	SCONJ	cssc	_	7	mark	_	start_char=409|end_char=412
+7	teme	temere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp:reported	_	start_char=413|end_char=417
+8	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=418|end_char=420
+9	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	7	obj	_	start_char=421|end_char=424
+10	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	start_char=425|end_char=428|SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	start_char=428|end_char=429|SpacesAfter=\n
+12	se	se	SCONJ	cssv	_	14	mark	_	start_char=430|end_char=432
+13	più	più	ADV	b	_	14	advmod	_	start_char=433|end_char=436
+14	contasse	contrare	VERB	vta1cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	advcl	_	start_char=437|end_char=445
+15	di	di	ADP	epskg	_	18	case	_	start_char=446|end_char=448
+16	su'	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	start_char=449|end_char=452
+17	gran	grande	ADJ	a2ms	Gender=Masc|Number=Sing	18	amod	_	start_char=453|end_char=457
+18	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	14	obl	_	start_char=458|end_char=464|SpaceAfter=No
+19	,	,	PUNCT	_	_	14	punct	_	start_char=464|end_char=465|SpacesAfter=\n
+20	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	21	nsubj	_	start_char=466|end_char=473
+21	saprebbe	sapere	VERB	vta2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	parataxis	_	start_char=474|end_char=482|SpaceAfter=No
+22	:	:	PUNCT	_	_	23	punct	_	start_char=482|end_char=483
+23	quegli	queglio	PRON	pd1ms	Gender=Masc|Number=Plur|PronType=Dem	21	nsubj	_	start_char=484|end_char=490
+24	in	in	ADP	epsksl	_	26	case	_	start_char=491|end_char=493
+25	tal	tale	DET	a2fs	Number=Sing	26	det	_	start_char=494|end_char=497
+26	disia	desiderio	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obl:lmod	_	start_char=498|end_char=503|SpaceAfter=No
+27	.	.	PUNCT	_	_	21	punct	_	start_char=503|end_char=504|SpaceAfter=No
+

@@ -1,0 +1,136 @@
+# newdoc id = XLIII - Amico, tu fai mal che ti sconforti
+# text = Amico, tu fai mal che ti sconforti e ti lamenti sì di starmi servo, dicendo ch'i' ti son crudo ed acervo, volendoti però gittar tra i morti.
+# sent_id = 0
+1	Amico	amico	NOUN	sm2ms	Gender=Masc|Number=Sing	4	nsubj	_	start_char=0|end_char=5|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5|end_char=6
+3	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	4	nsubj	_	start_char=7|end_char=9
+4	fai	fare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=10|end_char=13
+5	mal	male	NOUN	sm3ms	Gender=Masc|Number=Sing	4	obj	_	start_char=14|end_char=17
+6	che	che	PRON	pr	PronType=Rel	8	nsubj	_	start_char=18|end_char=21
+7	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	8	obj	_	start_char=22|end_char=24
+8	sconforti	sconfortare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=25|end_char=34|SpacesAfter=\n
+9	e	e	CCONJ	cscc	_	11	cc	_	start_char=35|end_char=36
+10	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	11	iobj	_	start_char=37|end_char=39
+11	lamenti	lamentare	VERB	vi+1cps3	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=40|end_char=47
+12	sì	così	ADV	b	_	14	advmod	_	start_char=48|end_char=50
+13	di	di	ADP	epsb	_	14	mark	_	start_char=51|end_char=53
+14-15	starmi	_	_	_	_	_	_	_	start_char=54|end_char=60
+14	starre	starre	VERB	vta1fp	Tense=Pres|VerbForm=Inf	11	advcl	_	_
+15	mi	mi	PRON	pp1sxac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	14	obj	_	_
+16	servo	servo	ADJ	a1ms	Gender=Masc|Number=Sing	14	xcomp	_	start_char=61|end_char=66|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	start_char=66|end_char=67|SpacesAfter=\n
+18	dicendo	dire	VERB	vta3gp	VerbForm=Conv|Voice=Act	14	advcl	_	start_char=68|end_char=75
+19	ch'	che	SCONJ	csso	_	23	mark	_	start_char=76|end_char=79|SpaceAfter=No
+20	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	23	nsubj	_	start_char=79|end_char=81
+21	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	23	iobj	_	start_char=82|end_char=84
+22	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=85|end_char=88
+23	crudo	crudo	ADJ	a1msxo1	Gender=Masc|Number=Sing	18	ccomp	_	start_char=89|end_char=94
+24	ed	e	CCONJ	cscc	_	25	cc	_	start_char=95|end_char=97
+25	acervo	acere	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	start_char=98|end_char=104|SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	start_char=104|end_char=105|SpacesAfter=\n
+27-28	volendoti	_	_	_	_	_	_	_	start_char=106|end_char=115
+27	volendo	volere	VERB	vta1gp	VerbForm=Conv|Voice=Act	23	advcl	_	start_char=106|end_char=113
+28	ti	ti	PRON	pp2sxaa	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	27	iobj	_	start_char=113|end_char=115
+29	però	però	ADV	cssc	_	30	advmod	_	start_char=116|end_char=120
+30	gittar	gettare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	27	xcomp	_	start_char=121|end_char=127
+31	tra	tra	ADP	epsksl	_	33	case	_	start_char=128|end_char=131
+32	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	start_char=132|end_char=133
+33	morti	morire	VERB	vi2prsm2mp	Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	30	obl:lmod	_	start_char=134|end_char=139|SpaceAfter=No
+34	.	.	PUNCT	_	_	4	punct	_	start_char=139|end_char=140|SpacesAfter=\n\n
+
+# text = Non pare a me che 'n quella guisa porti tua sofferenza, che quel ch'i' conservo ti sia donato.
+# sent_id = 1
+1	Non	non	ADV	b	PronType=Neg	2	advmod:neg	_	start_char=142|end_char=145
+2	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=146|end_char=150
+3	a	a	ADP	epsk1e	_	4	case	_	start_char=151|end_char=152
+4	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	2	obl:lmod	_	start_char=153|end_char=155
+5	che	che	SCONJ	csso	_	9	mark	_	start_char=156|end_char=159
+6	'n	in	ADP	epsksl	_	8	case	_	start_char=160|end_char=162
+7	quella	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=163|end_char=169
+8	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl:lmod	_	start_char=170|end_char=175
+9	porti	portare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=176|end_char=181|SpacesAfter=\n
+10	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=182|end_char=185
+11	sofferenza	sofferenza	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obj	_	start_char=186|end_char=196|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	start_char=196|end_char=197
+13	che	che	SCONJ	css	_	14	mark	_	start_char=198|end_char=201
+14	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	start_char=202|end_char=206
+15	ch'	che	PRON	pr	PronType=Rel	17	nsubj	_	start_char=207|end_char=210|SpaceAfter=No
+16	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	17	nsubj	_	start_char=210|end_char=212
+17	conservo	conservo	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=213|end_char=221|SpacesAfter=\n
+18	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	20	iobj	_	start_char=222|end_char=224
+19	sia	essere	AUX	vi4cps1	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux:pass	_	start_char=225|end_char=228
+20	donato	donare	VERB	vtp2ips1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl:relcl	_	start_char=229|end_char=235|SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	start_char=235|end_char=236
+
+# text = Se, corno lo cervo, non ti rinnuovi 'n saccienti ed accorti
+# sent_id = 2
+1	Se	se	SCONJ	cssv	_	9	mark	_	start_char=237|end_char=239|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	start_char=239|end_char=240
+3	corno	corno	NOUN	sm2ms	Gender=Masc|Number=Sing	9	vocative	_	start_char=241|end_char=246
+4	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=247|end_char=249
+5	cervo	cervo	NOUN	sm2ms	Gender=Masc|Number=Sing	9	nsubj	_	start_char=250|end_char=255|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	start_char=255|end_char=256|SpacesAfter=\n
+7	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	start_char=257|end_char=260
+8	ti	ti	PRON	pf2sypr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	9	obj	_	start_char=261|end_char=263
+9	rinnuovi	rinnuovere	VERB	vt+1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=264|end_char=272
+10	'n	in	ADP	epsk	_	11	case	_	start_char=273|end_char=275
+11	saccienti	sacciento	NOUN	sm3mp	Gender=Masc|Number=Plur	9	obl	_	start_char=276|end_char=285
+12	ed	e	CCONJ	cscc	_	13	cc	_	start_char=286|end_char=288
+13	accorti	accorgere	VERB	vi2pra1mp	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	11	conj	_	start_char=289|end_char=296|SpacesAfter=\n\n
+
+# text = piaceri, e 'n soferir con be' costumi quanto che piacerà a me di darti, anch'io conoscerò lo tuo cor dentro.
+# sent_id = 3
+1	piaceri	piacere	NOUN	sm2mp	Gender=Masc|Number=Plur	0	root	_	start_char=298|end_char=305|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	start_char=305|end_char=306
+3	e	e	CCONJ	cscc	_	5	cc	_	start_char=307|end_char=308
+4	'n	in	ADP	epsk	_	5	mark	_	start_char=309|end_char=311
+5	soferir	soferire	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	1	conj	_	start_char=312|end_char=319
+6	con	con	ADP	epskw	_	8	case	_	start_char=320|end_char=323
+7	be'	bele	DET	as1mp	Gender=Masc|Number=Plur|PronType=Prs	8	det:poss	_	start_char=324|end_char=327
+8	costumi	costume	NOUN	sm3mp	Gender=Masc|Number=Plur	5	obl	_	start_char=328|end_char=335|SpacesAfter=\n
+9	quanto	quanto	ADV	b	_	11	advmod	_	start_char=336|end_char=342
+10	che	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=343|end_char=346
+11	piacerà	piacere	VERB	vi2iis3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	acl:relcl	_	start_char=347|end_char=354
+12	a	a	ADP	epsk1d	_	13	case	_	start_char=355|end_char=356
+13	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	11	obl	_	start_char=357|end_char=359
+14	di	di	ADP	epsd	_	15	mark	_	start_char=360|end_char=362
+15	darti	dare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	start_char=363|end_char=368|SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	start_char=368|end_char=369|SpacesAfter=\n
+17	anch'	anchio	SCONJ	cssc	_	19	mark	_	start_char=370|end_char=375|SpaceAfter=No
+18	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	19	nsubj	_	start_char=375|end_char=377
+19	conoscerò	conoscere	VERB	vta1ifs1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=378|end_char=387
+20	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=388|end_char=390
+21	tuo	tuo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	start_char=391|end_char=394
+22	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	19	obj	_	start_char=395|end_char=398
+23	dentro	dentro	ADV	b	_	19	advmod:lmod	_	start_char=399|end_char=405|SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	_	start_char=405|end_char=406|SpacesAfter=\n\n
+
+# text = Che 'n dar gioi' a villan già non mi pentro; onde ti pena di cortese farti acciò ch'io brevemente ti rallumi.
+# sent_id = 4
+1	Che	che	PRON	pt	PronType=Int	10	nsubj	_	start_char=408|end_char=411
+2	'n	in	ADP	eps	_	3	mark	_	start_char=412|end_char=414
+3	dar	dare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=415|end_char=418
+4	gioi'	gioi'	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obj	_	start_char=419|end_char=424
+5	a	a	ADP	epskml	_	6	case	_	start_char=425|end_char=426
+6	villan	villano	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl:lmod	_	start_char=427|end_char=433
+7	già	già	ADV	b	_	10	advmod:tmod	_	start_char=434|end_char=437
+8	non	non	ADV	b	PronType=Neg	10	advmod:neg	_	start_char=438|end_char=441
+9	mi	mi	PRON	pf1syle	Clitic=Yes|Person=1|PronType=Prs	10	expl:pv	_	start_char=442|end_char=444
+10	pentro	pentire	VERB	vta+ipss	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=445|end_char=451|SpaceAfter=No
+11	;	;	PUNCT	_	_	17	punct	_	start_char=451|end_char=452|SpacesAfter=\n
+12	onde	onde	ADV	cscn	_	17	advmod	_	start_char=453|end_char=457
+13	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	10	iobj	_	start_char=458|end_char=460
+14	pena	pena	NOUN	sf1fs	Gender=Fem|Number=Sing	17	nsubj	_	start_char=461|end_char=465
+15	di	di	ADP	epskg	_	16	case	_	start_char=466|end_char=468
+16	cortese	cortese	ADJ	a2fs	Gender=Fem|Number=Sing	17	obl	_	start_char=469|end_char=476
+17-18	farti	_	_	_	_	_	_	_	start_char=477|end_char=482|SpacesAfter=\n
+17	fare	fare	VERB	vta+1fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	_
+18	ti	ti	PRON	pp2sxac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	17	obj	_	_
+19	acciò	acciò	ADP	_	_	24	case	_	start_char=483|end_char=488
+20	ch'	che	SCONJ	_	_	24	mark	_	start_char=489|end_char=492|SpaceAfter=No
+21	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	24	nsubj	_	start_char=492|end_char=494
+22	brevemente	brevemente	ADV	b	_	24	advmod:tmod	_	start_char=495|end_char=505
+23	ti	ti	PRON	pf2sypr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	24	obj	_	start_char=506|end_char=508
+24	rallumi	rallumere	VERB	vta+1cps	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=509|end_char=516|SpaceAfter=No
+25	.	.	PUNCT	_	_	10	punct	_	start_char=516|end_char=517|SpaceAfter=No
+

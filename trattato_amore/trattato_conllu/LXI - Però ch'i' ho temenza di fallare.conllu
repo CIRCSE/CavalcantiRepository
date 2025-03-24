@@ -1,0 +1,125 @@
+# newdoc id = LXI - Però ch'i' ho temenza di fallare
+# text = Però ch'i' ò temenza di fallare s'andasse più innanzi maggiormente, mi voglio sofferire e porre mente a ciò, ch'i' già udito aggio contare:
+# sent_id = 0
+1	Però	però	ADV	_	_	9	advmod	_	start_char=0|end_char=4
+2	ch'	che	SCONJ	_	_	9	mark	_	start_char=5|end_char=8|SpaceAfter=No
+3	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	9	nsubj	_	start_char=8|end_char=10
+4	ò	ò	ADP	epskm	_	5	case	_	start_char=11|end_char=12
+5	temenza	temenza	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl:lmod	_	start_char=13|end_char=20
+6	di	di	ADP	epsd	_	7	mark	_	start_char=21|end_char=23
+7	fallare	fallare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	9	advcl	_	start_char=24|end_char=31|SpacesAfter=\n
+8	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	start_char=32|end_char=34|SpaceAfter=No
+9	andasse	andare	VERB	vi+ccis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	start_char=34|end_char=41
+10	più	più	ADV	b	_	9	advmod	_	start_char=42|end_char=45
+11	innanzi	innanzi	ADV	bc+	_	9	advmod:lmod	_	start_char=46|end_char=53
+12	maggiormente	maggiormente	ADV	b	_	9	advmod	_	start_char=54|end_char=66|SpaceAfter=No
+13	,	,	PUNCT	_	_	9	punct	_	start_char=66|end_char=67|SpacesAfter=\n
+14	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	16	iobj	_	start_char=68|end_char=70
+15	voglio	volere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	start_char=71|end_char=77
+16	sofferire	sofferire	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=78|end_char=87
+17	e	e	CCONJ	cscc	_	18	cc	_	start_char=88|end_char=89
+18	porre	porre	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	16	conj	_	start_char=90|end_char=95
+19	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	18	obj	_	start_char=96|end_char=101|SpacesAfter=\n
+20	a	a	ADP	epsk1	_	21	case	_	start_char=102|end_char=103
+21	ciò	cio'	PRON	pd	PronType=Dem	18	obl:lmod	_	start_char=104|end_char=107|SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	start_char=107|end_char=108
+23	ch'	che	SCONJ	cssu	_	26	mark	_	start_char=109|end_char=112|SpaceAfter=No
+24	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	start_char=112|end_char=114
+25	già	già	ADV	b	_	26	advmod:tmod	_	start_char=115|end_char=118
+26	udito	udire	VERB	vta2ibs1	Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	start_char=119|end_char=124
+27	aggio	avere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=125|end_char=130
+28	contare	contare	VERB	vi1ipp	Tense=Pres|VerbForm=Inf	16	advcl	_	start_char=131|end_char=138|SpaceAfter=No
+29	:	:	PUNCT	_	_	16	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
+
+# text = che dolce canto puote altru' innoiare per tropp' usare e venir ispiacente; perch'i' vi dico ched i' son temente pur d' esto tanto innanzi a vo' inviare.
+# sent_id = 1
+1	che	che	SCONJ	css	_	6	mark	_	start_char=141|end_char=144
+2	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	3	amod	_	start_char=145|end_char=150
+3	canto	canto	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=151|end_char=156
+4	puote	potere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	start_char=157|end_char=162
+5	altru'	altru'	ADV	b	_	6	advmod	_	start_char=163|end_char=169
+6	innoiare	innoiare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=170|end_char=178|SpacesAfter=\n
+7	per	per	ADP	epsf	_	9	mark	_	start_char=179|end_char=182
+8	tropp'	troppo	ADV	b	_	9	advmod	_	start_char=183|end_char=189
+9	usare	usare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=190|end_char=195
+10	e	e	CCONJ	cscc	_	11	cc	_	start_char=196|end_char=197
+11	venir	venire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	9	conj	_	start_char=198|end_char=203
+12	ispiacente	spiacente	ADJ	a2fsxc	Gender=Fem|Number=Sing	9	xcomp	_	start_char=204|end_char=214|SpaceAfter=No
+13	;	;	PUNCT	_	_	17	punct	_	start_char=214|end_char=215|SpacesAfter=\n
+14	perch'	perché	SCONJ	ccsc	_	17	mark	_	start_char=216|end_char=222|SpaceAfter=No
+15	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=222|end_char=224
+16	vi	vi	PRON	pp2yda	Clitic=Yes|Person=2|PronType=Prs	17	obj	_	start_char=225|end_char=227
+17	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=228|end_char=232
+18	ched	ched	ADV	b	_	17	advmod	_	start_char=233|end_char=237
+19	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=238|end_char=240
+20	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=241|end_char=244
+21	temente	temente	ADV	b	_	17	advmod	_	start_char=245|end_char=252|SpacesAfter=\n
+22	pur	pure	ADV	b	_	28	advmod	_	start_char=253|end_char=256
+23	d'	di	ADP	eps	_	24	case	_	start_char=257|end_char=259
+24	esto	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	28	obl	_	start_char=260|end_char=264
+25	tanto	tanto	ADV	b	_	28	advmod	_	start_char=265|end_char=270
+26	innanzi	innanzi	ADV	_	_	28	advmod:lmod	_	start_char=271|end_char=278
+27	a	a	ADP	_	_	29	mark	_	start_char=279|end_char=280
+28	vo'	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=281|end_char=284
+29	inviare	inviare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	28	xcomp	_	start_char=285|end_char=292|SpaceAfter=No
+30	.	.	PUNCT	_	_	17	punct	_	start_char=292|end_char=293|SpacesAfter=\n\n
+
+# text = E voglio umil pregar la cortesia di voi, che m'abbia in ciò per iscusato, ch'i' pur mostrare vo' di mio savere;
+# sent_id = 2
+1	E	e	CCONJ	cscc	_	2	cc	_	start_char=295|end_char=296
+2	voglio	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=297|end_char=303
+3	umil	umilo	ADJ	a1ms	Gender=Masc|Number=Sing	4	xcomp	_	start_char=304|end_char=308
+4	pregar	pregare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=309|end_char=315
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=316|end_char=318
+6	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	2	obj	_	start_char=319|end_char=327|SpacesAfter=\n
+7	di	di	ADP	epskg	_	8	case	_	start_char=328|end_char=330
+8	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	6	nmod	_	start_char=331|end_char=334|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	start_char=334|end_char=335
+10	che	che	PRON	pr	PronType=Rel	12	nsubj	_	start_char=336|end_char=339
+11	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	12	obj	_	start_char=340|end_char=342|SpaceAfter=No
+12	abbia	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=342|end_char=347
+13	in	in	ADP	epsksl	_	14	case	_	start_char=348|end_char=350
+14	ciò	cio'	PRON	pd	PronType=Dem	12	obl:lmod	_	start_char=351|end_char=354
+15	per	per	ADP	epskr	_	16	mark	_	start_char=355|end_char=358
+16	iscusato	scusare	VERB	vta1pps	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	start_char=359|end_char=367|SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	start_char=367|end_char=368|SpacesAfter=\n
+18	ch'	che	SCONJ	cssu	_	22	mark	_	start_char=369|end_char=372|SpaceAfter=No
+19	i'	io	PRON	pp1slso	Person=1|PronType=Prs	22	nsubj	_	start_char=372|end_char=374
+20	pur	pure	ADV	b	_	22	advmod	_	start_char=375|end_char=378
+21	mostrare	mostrare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	22	advcl	_	start_char=379|end_char=387
+22	vo'	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=388|end_char=391
+23	di	di	ADP	epskg	_	25	case	_	start_char=392|end_char=394
+24	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	start_char=395|end_char=398
+25	savere	sapere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	22	obl	_	start_char=399|end_char=405|SpaceAfter=No
+26	;	;	PUNCT	_	_	2	punct	_	start_char=405|end_char=406|SpacesAfter=\n\n
+
+# text = lo qual, se fosse ancor me' da vedere, avrei con più ardire a voi mandato e manderò quand'a piacer vi fia.
+# sent_id = 3
+1-2	lo	_	_	_	_	_	_	_	start_char=408|end_char=410
+1	lon	lone	NOUN	sm2ms	Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+2	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	1	nsubj	_	start_char=411|end_char=415|SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	start_char=415|end_char=416
+5	se	se	SCONJ	cssv	_	10	mark	_	start_char=417|end_char=419
+6	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	start_char=420|end_char=425
+7	ancor	ancora	ADV	b	_	10	advmod:tmod	_	start_char=426|end_char=431
+8	me'	meglio	ADV	b	_	10	advmod	_	start_char=432|end_char=435
+9	da	da	ADP	eps	_	10	mark	_	start_char=436|end_char=438
+10	vedere	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	18	advcl	_	start_char=439|end_char=445|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	start_char=445|end_char=446|SpacesAfter=\n
+12	avrei	avere	AUX	vta5dps1	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|Voice=Act	18	aux	_	start_char=447|end_char=452
+13	con	con	ADP	epskw	_	15	case	_	start_char=453|end_char=456
+14	più	più	DET	a	_	15	det	_	start_char=457|end_char=460
+15	ardire	ardire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	18	obl:agent	_	start_char=461|end_char=467
+16	a	a	ADP	epsk1d	_	17	case	_	start_char=468|end_char=469
+17	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	18	obl:agent	_	start_char=470|end_char=473
+18	mandato	mandare	VERB	vtp1ips3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	start_char=474|end_char=481|SpacesAfter=\n
+19	e	e	CCONJ	cscc	_	20	cc	_	start_char=482|end_char=483
+20	manderò	mandare	VERB	vta1ifs1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	18	conj	_	start_char=484|end_char=491
+21	quand'	quando	SCONJ	csst	_	23	mark	_	start_char=492|end_char=498|SpaceAfter=No
+22	a	a	ADP	epsb	_	23	mark	_	start_char=498|end_char=499
+23	piacer	piacere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	18	advcl	_	start_char=500|end_char=506
+24	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	23	iobj	_	start_char=507|end_char=509
+25	fia	essere	AUX	vi4ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	aux	_	start_char=510|end_char=513|SpaceAfter=No
+26	.	.	PUNCT	_	_	18	punct	_	start_char=513|end_char=514|SpaceAfter=No
+

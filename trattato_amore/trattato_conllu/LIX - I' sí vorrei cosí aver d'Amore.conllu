@@ -1,0 +1,128 @@
+# newdoc id = LIX - I' sí vorrei cosí aver d'Amore
+# text = I' sì vorrei così aver d'amore ben ed onor, com' io li son leale, e, s' io son lo contraro, averne male in simil guisa e greve pentigione.
+# sent_id = 0
+1	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	sì	così	ADV	b	_	5	advmod	_	start_char=3|end_char=5
+3	vorrei	volere	AUX	vta2dps1	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	aux	_	start_char=6|end_char=12
+4	così	così	ADV	b	_	5	advmod	_	start_char=13|end_char=17
+5	aver	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=18|end_char=22
+6	d'	di	ADP	eps	_	7	case	_	start_char=23|end_char=25|SpaceAfter=No
+7	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obl	_	start_char=25|end_char=30|SpacesAfter=\n
+8	ben	bene	ADV	b	_	5	advmod	_	start_char=31|end_char=34
+9	ed	e	CCONJ	cscc	_	10	cc	_	start_char=35|end_char=37
+10	onor	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	conj	_	start_char=38|end_char=42|SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	start_char=42|end_char=43
+12	com'	come	ADV	b	_	16	mark	_	start_char=44|end_char=48
+13	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	16	nsubj	_	start_char=49|end_char=51
+14	li	li	PRON	pp3myya	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	16	iobj	_	start_char=52|end_char=54
+15	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=55|end_char=58
+16	leale	leale	ADJ	a1msxc	Gender=Masc|Number=Sing	5	advcl	_	start_char=59|end_char=64|SpaceAfter=No
+17	,	,	PUNCT	_	_	24	punct	_	start_char=64|end_char=65|SpacesAfter=\n
+18	e	e	CCONJ	cscc	_	26	cc	_	start_char=66|end_char=67|SpaceAfter=No
+19	,	,	PUNCT	_	_	24	punct	_	start_char=67|end_char=68
+20	s'	se	SCONJ	cssv	_	24	mark	_	start_char=69|end_char=71
+21	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	24	nsubj	_	start_char=72|end_char=74
+22	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=75|end_char=78
+23	lo	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	start_char=79|end_char=81
+24	contraro	contrario	NOUN	sm2ms	Gender=Masc|Number=Sing	26	advcl	_	start_char=82|end_char=90|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	start_char=90|end_char=91
+26-27	averne	_	_	_	_	_	_	_	start_char=92|end_char=98
+26	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	5	advcl	_	_
+27	ne	ne	PRON	pp3xpt	Clitic=Yes|Person=1|PronType=Prs	26	obl:arg	_	_
+28	male	male	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obj	_	start_char=99|end_char=103|SpacesAfter=\n
+29	in	in	ADP	epsksl	_	31	case	_	start_char=104|end_char=106
+30	simil	simile	ADJ	a2fs	Gender=Fem|Number=Sing	31	amod	_	start_char=107|end_char=112
+31	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	26	obl:lmod	_	start_char=113|end_char=118
+32	e	e	CCONJ	cscc	_	34	cc	_	start_char=119|end_char=120
+33	greve	greve	ADJ	a2fs	Gender=Fem|Number=Sing	34	amod	_	start_char=121|end_char=126
+34	pentigione	pentigione	NOUN	sf3fs	Gender=Fem|Number=Sing	31	conj	_	start_char=127|end_char=137|SpaceAfter=No
+35	.	.	PUNCT	_	_	5	punct	_	start_char=137|end_char=138|SpacesAfter=\n\n
+
+# text = Nè non sarebbe ciò contr'a ragione, secondo il mi' parer, ma cosa iguale; ma non vo' dir di voi, amor, cotale che vivere mi fate in pensagione.
+# sent_id = 1
+1	Nè	nè	CCONJ	cscc	_	4	cc	_	start_char=140|end_char=142
+2	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=143|end_char=146
+3	sarebbe	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	4	cop	_	start_char=147|end_char=154
+4	ciò	cio'	PRON	pd	PronType=Dem	0	root	_	start_char=155|end_char=158
+5	contr'	contro	ADP	_	_	7	case	_	start_char=159|end_char=165|SpaceAfter=No
+6	a	a	ADP	_	_	7	case	_	start_char=165|end_char=166
+7	ragione	ragione	NOUN	sf3fs	Gender=Fem|Number=Sing	4	nmod	_	start_char=167|end_char=174|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	start_char=174|end_char=175|SpacesAfter=\n
+9	secondo	secondo	ADP	eiskm	_	12	case	_	start_char=176|end_char=183
+10	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=184|end_char=186
+11	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	start_char=187|end_char=190
+12	parer	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	4	nmod	_	start_char=191|end_char=196|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	start_char=196|end_char=197
+14	ma	ma	CCONJ	csca	_	15	cc	_	start_char=198|end_char=200
+15	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	12	conj	_	start_char=201|end_char=205
+16	iguale	uguale	ADJ	a2fs	Gender=Fem|Number=Sing	15	amod	_	start_char=206|end_char=212|SpaceAfter=No
+17	;	;	PUNCT	_	_	20	punct	_	start_char=212|end_char=213|SpacesAfter=\n
+18	ma	ma	CCONJ	csca	_	20	cc	_	start_char=214|end_char=216
+19	non	non	ADV	b	PronType=Neg	20	advmod:neg	_	start_char=217|end_char=220
+20	vo'	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=221|end_char=224
+21	dir	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	start_char=225|end_char=228
+22	di	di	ADP	epskg	_	23	case	_	start_char=229|end_char=231
+23	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	21	obl	_	start_char=232|end_char=235|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	start_char=235|end_char=236
+25	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	vocative	_	start_char=237|end_char=241|SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	start_char=241|end_char=242
+27	cotale	cotale	PRON	pi	PronType=Ind	20	vocative	_	start_char=243|end_char=249|SpacesAfter=\n
+28	che	che	PRON	pr	PronType=Rel	31	nsubj	_	start_char=250|end_char=253
+29	vivere	vivere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	31	advcl	_	start_char=254|end_char=260
+30	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	31	obj	_	start_char=261|end_char=263
+31	fate	fare	VERB	vta1ips2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl:relcl	_	start_char=264|end_char=268
+32	in	in	ADP	epskml	_	33	case	_	start_char=269|end_char=271
+33	pensagione	pensagione	NOUN	sf1fs	Gender=Fem|Number=Sing	31	obl	_	start_char=272|end_char=282|SpaceAfter=No
+34	.	.	PUNCT	_	_	4	punct	_	start_char=282|end_char=283|SpacesAfter=\n\n
+
+# text = Perchè dovete aver più segnoria, la qual mi piace ben che voi agiate, a ciò che la seguiate con onore.
+# sent_id = 2
+1	Perchè	perchè	ADV	b	_	3	advmod	_	start_char=285|end_char=291
+2	dovete	dovere	AUX	vta2dpp2	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|Voice=Act	3	aux	_	start_char=292|end_char=298
+3	aver	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=299|end_char=303
+4	più	più	DET	a	_	5	det	_	start_char=304|end_char=307
+5	segnoria	signoria	NOUN	sf1fs	Gender=Fem|Number=Sing	3	obj	_	start_char=308|end_char=316|SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	start_char=316|end_char=317|SpacesAfter=\n
+7	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=318|end_char=320
+8	qual	quale	PRON	pr2fs	Number=Sing|PronType=Rel	10	nsubj	_	start_char=321|end_char=325
+9	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	10	iobj	_	start_char=326|end_char=328
+10	piace	piacere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=329|end_char=334
+11	ben	bene	ADV	b	_	10	advmod	_	start_char=335|end_char=338
+12	che	che	SCONJ	csso	_	14	mark	_	start_char=339|end_char=342
+13	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	start_char=343|end_char=346
+14	agiate	asire	VERB	vta1ppp2p	Aspect=Perf|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	10	csubj	_	start_char=347|end_char=353|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	start_char=353|end_char=354|SpacesAfter=\n
+16	a	a	ADP	epsk1	_	17	case	_	start_char=355|end_char=356
+17	ciò	cio'	PRON	pd	PronType=Dem	14	obl	_	start_char=357|end_char=360
+18	che	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=361|end_char=364
+19	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	start_char=365|end_char=367
+20	seguiate	seguire	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=368|end_char=376
+21	con	con	ADP	epskw	_	22	case	_	start_char=377|end_char=380
+22	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obl	_	start_char=381|end_char=386|SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	start_char=386|end_char=387|SpacesAfter=\n\n
+
+# text = Chè 'n tutte cose, dolce mio amore, conven che gientil core aggia pietate ch'umili stanno e aman cortesia.
+# sent_id = 3
+1	Chè	chè	ADV	b	_	10	advmod	_	start_char=389|end_char=392
+2	'n	in	ADP	epsks	_	4	case	_	start_char=393|end_char=395
+3	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	start_char=396|end_char=401
+4	cose	cosa	NOUN	sf1fp	Gender=Fem|Number=Plur	10	obl:lmod	_	start_char=402|end_char=406|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	start_char=406|end_char=407
+6	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	8	amod	_	start_char=408|end_char=413
+7	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	start_char=414|end_char=417
+8	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	4	conj	_	start_char=418|end_char=423|SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	start_char=423|end_char=424|SpacesAfter=\n
+10	conven	convenire	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=425|end_char=431
+11	che	che	SCONJ	_	_	14	mark	_	start_char=432|end_char=435
+12	gientil	gientile	ADJ	a2fs	Gender=Fem|Number=Sing	13	amod	_	start_char=436|end_char=443
+13	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	14	obj	_	start_char=444|end_char=448
+14	aggia	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	start_char=449|end_char=454
+15	pietate	pietà	NOUN	sf1fp	Gender=Fem|Number=Plur	14	obj	_	start_char=455|end_char=462|SpacesAfter=\n
+16	ch'	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=463|end_char=466|SpaceAfter=No
+17	umili	umilo	ADJ	a2mp	Gender=Masc|Number=Plur	18	advcl:pred	_	start_char=466|end_char=471
+18	stanno	stare	VERB	vi1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=472|end_char=478
+19	e	e	CCONJ	cscc	_	20	cc	_	start_char=479|end_char=480
+20	aman	amare	VERB	vta1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	start_char=481|end_char=485
+21	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	20	obj	_	start_char=486|end_char=494|SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	start_char=494|end_char=495|SpaceAfter=No
+

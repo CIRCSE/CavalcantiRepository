@@ -1,0 +1,126 @@
+# newdoc id = LIV - Quando l'Amore il su' servo partito
+# text = Quando l'amore il su' servo partito trova null'ora del su' pensamento, volete udir un bel vendicamento ched e' ne fa? - Sì è pro' ed ardito
+# sent_id = 0
+1	Quando	quando	SCONJ	csst	_	8	mark	_	start_char=0|end_char=6
+2	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=7|end_char=9|SpaceAfter=No
+3	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=9|end_char=14
+4	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=15|end_char=17
+5	su'	suo	ADJ	a2ms	Gender=Masc|Number=Sing	6	amod	_	start_char=18|end_char=21
+6	servo	servo	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=22|end_char=27
+7	partito	partire	VERB	vi2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	xcomp	_	start_char=28|end_char=35|SpacesAfter=\n
+8	trova	trovare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=36|end_char=41
+9	null'	nullo	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	start_char=42|end_char=47|SpaceAfter=No
+10	ora	ora	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obj	_	start_char=47|end_char=50
+11-12	del	_	_	_	_	_	_	_	start_char=51|end_char=54
+11	di	di	ADP	_	_	14	case	_	_
+12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	su'	suo	ADJ	a2ms	Gender=Masc|Number=Sing	14	amod	_	start_char=55|end_char=58
+14	pensamento	pensamento	NOUN	sm2ms	Gender=Masc|Number=Sing	10	nmod	_	start_char=59|end_char=69|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	start_char=69|end_char=70|SpacesAfter=\n
+16	volete	volere	AUX	vta2ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	start_char=71|end_char=77
+17	udir	udire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=78|end_char=82
+18	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=83|end_char=85
+19	bel	bello	ADJ	a1ms	Gender=Masc|Number=Sing	20	amod	_	start_char=86|end_char=89
+20	vendicamento	vendicamento	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obj	_	start_char=90|end_char=102|SpacesAfter=\n
+21	ched	chedo	PRON	pr	PronType=Rel	24	nsubj	_	start_char=103|end_char=107
+22	e'	egli	PRON	pp3mslo	Gender=Masc|Person=3|PronType=Prs	24	nsubj	_	start_char=108|end_char=110
+23	ne	ne	PRON	pptypt	Clitic=Yes|PronType=Prs	24	obl:arg	_	start_char=111|end_char=113
+24	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	start_char=114|end_char=116|SpaceAfter=No
+25	?	?	PUNCT	_	_	24	punct	_	start_char=116|end_char=117
+26	-	-	PUNCT	_	_	29	punct	_	start_char=118|end_char=119
+27	Sì	così	ADV	b	_	29	advmod	_	start_char=120|end_char=122
+28	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	start_char=123|end_char=124
+29	pro'	promo	ADJ	a1msx	Gender=Masc|Number=Sing	17	advcl	_	start_char=125|end_char=129
+30	ed	e	CCONJ	cscc	_	31	cc	_	start_char=130|end_char=132
+31	ardito	ardire	VERB	vta3pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	29	conj	_	start_char=133|end_char=139|SpacesAfter=\n\n
+
+# text = che mantenente l'à sì assalito di dolor grave e soverchio tormento, che 'nfin ched e' non torna a pentimento non può di tal penar esser guarito.
+# sent_id = 1
+1	che	che	SCONJ	css	_	5	mark	_	start_char=141|end_char=144
+2	mantenente	mantenente	ADJ	a2ms	Gender=Masc|Number=Sing	5	advcl	_	start_char=145|end_char=155
+3	l'à	la	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=156|end_char=159
+4	sì	così	ADV	b	_	5	advmod	_	start_char=160|end_char=162
+5	assalito	assalire	VERB	vtp2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=163|end_char=171|SpacesAfter=\n
+6	di	di	ADP	epskg	_	7	case	_	start_char=172|end_char=174
+7	dolor	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obl	_	start_char=175|end_char=180
+8	grave	grave	ADJ	a2ms	Gender=Masc|Number=Sing	7	amod	_	start_char=181|end_char=186
+9	e	e	CCONJ	cscc	_	10	cc	_	start_char=187|end_char=188
+10	soverchio	soverchio	ADJ	a1ms	Gender=Masc|Number=Sing	11	amod	_	start_char=189|end_char=198
+11	tormento	tormento	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl	_	start_char=199|end_char=207|SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	start_char=207|end_char=208|SpacesAfter=\n
+13	che	che	SCONJ	cssu	_	18	mark	_	start_char=209|end_char=212
+14	'nfin	infino	ADP	eisksl	_	15	case	_	start_char=213|end_char=218
+15	ched	chedo	PRON	pr	PronType=Rel	18	obl	_	start_char=219|end_char=223
+16	e'	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=224|end_char=226
+17	non	non	ADV	b	PronType=Neg	18	advmod:neg	_	start_char=227|end_char=230
+18	torna	tornare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=231|end_char=236
+19	a	a	ADP	epskm	_	20	case	_	start_char=237|end_char=238
+20	pentimento	pentimento	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obl	_	start_char=239|end_char=249|SpacesAfter=\n
+21	non	non	ADV	b	PronType=Neg	27	advmod:neg	_	start_char=250|end_char=253
+22	può	potere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	aux	_	start_char=254|end_char=257
+23	di	di	ADP	epsb	_	25	case	_	start_char=258|end_char=260
+24	tal	tale	DET	a2ms	Gender=Masc|Number=Sing	25	det	_	start_char=261|end_char=264
+25	penar	penare	VERB	vi1fpsm3ms	Tense=Pres|VerbForm=Inf	27	obl:lmod	_	start_char=265|end_char=270
+26	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	27	aux:pass	_	start_char=271|end_char=276
+27	guarito	guarire	VERB	vtp2fp	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	start_char=277|end_char=284|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	punct	_	start_char=284|end_char=285|SpacesAfter=\n\n
+
+# text = Perch'io consiglio ciascun amadore che non si parta; ma fermi 'l disire in quanto che amor vuol aportare.
+# sent_id = 2
+1	Perch'	perché	SCONJ	ccsc	_	3	mark	_	start_char=287|end_char=293|SpaceAfter=No
+2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=293|end_char=295
+3	consiglio	consiglio	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=296|end_char=305
+4	ciascun	ciascuno	DET	ai	PronType=Ind	5	det	_	start_char=306|end_char=313
+5	amadore	amadore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obj	_	start_char=314|end_char=321|SpacesAfter=\n
+6	che	che	PRON	pr	PronType=Rel	9	nsubj	_	start_char=322|end_char=325
+7	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	start_char=326|end_char=329
+8	si	si	PRON	pf3ype	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	start_char=330|end_char=332
+9	parta	partire	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=333|end_char=338|SpaceAfter=No
+10	;	;	PUNCT	_	_	12	punct	_	start_char=338|end_char=339
+11	ma	ma	CCONJ	csca	_	12	cc	_	start_char=340|end_char=342
+12-13	fermi	_	_	_	_	_	_	_	start_char=343|end_char=348
+12	fare	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+13	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	12	iobj	_	_
+14	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=349|end_char=351
+15	disire	desiderio	NOUN	sm3ms	Gender=Masc|Number=Sing	12	obj	_	start_char=352|end_char=358|SpacesAfter=\n
+16	in	in	ADP	_	_	17	case	_	start_char=359|end_char=361
+17	quanto	quanto	ADV	_	_	21	advmod:lmod	_	start_char=362|end_char=368
+18	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=369|end_char=372
+19	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	21	nsubj	_	start_char=373|end_char=377
+20	vuol	volere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	start_char=378|end_char=382
+21	aportare	aportare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	12	ccomp	_	start_char=383|end_char=391|SpaceAfter=No
+22	.	.	PUNCT	_	_	12	punct	_	start_char=391|end_char=392|SpacesAfter=\n\n
+
+# text = Ch'onor né nullo ben vien sanz'amare, ma lo contraro, perchè mal finire de' quei, che n' vuol già mai partir su' core.
+# sent_id = 3
+1	Ch'	che	SCONJ	cssc	_	6	mark	_	start_char=394|end_char=397|SpaceAfter=No
+2	onor	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=397|end_char=401
+3	né	né	CCONJ	cscc	_	5	cc	_	start_char=402|end_char=404
+4	nullo	nullo	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	start_char=405|end_char=410
+5	ben	bene	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=411|end_char=414
+6	vien	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=415|end_char=419
+7	sanz'	senza	SCONJ	cssz	_	8	mark	_	start_char=420|end_char=425|SpaceAfter=No
+8	amare	amare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=425|end_char=430|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	start_char=430|end_char=431|SpacesAfter=\n
+10	ma	ma	CCONJ	csca	_	12	cc	_	start_char=432|end_char=434
+11	lo	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=435|end_char=437
+12	contraro	contrario	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=438|end_char=446|SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	start_char=446|end_char=447
+14	perchè	perchè	ADV	b	_	16	advmod	_	start_char=448|end_char=454
+15	mal	male	ADV	b	_	16	advmod	_	start_char=455|end_char=458
+16	finire	finire	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	12	obj	_	start_char=459|end_char=465|SpacesAfter=\n
+17-18	de'	_	_	_	_	_	_	_	start_char=466|end_char=469
+17	di	di	ADP	_	_	19	case	_	_
+18	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	quei	quello	PRON	pd1mp	Gender=Masc|Number=Plur|PronType=Dem	16	nmod	_	start_char=470|end_char=474|SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	start_char=474|end_char=475
+21	che	che	PRON	pr	PronType=Rel	23	nsubj	_	start_char=476|end_char=479
+22	n'	ne	PRON	pp1pyac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	23	obj	_	start_char=480|end_char=482
+23	vuol	volere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=483|end_char=487
+24	già	già	ADV	_	_	23	advmod:tmod	_	start_char=488|end_char=491
+25	mai	mai	ADV	_	_	26	advmod:tmod	_	start_char=492|end_char=495
+26	partir	partire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	23	xcomp	_	start_char=496|end_char=502
+27	su'	suo	DET	adms	Gender=Masc|Number=Sing|PronType=Art	28	det:poss	_	start_char=503|end_char=506
+28	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obj	_	start_char=507|end_char=511|SpaceAfter=No
+29	.	.	PUNCT	_	_	12	punct	_	start_char=511|end_char=512|SpaceAfter=No
+

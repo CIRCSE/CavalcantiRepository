@@ -1,0 +1,128 @@
+# newdoc id = XV - Otto comandamenti face Amore
+# text = Otto comandamenti face amore a ciascun gientil core innamorato: lo primo che cortese in ciascun lato sia, e 'l secondo largo a tutte l'ore.
+# sent_id = 0
+1	Otto	otto	NUM	an	NumType=Card	2	nummod	_	start_char=0|end_char=4
+2	comandamenti	comandamento	NOUN	sm2mp	Gender=Masc|Number=Plur	3	nsubj	_	start_char=5|end_char=17
+3	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=18|end_char=22
+4	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obj	_	start_char=23|end_char=28|SpacesAfter=\n
+5	a	a	ADP	epsk1d	_	8	case	_	start_char=29|end_char=30
+6	ciascun	ciascuno	DET	ai	PronType=Ind	8	det	_	start_char=31|end_char=38
+7	gientil	gientile	ADJ	a2ms	Gender=Masc|Number=Sing	8	amod	_	start_char=39|end_char=46
+8	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obl:lmod	_	start_char=47|end_char=51
+9	innamorato	innamorare	VERB	vta1prms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	xcomp	_	start_char=52|end_char=62|SpaceAfter=No
+10	:	:	PUNCT	_	_	12	punct	_	start_char=62|end_char=63|SpacesAfter=\n
+11	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=64|end_char=66
+12	primo	primo	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	9	nsubj	_	start_char=67|end_char=72
+13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=73|end_char=76
+14	cortese	cortese	ADJ	a2msx	Gender=Masc|Number=Sing	12	acl:relcl	_	start_char=77|end_char=84
+15	in	in	ADP	epsksl	_	17	case	_	start_char=85|end_char=87
+16	ciascun	ciascuno	DET	ai	PronType=Ind	17	det	_	start_char=88|end_char=95
+17	lato	lato	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obl	_	start_char=96|end_char=100|SpacesAfter=\n
+18	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=101|end_char=104|SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	start_char=104|end_char=105
+20	e	e	CCONJ	cscc	_	23	cc	_	start_char=106|end_char=107
+21	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	start_char=108|end_char=110
+22	secondo	secondo	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	23	amod	_	start_char=111|end_char=118
+23	largo	largo	NOUN	sm2ms	Gender=Masc|Number=Sing	12	conj	_	start_char=119|end_char=124
+24	a	a	ADP	epsk1	_	27	case	_	start_char=125|end_char=126
+25	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Ind	27	det	_	start_char=127|end_char=132
+26	l'	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	start_char=133|end_char=135|SpaceAfter=No
+27	ore	ora	NOUN	sf1fp	Gender=Fem|Number=Plur	23	nmod	_	start_char=135|end_char=138|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
+
+# text = Non amar donna 'ltrui è 'l terzo onore, rilegion guardar dal quarto lato, ben proveder di porres'in su' grato è 'l quinto, che de' l'omo avere in core.
+# sent_id = 1
+1	Non	non	ADV	b	PronType=Neg	2	advmod:neg	_	start_char=141|end_char=144
+2	amar	amare	VERB	vta1fp3	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=145|end_char=149
+3	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	2	obj	_	start_char=150|end_char=155
+4	'ltrui	iltrui	ADV	b	_	2	advmod	_	start_char=156|end_char=162
+5	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=163|end_char=164
+6	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=165|end_char=167
+7	terzo	terzo	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	8	amod	_	start_char=168|end_char=173
+8	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	2	nsubj	_	start_char=174|end_char=179|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	start_char=179|end_char=180|SpacesAfter=\n
+10	rilegion	rilegione	NOUN	sm3ms	Gender=Masc|Number=Sing	2	vocative	_	start_char=181|end_char=189
+11	guardar	guardare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=190|end_char=197
+12-13	dal	_	_	_	_	_	_	_	start_char=198|end_char=201
+12	da	da	ADP	_	_	15	case	_	_
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	quarto	quarto	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	15	amod	_	start_char=202|end_char=208
+15	lato	lato	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obl:lmod	_	start_char=209|end_char=213|SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	start_char=213|end_char=214|SpacesAfter=\n
+17	ben	bene	ADV	b	_	18	advmod	_	start_char=215|end_char=218
+18	proveder	provvedere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	11	advcl	_	start_char=219|end_char=227
+19	di	di	ADP	epskg	_	20	case	_	start_char=228|end_char=230
+20	porres'	porresto	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obl	_	start_char=231|end_char=238|SpaceAfter=No
+21	in	in	ADP	_	_	24	case	_	start_char=238|end_char=240
+22-23	su'	_	_	_	_	_	_	_	start_char=241|end_char=244
+22	su	su	ADP	rdms	_	24	case	_	start_char=241|end_char=243
+23	'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	start_char=243|end_char=244
+24	grato	grado	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obl:lmod	_	start_char=245|end_char=250|SpacesAfter=\n
+25	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	start_char=251|end_char=252
+26	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=253|end_char=255
+27	quinto	quinto	NOUN	sm2ms	Gender=Masc|Number=Sing	18	nsubj	_	start_char=256|end_char=262|SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	start_char=262|end_char=263
+29	che	che	PRON	pr	PronType=Rel	33	nsubj	_	start_char=264|end_char=267
+30	de'	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	start_char=268|end_char=271
+31	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	start_char=272|end_char=274|SpaceAfter=No
+32	omo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	33	nsubj	_	start_char=274|end_char=277
+33	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	27	acl:relcl	_	start_char=278|end_char=283
+34	in	in	ADP	epskml	_	35	case	_	start_char=284|end_char=286
+35	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	33	obl:lmod	_	start_char=287|end_char=291|SpaceAfter=No
+36	.	.	PUNCT	_	_	27	punct	_	start_char=291|end_char=292|SpacesAfter=\n\n
+
+# text = Or lo sesto è cortese, al mi' parere, che d'esser credenzier fermo comanda: col sette a presso onoranza tenere
+# sent_id = 2
+1	Or	ora	ADV	b	_	5	advmod:tmod	_	start_char=294|end_char=296
+2	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=297|end_char=299
+3	sesto	sesto	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	5	nsubj	_	start_char=300|end_char=305
+4	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=306|end_char=307
+5	cortese	cortese	ADJ	a2msxc	Gender=Masc|Number=Sing	0	root	_	start_char=308|end_char=315|SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	start_char=315|end_char=316
+7-8	al	_	_	_	_	_	_	_	start_char=317|end_char=319
+7	a	a	ADP	_	_	10	case	_	_
+8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	start_char=320|end_char=323
+10	parere	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	5	obl	_	start_char=324|end_char=330|SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	start_char=330|end_char=331|SpacesAfter=\n
+12	che	che	SCONJ	cssu	_	17	mark	_	start_char=332|end_char=335
+13	d'	di	ADP	epsb	_	15	case	_	start_char=336|end_char=338|SpaceAfter=No
+14	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	17	aux	_	start_char=338|end_char=343
+15	credenzier	credenziere	NOUN	sm3ms	Gender=Masc|Number=Sing	17	nsubj	_	start_char=344|end_char=354
+16	fermo	fermo	ADJ	a1msxc1	Gender=Masc|Number=Sing	17	advcl	_	start_char=355|end_char=360
+17	comanda	comandare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=361|end_char=368|SpaceAfter=No
+18	:	:	PUNCT	_	_	25	punct	_	start_char=368|end_char=369|SpacesAfter=\n
+19-20	col	_	_	_	_	_	_	_	start_char=370|end_char=373
+19	con	con	ADP	_	_	21	case	_	_
+20	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	sette	sette	NUM	an	NumType=Card	25	obl:lmod	_	start_char=374|end_char=379
+22	a	a	ADP	_	_	24	case	_	start_char=380|end_char=381
+23	presso	presso	ADV	_	_	24	advmod:lmod	_	start_char=382|end_char=388
+24	onoranza	onoranza	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obl	_	start_char=389|end_char=397
+25	tenere	tenere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	5	parataxis	_	start_char=398|end_char=404|SpacesAfter=\n\n
+
+# text = a l'amorose donne con piacere: donandoci poi l'otto per vivanda, che ardimento ci dobiamo avere.
+# sent_id = 3
+1	a	a	ADP	epsk1d	_	4	case	_	start_char=406|end_char=407
+2	l'	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	start_char=408|end_char=410|SpaceAfter=No
+3	amorose	amoroso	ADJ	a1fp	Gender=Fem|Number=Plur	4	amod	_	start_char=410|end_char=417
+4	donne	donna	NOUN	sf1fp	Gender=Fem|Number=Plur	0	root	_	start_char=418|end_char=423
+5	con	con	ADP	epskw	_	6	case	_	start_char=424|end_char=427
+6	piacere	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	4	nmod	_	start_char=428|end_char=435|SpaceAfter=No
+7	:	:	PUNCT	_	_	8	punct	_	start_char=435|end_char=436|SpacesAfter=\n
+8-9	donandoci	_	_	_	_	_	_	_	start_char=437|end_char=446
+8	donando	donare	VERB	vta1gp	VerbForm=Conv|Voice=Act	4	advcl	_	start_char=437|end_char=444
+9	ci	ci	PRON	pp1pxac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	start_char=444|end_char=446
+10	poi	poi	ADV	b	_	8	advmod:tmod	_	start_char=447|end_char=450
+11	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=451|end_char=453|SpaceAfter=No
+12	otto	otto	NUM	an	NumType=Card	8	obj	_	start_char=453|end_char=457
+13	per	per	ADP	epskr	_	14	case	_	start_char=458|end_char=461
+14	vivanda	vivanda	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obl	_	start_char=462|end_char=469|SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	start_char=469|end_char=470|SpacesAfter=\n
+16	che	che	PRON	pr	PronType=Rel	19	nsubj	_	start_char=471|end_char=474
+17	ardimento	ardimento	NOUN	sm2ms	Gender=Masc|Number=Sing	19	nsubj	_	start_char=475|end_char=484
+18	ci	ci	PRON	by	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	expl	_	start_char=485|end_char=487
+19	dobiamo	dobire	VERB	vta1irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=488|end_char=495
+20	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=496|end_char=501|SpaceAfter=No
+21	.	.	PUNCT	_	_	8	punct	_	start_char=501|end_char=502|SpaceAfter=No
+

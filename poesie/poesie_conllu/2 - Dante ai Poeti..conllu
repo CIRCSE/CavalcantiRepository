@@ -1,0 +1,122 @@
+# newdoc id = 2 - Dante ai Poeti.
+# text = A ciascun’ alma presa e gentil core nel cui cospetto viene il dir presente, a ciò che mi riscrivan suo parvente, salute in lor signor, cioè Amore.
+# sent_id = 0
+1	A	a	ADP	epsk1	_	2	case	_	start_char=0|end_char=1
+2	ciascun	ciascuno	PRON	pi	PronType=Ind	5	nmod	_	start_char=2|end_char=9|SpaceAfter=No
+3	’	’	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=9|end_char=10
+4	alma	alma	ADJ	a1fs	Gender=Fem|Number=Sing	5	amod	_	start_char=11|end_char=15
+5	presa	prendere	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=16|end_char=21
+6	e	e	CCONJ	cscc	_	7	cc	_	start_char=22|end_char=23
+7	gentil	gentile	ADJ	a2fs	Number=Sing	8	amod	_	start_char=24|end_char=30
+8	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	conj	_	start_char=31|end_char=35|SpacesAfter=\n
+9-10	nel	_	_	_	_	_	_	_	start_char=36|end_char=39
+9	in	in	ADP	_	_	12	case	_	_
+10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	cui	cui	PRON	pr	PronType=Rel	12	nmod	_	start_char=40|end_char=43
+12	cospetto	cospetto	NOUN	sm2ms	Gender=Masc|Number=Sing	13	obl:lmod	_	start_char=44|end_char=52
+13	viene	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=53|end_char=58
+14	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=59|end_char=61
+15	dir	dire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	13	nsubj	_	start_char=62|end_char=65
+16	presente	presente	ADJ	a2ms	Gender=Masc|Number=Sing	15	amod	_	start_char=66|end_char=74|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	start_char=74|end_char=75|SpacesAfter=\n
+18	a	a	ADP	epsk1	_	19	case	_	start_char=76|end_char=77
+19	ciò	cio'	PRON	pd	PronType=Dem	13	obl	_	start_char=78|end_char=81
+20	che	che	PRON	pr	PronType=Rel	22	nsubj	_	start_char=82|end_char=85
+21	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	22	obj	_	start_char=86|end_char=88
+22	riscrivan	riscrivare	VERB	vta1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=89|end_char=98
+23	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	start_char=99|end_char=102
+24	parvente	parere	VERB	vi2ppa2ms	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	22	xcomp	_	start_char=103|end_char=111|SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	start_char=111|end_char=112|SpacesAfter=\n
+26	salute	salute	NOUN	sf3fs	Gender=Fem|Number=Sing	22	vocative	_	start_char=113|end_char=119
+27	in	in	ADP	epsksl	_	29	case	_	start_char=120|end_char=122
+28	lor	loro	DET	as	Poss=Yes|PronType=Prs	29	det:poss	_	start_char=123|end_char=126
+29	signor	signore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	nmod	_	start_char=127|end_char=133|SpaceAfter=No
+30	,	,	PUNCT	_	_	32	punct	_	start_char=133|end_char=134
+31	cioè	cioè	ADV	b	_	32	advmod	_	start_char=135|end_char=139
+32	Amore	Amore	PROPN	np	_	26	conj	_	start_char=140|end_char=145|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	_	start_char=145|end_char=146|SpacesAfter=\n\n
+
+# text = Già eran quasi ch’atterzate l’ore del tempo ch’ogni stella n’è lucente, quando m’apparve amor subitamente cui essenza membrar mi dà orrore.
+# sent_id = 1
+1	Già	già	ADV	b	_	18	advmod:tmod	_	start_char=148|end_char=151
+2	eran	essere	AUX	vi4iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=152|end_char=156
+3	quasi	quasi	ADV	b	_	6	advmod	_	start_char=157|end_char=162
+4	ch	ch	SCONJ	csso	_	8	mark	_	start_char=163|end_char=165|SpaceAfter=No
+5	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	start_char=165|end_char=166|SpaceAfter=No
+6	atterzate	atterzato	NOUN	sf1fp	Gender=Fem|Number=Plur	18	nsubj	_	start_char=166|end_char=175
+7	l’	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	start_char=176|end_char=178|SpaceAfter=No
+8	ore	ora	NOUN	sf1fp	Gender=Fem|Number=Plur	6	nmod	_	start_char=178|end_char=181|SpacesAfter=\n
+9-10	del	_	_	_	_	_	_	_	start_char=182|end_char=185
+9	di	di	ADP	_	_	11	case	_	_
+10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tempo	tempo	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nmod	_	start_char=186|end_char=191
+12	ch	chi	PRON	pr	PronType=Rel	18	nsubj	_	start_char=192|end_char=194|SpaceAfter=No
+13	’	’	PUNCT	_	_	18	punct	_	start_char=194|end_char=195|SpaceAfter=No
+14	ogni	ogni	DET	ai2fs	Number=Sing|PronType=Tot	15	det	_	start_char=195|end_char=199
+15	stella	stella	NOUN	sf1fs	Gender=Fem|Number=Sing	18	nsubj	_	start_char=200|end_char=206
+16	n’	ne	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	iobj	_	start_char=207|end_char=209|SpaceAfter=No
+17	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	start_char=209|end_char=210
+18	lucente	lucere	VERB	vi2ppa2fs+	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	start_char=211|end_char=218|SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	start_char=218|end_char=219|SpacesAfter=\n
+20	quando	quando	SCONJ	csst	_	22	mark	_	start_char=220|end_char=226
+21	m’	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	22	iobj	_	start_char=227|end_char=229|SpaceAfter=No
+22	apparve	apparire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	start_char=229|end_char=236
+23	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	22	obj	_	start_char=237|end_char=241
+24	subitamente	subitamente	ADV	b	_	22	advmod	_	start_char=242|end_char=253|SpacesAfter=\n
+25	cui	cui	PRON	pr	PronType=Rel	29	obl	_	start_char=254|end_char=257
+26	essenza	essenza	NOUN	sf1fs	Gender=Fem|Number=Sing	29	nsubj	_	start_char=258|end_char=265
+27	membrar	membrare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	29	advcl	_	start_char=266|end_char=273
+28	mi	mi	PRON	pp1sydc	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	29	iobj	_	start_char=274|end_char=276
+29	dà	dare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	start_char=277|end_char=279
+30	orrore	orrore	NOUN	sm3ms	Gender=Masc|Number=Sing	29	obj	_	start_char=280|end_char=286|SpaceAfter=No
+31	.	.	PUNCT	_	_	18	punct	_	start_char=286|end_char=287|SpacesAfter=\n\n
+
+# text = Allegro mi sembrava amor, tenendo mio core in mano e nelle braccia avea Madonna, involta in un drappo, dormendo.
+# sent_id = 2
+1	Allegro	Allegro	PROPN	np	_	3	nsubj	_	start_char=289|end_char=296
+2	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	start_char=297|end_char=299
+3	sembrava	sembrare	VERB	vi1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=300|end_char=308
+4	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	nsubj	_	start_char=309|end_char=313|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	start_char=313|end_char=314
+6	tenendo	tenere	VERB	vta2gp	VerbForm=Conv|Voice=Act	3	advcl	_	start_char=315|end_char=322|SpacesAfter=\n
+7	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	start_char=323|end_char=326
+8	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	obj	_	start_char=327|end_char=331
+9	in	in	ADP	epsksl	_	10	case	_	start_char=332|end_char=334
+10	mano	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	6	obl:lmod	_	start_char=335|end_char=339
+11	e	e	CCONJ	cscc	_	13	cc	_	start_char=340|end_char=341
+12	nelle	nello	ADJ	a1fp	Gender=Fem|Number=Plur	13	amod	_	start_char=342|end_char=347
+13	braccia	braccio	NOUN	sm2fp	Gender=Fem|Number=Plur	14	obj	_	start_char=348|end_char=355
+14	avea	avere	VERB	vta5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=356|end_char=360|SpacesAfter=\n
+15	Madonna	Madonna	PROPN	np	_	14	obj	_	start_char=361|end_char=368|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	start_char=368|end_char=369
+17	involta	involgere	VERB	vta1pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl	_	start_char=370|end_char=377
+18	in	in	ADP	epsksl	_	20	case	_	start_char=378|end_char=380
+19	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=381|end_char=383
+20	drappo	drappo	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obl:lmod	_	start_char=384|end_char=390|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	start_char=390|end_char=391
+22	dormendo	dormire	VERB	vi1gp	VerbForm=Conv|Voice=Act	17	advcl	_	start_char=392|end_char=400|SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	start_char=400|end_char=401|SpacesAfter=\n\n
+
+# text = Poi la svegliava e d’esto core ardendo lei paventosa umilmente pascea; appresso gir lo ne vedea piangendo.
+# sent_id = 3
+1	Poi	poi	ADV	b	_	3	advmod:tmod	_	start_char=403|end_char=406
+2	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=407|end_char=409
+3	svegliava	svegliare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=410|end_char=419
+4	e	e	CCONJ	cscc	_	8	cc	_	start_char=420|end_char=421
+5	d’	di	ADP	eps	_	7	case	_	start_char=422|end_char=424|SpaceAfter=No
+6	esto	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=424|end_char=428
+7	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obl:lmod	_	start_char=429|end_char=433
+8	ardendo	ardere	VERB	vta1gp	VerbForm=Conv|Voice=Act	3	advcl	_	start_char=434|end_char=441|SpacesAfter=\n
+9	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=442|end_char=445
+10	paventosa	paventoso	ADJ	a1fs	Gender=Fem|Number=Sing	9	amod	_	start_char=446|end_char=455
+11	umilmente	umilmente	ADV	b	_	12	advmod	_	start_char=456|end_char=465
+12	pascea	pasce	ADJ	a1fs	Gender=Fem|Number=Sing	8	xcomp	_	start_char=466|end_char=472|SpaceAfter=No
+13	;	;	PUNCT	_	_	18	punct	_	start_char=472|end_char=473|SpacesAfter=\n
+14	appresso	appresso	ADP	eisk	_	15	mark	_	start_char=474|end_char=482
+15	gir	gire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	18	advcl	_	start_char=483|end_char=486
+16	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=487|end_char=489
+17	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	18	obl:arg	_	start_char=490|end_char=492
+18	vedea	vedere	VERB	vta2iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=493|end_char=498
+19	piangendo	piangere	VERB	vi2gp	VerbForm=Conv|Voice=Act	18	advcl	_	start_char=499|end_char=508|SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	start_char=508|end_char=509|SpaceAfter=No
+

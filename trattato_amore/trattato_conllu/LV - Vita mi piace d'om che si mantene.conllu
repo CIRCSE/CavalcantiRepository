@@ -1,0 +1,130 @@
+# newdoc id = LV - Vita mi piace d'om che si mantene
+# text = Vita mi piace d'om che si mantene cortesemente ne la via d'amore, e che acconcia il su' amoroso core in ciò che vole onore e tutto bene.
+# sent_id = 0
+1	Vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nsubj	_	start_char=0|end_char=4
+2	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	start_char=5|end_char=7
+3	piace	piacere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	d'	di	ADP	eps	_	5	case	_	start_char=14|end_char=16|SpaceAfter=No
+5	om	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl	_	start_char=16|end_char=18
+6	che	che	PRON	pr	PronType=Rel	8	nsubj	_	start_char=19|end_char=22
+7	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	start_char=23|end_char=25
+8	mantene	mantenere	VERB	vta+2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=26|end_char=33|SpacesAfter=\n
+9	cortesemente	cortesemente	ADV	b	_	8	advmod	_	start_char=34|end_char=46
+10	ne	in	ADP	epaksl	_	12	case	_	start_char=47|end_char=49
+11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=50|end_char=52
+12	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obl:lmod	_	start_char=53|end_char=56
+13	d'	di	ADP	eps	_	14	case	_	start_char=57|end_char=59|SpaceAfter=No
+14	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	12	nmod	_	start_char=59|end_char=64|SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	start_char=64|end_char=65|SpacesAfter=\n
+16	e	e	CCONJ	cscc	_	18	cc	_	start_char=66|end_char=67
+17	che	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=68|end_char=71
+18	acconcia	acconciare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=72|end_char=80
+19	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=81|end_char=83
+20	su'	suo	ADJ	a2ms	Gender=Masc|Number=Sing	22	amod	_	start_char=84|end_char=87
+21	amoroso	amoroso	ADJ	a1ms	Gender=Masc|Number=Sing	22	amod	_	start_char=88|end_char=95
+22	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	obj	_	start_char=96|end_char=100|SpacesAfter=\n
+23	in	in	ADP	epsksl	_	24	case	_	start_char=101|end_char=103
+24	ciò	cio'	PRON	pd	PronType=Dem	18	obl:lmod	_	start_char=104|end_char=107
+25	che	che	PRON	pr	PronType=Rel	26	nsubj	_	start_char=108|end_char=111
+26	vole	volere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl:relcl	_	start_char=112|end_char=116
+27	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obj	_	start_char=117|end_char=122
+28	e	e	CCONJ	cscc	_	30	cc	_	start_char=123|end_char=124
+29	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	30	det	_	start_char=125|end_char=130
+30	bene	bene	ADV	b	_	27	conj	_	start_char=131|end_char=135|SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	start_char=135|end_char=136|SpacesAfter=\n\n
+
+# text = Che indi nasce tutta fiata e vene quanto ch'om face che sia di valore, sì che mi sembia che vivendo more quei, che si parte da sì dolce spene.
+# sent_id = 1
+1	Che	che	PRON	pt	PronType=Int	3	nsubj	_	start_char=138|end_char=141
+2	indi	indi	ADV	b	_	3	advmod:tmod	_	start_char=142|end_char=146
+3	nasce	nascere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=147|end_char=152
+4	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	start_char=153|end_char=158
+5	fiata	fiata	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nsubj	_	start_char=159|end_char=164
+6	e	e	CCONJ	cscc	_	7	cc	_	start_char=165|end_char=166
+7	vene	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=167|end_char=171|SpacesAfter=\n
+8	quanto	quanto	ADV	b	_	11	mark	_	start_char=172|end_char=178
+9	ch'	che	SCONJ	css	_	11	mark	_	start_char=179|end_char=182|SpaceAfter=No
+10	om	uomo	PRON	p	_	11	nsubj	_	start_char=182|end_char=184
+11	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=185|end_char=189
+12	che	che	SCONJ	csso	_	15	mark	_	start_char=190|end_char=193
+13	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=194|end_char=197
+14	di	di	ADP	epskg	_	15	case	_	start_char=198|end_char=200
+15	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	ccomp	_	start_char=201|end_char=207|SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	start_char=207|end_char=208|SpacesAfter=\n
+17	sì	così	ADV	_	_	20	advmod	_	start_char=209|end_char=211
+18	che	che	SCONJ	_	_	20	mark	_	start_char=212|end_char=215
+19	mi	mi	PRON	pp1sydc	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	20	iobj	_	start_char=216|end_char=218
+20	sembia	sembrare	VERB	vta1cps3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=219|end_char=225
+21	che	che	SCONJ	csss	_	23	mark	_	start_char=226|end_char=229
+22	vivendo	vivere	VERB	vi2gp	VerbForm=Conv|Voice=Act	23	advcl	_	start_char=230|end_char=237
+23	more	morire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	ccomp	_	start_char=238|end_char=242|SpacesAfter=\n
+24	quei	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	23	nsubj	_	start_char=243|end_char=247|SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	start_char=247|end_char=248
+26	che	che	PRON	pr	PronType=Rel	28	nsubj	_	start_char=249|end_char=252
+27	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	28	expl:pv	_	start_char=253|end_char=255
+28	parte	partire	VERB	vi+3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	start_char=256|end_char=261
+29	da	da	ADP	epske	_	32	case	_	start_char=262|end_char=264
+30	sì	così	ADV	b	_	31	advmod	_	start_char=265|end_char=267
+31	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	32	amod	_	start_char=268|end_char=273
+32	spene	speme	NOUN	sf3fs	Gender=Fem|Number=Sing	28	obl	_	start_char=274|end_char=279|SpaceAfter=No
+33	.	.	PUNCT	_	_	3	punct	_	start_char=279|end_char=280|SpacesAfter=\n\n
+
+# text = Chè la vita d'amore è graziosa, e 'n tutte cose si sape avanzare lo 'nnamorato me' che l'altra giente;
+# sent_id = 2
+1	Chè	chè	SCONJ	cssc	_	7	mark	_	start_char=282|end_char=285
+2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=286|end_char=288
+3	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=289|end_char=293
+4	d'	di	ADP	eps	_	5	case	_	start_char=294|end_char=296|SpaceAfter=No
+5	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	7	obl	_	start_char=296|end_char=301
+6	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=302|end_char=303
+7	graziosa	grazioso	ADJ	a1fs	Gender=Fem|Number=Sing	14	advcl	_	start_char=304|end_char=312|SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	start_char=312|end_char=313|SpacesAfter=\n
+9	e	e	CCONJ	cscc	_	14	cc	_	start_char=314|end_char=315
+10	'n	in	ADP	epsksl	_	12	case	_	start_char=316|end_char=318
+11	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	start_char=319|end_char=324
+12	cose	cosa	NOUN	sf1fp	Gender=Fem|Number=Plur	14	obl:lmod	_	start_char=325|end_char=329
+13	si	si	PRON	pf3ypm	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	start_char=330|end_char=332
+14	sape	sapere	VERB	vta*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=333|end_char=337
+15	avanzare	avanzare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=338|end_char=346|SpacesAfter=\n
+16	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	start_char=347|end_char=349
+17	'nnamorato	innamorare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	18	acl	_	start_char=350|end_char=360
+18	me'	meglio	ADV	bc+	_	15	advmod	_	start_char=361|end_char=364
+19	che	che	SCONJ	c	_	22	mark	_	start_char=365|end_char=368
+20	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=369|end_char=371|SpaceAfter=No
+21	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	22	nsubj	_	start_char=371|end_char=376
+22	giente	gienire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=377|end_char=383|SpaceAfter=No
+23	;	;	PUNCT	_	_	14	punct	_	start_char=383|end_char=384|SpacesAfter=\n\n
+
+# text = chè chi non à d'amor né non ne sente non puote, al mi' parer, di sé mostrare neente, ch'apartenga a nobil cosa.
+# sent_id = 3
+1	chè	chè	SCONJ	cssc	_	10	mark	_	start_char=386|end_char=389
+2	chi	chi	PRON	pr	PronType=Rel	10	nsubj	_	start_char=390|end_char=393
+3	non	non	ADV	_	PronType=Neg	10	advmod:neg	_	start_char=394|end_char=397
+4	à	à	ADV	b	_	10	advmod	_	start_char=398|end_char=399
+5	d'	di	ADP	eps	_	6	case	_	start_char=400|end_char=402|SpaceAfter=No
+6	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl	_	start_char=402|end_char=406
+7	né	né	CCONJ	cscc	_	10	cc	_	start_char=407|end_char=409
+8	non	non	ADV	b	PronType=Neg	10	advmod:neg	_	start_char=410|end_char=413
+9	ne	ne	PRON	pp3ypt	Clitic=Yes|Person=3|PronType=Prs	10	obl:arg	_	start_char=414|end_char=416
+10	sente	sentire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=417|end_char=422|SpacesAfter=\n
+11	non	non	ADV	b	PronType=Neg	12	advmod:neg	_	start_char=423|end_char=426
+12	puote	potere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=427|end_char=432|SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	start_char=432|end_char=433
+14-15	al	_	_	_	_	_	_	_	start_char=434|end_char=436
+14	a	a	ADP	_	_	17	case	_	_
+15	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	start_char=437|end_char=440
+17	parer	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	12	obl	_	start_char=441|end_char=446|SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	start_char=446|end_char=447
+19	di	di	ADP	epskg	_	20	case	_	start_char=448|end_char=450
+20	sé	sé	PRON	pf3lpr	Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	21	obl	_	start_char=451|end_char=453
+21	mostrare	mostrare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	acl	_	start_char=454|end_char=462|SpacesAfter=\n
+22	neente	niente	PRON	pi	PronType=Ind	21	obj	_	start_char=463|end_char=469|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	start_char=469|end_char=470
+24	ch'	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=471|end_char=474|SpaceAfter=No
+25	apartenga	apartenire	VERB	vta1iss3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=474|end_char=483
+26	a	a	ADP	epskm	_	28	case	_	start_char=484|end_char=485
+27	nobil	nobile	ADJ	a2fs	Gender=Fem|Number=Sing	28	amod	_	start_char=486|end_char=491
+28	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obl	_	start_char=492|end_char=496|SpaceAfter=No
+29	.	.	PUNCT	_	_	21	punct	_	start_char=496|end_char=497|SpaceAfter=No
+

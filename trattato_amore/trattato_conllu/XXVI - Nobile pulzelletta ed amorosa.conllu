@@ -1,0 +1,121 @@
+# newdoc id = XXVI - Nobile pulzelletta ed amorosa
+# text = Nobile pulzelletta ed amorosa, compiuta di piacere e di bellore , per te ringrazio ed amo più amore, che mi ti face amar sovr’onne cosa.
+# sent_id = 0
+1	Nobile	nobile	ADJ	a2fs	Gender=Fem|Number=Sing	2	amod	_	start_char=0|end_char=6
+2	pulzelletta	pulzelletta	NOUN	sf1fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=7|end_char=18
+3	ed	e	CCONJ	cscc	_	4	cc	_	start_char=19|end_char=21
+4	amorosa	amoroso	ADJ	a1fs	Gender=Fem|Number=Sing	2	conj	_	start_char=22|end_char=29|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	start_char=29|end_char=30|SpacesAfter=\n
+6	compiuta	compiere	VERB	vtp2pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	start_char=31|end_char=39
+7	di	di	ADP	epskg	_	8	case	_	start_char=40|end_char=42
+8	piacere	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	6	obl	_	start_char=43|end_char=50
+9	e	e	CCONJ	cscc	_	11	cc	_	start_char=51|end_char=52
+10	di	di	ADP	epskg	_	11	case	_	start_char=53|end_char=55
+11	bellore	bellore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	conj	_	start_char=56|end_char=63
+12	,	,	PUNCT	_	_	2	punct	_	start_char=64|end_char=65|SpacesAfter=\n
+13	per	per	ADP	epskr	_	14	case	_	start_char=66|end_char=69
+14	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	15	obl	_	start_char=70|end_char=72
+15	ringrazio	ringraziare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=73|end_char=82
+16	ed	e	CCONJ	cscc	_	17	cc	_	start_char=83|end_char=85
+17	amo	amare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	start_char=86|end_char=89
+18	più	più	DET	a	_	19	det	_	start_char=90|end_char=93
+19	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	17	obj	_	start_char=94|end_char=99|SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	start_char=99|end_char=100|SpacesAfter=\n
+21	che	che	SCONJ	cssu	_	24	mark	_	start_char=101|end_char=104
+22	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	24	iobj	_	start_char=105|end_char=107
+23	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	24	obj	_	start_char=108|end_char=110
+24	face	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=111|end_char=115
+25	amar	amare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	24	xcomp	_	start_char=116|end_char=120
+26	sovr	sopo	X	_	Foreign=Yes	24	obl	_	start_char=121|end_char=125|SpaceAfter=No
+27	’	’	PUNCT	_	_	29	punct	_	start_char=125|end_char=126|SpaceAfter=No
+28	onne	onne	ADJ	a1fp	Gender=Fem|Number=Plur	29	amod	_	start_char=126|end_char=130
+29	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	24	obj	_	start_char=131|end_char=135|SpaceAfter=No
+30	.	.	PUNCT	_	_	15	punct	_	start_char=135|end_char=136|SpacesAfter=\n\n
+
+# text = Chè tanto sembl’a me sia graziosa la vita dolce, che ave lo core che in te si mira, che neun dolzore mi par iguale di tal via disiosa,
+# sent_id = 1
+1	Chè	chè	SCONJ	cssv	_	8	mark	_	start_char=138|end_char=141
+2	tanto	tanto	ADV	b	_	8	advmod	_	start_char=142|end_char=147
+3	sembl	sembo	X	_	Foreign=Yes	8	advmod	_	start_char=148|end_char=153|SpaceAfter=No
+4	’	’	PUNCT	_	_	3	punct	_	start_char=153|end_char=154|SpaceAfter=No
+5	a	a	ADP	epsk1d	_	6	case	_	start_char=154|end_char=155
+6	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	8	obl	_	start_char=156|end_char=158
+7	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=159|end_char=162
+8	graziosa	grazioso	ADJ	a1fs	Gender=Fem|Number=Sing	0	root	_	start_char=163|end_char=171|SpacesAfter=\n
+9	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=172|end_char=174
+10	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	8	nsubj	_	start_char=175|end_char=179
+11	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	10	amod	_	start_char=180|end_char=185|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	start_char=185|end_char=186
+13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=187|end_char=190
+14	ave	avere	VERB	vta5ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=191|end_char=194
+15	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=195|end_char=197
+16	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	14	obj	_	start_char=198|end_char=202|SpacesAfter=\n
+17	che	che	PRON	pr	PronType=Rel	21	nsubj:pass	_	start_char=203|end_char=206
+18	in	in	ADP	epsksl	_	19	case	_	start_char=207|end_char=209
+19	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	21	obl:agent	_	start_char=210|end_char=212
+20	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	21	expl:impers	_	start_char=213|end_char=215
+21	mira	mirare	VERB	vtp1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	acl:relcl	_	start_char=216|end_char=220|SpaceAfter=No
+22	,	,	PUNCT	_	_	27	punct	_	start_char=220|end_char=221
+23	che	che	SCONJ	cssu	_	27	mark	_	start_char=222|end_char=225
+24	neun	nessuno	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	25	det	_	start_char=226|end_char=230
+25	dolzore	dolzore	NOUN	sm3ms	Gender=Masc|Number=Sing	27	nsubj	_	start_char=231|end_char=238|SpacesAfter=\n
+26	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	27	iobj	_	start_char=239|end_char=241
+27	par	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=242|end_char=245
+28	iguale	uguale	ADJ	a2msx	Gender=Masc|Number=Sing	27	xcomp	_	start_char=246|end_char=252
+29	di	di	ADP	epskg	_	31	case	_	start_char=253|end_char=255
+30	tal	tale	DET	a2fs	Number=Sing	31	det	_	start_char=256|end_char=259
+31	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	28	obl	_	start_char=260|end_char=263
+32	disiosa	desiderio	ADJ	a1fs	Gender=Fem|Number=Sing	31	amod	_	start_char=264|end_char=271|SpaceAfter=No
+33	,	,	PUNCT	_	_	8	punct	_	start_char=271|end_char=272|SpacesAfter=\n\n
+
+# text = ne la qual vivo in un dolce pensiero: chè spero ne la tua semblanza umile trovar di cierto bona pietate.
+# sent_id = 2
+1	ne	in	ADP	epaksl	_	3	case	_	start_char=274|end_char=276
+2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=277|end_char=279
+3	qual	quale	PRON	pr2fs	Number=Sing|PronType=Rel	4	obl	_	start_char=280|end_char=284
+4	vivo	vivo	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	start_char=285|end_char=289
+5	in	in	ADP	epsksl	_	8	case	_	start_char=290|end_char=292
+6	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=293|end_char=295
+7	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	8	amod	_	start_char=296|end_char=301
+8	pensiero	pensiero	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl	_	start_char=302|end_char=310|SpaceAfter=No
+9	:	:	PUNCT	_	_	11	punct	_	start_char=310|end_char=311|SpacesAfter=\n
+10	chè	chè	SCONJ	cssc	_	11	mark	_	start_char=312|end_char=315
+11	spero	sperare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=316|end_char=321
+12	ne	in	ADP	epaksl	_	15	case	_	start_char=322|end_char=324
+13	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=325|end_char=327
+14	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	start_char=328|end_char=331
+15	semblanza	semblanza	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obl:lmod	_	start_char=332|end_char=341
+16	umile	umile	ADJ	a2fs	Gender=Fem|Number=Sing	15	amod	_	start_char=342|end_char=347|SpacesAfter=\n
+17	trovar	trovare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	ccomp	_	start_char=348|end_char=354
+18	di	di	ADP	epskg	_	19	case	_	start_char=355|end_char=357
+19	cierto	cierto	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obl	_	start_char=358|end_char=364
+20	bona	buono	ADJ	a1fs	Gender=Fem|Number=Sing	21	amod	_	start_char=365|end_char=369
+21	pietate	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	17	obj	_	start_char=370|end_char=377|SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	start_char=377|end_char=378|SpacesAfter=\n\n
+
+# text = Così dimoro intorno a la bieltate ch’io ’n te veggio e a l’atto gientile pietosamente e pur merzede chero.
+# sent_id = 3
+1	Così	così	ADV	b	_	2	advmod	_	start_char=380|end_char=384
+2	dimoro	dimora	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=385|end_char=391
+3	intorno	intorno	ADV	_	_	6	advmod:lmod	_	start_char=392|end_char=399
+4	a	a	ADP	_	_	6	case	_	start_char=400|end_char=401
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=402|end_char=404
+6	bieltate	bieltà	NOUN	sf3fs	Gender=Fem|Number=Sing	2	nmod	_	start_char=405|end_char=413|SpacesAfter=\n
+7	ch’	che	PRON	pr	PronType=Rel	12	nsubj	_	start_char=414|end_char=417|SpaceAfter=No
+8	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	12	nsubj	_	start_char=417|end_char=419
+9	’	’	PUNCT	_	_	12	punct	_	start_char=420|end_char=421|SpaceAfter=No
+10	n	i	ADP	epsks	_	11	case	_	start_char=421|end_char=422
+11	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	12	obl	_	start_char=423|end_char=425
+12	veggio	vedere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=426|end_char=432
+13	e	e	CCONJ	cscc	_	16	cc	_	start_char=433|end_char=434
+14	a	a	ADP	epsk1	_	16	case	_	start_char=435|end_char=436
+15	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=437|end_char=439|SpaceAfter=No
+16	atto	atto	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obl:lmod	_	start_char=439|end_char=443
+17	gientile	gientile	ADJ	a2ms	Gender=Masc|Number=Sing	16	amod	_	start_char=444|end_char=452|SpacesAfter=\n
+18	pietosamente	pietosamente	ADV	b	_	12	advmod	_	start_char=453|end_char=465
+19	e	e	CCONJ	cscc	_	21	cc	_	start_char=466|end_char=467
+20	pur	pure	ADV	b	_	22	advmod	_	start_char=468|end_char=471
+21	merzede	merzede	NOUN	sf3fs	Gender=Fem|Number=Sing	12	conj	_	start_char=472|end_char=479
+22	chero	chero	ADJ	a1ms	Gender=Masc|Number=Sing	21	amod	_	start_char=480|end_char=485|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	start_char=485|end_char=486|SpaceAfter=No
+

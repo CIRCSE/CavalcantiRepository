@@ -1,0 +1,137 @@
+# newdoc id = XLII - I' credo, Amor, che 'nfin ch'i' non dimagro
+# text = l' credo, amor, che 'n fin ch' i' non sì che quasi divegna come secco, voi non direte: — di costui i' pecco, che l'ò tenuto e 'l tengo tanto ad agro.
+# sent_id = 0
+1	l'	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=0|end_char=2
+2	credo	credere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3|end_char=8|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	start_char=8|end_char=9
+4	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	2	vocative	_	start_char=10|end_char=14|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	start_char=14|end_char=15
+6	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=16|end_char=19
+7	'n	in	ADP	_	_	4	case	_	start_char=20|end_char=22
+8	fin	fino	ADV	_	_	15	advmod	_	start_char=23|end_char=26
+9	ch'	che	SCONJ	_	_	15	mark	_	start_char=27|end_char=30
+10	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=31|end_char=33
+11	non	non	ADV	b	PronType=Neg	15	advmod:neg	_	start_char=34|end_char=37|SpacesAfter=\n
+12	sì	così	ADV	b	_	15	advmod	_	start_char=38|end_char=40
+13	che	che	SCONJ	cssu	_	15	mark	_	start_char=41|end_char=44
+14	quasi	quasi	ADV	b	_	15	advmod	_	start_char=45|end_char=50
+15	divegna	divenire	VERB	vi2cps3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	start_char=51|end_char=58
+16	come	come	ADV	b	_	17	mark	_	start_char=59|end_char=63
+17	secco	secco	ADJ	a1fs	Gender=Fem|Number=Sing	15	advcl:cmp	_	start_char=64|end_char=69|SpaceAfter=No
+18	,	,	PUNCT	_	_	15	punct	_	start_char=69|end_char=70|SpacesAfter=\n
+19	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	21	nsubj	_	start_char=71|end_char=74
+20	non	non	ADV	b	PronType=Neg	21	advmod:neg	_	start_char=75|end_char=78
+21	direte	dire	VERB	vta3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=79|end_char=85|SpaceAfter=No
+22	:	:	PUNCT	_	_	27	punct	_	start_char=85|end_char=86
+23	—	—	PUNCT	_	_	27	punct	_	start_char=87|end_char=88
+24	di	di	ADP	epskg	_	25	case	_	start_char=89|end_char=91
+25	costui	costui	PRON	pd3ms	Gender=Masc|Number=Sing|PronType=Dem	27	nmod	_	start_char=92|end_char=98
+26	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	27	nsubj	_	start_char=99|end_char=101
+27	pecco	pecco	NOUN	sm2ms	Gender=Masc|Number=Sing	21	ccomp:reported	_	start_char=102|end_char=107|SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	start_char=107|end_char=108|SpacesAfter=\n
+29	che	che	PRON	pr	PronType=Rel	31	nsubj:pass	_	start_char=109|end_char=112
+30	l'ò	lote	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	aux:pass	_	start_char=113|end_char=116
+31	tenuto	tenere	VERB	vtp2irs1	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	27	acl:relcl	_	start_char=117|end_char=123
+32	e	e	CCONJ	cscc	_	34	cc	_	start_char=124|end_char=125
+33	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	start_char=126|end_char=128
+34	tengo	tengere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	31	conj	_	start_char=129|end_char=134
+35	tanto	tanto	ADV	b	_	34	advmod	_	start_char=135|end_char=140
+36	ad	a	ADP	epskml	_	37	case	_	start_char=141|end_char=143
+37	agro	agro	NOUN	sm2ms	Gender=Masc|Number=Sing	34	obl:lmod	_	start_char=144|end_char=148|SpaceAfter=No
+38	.	.	PUNCT	_	_	21	punct	_	start_char=148|end_char=149|SpacesAfter=\n\n
+
+# text = Ma tutta volta saramento sagro vi posso far senza mentir del becco, ch'ai dolor mio non è nessun parecco sì forte 'l sento, 'nd'io già no m'a pagro
+# sent_id = 1
+1	Ma	ma	CCONJ	csca	_	8	cc	_	start_char=151|end_char=153
+2	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	start_char=154|end_char=159
+3	volta	volta	NOUN	sf1fs	Gender=Fem|Number=Sing	8	nsubj	_	start_char=160|end_char=165
+4	saramento	saramento	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	start_char=166|end_char=175
+5	sagro	sagro	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=176|end_char=181|SpacesAfter=\n
+6	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	8	iobj	_	start_char=182|end_char=184
+7	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	start_char=185|end_char=190
+8	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=191|end_char=194
+9	senza	senza	ADP	epsb	_	10	mark	_	start_char=195|end_char=200
+10	mentir	mentire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	8	advcl	_	start_char=201|end_char=207
+11-12	del	_	_	_	_	_	_	_	start_char=208|end_char=211
+11	di	di	ADP	_	_	13	case	_	_
+12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	becco	becco	NOUN	sm2ms	Gender=Masc|Number=Sing	10	obl	_	start_char=212|end_char=217|SpaceAfter=No
+14	,	,	PUNCT	_	_	23	punct	_	start_char=217|end_char=218|SpacesAfter=\n
+15	ch'	che	SCONJ	cssu	_	23	mark	_	start_char=219|end_char=222|SpaceAfter=No
+16-17	ai	_	_	_	_	_	_	_	start_char=222|end_char=224
+16	a	a	ADP	_	_	18	case	_	_
+17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	dolor	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	23	obl:lmod	_	start_char=225|end_char=230
+19	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	start_char=231|end_char=234
+20	non	non	ADV	b	PronType=Neg	23	advmod:neg	_	start_char=235|end_char=238
+21	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=239|end_char=240
+22	nessun	nessuno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	23	nsubj	_	start_char=241|end_char=247
+23	parecco	parecco	NOUN	sm2ms	Gender=Masc|Number=Sing	8	advcl	_	start_char=248|end_char=255|SpacesAfter=\n
+24	sì	così	ADV	b	_	27	advmod	_	start_char=256|end_char=258
+25	forte	forte	ADV	b	_	27	advmod	_	start_char=259|end_char=264
+26	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=265|end_char=267
+27	sento	sentire	NOUN	sm2ms	Gender=Masc|Number=Sing	23	advcl	_	start_char=268|end_char=273|SpaceAfter=No
+28	,	,	PUNCT	_	_	35	punct	_	start_char=273|end_char=274
+29	'nd'	indo	SCONJ	cscn	_	35	mark	_	start_char=275|end_char=279|SpaceAfter=No
+30	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	35	nsubj	_	start_char=279|end_char=281
+31	già	già	ADV	b	_	35	advmod:tmod	_	start_char=282|end_char=285
+32	no	non	ADV	b	_	35	advmod	_	start_char=286|end_char=288
+33	m'	mi	PRON	pf1syle	Clitic=Yes|Person=1|PronType=Prs|Reflex=Yes	35	cop	_	start_char=289|end_char=291|SpaceAfter=No
+34	a	a	ADP	ek	_	35	case	_	start_char=291|end_char=292
+35	pagro	pagro	NOUN	sm2ms	Gender=Masc|Number=Sing	27	obl	_	start_char=293|end_char=298|SpacesAfter=\n\n
+
+# text = Hn che compiuto avrò il vostro grado, o che pietà voi averete incontra la gran durezza, che mia vita spegna.
+# sent_id = 2
+1	Hn	n	ADV	_	_	4	advmod	_	start_char=300|end_char=302
+2	che	che	SCONJ	_	_	3	mark	_	start_char=303|end_char=306
+3	compiuto	compiere	VERB	vta2ibs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	start_char=307|end_char=315
+4	avrò	avere	VERB	vta5ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=316|end_char=320
+5	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=321|end_char=323
+6	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=324|end_char=330
+7	grado	grado	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obj	_	start_char=331|end_char=336|SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	start_char=336|end_char=337|SpacesAfter=\n
+9	o	o	CCONJ	cscd	_	14	cc	_	start_char=338|end_char=339
+10	che	che	SCONJ	csso	_	13	mark	_	start_char=340|end_char=343
+11	pietà	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	13	nsubj	_	start_char=344|end_char=349
+12	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	start_char=350|end_char=353
+13	averete	avere	VERB	vta5ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=354|end_char=361
+14	incontra	incontrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=362|end_char=370|SpacesAfter=\n
+15	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=371|end_char=373
+16	gran	grande	ADJ	a2fs	Gender=Fem|Number=Sing	17	amod	_	start_char=374|end_char=378
+17	durezza	durezza	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obj	_	start_char=379|end_char=386|SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	start_char=386|end_char=387
+19	che	che	PRON	pr	PronType=Rel	22	nsubj	_	start_char=388|end_char=391
+20	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	start_char=392|end_char=395
+21	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	22	obj	_	start_char=396|end_char=400
+22	spegna	spegnere	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=401|end_char=407|SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	start_char=407|end_char=408|SpacesAfter=\n\n
+
+# text = Qual d'esti due che brevemente avegna darà riposo a lo mi' cor e montra ch'a valle è tanto, più non trova grado.
+# sent_id = 3
+1	Qual	quale	DET	ar	Number=Sing|PronType=Rel	4	det	_	start_char=410|end_char=414
+2	d'	di	ADP	epsk	_	4	case	_	start_char=415|end_char=417|SpaceAfter=No
+3	esti	questo	DET	ad1mp	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	start_char=417|end_char=421
+4	due	due	NUM	an	NumType=Card	0	root	_	start_char=422|end_char=425
+5	che	che	PRON	pr	PronType=Rel	8	nsubj	_	start_char=426|end_char=429
+6	brevemente	brevemente	ADV	b	_	8	advmod:tmod	_	start_char=430|end_char=440
+7	avegna	avegna	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obj	_	start_char=441|end_char=447|SpacesAfter=\n
+8	darà	dare	VERB	vta1ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=448|end_char=452
+9	riposo	riposo	NOUN	sm2ms	Gender=Masc|Number=Sing	8	obj	_	start_char=453|end_char=459
+10	a	a	ADP	epsk1d	_	13	case	_	start_char=460|end_char=461
+11	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=462|end_char=464
+12	mi'	mio	ADJ	a1ms	Gender=Masc|Number=Sing	13	amod	_	start_char=465|end_char=468
+13	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	obl:lmod	_	start_char=469|end_char=472
+14	e	e	CCONJ	cscc	_	15	cc	_	start_char=473|end_char=474
+15	montra	montrare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	start_char=475|end_char=481|SpacesAfter=\n
+16	ch'	che	SCONJ	csso	_	24	mark	_	start_char=482|end_char=485|SpaceAfter=No
+17	a	a	ADP	_	_	18	case	_	start_char=485|end_char=486
+18	valle	valle	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	start_char=487|end_char=492
+19	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=493|end_char=494
+20	tanto	tanto	ADV	b	_	24	advmod	_	start_char=495|end_char=500|SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	start_char=500|end_char=501
+22	più	più	ADV	b	_	24	advmod	_	start_char=502|end_char=505
+23	non	non	ADV	b	PronType=Neg	24	advmod:neg	_	start_char=506|end_char=509
+24	trova	trovare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=510|end_char=515
+25	grado	grado	NOUN	sm2ms	Gender=Masc|Number=Sing	24	obj	_	start_char=516|end_char=521|SpaceAfter=No
+26	.	.	PUNCT	_	_	24	punct	_	start_char=521|end_char=522|SpaceAfter=No
+

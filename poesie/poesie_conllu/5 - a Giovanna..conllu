@@ -1,0 +1,132 @@
+# newdoc id = 5 - a Giovanna.
+# text = Avete ’n vo’ li fiori e la verdura e ciò che luce od è bello a vedere: risplende più che ’l sol vostra figura: chi vo’ non vede ma’ non po’ valere.
+# sent_id = 0
+1	Avete	avere	VERB	vta5ipp2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=0|end_char=5
+2	’	’	PRON	pp3	Clitic=Yes|Person=3|PronType=Prs	1	obj	_	start_char=6|end_char=7|SpaceAfter=No
+3	n	n	ADV	b	_	1	advmod	_	start_char=7|end_char=8
+4	vo	andare	VERB	ipss	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advmod:lmod	_	start_char=9|end_char=11|SpaceAfter=No
+5	’	’	ADP	epskml	_	7	case	_	start_char=11|end_char=12
+6	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	start_char=13|end_char=15
+7	fiori	fiore	NOUN	sm3mp	Gender=Masc|Number=Plur	1	obl:lmod	_	start_char=16|end_char=21
+8	e	e	CCONJ	cscc	_	10	cc	_	start_char=22|end_char=23
+9	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=24|end_char=26
+10	verdura	verdura	NOUN	sf1fs	Gender=Fem|Number=Sing	7	conj	_	start_char=27|end_char=34|SpacesAfter=\n
+11	e	e	CCONJ	cscc	_	12	cc	_	start_char=35|end_char=36
+12	ciò	cio'	PRON	pd	PronType=Dem	10	conj	_	start_char=37|end_char=40
+13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=41|end_char=44
+14	luce	lucere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=45|end_char=49
+15	od	o	CCONJ	cscc	_	17	cc	_	start_char=50|end_char=52
+16	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=53|end_char=54
+17	bello	bello	ADJ	a1msx	Gender=Masc|Number=Sing	14	conj	_	start_char=55|end_char=60
+18	a	a	ADP	epsb	_	19	mark	_	start_char=61|end_char=62
+19	vedere	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=63|end_char=69|SpaceAfter=No
+20	:	:	PUNCT	_	_	21	punct	_	start_char=69|end_char=70|SpacesAfter=\n
+21	risplende	risplendere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=71|end_char=80
+22	più	più	ADV	bc+	_	21	advmod	_	start_char=81|end_char=84
+23	che	che	SCONJ	c	_	25	mark	_	start_char=85|end_char=88
+24	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=89|end_char=91
+25	sol	sole	NOUN	sm3ms	Gender=Masc|Number=Sing	21	nsubj	_	start_char=92|end_char=95
+26	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	27	det:poss	_	start_char=96|end_char=102
+27	figura	figura	NOUN	sf1fs	Gender=Fem|Number=Sing	21	nsubj	_	start_char=103|end_char=109|SpaceAfter=No
+28	:	:	PUNCT	_	_	30	punct	_	start_char=109|end_char=110|SpacesAfter=\n
+29	chi	chi	PRON	pr	PronType=Rel	30	nsubj	_	start_char=111|end_char=114
+30	vo	andare	VERB	vi1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	33	parataxis	_	start_char=115|end_char=117|SpaceAfter=No
+31	’	’	PUNCT	_	_	30	punct	_	start_char=117|end_char=118
+32	non	non	ADV	b	PronType=Neg	33	advmod:neg	_	start_char=119|end_char=122
+33	vede	vedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	parataxis	_	start_char=123|end_char=127
+34	ma	ma	CCONJ	csca	_	37	cc	_	start_char=128|end_char=130|SpaceAfter=No
+35	’	’	PUNCT	_	_	37	punct	_	start_char=130|end_char=131
+36	non	non	ADV	b	PronType=Neg	37	advmod:neg	_	start_char=132|end_char=135
+37	po	potere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	33	conj	_	start_char=136|end_char=138|SpaceAfter=No
+38	’	’	PUNCT	_	_	39	punct	_	start_char=138|end_char=139
+39	valere	valere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	37	xcomp	_	start_char=140|end_char=146|SpaceAfter=No
+40	.	.	PUNCT	_	_	21	punct	_	start_char=146|end_char=147|SpacesAfter=\n\n
+
+# text = In questo mondo non à creatura sì piena di bieltà nè di piacere; e chi d’amor si teme, l’assicura vostro bel viso, e non po’ più temere.
+# sent_id = 1
+1	In	in	ADP	epsksl	_	3	case	_	start_char=149|end_char=151
+2	questo	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=152|end_char=158
+3	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=159|end_char=164
+4	non	non	ADV	b	PronType=Neg	5	advmod:neg	_	start_char=165|end_char=168
+5	à	andare	VERB	viaips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=169|end_char=170
+6	creatura	creatura	NOUN	sf1fs	Gender=Fem|Number=Sing	5	obj	_	start_char=171|end_char=179|SpacesAfter=\n
+7	sì	così	ADV	b	_	8	advmod	_	start_char=180|end_char=182
+8	piena	pieno	ADJ	a1fsxc5	Gender=Fem|Number=Sing	5	xcomp	_	start_char=183|end_char=188
+9	di	di	ADP	epskg	_	10	case	_	start_char=189|end_char=191
+10	bieltà	bieltà	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obl	_	start_char=192|end_char=198
+11	nè	nè	CCONJ	cscc	_	13	cc	_	start_char=199|end_char=201
+12	di	di	ADP	epskg	_	13	case	_	start_char=202|end_char=204
+13	piacere	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	10	conj	_	start_char=205|end_char=212|SpaceAfter=No
+14	;	;	PUNCT	_	_	23	punct	_	start_char=212|end_char=213|SpacesAfter=\n
+15	e	e	CCONJ	cscc	_	23	cc	_	start_char=214|end_char=215
+16	chi	chi	PRON	pr	PronType=Rel	20	nsubj	_	start_char=216|end_char=219
+17	d’	di	ADP	eps	_	18	case	_	start_char=220|end_char=222|SpaceAfter=No
+18	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obl	_	start_char=222|end_char=226
+19	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	20	expl:pv	_	start_char=227|end_char=229
+20	teme	temere	VERB	vta+2pss3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	start_char=230|end_char=234|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	start_char=234|end_char=235
+22	l’	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=236|end_char=238|SpaceAfter=No
+23	assicura	assicurare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=238|end_char=246|SpacesAfter=\n
+24	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	start_char=247|end_char=253
+25	bel	bello	ADJ	a1ms	Gender=Masc|Number=Sing	26	amod	_	start_char=254|end_char=257
+26	viso	viso	NOUN	sm2ms	Gender=Masc|Number=Sing	23	obj	_	start_char=258|end_char=262|SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	start_char=262|end_char=263
+28	e	e	CCONJ	cscc	_	30	cc	_	start_char=264|end_char=265
+29	non	non	ADV	b	PronType=Neg	30	advmod:neg	_	start_char=266|end_char=269
+30	po	potere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	start_char=270|end_char=272|SpaceAfter=No
+31	’	’	PUNCT	_	_	33	punct	_	start_char=272|end_char=273
+32	più	più	ADV	b	_	33	advmod	_	start_char=274|end_char=277
+33	temere	temere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	23	advcl	_	start_char=278|end_char=284|SpaceAfter=No
+34	.	.	PUNCT	_	_	23	punct	_	start_char=284|end_char=285|SpacesAfter=\n\n
+
+# text = Le donne che vi fanno compagnia assa’ mi piaccion per lo vostro onore; ed i’ le prego per lor cortesia
+# sent_id = 2
+1	Le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	start_char=287|end_char=289
+2	donne	donna	NOUN	sf1fp	Gender=Fem|Number=Plur	10	nsubj	_	start_char=290|end_char=295
+3	che	che	PRON	pr	PronType=Rel	5	nsubj	_	start_char=296|end_char=299
+4	vi	vi	PRON	pp2pydc	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	5	iobj	_	start_char=300|end_char=302
+5	fanno	fare	VERB	vta1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=303|end_char=308
+6	compagnia	compagnia	NOUN	sf1fs	Gender=Fem|Number=Sing	5	obj	_	start_char=309|end_char=318|SpacesAfter=\n
+7	assa	assa	ADP	eisks	_	14	case	_	start_char=319|end_char=323|SpaceAfter=No
+8	’	’	PUNCT	_	_	10	punct	_	start_char=323|end_char=324
+9	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	10	obj	_	start_char=325|end_char=327
+10	piaccion	piacere	VERB	vta2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=328|end_char=336
+11	per	per	ADP	epskr	_	14	case	_	start_char=337|end_char=340
+12	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	start_char=341|end_char=343
+13	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=344|end_char=350
+14	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl:lmod	_	start_char=351|end_char=356|SpaceAfter=No
+15	;	;	PUNCT	_	_	20	punct	_	start_char=356|end_char=357|SpacesAfter=\n
+16	ed	e	CCONJ	cscc	_	20	cc	_	start_char=358|end_char=360
+17	i	li	PRON	pp3mpya	Clitic=Yes|Person=3|PronType=Prs	20	nmod	_	start_char=361|end_char=362|SpaceAfter=No
+18	’	’	PUNCT	_	_	20	punct	_	start_char=362|end_char=363
+19	le	la	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	start_char=364|end_char=366
+20	prego	prego	NOUN	sm2ms	Gender=Masc|Number=Sing	23	nsubj	_	start_char=367|end_char=372
+21	per	per	ADP	epskr	_	23	case	_	start_char=373|end_char=376
+22	lor	loro	DET	as	Poss=Yes|PronType=Prs	23	det:poss	_	start_char=377|end_char=380
+23	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obl	_	start_char=381|end_char=389|SpacesAfter=\n\n
+
+# text = che qual più pote più vi faccia onore, ed aggia cara vostra segnoria, perchè di tutte sete la migliore.
+# sent_id = 3
+1	che	che	SCONJ	cssu	_	7	mark	_	start_char=391|end_char=394
+2	qual	quale	DET	ars	Number=Sing|PronType=Rel	4	nsubj	_	start_char=395|end_char=399
+3	più	più	ADV	b	_	4	advmod	_	start_char=400|end_char=403
+4	pote	potere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=404|end_char=408
+5	più	più	ADV	b	_	7	advmod	_	start_char=409|end_char=412
+6	vi	vi	PRON	pppyda	Clitic=Yes|Person=2|PronType=Prs	7	expl:pv	_	start_char=413|end_char=415
+7	faccia	fare	VERB	vta1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=416|end_char=422
+8	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	7	obj	_	start_char=423|end_char=428|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	start_char=428|end_char=429|SpacesAfter=\n
+10	ed	e	CCONJ	cscc	_	11	cc	_	start_char=430|end_char=432
+11	aggia	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=433|end_char=438
+12	cara	caro	ADJ	a1fs	Gender=Fem|Number=Sing	14	amod	_	start_char=439|end_char=443
+13	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=444|end_char=450
+14	segnoria	signoria	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obj	_	start_char=451|end_char=459|SpaceAfter=No
+15	,	,	PUNCT	_	_	21	punct	_	start_char=459|end_char=460|SpacesAfter=\n
+16	perchè	perchè	SCONJ	ccsc	_	19	mark	_	start_char=461|end_char=467
+17	di	di	ADP	epskg	_	19	case	_	start_char=468|end_char=470
+18	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	start_char=471|end_char=476
+19	sete	sete	NOUN	sf3fs	Gender=Fem|Number=Sing	21	obl	_	start_char=477|end_char=481
+20	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=482|end_char=484
+21	migliore	migliore	ADJ	a2fs	Gender=Fem|Number=Sing	11	advcl	_	start_char=485|end_char=493|SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	start_char=493|end_char=494|SpaceAfter=No
+

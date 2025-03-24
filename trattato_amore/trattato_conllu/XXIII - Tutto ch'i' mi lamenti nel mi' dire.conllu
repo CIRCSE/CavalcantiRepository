@@ -1,0 +1,136 @@
+# newdoc id = XXIII - Tutto ch'i' mi lamenti nel mi' dire
+# text = Tutto ch'i' mi lamenti nel mi' dire, dolce meo sire, non è lo mio core punto turbato inver di voi null'ore; ma in fra sé istesso vuol morire
+# sent_id = 0
+1	Tutto	tutto	ADV	_	_	5	advmod	_	start_char=0|end_char=5
+2	ch'	che	SCONJ	_	_	5	mark	_	start_char=6|end_char=9|SpaceAfter=No
+3	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=9|end_char=11
+4	mi	mi	PRON	pf1syle	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	5	expl:pv	_	start_char=12|end_char=14
+5	lamenti	lamentare	VERB	vi+1cps1	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	advcl	_	start_char=15|end_char=22
+6-7	nel	_	_	_	_	_	_	_	start_char=23|end_char=26
+6	in	in	ADP	_	_	9	case	_	_
+7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	start_char=27|end_char=30
+9	dire	dire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	5	obl:lmod	_	start_char=31|end_char=35|SpaceAfter=No
+10	,	,	PUNCT	_	_	5	punct	_	start_char=35|end_char=36|SpacesAfter=\n
+11	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	12	amod	_	start_char=37|end_char=42
+12	meo	meo	X	_	_	13	conj	_	start_char=43|end_char=46
+13	sire	sire	NOUN	sm3ms	Gender=Masc|Number=Sing	5	vocative	_	start_char=47|end_char=51|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	start_char=51|end_char=52
+15	non	non	ADV	b	PronType=Neg	21	advmod:neg	_	start_char=53|end_char=56
+16	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux:pass	_	start_char=57|end_char=58
+17	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=59|end_char=61
+18	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	start_char=62|end_char=65
+19	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	21	nsubj	_	start_char=66|end_char=70|SpacesAfter=\n
+20	punto	punto	NOUN	sm2ms	Gender=Masc|Number=Sing	21	nsubj	_	start_char=71|end_char=76
+21	turbato	turbare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=77|end_char=84
+22	inver	veniro	X	_	Foreign=Yes	20	advmod:lmod	_	start_char=85|end_char=90
+23	di	di	ADP	epsk8	_	24	case	_	start_char=91|end_char=93
+24	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	21	obl	_	start_char=94|end_char=97
+25	null'	nullo	DET	ain	Gender=Fem|Number=Sing	26	det	_	start_char=98|end_char=103|SpaceAfter=No
+26	ore	ora	NOUN	sf1fp	Gender=Fem|Number=Plur	21	nsubj	_	start_char=103|end_char=106|SpaceAfter=No
+27	;	;	PUNCT	_	_	34	punct	_	start_char=106|end_char=107|SpacesAfter=\n
+28	ma	ma	CCONJ	csca	_	34	cc	_	start_char=108|end_char=110
+29	in	in	ADP	epsksl	_	31	case	_	start_char=111|end_char=113
+30	fra	fra	ADP	epsksl	_	31	case	_	start_char=114|end_char=117
+31	sé	sé	PRON	pf3lpr	Person=3|PronType=Prs|Reflex=Yes	34	obl	_	start_char=118|end_char=120
+32	istesso	istesso	NOUN	sm2ms	Gender=Masc|Number=Sing	34	obl	_	start_char=121|end_char=128
+33	vuol	volere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	aux	_	start_char=129|end_char=133
+34	morire	morire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	21	parataxis	_	start_char=134|end_char=140|SpacesAfter=\n\n
+
+# text = di ciò, ch'or non v'è 'n grato il mi' servire sì como già 'l facea esser amore, e che vi sembia ch'io mancato fiore aggia 'nver voi, dov'ò fermo 'l disire.
+# sent_id = 1
+1	di	di	ADP	epskg	_	2	case	_	start_char=142|end_char=144
+2	ciò	cio'	PRON	pd	PronType=Dem	34	obl	_	start_char=145|end_char=148|SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	start_char=148|end_char=149
+4	ch'	che	PRON	pr	PronType=Rel	10	nsubj	_	start_char=150|end_char=153|SpaceAfter=No
+5	or	ora	ADV	b	_	10	advmod:tmod	_	start_char=153|end_char=155
+6	non	non	ADV	b	PronType=Neg	10	advmod:neg	_	start_char=156|end_char=159
+7	v'	ivi	ADV	b	_	10	advmod:lmod	_	start_char=160|end_char=162|SpaceAfter=No
+8	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=162|end_char=163
+9	'n	in	ADP	epskm	_	10	case	_	start_char=164|end_char=166
+10	grato	grado	NOUN	sm2ms	Gender=Masc|Number=Sing	2	acl:relcl	_	start_char=167|end_char=172
+11	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=173|end_char=175
+12	mi'	mio	NOUN	sm3ms	Gender=Masc|Number=Sing	10	nsubj	_	start_char=176|end_char=179
+13	servire	servire	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	10	nsubj	_	start_char=180|end_char=187|SpacesAfter=\n
+14	sì	così	ADV	b	_	18	advmod	_	start_char=188|end_char=190
+15	como	come	ADV	b	_	18	advmod	_	start_char=191|end_char=195
+16	già	già	ADV	b	_	18	advmod:tmod	_	start_char=196|end_char=199
+17	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=200|end_char=202
+18	facea	fare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	start_char=203|end_char=208
+19	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	20	cop	_	start_char=209|end_char=214
+20	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	obj	_	start_char=215|end_char=220|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	start_char=220|end_char=221|SpacesAfter=\n
+22	e	e	CCONJ	cscc	_	34	cc	_	start_char=222|end_char=223
+23	che	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=224|end_char=227
+24	vi	vi	PRON	by	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	25	expl	_	start_char=228|end_char=230
+25	sembia	sembrare	VERB	viaipss	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=231|end_char=237
+26	ch'	che	SCONJ	csss	_	30	mark	_	start_char=238|end_char=241|SpaceAfter=No
+27	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	30	nsubj	_	start_char=241|end_char=243
+28	mancato	mancare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	29	acl	_	start_char=244|end_char=251
+29	fiore	fiore	NOUN	sm3ms	Gender=Masc|Number=Sing	30	obj	_	start_char=252|end_char=257|SpacesAfter=\n
+30	aggia	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	advcl	_	start_char=258|end_char=263
+31	'nver	invero	ADP	eiskml	_	32	case	_	start_char=264|end_char=269
+32	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	30	obl:lmod	_	start_char=270|end_char=273|SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	start_char=273|end_char=274
+34	dov'ò	dovere	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=275|end_char=280
+35	fermo	fermo	ADJ	a1msxc	Gender=Masc|Number=Sing	34	xcomp	_	start_char=281|end_char=286
+36	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	start_char=287|end_char=289
+37	disire	desiderio	NOUN	sm3ms	Gender=Masc|Number=Sing	34	obj	_	start_char=290|end_char=296|SpaceAfter=No
+38	.	.	PUNCT	_	_	34	punct	_	start_char=296|end_char=297|SpacesAfter=\n\n
+
+# text = Ma, ben ch'a me non paia aver fallato e voi pur piace di così mostrare, vedete me n' venire a la merzede:
+# sent_id = 2
+1	Ma	ma	CCONJ	csca	_	19	cc	_	start_char=299|end_char=301|SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	_	start_char=301|end_char=302
+3	ben	bene	ADV	_	Gender=Masc|Number=Sing	8	advmod	_	start_char=303|end_char=306
+4	ch'	che	SCONJ	_	_	8	mark	_	start_char=307|end_char=310|SpaceAfter=No
+5	a	a	ADP	epsk1d	_	6	case	_	start_char=310|end_char=311
+6	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	8	obl	_	start_char=312|end_char=314
+7	non	non	ADV	b	PronType=Neg	8	advmod:neg	_	start_char=315|end_char=318
+8	paia	parere	VERB	vi2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	start_char=319|end_char=323
+9	aver	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=324|end_char=328
+10	fallato	fallare	VERB	vta1pr	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	xcomp	_	start_char=329|end_char=336|SpacesAfter=\n
+11	e	e	CCONJ	cscc	_	14	cc	_	start_char=337|end_char=338
+12	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	start_char=339|end_char=342
+13	pur	pure	ADV	b	_	14	advmod	_	start_char=343|end_char=346
+14	piace	piacere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	start_char=347|end_char=352
+15	di	di	ADP	epsb	_	17	mark	_	start_char=353|end_char=355
+16	così	così	ADV	b	_	17	advmod	_	start_char=356|end_char=360
+17	mostrare	mostrare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=361|end_char=369|SpaceAfter=No
+18	,	,	PUNCT	_	_	8	punct	_	start_char=369|end_char=370|SpacesAfter=\n
+19	vedete	vedere	VERB	vta2mpp2	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=371|end_char=377
+20	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	19	obj	_	start_char=378|end_char=380
+21	n'	ne	PRON	_	Clitic=Yes	22	obl:arg	_	start_char=381|end_char=383
+22	venire	venire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	19	xcomp	_	start_char=384|end_char=390
+23	a	a	ADP	epskml	_	25	case	_	start_char=391|end_char=392
+24	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	start_char=393|end_char=395
+25	merzede	merzede	NOUN	sf3fs	Gender=Fem|Number=Sing	22	obl:lmod	_	start_char=396|end_char=403|SpaceAfter=No
+26	:	:	PUNCT	_	_	19	punct	_	start_char=403|end_char=404|SpacesAfter=\n\n
+
+# text = e umilmente lo mi' cor la chiede, ch'unqua non si partì di voi amare: per che trovare dovre' vi umiliato.
+# sent_id = 3
+1	e	e	CCONJ	cscc	_	7	cc	_	start_char=406|end_char=407
+2	umilmente	umilmente	ADV	b	_	7	advmod:tmod	_	start_char=408|end_char=417
+3	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=418|end_char=420
+4	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	start_char=421|end_char=424
+5	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=425|end_char=428
+6	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=429|end_char=431
+7	chiede	chiedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=432|end_char=438|SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	start_char=438|end_char=439|SpacesAfter=\n
+9	ch'	che	SCONJ	cssu	_	13	mark	_	start_char=440|end_char=443|SpaceAfter=No
+10	unqua	unqua	ADV	b	_	13	advmod:tmod	_	start_char=443|end_char=448
+11	non	non	ADV	b	PronType=Neg	13	advmod:neg	_	start_char=449|end_char=452
+12	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	_	start_char=453|end_char=455
+13	partì	partire	VERB	vi+3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	start_char=456|end_char=461
+14	di	di	ADP	epsk	_	15	case	_	start_char=462|end_char=464
+15	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	13	obl	_	start_char=465|end_char=468
+16	amare	amare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=469|end_char=474|SpaceAfter=No
+17	:	:	PUNCT	_	_	23	punct	_	start_char=474|end_char=475|SpacesAfter=\n
+18	per	per	ADP	epskr	_	19	case	_	start_char=476|end_char=479
+19	che	che	PRON	pr	PronType=Rel	20	obl	_	start_char=480|end_char=483
+20	trovare	trovare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	23	advcl	_	start_char=484|end_char=491
+21	dovre'	dovere	AUX	vta2dps1	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|Voice=Act	20	aux	_	start_char=492|end_char=498
+22	vi	vi	PRON	pp2pxda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	23	iobj	_	start_char=499|end_char=501
+23	umiliato	umiliare	VERB	vta1pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	13	xcomp	_	start_char=502|end_char=510|SpaceAfter=No
+24	.	.	PUNCT	_	_	7	punct	_	start_char=510|end_char=511|SpaceAfter=No
+

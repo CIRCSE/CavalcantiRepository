@@ -1,0 +1,131 @@
+# newdoc id = 4 - a Dante.
+# text = Se vedi amore assai ti prego, Dante, in parte là ’ve Lapo sia presente, che non ti gravi di por sì la mente, che mi rescrivi s’el’ il chiama amante
+# sent_id = 0
+1	Se	se	SCONJ	cssv	_	2	mark	_	start_char=0|end_char=2
+2	vedi	vedere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=3|end_char=7
+3	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=8|end_char=13
+4	assai	assai	ADV	b	_	6	advmod	_	start_char=14|end_char=19
+5	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	6	obj	_	start_char=20|end_char=22
+6	prego	pregare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=23|end_char=28|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	start_char=28|end_char=29
+8	Dante	Dante	PROPN	np	_	2	vocative	_	start_char=30|end_char=35|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	start_char=35|end_char=36|SpacesAfter=\n
+10	in	in	ADP	_	_	11	case	_	start_char=37|end_char=39
+11	parte	parte	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	start_char=40|end_char=45
+12	là	là	ADV	_	_	17	advmod:lmod	_	start_char=46|end_char=48
+13	’	’	PUNCT	_	_	17	punct	_	start_char=49|end_char=50|SpaceAfter=No
+14	ve	ve	PRON	pp2pydc	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	17	iobj	_	start_char=50|end_char=52
+15	Lapo	Lapo	PROPN	np	_	17	nsubj	_	start_char=53|end_char=57
+16	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=58|end_char=61
+17	presente	presente	ADJ	a2ms	Gender=Masc|Number=Sing	0	root	_	start_char=62|end_char=70|SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	start_char=70|end_char=71|SpacesAfter=\n
+19	che	che	SCONJ	cssu	_	22	mark	_	start_char=72|end_char=75
+20	non	non	ADV	b	PronType=Neg	22	advmod:neg	_	start_char=76|end_char=79
+21	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	22	obj	_	start_char=80|end_char=82
+22	gravi	gravare	VERB	vta1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=83|end_char=88
+23	di	di	ADP	epsd	_	24	mark	_	start_char=89|end_char=91
+24	por	porre	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	22	advcl	_	start_char=92|end_char=95
+25	sì	così	ADV	b	_	24	advmod	_	start_char=96|end_char=98
+26	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=99|end_char=101
+27	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	24	obj	_	start_char=102|end_char=107|SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	start_char=107|end_char=108|SpacesAfter=\n
+29	che	che	SCONJ	cssu	_	31	mark	_	start_char=109|end_char=112
+30	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	31	obj	_	start_char=113|end_char=115
+31	rescrivi	rescrivere	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	start_char=116|end_char=124
+32	s’	se	SCONJ	cssv	_	36	mark	_	start_char=125|end_char=127|SpaceAfter=No
+33	el	ello	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	start_char=127|end_char=129|SpaceAfter=No
+34	’	’	PUNCT	_	_	36	punct	_	start_char=129|end_char=130
+35	il	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obj	_	start_char=131|end_char=133
+36	chiama	chiamare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	conj	_	start_char=134|end_char=140
+37	amante	amare	VERB	vta1ppsmms	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	36	obj	_	start_char=141|end_char=147|SpacesAfter=\n\n
+
+# text = e se la donna li sembla avenante, che sì le mostra vinto fortemente; chè molte fiate così fatta gente sol, per gravezza, d’amor far sembiante.
+# sent_id = 1
+1	e	e	CCONJ	cscc	_	13	cc	_	start_char=149|end_char=150
+2	se	se	SCONJ	cssv	_	6	mark	_	start_char=151|end_char=153
+3	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=154|end_char=156
+4	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	6	nsubj	_	start_char=157|end_char=162
+5	li	li	PRON	pp3msyda	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=163|end_char=165
+6	sembla	semblare	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=166|end_char=172
+7	avenante	avenante	ADJ	a2ms	Number=Sing	6	xcomp	_	start_char=173|end_char=181|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	start_char=181|end_char=182|SpacesAfter=\n
+9	che	che	PRON	pr	PronType=Rel	12	nsubj	_	start_char=183|end_char=186
+10	sì	così	ADV	b	_	12	advmod	_	start_char=187|end_char=189
+11	le	le	PRON	pp3fsydc	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=190|end_char=192
+12	mostra	mostrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=193|end_char=199
+13	vinto	vincere	VERB	vtp2ips3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=200|end_char=205
+14	fortemente	fortemente	ADV	b	_	13	advmod	_	start_char=206|end_char=216|SpaceAfter=No
+15	;	;	PUNCT	_	_	20	punct	_	start_char=216|end_char=217|SpacesAfter=\n
+16	chè	chè	SCONJ	cssc	_	20	mark	_	start_char=218|end_char=221
+17	molte	molto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	start_char=222|end_char=227
+18	fiate	fiata	NOUN	sf1fp	Gender=Fem|Number=Plur	20	nsubj	_	start_char=228|end_char=233
+19	così	così	ADV	b	_	20	advmod	_	start_char=234|end_char=238
+20	fatta	fare	VERB	vta1pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	13	advcl	_	start_char=239|end_char=244
+21	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	20	nsubj	_	start_char=245|end_char=250|SpacesAfter=\n
+22	sol	solo	ADJ	a1ms	Gender=Masc|Number=Sing	21	amod	_	start_char=251|end_char=254|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	start_char=254|end_char=255
+24	per	per	ADP	epskr	_	25	case	_	start_char=256|end_char=259
+25	gravezza	gravezza	NOUN	sf1fs	Gender=Fem|Number=Sing	29	obl	_	start_char=260|end_char=268|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	start_char=268|end_char=269
+27	d’	di	ADP	eps	_	28	case	_	start_char=270|end_char=272|SpaceAfter=No
+28	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	29	obl	_	start_char=272|end_char=276
+29	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	20	advcl	_	start_char=277|end_char=280
+30	sembiante	sembiante	NOUN	sm3ms	Gender=Masc|Number=Sing	29	obj	_	start_char=281|end_char=290|SpaceAfter=No
+31	.	.	PUNCT	_	_	29	punct	_	start_char=290|end_char=291|SpacesAfter=\n\n
+
+# text = Tu sai che ne la corte là ’ve regna e’ non vi po’ servir om che sia vile a donna, che là entro sia renduta.
+# sent_id = 2
+1	Tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=293|end_char=295
+2	sai	sapere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=296|end_char=299
+3	che	che	SCONJ	csso	_	10	mark	_	start_char=300|end_char=303
+4	ne	in	ADP	epaksl	_	6	case	_	start_char=304|end_char=306
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=307|end_char=309
+6	corte	corte	NOUN	sf3fs	Gender=Fem|Number=Sing	10	obl:lmod	_	start_char=310|end_char=315
+7	là	là	ADV	_	_	10	advmod:lmod	_	start_char=316|end_char=318
+8	’	’	PUNCT	_	_	10	punct	_	start_char=319|end_char=320|SpaceAfter=No
+9	ve	ve	PRON	py	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	10	obl	_	start_char=320|end_char=322
+10	regna	regnare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=323|end_char=328|SpacesAfter=\n
+11	e	e	CCONJ	cscc	_	17	cc	_	start_char=329|end_char=330|SpaceAfter=No
+12	’	’	PUNCT	_	_	17	punct	_	start_char=330|end_char=331
+13	non	non	ADV	b	PronType=Neg	17	advmod:neg	_	start_char=332|end_char=335
+14	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	17	iobj	_	start_char=336|end_char=338
+15	po	potere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	start_char=339|end_char=341|SpaceAfter=No
+16	’	’	PUNCT	_	_	17	punct	_	start_char=341|end_char=342
+17	servir	servire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=343|end_char=349
+18	om	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obj	_	start_char=350|end_char=352
+19	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=353|end_char=356
+20	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=357|end_char=360
+21	vile	vile	ADJ	a2ms	Gender=Masc|Number=Sing	18	acl:relcl	_	start_char=361|end_char=365|SpacesAfter=\n
+22	a	a	ADP	epskm	_	23	case	_	start_char=366|end_char=367
+23	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obl	_	start_char=368|end_char=373|SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	start_char=373|end_char=374
+25	che	che	PRON	pr	PronType=Rel	29	nsubj:pass	_	start_char=375|end_char=378
+26	là	là	ADV	_	_	29	advmod:lmod	_	start_char=379|end_char=381
+27	entro	entro	ADV	_	_	29	advmod:lmod	_	start_char=382|end_char=387
+28	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	start_char=388|end_char=391
+29	renduta	rendere	VERB	vtp1ips3	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	acl:relcl	_	start_char=392|end_char=399|SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	start_char=399|end_char=400|SpacesAfter=\n\n
+
+# text = Se la soffrenza lo servente aiuta può di leggier conoscer nostro stile, lo quale porta di merzede insegna.
+# sent_id = 3
+1	Se	se	SCONJ	cssv	_	6	mark	_	start_char=402|end_char=404
+2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=405|end_char=407
+3	soffrenza	soffrenza	NOUN	sf1fs	Gender=Fem|Number=Sing	6	nsubj	_	start_char=408|end_char=417
+4	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=418|end_char=420
+5	servente	servente	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=421|end_char=429
+6	aiuta	aiutare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=430|end_char=435|SpacesAfter=\n
+7	può	potere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	start_char=436|end_char=439
+8	di	di	ADP	epsd	_	9	mark	_	start_char=440|end_char=442
+9	leggier	leggere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=443|end_char=450
+10	conoscer	conoscere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=451|end_char=459
+11	nostro	nostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	start_char=460|end_char=466
+12	stile	stile	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obj	_	start_char=467|end_char=472|SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	start_char=472|end_char=473|SpacesAfter=\n
+14	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=474|end_char=476
+15	quale	quale	PRON	pr2fs	Number=Sing|PronType=Rel	19	nsubj	_	start_char=477|end_char=482
+16	porta	porta	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nsubj	_	start_char=483|end_char=488
+17	di	di	ADP	epskg	_	18	case	_	start_char=489|end_char=491
+18	merzede	merzede	NOUN	sf3fs	Gender=Fem|Number=Sing	19	obl	_	start_char=492|end_char=499
+19	insegna	insegnare	VERB	vta1pss3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=500|end_char=507|SpaceAfter=No
+20	.	.	PUNCT	_	_	6	punct	_	start_char=507|end_char=508|SpaceAfter=No
+

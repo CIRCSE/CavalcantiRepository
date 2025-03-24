@@ -1,0 +1,117 @@
+# newdoc id = IX - Omo non fu ch'amasse lealmente
+# text = Omo non fu ch'amasse lealmente in esto mondo mai senza dolore; né che ci dimorasse con dolzore un'ora, che non fosse un dì dolente.
+# sent_id = 0
+1	Omo	omo	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=0|end_char=3
+2	non	non	ADV	b	PronType=Neg	1	advmod:neg	_	start_char=4|end_char=7
+3	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	start_char=8|end_char=10
+4	ch'	che	SCONJ	cssu	_	5	mark	_	start_char=11|end_char=14|SpaceAfter=No
+5	amasse	amare	VERB	vta2irs3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=14|end_char=20
+6	le	la	DET	adfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	start_char=21|end_char=23|SpaceAfter=No
+7	almente	almente	NOUN	sf1fp	Gender=Fem|Number=Plur	5	obj	_	start_char=23|end_char=30|SpacesAfter=\n
+8	in	in	ADP	epsksl	_	10	case	_	start_char=31|end_char=33
+9	esto	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=34|end_char=38
+10	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=39|end_char=44
+11	mai	mai	ADV	b	_	5	advmod:tmod	_	start_char=45|end_char=48
+12	senza	senza	ADP	epskw	_	13	case	_	start_char=49|end_char=54
+13	dolore	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=55|end_char=61|SpaceAfter=No
+14	;	;	PUNCT	_	_	18	punct	_	start_char=61|end_char=62|SpacesAfter=\n
+15	né	né	CCONJ	cscc	_	18	cc	_	start_char=63|end_char=65
+16	che	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=66|end_char=69
+17	ci	ci	PRON	pp1pyac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	obj	_	start_char=70|end_char=72
+18	dimorasse	dimorare	VERB	vta1cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=73|end_char=82
+19	con	con	ADP	epskw	_	20	case	_	start_char=83|end_char=86
+20	dolzore	dolzore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	obl	_	start_char=87|end_char=94|SpacesAfter=\n
+21	un'	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=95|end_char=98|SpaceAfter=No
+22	ora	ora	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obj	_	start_char=98|end_char=101|SpaceAfter=No
+23	,	,	PUNCT	_	_	29	punct	_	start_char=101|end_char=102
+24	che	che	SCONJ	cssu	_	29	mark	_	start_char=103|end_char=106
+25	non	non	ADV	b	PronType=Neg	29	advmod:neg	_	start_char=107|end_char=110
+26	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	29	cop	_	start_char=111|end_char=116
+27	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	start_char=117|end_char=119
+28	dì	dì	NOUN	sm3ms	Gender=Masc|Number=Sing	29	nsubj	_	start_char=120|end_char=122
+29	dolente	dolente	ADJ	a2fs	Gender=Masc|Number=Sing	18	advcl	_	start_char=123|end_char=130|SpaceAfter=No
+30	.	.	PUNCT	_	_	18	punct	_	start_char=130|end_char=131|SpacesAfter=\n\n
+
+# text = Chè par ch'amore vigiti sovente di cotal guisa il suo fin amadore, e che ciascuna donna, ch'ave amore, cagioni il suo amante ispessamente.
+# sent_id = 1
+1	Chè	chè	ADV	b	_	2	advmod	_	start_char=133|end_char=136
+2	par	parere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=137|end_char=140
+3	ch'	che	SCONJ	csss	_	5	mark	_	start_char=141|end_char=144|SpaceAfter=No
+4	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	nsubj	_	start_char=144|end_char=149
+5	vigiti	vegire	VERB	vta2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	start_char=150|end_char=156
+6	sovente	sovente	ADV	b	_	5	advmod	_	start_char=157|end_char=164|SpacesAfter=\n
+7	di	di	ADP	epskg	_	9	case	_	start_char=165|end_char=167
+8	cotal	cotale	DET	ai2fs	Number=Sing|PronType=Ind	9	det	_	start_char=168|end_char=173
+9	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	5	obl	_	start_char=174|end_char=179
+10	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=180|end_char=182
+11	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	start_char=183|end_char=186
+12	fin	fino	ADJ	a2ms	Gender=Masc|Number=Sing	13	amod	_	start_char=187|end_char=190
+13	amadore	amadore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obj	_	start_char=191|end_char=198|SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	start_char=198|end_char=199|SpacesAfter=\n
+15	e	e	CCONJ	cscc	_	18	cc	_	start_char=200|end_char=201
+16	che	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=202|end_char=205
+17	ciascuna	ciascuno	DET	ai	PronType=Ind	18	det	_	start_char=206|end_char=214
+18	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	13	conj	_	start_char=215|end_char=220|SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	start_char=220|end_char=221
+20	ch'	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=222|end_char=225|SpaceAfter=No
+21	ave	avere	VERB	vta5ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	start_char=225|end_char=228
+22	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	21	obj	_	start_char=229|end_char=234|SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	start_char=234|end_char=235|SpacesAfter=\n
+24	cagioni	cagionare	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obj	_	start_char=236|end_char=243
+25	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=244|end_char=246
+26	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	27	det:poss	_	start_char=247|end_char=250
+27	amante	amare	VERB	vta1ppsm3ms	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	24	nsubj	_	start_char=251|end_char=257
+28	ispessamente	spessamente	ADV	b	_	24	advmod	_	start_char=258|end_char=270|SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	start_char=270|end_char=271|SpacesAfter=\n\n
+
+# text = Perch'io non maraviglio, donna mia, se vi piace di porre a me cagione; che amo tanto vostra segnoria;
+# sent_id = 2
+1	Perch'	perché	SCONJ	ccsc	_	4	mark	_	start_char=273|end_char=279|SpaceAfter=No
+2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	4	nsubj	_	start_char=279|end_char=281
+3	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=282|end_char=285
+4	maraviglio	meravigliare	VERB	vi1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=286|end_char=296|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	start_char=296|end_char=297
+6	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=298|end_char=303
+7	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	start_char=304|end_char=307|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	start_char=307|end_char=308|SpacesAfter=\n
+9	se	se	SCONJ	cssv	_	11	mark	_	start_char=309|end_char=311
+10	vi	vi	PRON	pp2pyda	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	11	iobj	_	start_char=312|end_char=314
+11	piace	piacere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=315|end_char=320
+12	di	di	ADP	epsb	_	13	mark	_	start_char=321|end_char=323
+13	porre	porre	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	start_char=324|end_char=329
+14	a	a	ADP	epsk1d	_	15	case	_	start_char=330|end_char=331
+15	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	13	obl	_	start_char=332|end_char=334
+16	cagione	cagione	NOUN	sf3fs	Gender=Fem|Number=Sing	13	obj	_	start_char=335|end_char=342|SpaceAfter=No
+17	;	;	PUNCT	_	_	19	punct	_	start_char=342|end_char=343|SpacesAfter=\n
+18	che	che	PRON	pr	PronType=Rel	19	nsubj	_	start_char=344|end_char=347
+19	amo	amare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=348|end_char=351
+20	tanto	tanto	ADV	b	_	19	advmod	_	start_char=352|end_char=357
+21	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	start_char=358|end_char=364
+22	segnoria	signoria	NOUN	sf1fs	Gender=Fem|Number=Sing	19	obj	_	start_char=365|end_char=373|SpaceAfter=No
+23	;	;	PUNCT	_	_	19	punct	_	start_char=373|end_char=374|SpacesAfter=\n\n
+
+# text = né già non partirò, ch'i' non vi sia leale ed ubidente onne stagione, merzè cherendo a vostra cortesia.
+# sent_id = 3
+1	né	né	CCONJ	cscc	_	4	cc	_	start_char=376|end_char=378
+2	già	già	ADV	b	_	4	advmod:tmod	_	start_char=379|end_char=382
+3	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=383|end_char=386
+4	partirò	partire	VERB	vi3iis1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=387|end_char=394|SpaceAfter=No
+5	,	,	PUNCT	_	_	11	punct	_	start_char=394|end_char=395
+6	ch'	che	SCONJ	cssu	_	11	mark	_	start_char=396|end_char=399|SpaceAfter=No
+7	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=399|end_char=401
+8	non	non	ADV	b	PronType=Neg	11	advmod:neg	_	start_char=402|end_char=405
+9	vi	vi	PRON	by	Clitic=Yes|Person=2|PronType=Prs	11	obl	_	start_char=406|end_char=408
+10	sia	essere	AUX	vi4cps1	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=409|end_char=412|SpacesAfter=\n
+11	leale	leale	ADJ	a1fs	Gender=Fem|Number=Sing	4	advcl	_	start_char=413|end_char=418
+12	ed	e	CCONJ	cscc	_	13	cc	_	start_char=419|end_char=421
+13	ubidente	ubbidire	VERB	vi2ppa2fs	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	11	conj	_	start_char=422|end_char=430
+14	onne	onno	ADP	eisk13	_	15	case	_	start_char=431|end_char=435
+15	stagione	stagione	NOUN	sf3fs	Gender=Fem|Number=Sing	11	obl	_	start_char=436|end_char=444|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	start_char=444|end_char=445|SpacesAfter=\n
+17	merzè	merzè	NOUN	sm2ms	Gender=Masc|Number=Sing	4	vocative	_	start_char=446|end_char=451
+18	cherendo	chiere	VERB	vta1gp	VerbForm=Conv|Voice=Act	17	acl	_	start_char=452|end_char=460
+19	a	a	ADP	epsk1	_	21	case	_	start_char=461|end_char=462
+20	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	start_char=463|end_char=469
+21	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl	_	start_char=470|end_char=478|SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	start_char=478|end_char=479|SpaceAfter=No
+

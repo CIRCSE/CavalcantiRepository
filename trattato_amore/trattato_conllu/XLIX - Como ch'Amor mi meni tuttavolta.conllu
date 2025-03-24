@@ -1,0 +1,123 @@
+# newdoc id = XLIX - Como ch'Amor mi meni tuttavolta
+# text = Como ch'amor mi meni tuttavolta i' sono issuto e son di sua masnada, nè altra vita tener non m'agrada, ben ched e' m'aggia la speranza tolta.
+# sent_id = 0
+1	Como	como	ADV	_	_	9	advmod	_	start_char=0|end_char=4
+2	ch'	che	SCONJ	css	_	5	mark	_	start_char=5|end_char=8|SpaceAfter=No
+3	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	nsubj	_	start_char=8|end_char=12
+4	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	5	obj	_	start_char=13|end_char=15
+5	meni	menare	VERB	vta1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=16|end_char=20
+6	tuttavolta	tuttavolto	ADJ	a1fs	Gender=Fem|Number=Sing	5	xcomp	_	start_char=21|end_char=31|SpacesAfter=\n
+7	i'	io	PRON	pp1slso	Person=1|PronType=Prs	9	nsubj	_	start_char=32|end_char=34
+8	sono	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=35|end_char=39
+9	issuto	issotare	VERB	vta2ips1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	start_char=40|end_char=46
+10	e	e	CCONJ	cscc	_	14	cc	_	start_char=47|end_char=48
+11	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=49|end_char=52
+12	di	di	ADP	epskg	_	14	case	_	start_char=53|end_char=55
+13	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=56|end_char=59
+14	masnada	masnada	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl	_	start_char=60|end_char=67|SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	start_char=67|end_char=68|SpacesAfter=\n
+16	nè	nè	CCONJ	cscc	_	22	cc	_	start_char=69|end_char=71
+17	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	18	det	_	start_char=72|end_char=77
+18	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nsubj	_	start_char=78|end_char=82
+19	tener	tenere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	22	advcl	_	start_char=83|end_char=88
+20	non	non	ADV	b	PronType=Neg	22	advmod:neg	_	start_char=89|end_char=92
+21	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	22	obj	_	start_char=93|end_char=95|SpaceAfter=No
+22	agrada	agradare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=95|end_char=101|SpaceAfter=No
+23	,	,	PUNCT	_	_	28	punct	_	start_char=101|end_char=102|SpacesAfter=\n
+24	ben	bene	ADV	b	_	28	advmod	_	start_char=103|end_char=106
+25	ched	ched	SCONJ	css	_	28	mark	_	start_char=107|end_char=111
+26	e'	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	start_char=112|end_char=114
+27	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	28	iobj	_	start_char=115|end_char=117|SpaceAfter=No
+28	aggia	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=117|end_char=122
+29	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	start_char=123|end_char=125
+30	speranza	speranza	NOUN	sf1fs	Gender=Fem|Number=Sing	28	obj	_	start_char=126|end_char=134
+31	tolta	togliere	VERB	vtp2irs3	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	advcl	_	start_char=135|end_char=140|SpaceAfter=No
+32	.	.	PUNCT	_	_	9	punct	_	start_char=140|end_char=141|SpacesAfter=\n\n
+
+# text = Chè quand'om è acconcio in fede molta non leggiermente su' voler digrada; ma si pena seguir tutta fiada com'io fo, lasso, ch'ò 'n ciò fede istolta.
+# sent_id = 1
+1	Chè	chè	ADV	b	_	13	advmod	_	start_char=143|end_char=146
+2	quand'	quando	SCONJ	csst	_	5	mark	_	start_char=147|end_char=153|SpaceAfter=No
+3	om	uomo	PRON	p	_	5	nsubj	_	start_char=153|end_char=155
+4	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=156|end_char=157
+5	acconcio	acconcio	NOUN	sm2ms	Gender=Masc|Number=Sing	13	advcl	_	start_char=158|end_char=166
+6	in	in	ADP	epskml	_	7	case	_	start_char=167|end_char=169
+7	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	5	obl:lmod	_	start_char=170|end_char=174
+8	molta	molto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	start_char=175|end_char=180|SpacesAfter=\n
+9	non	non	ADV	b	PronType=Neg	13	advmod:neg	_	start_char=181|end_char=184
+10	leggiermente	leggiermente	ADV	b	_	13	advmod	_	start_char=185|end_char=197
+11	su'	suo	ADP	epsk1	_	12	case	_	start_char=198|end_char=201
+12	voler	volere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	13	obl	_	start_char=202|end_char=207
+13	digrada	digradare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=208|end_char=215|SpaceAfter=No
+14	;	;	PUNCT	_	_	18	punct	_	start_char=215|end_char=216|SpacesAfter=\n
+15	ma	ma	CCONJ	csca	_	18	cc	_	start_char=217|end_char=219
+16	si	si	PRON	pf3xpm	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	18	expl:impers	_	start_char=220|end_char=222
+17	pena	pena	NOUN	sf1fs	Gender=Fem|Number=Sing	18	nsubj	_	start_char=223|end_char=227
+18	seguir	seguire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	13	advcl	_	start_char=228|end_char=234
+19	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	20	det	_	start_char=235|end_char=240
+20	fiada	fiada	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obj	_	start_char=241|end_char=246|SpacesAfter=\n
+21	com'	come	ADV	b	_	23	mark	_	start_char=247|end_char=251|SpaceAfter=No
+22	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	23	nsubj	_	start_char=251|end_char=253
+23	fo	fare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl:cmp	_	start_char=254|end_char=256|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	start_char=256|end_char=257
+25	lasso	lasso	ADJ	_	Gender=Masc|Number=Sing	18	conj	_	start_char=258|end_char=263|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	start_char=263|end_char=264
+27	ch'ò	ch'ò	ADV	_	_	31	advmod:tmod	_	start_char=265|end_char=269
+28	'n	in	ADP	epsksl	_	30	case	_	start_char=270|end_char=272
+29	ciò	cio'	PRON	pd	PronType=Dem	31	obl:lmod	_	start_char=273|end_char=276
+30	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	31	obl	_	start_char=277|end_char=281
+31	istolta	stoltare	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	25	conj	_	start_char=282|end_char=289|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	punct	_	start_char=289|end_char=290|SpacesAfter=\n\n
+
+# text = Nè già però non lascio mia follia, chè sì fermato sono in ciò per uso che sagiamente parmi dimenare;
+# sent_id = 2
+1	Nè	nè	CCONJ	cscc	_	5	cc	_	start_char=292|end_char=294
+2	già	già	ADV	b	_	5	advmod:tmod	_	start_char=295|end_char=298
+3	però	però	ADV	cssc	_	5	advmod	_	start_char=299|end_char=303
+4	non	non	ADV	b	PronType=Neg	5	advmod:neg	_	start_char=304|end_char=307
+5	lascio	lasciare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=308|end_char=314
+6	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=315|end_char=318
+7	follia	follia	NOUN	sf1fs	Gender=Fem|Number=Sing	5	obj	_	start_char=319|end_char=325|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	start_char=325|end_char=326|SpacesAfter=\n
+9	chè	chè	SCONJ	cssc	_	11	mark	_	start_char=327|end_char=330
+10	sì	così	ADV	b	_	11	advmod	_	start_char=331|end_char=333
+11	fermato	fermare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=334|end_char=341
+12	sono	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=342|end_char=346
+13	in	in	ADP	epsksl	_	14	case	_	start_char=347|end_char=349
+14	ciò	cio'	PRON	pd	PronType=Dem	11	obl:lmod	_	start_char=350|end_char=353
+15	per	per	ADP	epskr	_	16	case	_	start_char=354|end_char=357
+16	uso	uso	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obl	_	start_char=358|end_char=361|SpacesAfter=\n
+17	che	che	PRON	pr	PronType=Rel	19	nsubj	_	start_char=362|end_char=365
+18	sagiamente	sagiamente	ADV	b	_	19	advmod:tmod	_	start_char=366|end_char=376
+19-20	parmi	_	_	_	_	_	_	_	start_char=377|end_char=382
+19	parere	parere	VERB	vi*2iss3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	_
+20	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	19	iobj	_	_
+21	dimenare	dimenare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=383|end_char=391|SpaceAfter=No
+22	;	;	PUNCT	_	_	5	punct	_	start_char=391|end_char=392|SpacesAfter=\n\n
+
+# text = nè 'nganno chi conosca non mi pare altro che dritto, onde però mi scuso, che in seguendo amor fo cortesia.
+# sent_id = 3
+1	nè	nè	CCONJ	cscc	_	7	cc	_	start_char=394|end_char=396
+2	'nganno	inganno	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=397|end_char=404
+3	chi	chi	PRON	pr	PronType=Rel	4	nsubj	_	start_char=405|end_char=408
+4	conosca	conoscere	VERB	vta2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=409|end_char=416
+5	non	non	ADV	b	PronType=Neg	7	advmod:neg	_	start_char=417|end_char=420
+6	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	7	iobj	_	start_char=421|end_char=423
+7	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=424|end_char=428|SpacesAfter=\n
+8	altro	altro	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	start_char=429|end_char=434
+9	che	che	SCONJ	c	_	10	mark	_	start_char=435|end_char=438
+10	dritto	diritto	ADJ	a1ms	Gender=Masc|Number=Sing	7	advcl	_	start_char=439|end_char=445|SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	start_char=445|end_char=446
+12	onde	onde	ADV	b	_	15	advmod	_	start_char=447|end_char=451
+13	però	però	ADV	cssc	_	15	advmod	_	start_char=452|end_char=456
+14	mi	mi	PRON	pp1syar	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	15	obj	_	start_char=457|end_char=459
+15	scuso	scusare	VERB	vta+2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=460|end_char=465|SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	start_char=465|end_char=466|SpacesAfter=\n
+17	che	che	SCONJ	cssu	_	21	mark	_	start_char=467|end_char=470
+18	in	in	ADP	_	_	19	mark	_	start_char=471|end_char=473
+19	seguendo	seguire	VERB	vta3gp	VerbForm=Conv|Voice=Act	21	advcl	_	start_char=474|end_char=482
+20	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	21	obj	_	start_char=483|end_char=487
+21	fo	fare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=488|end_char=490
+22	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obj	_	start_char=491|end_char=499|SpaceAfter=No
+23	.	.	PUNCT	_	_	7	punct	_	start_char=499|end_char=500|SpaceAfter=No
+

@@ -1,0 +1,144 @@
+# newdoc id = 6 - a Giovanna.
+# text = Chi è questa che ven ch’ogn’om la mira e fa tremar di chiaritate l’a’re, e mena seco amor sì che parlare null’omo pote, ma ciascun sospira?
+# sent_id = 0
+1	Chi	chi	PRON	pn	PronType=Rel	0	root	_	start_char=0|end_char=3
+2	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=4|end_char=5
+3	questa	questo	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	start_char=6|end_char=12
+4	che	che	PRON	pr	PronType=Rel	5	nsubj	_	start_char=13|end_char=16
+5	ven	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=17|end_char=20
+6	ch’	che	SCONJ	csss	_	11	mark	_	start_char=21|end_char=24|SpaceAfter=No
+7	ogn	ogli	PRON	pp3sss	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=24|end_char=27|SpaceAfter=No
+8	’	’	PUNCT	_	_	11	punct	_	start_char=27|end_char=28|SpaceAfter=No
+9	om	uomo	PRON	p	_	11	nsubj	_	start_char=28|end_char=30
+10	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=31|end_char=33
+11	mira	mirare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=34|end_char=38|SpacesAfter=\n
+12	e	e	CCONJ	cscc	_	13	cc	_	start_char=39|end_char=40
+13	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=41|end_char=43
+14	tremar	tremare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	13	xcomp	_	start_char=44|end_char=50
+15	di	di	ADP	epskg	_	16	case	_	start_char=51|end_char=53
+16	chiaritate	chiarità	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obl	_	start_char=54|end_char=64
+17	l’	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=65|end_char=67|SpaceAfter=No
+18	a	a	ADP	epsk	_	19	case	_	start_char=67|end_char=68|SpaceAfter=No
+19	’re	ire	NOUN	s	Gender=Fem|Number=Sing	14	obl	_	start_char=68|end_char=71|SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+21	e	e	CCONJ	cscc	_	22	cc	_	start_char=73|end_char=74
+22	mena	menare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=75|end_char=79
+23-24	seco	_	_	_	_	_	_	_	start_char=80|end_char=84
+23	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	22	obj	_	_
+24	con	con	ADP	_	Clitic=Yes	25	case	_	_
+25	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	22	obl	_	start_char=85|end_char=89
+26	sì	così	ADV	b	_	32	advmod	_	start_char=90|end_char=92
+27	che	che	SCONJ	cssu	_	28	mark	_	start_char=93|end_char=96
+28	parlare	parlare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	32	advcl	_	start_char=97|end_char=104|SpacesAfter=\n
+29	null	nullo	NOUN	sm2ms	Gender=Masc|Number=Sing	28	obj	_	start_char=105|end_char=109|SpaceAfter=No
+30	’	’	PUNCT	_	_	32	punct	_	start_char=109|end_char=110|SpaceAfter=No
+31	omo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	32	obj	_	start_char=110|end_char=113
+32	pote	potere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=114|end_char=118|SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	start_char=118|end_char=119
+34	ma	ma	CCONJ	csca	_	36	cc	_	start_char=120|end_char=122
+35	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	36	nsubj	_	start_char=123|end_char=130
+36	sospira	sospirare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	start_char=131|end_char=138|SpaceAfter=No
+37	?	?	PUNCT	_	_	32	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
+
+# text = O Deo, che sembra quando li occhi gira dica’l Amor, ch’i’ no ’l savria contare: cotanto d’umiltà donna mi pare, ch’ogn’altra ver di lei i’ la chiam’ira.
+# sent_id = 1
+1	O	o	PART	i	_	2	discourse	_	start_char=141|end_char=142
+2	Deo	Dio	PROPN	np	_	21	vocative	_	start_char=143|end_char=146|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	start_char=146|end_char=147
+4	che	che	PRON	pr	PronType=Rel	5	nsubj	_	start_char=148|end_char=151
+5	sembra	sembrare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=152|end_char=158
+6	quando	quando	SCONJ	csst	_	9	mark	_	start_char=159|end_char=165
+7	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=166|end_char=168
+8	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	9	nsubj	_	start_char=169|end_char=174
+9	gira	girare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=175|end_char=179|SpacesAfter=\n
+10	dica	dire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=180|end_char=184|SpaceAfter=No
+11	’	’	PUNCT	_	_	13	punct	_	start_char=184|end_char=185|SpaceAfter=No
+12	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=185|end_char=186
+13	Amor	Amore	PROPN	np	_	10	vocative	_	start_char=187|end_char=191|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	start_char=191|end_char=192
+15	ch	ch	ADV	b	_	13	advmod	_	start_char=193|end_char=195|SpaceAfter=No
+16	’	’	PUNCT	_	_	21	punct	_	start_char=195|end_char=196|SpaceAfter=No
+17	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	nsubj	_	start_char=196|end_char=197|SpaceAfter=No
+18	’	’	PUNCT	_	_	21	punct	_	start_char=197|end_char=198
+19	no	non	ADV	b	_	21	advmod	_	start_char=199|end_char=201
+20	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=202|end_char=204
+21	savria	sapere	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=205|end_char=211
+22	contare	contare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=212|end_char=219|SpaceAfter=No
+23	:	:	PUNCT	_	_	29	punct	_	start_char=219|end_char=220|SpacesAfter=\n
+24	cotanto	cotanto	ADV	b	_	29	advmod	_	start_char=221|end_char=228
+25	d’	di	ADP	eps	_	26	case	_	start_char=229|end_char=231|SpaceAfter=No
+26	umiltà	umiltà	NOUN	sf3fs	Gender=Fem|Number=Sing	29	obl	_	start_char=231|end_char=237
+27	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	29	nsubj	_	start_char=238|end_char=243
+28	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	29	iobj	_	start_char=244|end_char=246
+29	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	parataxis	_	start_char=247|end_char=251|SpaceAfter=No
+30	,	,	PUNCT	_	_	41	punct	_	start_char=251|end_char=252|SpacesAfter=\n
+31	ch’	che	SCONJ	cssu	_	41	mark	_	start_char=253|end_char=256|SpaceAfter=No
+32	ogn	ogno	ADP	eisks	_	35	case	_	start_char=256|end_char=259|SpaceAfter=No
+33	’	’	ADP	epsksl	_	35	case	_	start_char=259|end_char=260|SpaceAfter=No
+34	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	35	det	_	start_char=260|end_char=265
+35	ver	vero	NOUN	sm2ms	Gender=Masc|Number=Sing	41	obl:lmod	_	start_char=266|end_char=269
+36	di	di	ADP	epskg	_	37	case	_	start_char=270|end_char=272
+37	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	nmod	_	start_char=273|end_char=276
+38	i	li	PRON	pp3ss	Clitic=Yes|Person=3|PronType=Prs	41	nsubj	_	start_char=277|end_char=278|SpaceAfter=No
+39	’	’	PUNCT	_	_	41	punct	_	start_char=278|end_char=279
+40	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	obj	_	start_char=280|end_char=282
+41	chiam	chiare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	start_char=283|end_char=288|SpaceAfter=No
+42	’	’	PUNCT	_	_	41	punct	_	start_char=288|end_char=289|SpaceAfter=No
+43	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	41	obj	_	start_char=289|end_char=292|SpaceAfter=No
+44	.	.	PUNCT	_	_	29	punct	_	start_char=292|end_char=293|SpacesAfter=\n\n
+
+# text = Non si poria contar la sua piagenza, ch’a lei s’inchina ogni gentil virtute, e la beltate per sua dea la mostra.
+# sent_id = 2
+1	Non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=295|end_char=298
+2	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	expl:impers	_	start_char=299|end_char=301
+3	poria	potere	AUX	vta*2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	start_char=302|end_char=307
+4	contar	contare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=308|end_char=314
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=315|end_char=317
+6	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=318|end_char=321
+7	piagenza	piagenza	NOUN	sf1fs	Gender=Fem|Number=Sing	4	nsubj	_	start_char=322|end_char=330|SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	start_char=330|end_char=331|SpacesAfter=\n
+9	ch’	che	PRON	pr	PronType=Rel	13	nsubj	_	start_char=332|end_char=335|SpaceAfter=No
+10	a	a	ADP	epsk1l	_	11	case	_	start_char=335|end_char=336
+11	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=337|end_char=340
+12	s’	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	_	start_char=341|end_char=343|SpaceAfter=No
+13	inchina	inchinare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=343|end_char=350
+14	ogni	ogni	DET	ai2fs	Gender=Fem|Number=Sing|PronType=Tot	16	det	_	start_char=351|end_char=355
+15	gentil	gentile	ADJ	a2fs	Gender=Fem|Number=Sing	16	amod	_	start_char=356|end_char=362
+16	virtute	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	13	nsubj	_	start_char=363|end_char=370|SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	start_char=370|end_char=371|SpacesAfter=\n
+18	e	e	CCONJ	cscc	_	25	cc	_	start_char=372|end_char=373
+19	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=374|end_char=376
+20	beltate	beltà	NOUN	sf3fs	Gender=Fem|Number=Sing	25	nsubj	_	start_char=377|end_char=384
+21	per	per	ADP	epskr	_	23	case	_	start_char=385|end_char=388
+22	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	start_char=389|end_char=392
+23	dea	dare	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obl	_	start_char=393|end_char=396
+24	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	start_char=397|end_char=399
+25	mostra	mostrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	start_char=400|end_char=406|SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	start_char=406|end_char=407|SpacesAfter=\n\n
+
+# text = Non fu sì alta già la mente nostra e non si pose in noi tanta salute, che propriamente n’aviam canoscenza.
+# sent_id = 3
+1	Non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=409|end_char=412
+2	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=413|end_char=415
+3	sì	così	ADV	b	_	4	advmod	_	start_char=416|end_char=418
+4	alta	alto	ADJ	a1fs	Gender=Fem|Number=Sing	0	root	_	start_char=419|end_char=423
+5	già	già	ADV	b	_	4	advmod:tmod	_	start_char=424|end_char=427
+6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=428|end_char=430
+7	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	4	nsubj	_	start_char=431|end_char=436
+8	nostra	nostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=437|end_char=443|SpacesAfter=\n
+9	e	e	CCONJ	cscc	_	12	cc	_	start_char=444|end_char=445
+10	non	non	ADV	b	PronType=Neg	12	advmod:neg	_	start_char=446|end_char=449
+11	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	start_char=450|end_char=452
+12	pose	porre	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=453|end_char=457
+13	in	in	ADP	epsksl	_	14	case	_	start_char=458|end_char=460
+14	noi	noi	PRON	pp1plco	Number=Plur|Person=1|PronType=Prs	12	obl:lmod	_	start_char=461|end_char=464
+15	tanta	tanto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	start_char=465|end_char=470
+16	salute	salute	NOUN	sf3fs	Gender=Fem|Number=Sing	12	obj	_	start_char=471|end_char=477|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	start_char=477|end_char=478|SpacesAfter=\n
+18	che	che	SCONJ	cssu	_	21	mark	_	start_char=479|end_char=482
+19	propriamente	propriamente	ADV	b	_	21	advmod:tmod	_	start_char=483|end_char=495
+20	n’	ne	PRON	pptypt	Clitic=Yes|PronType=Prs	21	obl:arg	_	start_char=496|end_char=498|SpaceAfter=No
+21	aviam	avere	VERB	vta5ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=498|end_char=503
+22	canoscenza	conoscenza	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obj	_	start_char=504|end_char=514|SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	start_char=514|end_char=515|SpaceAfter=No
+

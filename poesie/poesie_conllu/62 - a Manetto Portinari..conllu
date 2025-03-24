@@ -1,0 +1,109 @@
+# newdoc id = 62 - a Manetto Portinari.
+# text = Guata, Manetto, quella scrignotuzza e pon ben mente com' è divisata e com' é drittamente sfigurata e quel che pare quand' ella s' aggruzza.
+# sent_id = 0
+1	Guata	Guata	PROPN	np	_	0	root	_	start_char=0|end_char=5|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	start_char=5|end_char=6
+3	Manetto	Manetto	PROPN	np	_	1	conj	_	start_char=7|end_char=14|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	start_char=14|end_char=15
+5	quella	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=16|end_char=22
+6	scrignotuzza	scrignotuzza	NOUN	sf1fs	Gender=Fem|Number=Sing	3	conj	_	start_char=23|end_char=35|SpacesAfter=\n
+7	e	e	CCONJ	cscc	_	8	cc	_	start_char=36|end_char=37
+8	pon	porre	VERB	vta2mps2	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	start_char=38|end_char=41
+9	ben	bene	ADV	b	_	8	advmod	_	start_char=42|end_char=45
+10	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	8	obj	_	start_char=46|end_char=51
+11	com'	come	ADV	b	_	13	mark	_	start_char=52|end_char=56
+12	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=57|end_char=58
+13	divisata	dividare	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	10	acl:relcl	_	start_char=59|end_char=67|SpacesAfter=\n
+14	e	e	CCONJ	cscc	_	18	cc	_	start_char=68|end_char=69
+15	com'	come	ADV	b	_	18	mark	_	start_char=70|end_char=74
+16	é	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=75|end_char=76
+17	drittamente	dirittamente	ADV	b	_	18	advmod	_	start_char=77|end_char=88
+18	sfigurata	sfigurare	VERB	vtp2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	13	advcl	_	start_char=89|end_char=98|SpacesAfter=\n
+19	e	e	CCONJ	cscc	_	20	cc	_	start_char=99|end_char=100
+20	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	18	conj	_	start_char=101|end_char=105
+21	che	che	PRON	pr	PronType=Rel	22	nsubj	_	start_char=106|end_char=109
+22	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=110|end_char=114
+23	quand'	quando	SCONJ	csst	_	26	mark	_	start_char=115|end_char=121
+24	ella	ella	PRON	pp3fslso	Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=122|end_char=126
+25	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	26	expl:pv	_	start_char=127|end_char=129
+26	aggruzza	aggruzzare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	start_char=130|end_char=138|SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
+
+# text = Or s' ella fosse vestita d' un' uzza con un capello e di vel soggolata ed apparisse di dì accompagnata d'alcuna bella donna gentiluzza,
+# sent_id = 1
+1	Or	ora	ADV	b	_	5	advmod:tmod	_	start_char=141|end_char=143
+2	s'	se	SCONJ	cssv	_	5	mark	_	start_char=144|end_char=146
+3	ella	ella	PRON	pp3fslso	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=147|end_char=151
+4	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	start_char=152|end_char=157
+5	vestita	vestire	VERB	vtp1irs3	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=158|end_char=165
+6	d'	di	ADP	eps	_	8	case	_	start_char=166|end_char=168
+7	un'	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=169|end_char=172
+8	uzza	uzza	NOUN	sf1fs	Gender=Fem|Number=Sing	5	obl:agent	_	start_char=173|end_char=177|SpacesAfter=\n
+9	con	con	ADP	epskw	_	11	case	_	start_char=178|end_char=181
+10	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=182|end_char=184
+11	capello	capello	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:agent	_	start_char=185|end_char=192
+12	e	e	CCONJ	cscc	_	14	cc	_	start_char=193|end_char=194
+13	di	di	ADP	epskg	_	14	case	_	start_char=195|end_char=197
+14	vel	velo	NOUN	sm2ms	Gender=Masc|Number=Sing	11	conj	_	start_char=198|end_char=201
+15	soggolata	soggolare	VERB	vta1pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	start_char=202|end_char=211|SpacesAfter=\n
+16	ed	e	CCONJ	cscc	_	17	cc	_	start_char=212|end_char=214
+17	apparisse	apparire	VERB	vta1css3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	15	conj	_	start_char=215|end_char=224
+18	di	di	ADP	epskg	_	19	case	_	start_char=225|end_char=227
+19	dì	dì	NOUN	sm3ms	Gender=Masc|Number=Sing	17	obl	_	start_char=228|end_char=230
+20	accompagnata	accompagnare	VERB	vtp1pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	acl	_	start_char=231|end_char=243|SpacesAfter=\n
+21	d'	di	ADP	epske	_	24	case	_	start_char=244|end_char=246|SpaceAfter=No
+22	alcuna	alcuno	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	24	det	_	start_char=246|end_char=252
+23	bella	bello	ADJ	a1fs	Gender=Fem|Number=Sing	24	amod	_	start_char=253|end_char=258
+24	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	25	nmod	_	start_char=259|end_char=264
+25	gentiluzza	gentiluzza	NOUN	sf1fs	Gender=Fem|Number=Sing	20	obl	_	start_char=265|end_char=275|SpaceAfter=No
+26	,	,	PUNCT	_	_	5	punct	_	start_char=275|end_char=276|SpacesAfter=\n\n
+
+# text = tu non avresti niquità sì forte, nè si saresti angoscioso d' amore, nè tanto involto di malinconia
+# sent_id = 2
+1	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	start_char=278|end_char=280
+2	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=281|end_char=284
+3	avresti	avere	AUX	vta5dps2	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|Voice=Act	4	aux	_	start_char=285|end_char=292
+4	niquità	niquità	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=293|end_char=300
+5	sì	così	ADV	b	_	6	advmod	_	start_char=301|end_char=303
+6	forte	forte	ADJ	a2ms	Gender=Fem|Number=Sing	4	amod	_	start_char=304|end_char=309|SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	start_char=309|end_char=310|SpacesAfter=\n
+8	nè	nè	CCONJ	cscc	_	11	cc	_	start_char=311|end_char=313
+9	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	11	expl:pv	_	start_char=314|end_char=316
+10	saresti	essere	AUX	vi4dps2	Mood=Cnd|Number=Sing|Person=2|Tense=Pres	11	cop	_	start_char=317|end_char=324
+11	angoscioso	angoscioso	ADJ	a1msxc1	Gender=Masc|Number=Sing	6	conj	_	start_char=325|end_char=335
+12	d'	di	ADP	eps	_	13	case	_	start_char=336|end_char=338
+13	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obl	_	start_char=339|end_char=344|SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	start_char=344|end_char=345|SpacesAfter=\n
+15	nè	nè	CCONJ	cscc	_	17	cc	_	start_char=346|end_char=348
+16	tanto	tanto	ADV	b	_	17	advmod	_	start_char=349|end_char=354
+17	involto	involgere	VERB	vtp2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	11	conj	_	start_char=355|end_char=362
+18	di	di	ADP	epskg	_	19	case	_	start_char=363|end_char=365
+19	malinconia	malinconia	NOUN	sf1fs	Gender=Fem|Number=Sing	17	obl	_	start_char=366|end_char=376|SpacesAfter=\n\n
+
+# text = che tu non fossi a rischio de la morte di tanto rider che farebbe 'l core: o tu morresti o fuggiresti via.
+# sent_id = 3
+1	che	che	SCONJ	cssc	_	6	mark	_	start_char=378|end_char=381
+2	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	start_char=382|end_char=384
+3	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	start_char=385|end_char=388
+4	fossi	essere	AUX	vi4cis2	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	6	cop	_	start_char=389|end_char=394
+5	a	a	ADP	epskm	_	6	case	_	start_char=395|end_char=396
+6	rischio	rischio	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=397|end_char=404
+7	de	di	ADP	eps	_	9	case	_	start_char=405|end_char=407
+8	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=408|end_char=410
+9	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	6	nmod	_	start_char=411|end_char=416|SpacesAfter=\n
+10	di	di	ADP	epskg	_	12	case	_	start_char=417|end_char=419
+11	tanto	tanto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	start_char=420|end_char=425
+12	rider	ridere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	9	nmod	_	start_char=426|end_char=431
+13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=432|end_char=435
+14	farebbe	fare	VERB	vta1dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	start_char=436|end_char=443
+15	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=444|end_char=446
+16	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	14	obj	_	start_char=447|end_char=451|SpaceAfter=No
+17	:	:	PUNCT	_	_	20	punct	_	start_char=451|end_char=452|SpacesAfter=\n
+18	o	o	CCONJ	cscd	_	20	cc	_	start_char=453|end_char=454
+19	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	20	nsubj	_	start_char=455|end_char=457
+20	morresti	morrestare	VERB	vta2irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=458|end_char=466
+21	o	o	CCONJ	cscd	_	22	cc	_	start_char=467|end_char=468
+22	fuggiresti	fuggire	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	start_char=469|end_char=479
+23	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	22	obj	_	start_char=480|end_char=483|SpaceAfter=No
+24	.	.	PUNCT	_	_	20	punct	_	start_char=483|end_char=484|SpaceAfter=No
+

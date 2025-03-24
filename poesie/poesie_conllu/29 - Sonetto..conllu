@@ -1,0 +1,140 @@
+# newdoc id = 29 - Sonetto.
+# text = Perchè non furo a me gli occhi dispenti o tolti sì, che da la lor veduta non fosse ne la mente mia venuta a dire: — ascolta se nel cor mi senti?
+# sent_id = 0
+1	Perchè	perchè	SCONJ	ccsc	_	8	mark	_	start_char=0|end_char=6
+2	non	non	ADV	b	PronType=Neg	8	advmod:neg	_	start_char=7|end_char=10
+3	furo	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=11|end_char=15
+4	a	a	ADP	epsk1l	_	5	case	_	start_char=16|end_char=17
+5	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	7	nmod	_	start_char=18|end_char=20
+6	gli	gli	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	start_char=21|end_char=24
+7	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	0	root	_	start_char=25|end_char=30
+8	dispenti	dispento	ADJ	a1mp	Gender=Masc|Number=Plur	7	amod	_	start_char=31|end_char=39|SpacesAfter=\n
+9	o	o	CCONJ	cscd	_	10	cc	_	start_char=40|end_char=41
+10	tolti	togliere	VERB	vtp2irp3	Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	start_char=42|end_char=47
+11	sì	così	ADV	b	_	10	advmod	_	start_char=48|end_char=50|SpaceAfter=No
+12	,	,	PUNCT	_	_	24	punct	_	start_char=50|end_char=51
+13	che	che	SCONJ	cssu	_	24	mark	_	start_char=52|end_char=55
+14	da	da	ADP	epska	_	17	case	_	start_char=56|end_char=58
+15	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=59|end_char=61
+16	lor	loro	DET	as	Poss=Yes|PronType=Prs	17	det:poss	_	start_char=62|end_char=65
+17	veduta	vedere	VERB	vtp2prsf1fs	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	obl:lmod	_	start_char=66|end_char=72|SpacesAfter=\n
+18	non	non	ADV	b	PronType=Neg	24	advmod:neg	_	start_char=73|end_char=76
+19	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	start_char=77|end_char=82
+20	ne	in	ADP	epaksl	_	22	case	_	start_char=83|end_char=85
+21	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=86|end_char=88
+22	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	24	obl:lmod	_	start_char=89|end_char=94
+23	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	start_char=95|end_char=98
+24	venuta	venire	VERB	vi2ips3	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	start_char=99|end_char=105|SpacesAfter=\n
+25	a	a	ADP	epsb	_	26	mark	_	start_char=106|end_char=107
+26	dire	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	24	advcl	_	start_char=108|end_char=112|SpaceAfter=No
+27	:	:	PUNCT	_	_	29	punct	_	start_char=112|end_char=113
+28	—	—	PUNCT	_	_	29	punct	_	start_char=114|end_char=115
+29	ascolta	ascoltare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	24	parataxis	_	start_char=116|end_char=123
+30	se	se	SCONJ	cssv	_	35	mark	_	start_char=124|end_char=126
+31-32	nel	_	_	_	_	_	_	_	start_char=127|end_char=130
+31	in	in	ADP	_	_	33	case	_	_
+32	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	35	obl:lmod	_	start_char=131|end_char=134
+34	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	35	iobj	_	start_char=135|end_char=137
+35	senti	sentire	VERB	vta3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	29	ccomp	_	start_char=138|end_char=143|SpaceAfter=No
+36	?	?	PUNCT	_	_	29	punct	_	start_char=143|end_char=144
+
+# text = —
+# sent_id = 1
+1	—	—	PUNCT	_	_	0	root	_	start_char=145|end_char=146|SpacesAfter=\n\n
+
+# text = Una paura di novi tormenti m’aparve allor sì crudele ed acuta che l’anima chiamò: — donna, or ci aiuta che li occhi ed io non rimagnan dolenti.
+# sent_id = 2
+1	Una	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=148|end_char=151
+2	paura	paura	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=152|end_char=157
+3	di	di	ADP	epskg	_	5	case	_	start_char=158|end_char=160
+4	novi	nuovo	ADJ	a1mp	Gender=Masc|Number=Plur	5	amod	_	start_char=161|end_char=165
+5	tormenti	tormento	NOUN	sm2mp	Gender=Masc|Number=Plur	2	nmod	_	start_char=166|end_char=174|SpacesAfter=\n
+6	m’	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	7	iobj	_	start_char=175|end_char=177|SpaceAfter=No
+7	aparve	aparire	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=177|end_char=183
+8	allor	allora	ADV	b	_	7	advmod:tmod	_	start_char=184|end_char=189
+9	sì	così	ADV	b	_	10	advmod	_	start_char=190|end_char=192
+10	crudele	crudele	ADJ	a2fs	Gender=Fem|Number=Sing	7	xcomp	_	start_char=193|end_char=200
+11	ed	e	CCONJ	cscc	_	12	cc	_	start_char=201|end_char=203
+12	acuta	acuto	ADJ	a1fs	Gender=Fem|Number=Sing	10	conj	_	start_char=204|end_char=209|SpacesAfter=\n
+13	che	che	SCONJ	cssu	_	16	mark	_	start_char=210|end_char=213
+14	l’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=214|end_char=216|SpaceAfter=No
+15	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	16	nsubj	_	start_char=216|end_char=221
+16	chiamò	chiamare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=222|end_char=228|SpaceAfter=No
+17	:	:	PUNCT	_	_	23	punct	_	start_char=228|end_char=229
+18	—	—	PUNCT	_	_	23	punct	_	start_char=230|end_char=231
+19	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	23	vocative	_	start_char=232|end_char=237|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	start_char=237|end_char=238
+21	or	ora	ADV	b	_	23	advmod:tmod	_	start_char=239|end_char=241
+22	ci	ci	PRON	pp1pyac	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	23	obj	_	start_char=242|end_char=244
+23	aiuta	aiutare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=245|end_char=250|SpacesAfter=\n
+24	che	che	SCONJ	csso	_	30	mark	_	start_char=251|end_char=254
+25	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	start_char=255|end_char=257
+26	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	23	obj	_	start_char=258|end_char=263
+27	ed	e	CCONJ	cscc	_	30	cc	_	start_char=264|end_char=266
+28	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	30	nsubj	_	start_char=267|end_char=269
+29	non	non	ADV	b	PronType=Neg	30	advmod:neg	_	start_char=270|end_char=273
+30	rimagnan	rimanere	VERB	vta1ipp	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	start_char=274|end_char=282
+31	dolenti	dolere	VERB	a2mp	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	30	xcomp	_	start_char=283|end_char=290|SpaceAfter=No
+32	.	.	PUNCT	_	_	7	punct	_	start_char=290|end_char=291|SpacesAfter=\n\n
+
+# text = Tu gli ài fasciati sì, che venne amore a pianger sovr'a lor pietosamente tanto, che ’l sente una profonda voce,
+# sent_id = 3
+1	Tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	4	nsubj	_	start_char=293|end_char=295
+2	gli	gli	PRON	pp3syac	Clitic=Yes|Person=3|PronType=Prs	4	obj	_	start_char=296|end_char=299
+3	ài	avere	AUX	vta5ips2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	start_char=300|end_char=302
+4	fasciati	fasciare	VERB	vta1ibs2	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	start_char=303|end_char=311
+5	sì	così	ADV	b	_	4	advmod	_	start_char=312|end_char=314|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	start_char=314|end_char=315
+7	che	che	SCONJ	cssu	_	8	mark	_	start_char=316|end_char=319
+8	venne	venire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	start_char=320|end_char=325
+9	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	obj	_	start_char=326|end_char=331|SpacesAfter=\n
+10	a	a	ADP	epsf	_	11	mark	_	start_char=332|end_char=333
+11	pianger	piangere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	8	advcl	_	start_char=334|end_char=341
+12	sovr'	sopra	ADV	_	_	14	advmod:lmod	_	start_char=342|end_char=347|SpaceAfter=No
+13	a	a	ADP	_	_	14	case	_	start_char=347|end_char=348
+14	lor	loro	PRON	pp3plco	Number=Plur|Person=3|PronType=Prs	11	obl:lmod	_	start_char=349|end_char=352
+15	pietosamente	pietosamente	ADV	b	_	11	advmod	_	start_char=353|end_char=365|SpacesAfter=\n
+16	tanto	tanto	ADV	b	_	11	advmod	_	start_char=366|end_char=371|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	start_char=371|end_char=372
+18	che	che	SCONJ	cssu	_	20	mark	_	start_char=373|end_char=376
+19	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	start_char=377|end_char=379
+20	sente	sentire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=380|end_char=385
+21	una	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=386|end_char=389
+22	profonda	profondo	ADJ	a1fs	Gender=Fem|Number=Sing	23	amod	_	start_char=390|end_char=398
+23	voce	voce	NOUN	sf3fs	Gender=Fem|Number=Sing	20	obj	_	start_char=399|end_char=403|SpaceAfter=No
+24	,	,	PUNCT	_	_	4	punct	_	start_char=403|end_char=404|SpacesAfter=\n\n
+
+# text = la quale dice: — chi gran pena sente guardi costui e vedrà lo su’ core; chè morte ’l porta in man tagliato in croce. —
+# sent_id = 4
+1	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=406|end_char=408
+2	quale	quale	PRON	pr	PronType=Rel	3	nsubj	_	start_char=409|end_char=414
+3	dice	dire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=415|end_char=419|SpaceAfter=No
+4	:	:	PUNCT	_	_	10	punct	_	start_char=419|end_char=420
+5	—	—	PUNCT	_	_	10	punct	_	start_char=421|end_char=422
+6	chi	chi	PRON	pr	PronType=Rel	9	nsubj	_	start_char=423|end_char=426
+7	gran	grande	ADJ	a2fs	Gender=Fem|Number=Sing	8	amod	_	start_char=427|end_char=431
+8	pena	pena	NOUN	sf1fs	Gender=Fem|Number=Sing	9	nsubj	_	start_char=432|end_char=436
+9	sente	sentire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=437|end_char=442|SpacesAfter=\n
+10	guardi	guardare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp:reported	_	start_char=443|end_char=449
+11	costui	costui	PRON	pd3ms	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	start_char=450|end_char=456
+12	e	e	CCONJ	cscc	_	13	cc	_	start_char=457|end_char=458
+13	vedrà	vedere	VERB	vta2ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	conj	_	start_char=459|end_char=464
+14	lo	lo	PRON	pp3msxac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=465|end_char=467
+15	su	su	ADP	epsk	_	17	case	_	start_char=468|end_char=470|SpaceAfter=No
+16	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	start_char=470|end_char=471
+17	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	13	obl:lmod	_	start_char=472|end_char=476|SpaceAfter=No
+18	;	;	PUNCT	_	_	23	punct	_	start_char=476|end_char=477|SpacesAfter=\n
+19	chè	chè	SCONJ	cssc	_	23	mark	_	start_char=478|end_char=481
+20	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	23	nsubj	_	start_char=482|end_char=487
+21	’	’	PUNCT	_	_	20	punct	_	start_char=488|end_char=489|SpaceAfter=No
+22	l	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=489|end_char=490
+23	porta	portare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=491|end_char=496
+24	in	in	ADP	epsksl	_	25	case	_	start_char=497|end_char=499
+25	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	23	obl:lmod	_	start_char=500|end_char=503
+26	tagliato	tagliare	VERB	vtp1pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	23	xcomp	_	start_char=504|end_char=512
+27	in	in	ADP	epsksl	_	28	case	_	start_char=513|end_char=515
+28	croce	croce	NOUN	sf3fs	Gender=Fem|Number=Sing	23	obl:lmod	_	start_char=516|end_char=521|SpaceAfter=No
+29	.	.	PUNCT	_	_	23	punct	_	start_char=521|end_char=522
+30	—	—	PUNCT	_	_	10	punct	_	start_char=523|end_char=524|SpaceAfter=No
+

@@ -1,0 +1,118 @@
+# newdoc id = LVIII - L'attender ched'i' faccio con paura
+# text = L'attender, ched i' faccio con paura, mi tene in pensamento tuttavia; ma la speranza, in che 'l mi' cor disia, alcun pochetto in ciò mi rassicura.
+# sent_id = 0
+1	L'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=0|end_char=2|SpaceAfter=No
+2	attender	attendere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	11	nsubj	_	start_char=2|end_char=10|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	start_char=10|end_char=11
+4	ched	ched	ADV	b	_	6	advmod	_	start_char=12|end_char=16
+5	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	start_char=17|end_char=19
+6	faccio	fare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=20|end_char=26
+7	con	con	ADP	epskm	_	8	case	_	start_char=27|end_char=30
+8	paura	paura	NOUN	sf1fs	Gender=Fem|Number=Sing	6	obl	_	start_char=31|end_char=36|SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	start_char=36|end_char=37|SpacesAfter=\n
+10	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	obj	_	start_char=38|end_char=40
+11	tene	tenere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=41|end_char=45
+12	in	in	ADP	epskm	_	13	case	_	start_char=46|end_char=48
+13	pensamento	pensamento	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obl	_	start_char=49|end_char=59
+14	tuttavia	tuttavia	ADV	b	_	11	advmod	_	start_char=60|end_char=68|SpaceAfter=No
+15	;	;	PUNCT	_	_	32	punct	_	start_char=68|end_char=69|SpacesAfter=\n
+16	ma	ma	CCONJ	csca	_	32	cc	_	start_char=70|end_char=72
+17	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	start_char=73|end_char=75
+18	speranza	speranza	NOUN	sf1fs	Gender=Fem|Number=Sing	32	nsubj	_	start_char=76|end_char=84|SpaceAfter=No
+19	,	,	PUNCT	_	_	25	punct	_	start_char=84|end_char=85
+20	in	in	ADP	epsksl	_	21	case	_	start_char=86|end_char=88
+21	che	che	PRON	pr	PronType=Rel	25	obl	_	start_char=89|end_char=92
+22	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	start_char=93|end_char=95
+23	mi'	mio	ADJ	an1ms	Gender=Masc|Number=Sing	24	amod	_	start_char=96|end_char=99
+24	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	25	nsubj	_	start_char=100|end_char=103
+25	disia	desiderare	VERB	vta1ips3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	acl:relcl	_	start_char=104|end_char=109|SpaceAfter=No
+26	,	,	PUNCT	_	_	18	punct	_	start_char=109|end_char=110|SpacesAfter=\n
+27	alcun	alcuno	DET	ai	PronType=Ind	28	det	_	start_char=111|end_char=116
+28	pochetto	pochetto	NOUN	sm2ms	Gender=Masc|Number=Sing	32	nsubj	_	start_char=117|end_char=125
+29	in	in	ADP	epskml	_	30	case	_	start_char=126|end_char=128
+30	ciò	cio'	PRON	pd	PronType=Dem	32	obl	_	start_char=129|end_char=132
+31	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	32	obj	_	start_char=133|end_char=135
+32	rassicura	rassicurare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=136|end_char=145|SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	_	start_char=145|end_char=146|SpacesAfter=\n\n
+
+# text = Chè sanza fallo pena tanto dura como l'attender non credo che sia, nè dolce medicina, in fede mia, come per isperar fae om sicura
+# sent_id = 1
+1	Chè	chè	SCONJ	cssc	_	6	mark	_	start_char=148|end_char=151
+2	sanza	senza	ADP	eisk13	_	3	case	_	start_char=152|end_char=157
+3	fallo	fallo	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=158|end_char=163
+4	pena	pena	NOUN	sf1fs	Gender=Fem|Number=Sing	6	nsubj	_	start_char=164|end_char=168
+5	tanto	tanto	ADV	b	_	6	advmod	_	start_char=169|end_char=174
+6	dura	durare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=175|end_char=179|SpacesAfter=\n
+7	como	come	ADV	b	_	11	mark	_	start_char=180|end_char=184
+8	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=185|end_char=187|SpaceAfter=No
+9	attender	attendere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	6	nsubj	_	start_char=187|end_char=195
+10	non	non	ADV	b	PronType=Neg	11	advmod:neg	_	start_char=196|end_char=199
+11	credo	credere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=200|end_char=205
+12	che	che	SCONJ	csso	_	6	mark	_	start_char=206|end_char=209
+13	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=210|end_char=213|SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	start_char=213|end_char=214|SpacesAfter=\n
+15	nè	nè	CCONJ	cscc	_	17	cc	_	start_char=215|end_char=217
+16	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	17	amod	_	start_char=218|end_char=223
+17	medicina	medicina	NOUN	sf1fs	Gender=Fem|Number=Sing	11	vocative	_	start_char=224|end_char=232|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	start_char=232|end_char=233
+19	in	in	ADP	epskm	_	20	case	_	start_char=234|end_char=236
+20	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	17	conj	_	start_char=237|end_char=241
+21	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	start_char=242|end_char=245|SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	start_char=245|end_char=246|SpacesAfter=\n
+23	come	come	ADV	b	_	26	mark	_	start_char=247|end_char=251
+24	per	per	ADP	epsf	_	25	mark	_	start_char=252|end_char=255
+25	isperar	sperare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	26	advcl	_	start_char=256|end_char=263
+26	fae	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=264|end_char=267
+27	om	uomo	PRON	p	_	26	obj	_	start_char=268|end_char=270
+28	sicura	sicuro	ADJ	a1fsxc6	Gender=Fem|Number=Sing	26	xcomp	_	start_char=271|end_char=277|SpacesAfter=\n\n
+
+# text = la vita sua ne lo dolce pensero, che a ciascuno amante dona amore, senza lo qual seria morte la vita.
+# sent_id = 2
+1	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=279|end_char=281
+2	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=282|end_char=286
+3	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	start_char=287|end_char=290
+4	ne	in	ADP	epaksl	_	6	case	_	start_char=291|end_char=293
+5	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=294|end_char=296
+6	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	7	obl	_	start_char=297|end_char=302
+7	pensero	pensare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=303|end_char=310|SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	start_char=310|end_char=311|SpacesAfter=\n
+9	che	che	PRON	pr	PronType=Rel	13	nsubj	_	start_char=312|end_char=315
+10	a	a	ADP	epsk1	_	12	case	_	start_char=316|end_char=317
+11	ciascuno	ciascuno	DET	ai	PronType=Ind	12	det	_	start_char=318|end_char=326
+12	amante	amare	VERB	vta1ppsm3ms	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	13	obl:lmod	_	start_char=327|end_char=333
+13	dona	donare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=334|end_char=338
+14	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	13	obj	_	start_char=339|end_char=344|SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	start_char=344|end_char=345|SpacesAfter=\n
+16	senza	senza	ADP	epskm	_	18	case	_	start_char=346|end_char=351
+17	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	start_char=352|end_char=354
+18	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	20	nmod	_	start_char=355|end_char=359
+19	seria	serio	ADJ	a1fs	Gender=Fem|Number=Sing	20	amod	_	start_char=360|end_char=365
+20	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	13	obj	_	start_char=366|end_char=371
+21	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=372|end_char=374
+22	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	20	nsubj	_	start_char=375|end_char=379|SpaceAfter=No
+23	.	.	PUNCT	_	_	7	punct	_	start_char=379|end_char=380|SpacesAfter=\n\n
+
+# text = Similemente in me aggio partita la dimoranza, ch'i' faccio mant'ore, fuggiendo la paura e sperar chero.
+# sent_id = 3
+1	Similemente	similmente	ADV	b	_	5	advmod	_	start_char=382|end_char=393
+2	in	in	ADP	epsksl	_	3	case	_	start_char=394|end_char=396
+3	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	5	obl:lmod	_	start_char=397|end_char=399
+4	aggio	aggio	ADV	b	_	5	advmod	_	start_char=400|end_char=405
+5	partita	partire	VERB	vta2pra	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=406|end_char=413|SpacesAfter=\n
+6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=414|end_char=416
+7	dimoranza	dimoranza	NOUN	sf1fs	Gender=Fem|Number=Sing	5	nsubj	_	start_char=417|end_char=426|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	start_char=426|end_char=427
+9	ch'	che	SCONJ	cssu	_	11	mark	_	start_char=428|end_char=431|SpaceAfter=No
+10	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=431|end_char=433
+11	faccio	fare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=434|end_char=440
+12	mant'	manto	DET	aifp	Gender=Fem|PronType=Ind	13	det	_	start_char=441|end_char=446|SpaceAfter=No
+13	ore	ora	NOUN	sf1fp	Gender=Fem|Number=Plur	11	obj	_	start_char=446|end_char=449|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	start_char=449|end_char=450|SpacesAfter=\n
+15	fuggiendo	fuggire	VERB	vta1gp	VerbForm=Conv|Voice=Act	11	advcl	_	start_char=451|end_char=460
+16	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=461|end_char=463
+17	paura	paura	NOUN	sf1fs	Gender=Fem|Number=Sing	15	obj	_	start_char=464|end_char=469
+18	e	e	CCONJ	cscc	_	19	cc	_	start_char=470|end_char=471
+19	sperar	sperare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	15	conj	_	start_char=472|end_char=478
+20	chero	chero	ADJ	a1ms	Gender=Masc|Number=Sing	19	xcomp	_	start_char=479|end_char=484|SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	start_char=484|end_char=485|SpaceAfter=No
+

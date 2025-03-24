@@ -1,0 +1,139 @@
+# newdoc id = VIII - Ahi, buona fede a me forte nemica
+# text = Ai! buona fede, a me forte nemica!
+# sent_id = 0
+1-2	Ai	_	_	_	_	_	_	_	start_char=0|end_char=2|SpaceAfter=No
+1	A	a	ADP	_	_	5	case	_	_
+2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	!	!	PUNCT	_	_	5	punct	_	start_char=2|end_char=3
+4	buona	buono	ADJ	a1fs	Gender=Fem|Number=Sing	5	amod	_	start_char=4|end_char=9
+5	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	0	root	_	start_char=10|end_char=14|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	start_char=14|end_char=15
+7	a	a	ADP	epsk1d	_	8	case	_	start_char=16|end_char=17
+8	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	10	obl	_	start_char=18|end_char=20
+9	forte	forte	ADV	b	_	10	advmod	_	start_char=21|end_char=26
+10	nemica	nemico	ADJ	a1fs	Gender=Fem|Number=Sing	5	amod	_	start_char=27|end_char=33|SpaceAfter=No
+11	!	!	PUNCT	_	_	10	punct	_	start_char=33|end_char=34|SpacesAfter=\n
+
+# text = Neente non mi val ch'i voglia avere tua compagnia, che tuttor a podere mi struggi col penser che mi notrica,
+# sent_id = 1
+1	Neente	Neente	PROPN	np	_	4	nsubj	_	start_char=35|end_char=41
+2	non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=42|end_char=45
+3	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	4	iobj	_	start_char=46|end_char=48
+4	val	valere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=49|end_char=52
+5	ch'	che	SCONJ	csss	_	8	mark	_	start_char=53|end_char=56|SpaceAfter=No
+6	i	li	PRON	pp1sls	Person=2|PronType=Prs	8	nsubj	_	start_char=56|end_char=57
+7	voglia	voglia	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obj	_	start_char=58|end_char=64
+8	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=65|end_char=70|SpacesAfter=\n
+9	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	start_char=71|end_char=74
+10	compagnia	compagnia	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obj	_	start_char=75|end_char=84|SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	start_char=84|end_char=85
+12	che	che	SCONJ	cssu	_	17	mark	_	start_char=86|end_char=89
+13	tuttor	tuttora	ADV	b	_	17	advmod:tmod	_	start_char=90|end_char=96
+14	a	a	ADP	epsb	_	15	mark	_	start_char=97|end_char=98
+15	podere	potere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=99|end_char=105|SpacesAfter=\n
+16	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	17	obj	_	start_char=106|end_char=108
+17	struggi	strudere	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=109|end_char=116
+18-19	col	_	_	_	_	_	_	_	start_char=117|end_char=120
+18	con	con	ADP	_	_	20	case	_	_
+19	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	penser	pensare	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	17	obl	_	start_char=121|end_char=127
+21	che	che	PRON	pr	PronType=Rel	23	nsubj	_	start_char=128|end_char=131
+22	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	23	obj	_	start_char=132|end_char=134
+23	notrica	nutrire	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	start_char=135|end_char=142|SpaceAfter=No
+24	,	,	PUNCT	_	_	4	punct	_	start_char=142|end_char=143|SpacesAfter=\n\n
+
+# text = sì che rimaso son quasi nemica, essendo umile e con merzè cherere, in quella via che tu mi fai tenere, fede, ispietata mia guerriera antica.
+# sent_id = 2
+1	sì	così	ADV	_	_	3	advmod	_	start_char=145|end_char=147
+2	che	che	SCONJ	_	_	3	mark	_	start_char=148|end_char=151
+3	rimaso	rimanere	VERB	vi2ibs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	9	advcl	_	start_char=152|end_char=158
+4	son	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=159|end_char=162
+5	quasi	quasi	ADV	b	_	6	advmod	_	start_char=163|end_char=168
+6	nemica	nemico	ADJ	a1fs	Gender=Fem|Number=Sing	3	xcomp	_	start_char=169|end_char=175|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	start_char=175|end_char=176|SpacesAfter=\n
+8	essendo	essere	AUX	vi4gp	VerbForm=Conv|Voice=Act	9	cop	_	start_char=177|end_char=184
+9	umile	umile	ADJ	a2fs	Gender=Fem|Number=Sing	0	root	_	start_char=185|end_char=190
+10	e	e	CCONJ	cscc	_	13	cc	_	start_char=191|end_char=192
+11	con	con	ADP	epskw	_	12	case	_	start_char=193|end_char=196
+12	merzè	merzè	NOUN	sf1fs	Gender=Fem|Number=Sing	9	conj	_	start_char=197|end_char=202
+13	cherere	chierere	NOUN	sf3fs	Gender=Fem|Number=Sing	9	conj	_	start_char=203|end_char=210|SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	start_char=210|end_char=211|SpacesAfter=\n
+15	in	in	ADP	epsksl	_	17	case	_	start_char=212|end_char=214
+16	quella	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	start_char=215|end_char=221
+17	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obl	_	start_char=222|end_char=225
+18	che	che	PRON	pr	PronType=Rel	21	nsubj	_	start_char=226|end_char=229
+19	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	21	nsubj	_	start_char=230|end_char=232
+20	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	21	obj	_	start_char=233|end_char=235
+21	fai	fare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=236|end_char=239
+22	tenere	tenere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=240|end_char=246|SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	start_char=246|end_char=247|SpacesAfter=\n
+24	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	26	vocative	_	start_char=248|end_char=252|SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	start_char=252|end_char=253
+26	ispietata	spietare	VERB	vta1prs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	22	advcl	_	start_char=254|end_char=263
+27	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	det:poss	_	start_char=264|end_char=267
+28	guerriera	guerriera	NOUN	sf1fs	Gender=Fem|Number=Sing	26	obj	_	start_char=268|end_char=277
+29	antica	antico	ADJ	a1fs	Gender=Fem|Number=Sing	28	amod	_	start_char=278|end_char=284|SpaceAfter=No
+30	.	.	PUNCT	_	_	6	punct	_	start_char=284|end_char=285|SpacesAfter=\n\n
+
+# text = Chè guerra posso ben la tua chiamare poi che m'offendi essendoti fedele nè non mi lasci aver punto di bene:
+# sent_id = 3
+1	Chè	chè	DET	at	PronType=Int	2	det	_	start_char=287|end_char=290
+2	guerra	guerra	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=291|end_char=297
+3	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	start_char=298|end_char=303
+4	ben	bene	ADV	b	_	7	advmod	_	start_char=304|end_char=307
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=308|end_char=310
+6	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=311|end_char=314
+7	chiamare	chiamare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=315|end_char=323|SpacesAfter=\n
+8	poi	poi	ADV	_	_	11	advmod:tmod	_	start_char=324|end_char=327
+9	che	che	SCONJ	_	_	11	mark	_	start_char=328|end_char=331
+10	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	obj	_	start_char=332|end_char=334|SpaceAfter=No
+11	offendi	offendere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=334|end_char=341
+12-13	essendoti	_	_	_	_	_	_	_	start_char=342|end_char=351
+12	sssendo	ssare	VERB	vta2ip	VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	ti	ti	PRON	pp2sxac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	12	obj	_	_
+14	fedele	fedele	ADJ	a2ms	Gender=Masc|Number=Sing	12	xcomp	_	start_char=352|end_char=358|SpacesAfter=\n
+15	nè	nè	CCONJ	cscc	_	18	cc	_	start_char=359|end_char=361
+16	non	non	ADV	b	PronType=Neg	18	advmod:neg	_	start_char=362|end_char=365
+17	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	18	iobj	_	start_char=366|end_char=368
+18	lasci	lasciare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	start_char=369|end_char=374
+19	aver	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	start_char=375|end_char=379
+20	punto	punto	NOUN	sm2ms	Gender=Masc|Number=Sing	19	obj	_	start_char=380|end_char=385
+21	di	di	ADP	epskg	_	22	case	_	start_char=386|end_char=388
+22	bene	bene	ADV	b	_	19	advmod	_	start_char=389|end_char=393|SpaceAfter=No
+23	:	:	PUNCT	_	_	7	punct	_	start_char=393|end_char=394|SpacesAfter=\n\n
+
+# text = che l'om di buona fé ci vive in pene, e vedesi donar tosco per mele, né più non à da te che lo sperare.
+# sent_id = 4
+1	che	che	SCONJ	cssc	_	8	mark	_	start_char=396|end_char=399
+2	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=400|end_char=402|SpaceAfter=No
+3	om	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=402|end_char=404
+4	di	di	ADP	epskg	_	6	case	_	start_char=405|end_char=407
+5	buona	buono	ADJ	a1fs	Gender=Fem|Number=Sing	6	obl	_	start_char=408|end_char=413
+6	fé	fare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=414|end_char=416
+7	ci	ci	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	iobj	_	start_char=417|end_char=419
+8	vive	vivere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=420|end_char=424
+9	in	in	ADP	epskml	_	10	case	_	start_char=425|end_char=427
+10	pene	pena	NOUN	sf1fp	Gender=Fem|Number=Plur	8	obl:lmod	_	start_char=428|end_char=432|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	start_char=432|end_char=433|SpacesAfter=\n
+12	e	e	CCONJ	cscc	_	13	cc	_	start_char=434|end_char=435
+13-14	vedesi	_	_	_	_	_	_	_	start_char=436|end_char=442
+13	vedere	vedere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	_
+14	si	si	PRON	pf3xpm	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	13	expl:impers	_	_
+15	donar	donare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=443|end_char=448
+16-17	tosco	_	_	_	_	_	_	_	start_char=449|end_char=454
+16	toi	tope	NOUN	sm2mp	Gender=Masc|Number=Plur	15	obj	_	_
+17	con	con	ADP	epskw	_	19	case	_	_
+18	per	per	ADP	epskr	_	19	case	_	start_char=455|end_char=458
+19	mele	miele	NOUN	sm3ms	Gender=Masc|Number=Sing	15	obl:lmod	_	start_char=459|end_char=463|SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	start_char=463|end_char=464|SpacesAfter=\n
+21	né	né	CCONJ	cscc	_	24	cc	_	start_char=465|end_char=467
+22	più	più	ADV	b	_	24	advmod	_	start_char=468|end_char=471
+23	non	non	ADV	b	PronType=Neg	24	advmod:neg	_	start_char=472|end_char=475
+24	à	andare	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=476|end_char=477
+25	da	da	ADP	epski	_	26	case	_	start_char=478|end_char=480
+26	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	24	obl:lmod	_	start_char=481|end_char=483
+27	che	che	SCONJ	_	_	29	mark	_	start_char=484|end_char=487
+28	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	start_char=488|end_char=490
+29	sperare	sperare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	24	obj	_	start_char=491|end_char=498|SpaceAfter=No
+30	.	.	PUNCT	_	_	24	punct	_	start_char=498|end_char=499|SpaceAfter=No
+

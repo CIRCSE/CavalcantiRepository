@@ -1,0 +1,137 @@
+# newdoc id = 3 - Guido a Dante.
+# text = Vedeste, al mio parere, ogni valore e tutto gioco e quanto ben om sente, se foste ’n prova del signor valente, che signoreggia ’l mondo de l’onore.
+# sent_id = 0
+1	Vedeste	vedere	VERB	vta2ipp2	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=0|end_char=7|SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	start_char=7|end_char=8
+3-4	al	_	_	_	_	_	_	_	start_char=9|end_char=11
+3	a	a	ADP	_	_	6	case	_	_
+4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	start_char=12|end_char=15
+6	parere	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	1	obl:lmod	_	start_char=16|end_char=22|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	start_char=22|end_char=23
+8	ogni	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	start_char=24|end_char=28
+9	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	1	obj	_	start_char=29|end_char=35|SpacesAfter=\n
+10	e	e	CCONJ	cscc	_	12	cc	_	start_char=36|end_char=37
+11	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	start_char=38|end_char=43
+12	gioco	gioco	NOUN	sm2ms	Gender=Masc|Number=Sing	9	conj	_	start_char=44|end_char=49
+13	e	e	CCONJ	cscc	_	17	cc	_	start_char=50|end_char=51
+14	quanto	quanto	ADV	b	_	17	advmod	_	start_char=52|end_char=58
+15	ben	bene	ADV	b	_	17	advmod	_	start_char=59|end_char=62
+16	om	uomo	PRON	p	_	17	nsubj	_	start_char=63|end_char=65
+17	sente	sentire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=66|end_char=71|SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+19	se	se	SCONJ	cssv	_	23	mark	_	start_char=73|end_char=75
+20	foste	essere	AUX	vi4irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	23	cop	_	start_char=76|end_char=81
+21	’	’	PUNCT	_	_	23	punct	_	start_char=82|end_char=83|SpaceAfter=No
+22	n	i	ADP	epskm	_	23	case	_	start_char=83|end_char=84
+23	prova	prova	NOUN	sf1fs	Gender=Fem|Number=Sing	17	obl	_	start_char=85|end_char=90
+24-25	del	_	_	_	_	_	_	_	start_char=91|end_char=94
+24	di	di	ADP	_	_	26	case	_	_
+25	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	signor	signore	NOUN	sm3ms	Gender=Masc|Number=Sing	23	nmod	_	start_char=95|end_char=101
+27	valente	valere	VERB	vi2ppa2ms	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	26	acl	_	start_char=102|end_char=109|SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	start_char=109|end_char=110|SpacesAfter=\n
+29	che	che	PRON	pr	PronType=Rel	30	nsubj	_	start_char=111|end_char=114
+30	signoreggia	signoreggiare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl:relcl	_	start_char=115|end_char=126
+31	’	’	PUNCT	_	_	33	punct	_	start_char=127|end_char=128|SpaceAfter=No
+32	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	start_char=128|end_char=129
+33	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	30	obj	_	start_char=130|end_char=135
+34	de	di	ADP	eps	_	36	case	_	start_char=136|end_char=138
+35	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	start_char=139|end_char=141|SpaceAfter=No
+36	onore	onore	NOUN	sm3ms	Gender=Masc|Number=Sing	33	nmod	_	start_char=141|end_char=146|SpaceAfter=No
+37	.	.	PUNCT	_	_	1	punct	_	start_char=146|end_char=147|SpacesAfter=\n\n
+
+# text = Poi vive in parte dove noia more e tien ragion ne la pietosa mente; sì va soave per sonni a la gente, che’ cor ne porta senza far dolore.
+# sent_id = 1
+1	Poi	poi	ADV	b	_	2	advmod:tmod	_	start_char=149|end_char=152
+2	vive	vivere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=153|end_char=157
+3	in	in	ADP	epsksl	_	4	case	_	start_char=158|end_char=160
+4	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	2	obl:lmod	_	start_char=161|end_char=166
+5	dove	dove	ADV	pr	_	7	advmod:lmod	_	start_char=167|end_char=171
+6	noia	noia	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=172|end_char=176
+7	more	morire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=177|end_char=181|SpacesAfter=\n
+8	e	e	CCONJ	cscc	_	9	cc	_	start_char=182|end_char=183
+9	tien	tenere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=184|end_char=188
+10	ragion	ragione	NOUN	sf3fs	Gender=Fem|Number=Sing	9	obj	_	start_char=189|end_char=195
+11	ne	in	ADP	epaksl	_	14	case	_	start_char=196|end_char=198
+12	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=199|end_char=201
+13	pietosa	pietoso	ADJ	a1fs	Gender=Fem|Number=Sing	14	amod	_	start_char=202|end_char=209
+14	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	9	obl:lmod	_	start_char=210|end_char=215|SpaceAfter=No
+15	;	;	PUNCT	_	_	17	punct	_	start_char=215|end_char=216|SpacesAfter=\n
+16	sì	così	ADV	b	_	17	advmod	_	start_char=217|end_char=219
+17	va	andare	VERB	vi1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=220|end_char=222
+18	soave	soave	ADJ	a2fs	Gender=Fem|Number=Sing	17	xcomp	_	start_char=223|end_char=228
+19	per	per	ADP	epskr	_	20	case	_	start_char=229|end_char=232
+20	sonni	sonno	NOUN	sm2mp	Gender=Masc|Number=Plur	17	obl	_	start_char=233|end_char=238
+21	a	a	ADP	epskml	_	23	case	_	start_char=239|end_char=240
+22	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=241|end_char=243
+23	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	17	obl:lmod	_	start_char=244|end_char=249|SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	start_char=249|end_char=250|SpacesAfter=\n
+25	che	che	PRON	pr	PronType=Rel	29	nsubj	_	start_char=251|end_char=254|SpaceAfter=No
+26	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=254|end_char=255
+27	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	29	nsubj	_	start_char=256|end_char=259
+28	ne	ne	PRON	pp3ypt	Clitic=Yes|PronType=Prs	29	obl:arg	_	start_char=260|end_char=262
+29	porta	portare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	start_char=263|end_char=268
+30	senza	senza	ADV	b	_	31	advmod	_	start_char=269|end_char=274
+31	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=275|end_char=278
+32	dolore	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	31	obj	_	start_char=279|end_char=285|SpaceAfter=No
+33	.	.	PUNCT	_	_	17	punct	_	start_char=285|end_char=286|SpacesAfter=\n\n
+
+# text = Di voi lo core ne portò, vegendo che vostra donna la morte chedea: nodrilla d’esto cor di ciò temendo.
+# sent_id = 2
+1	Di	di	ADP	epskg	_	2	case	_	start_char=288|end_char=290
+2	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	6	obl	_	start_char=291|end_char=294
+3	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=295|end_char=297
+4	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=298|end_char=302
+5	ne	ne	PRON	pp1ppt	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	obl:arg	_	start_char=303|end_char=305
+6	portò	portare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=306|end_char=311|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	start_char=311|end_char=312
+8	vegendo	vegere	VERB	vta2gp	VerbForm=Conv|Voice=Act	6	advcl	_	start_char=313|end_char=320|SpacesAfter=\n
+9	che	che	SCONJ	csso	_	14	mark	_	start_char=321|end_char=324
+10	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=325|end_char=331
+11	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	14	nsubj	_	start_char=332|end_char=337
+12	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=338|end_char=340
+13	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	14	obj	_	start_char=341|end_char=346
+14	chedea	chedere	VERB	vta2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=347|end_char=353|SpaceAfter=No
+15	:	:	PUNCT	_	_	16	punct	_	start_char=353|end_char=354|SpacesAfter=\n
+16	nodrilla	nodrilla	NOUN	sf1fs	Gender=Fem|Number=Sing	6	parataxis	_	start_char=355|end_char=363
+17	d’	di	ADP	eps	_	19	case	_	start_char=364|end_char=366|SpaceAfter=No
+18	esto	questo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	start_char=366|end_char=370
+19	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	16	nmod	_	start_char=371|end_char=374
+20	di	di	ADP	epskg	_	21	case	_	start_char=375|end_char=377
+21	ciò	cio'	PRON	pd	PronType=Dem	22	obl	_	start_char=378|end_char=381
+22	temendo	temere	VERB	vta2gp	VerbForm=Conv|Voice=Act	16	acl	_	start_char=382|end_char=389|SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	start_char=389|end_char=390|SpacesAfter=\n\n
+
+# text = Quando v’apparve che sen’ gia dolendo, fu ’l dolce sonno ch’allor si compiea, chè ’l su’ contrario lo venia vincendo.
+# sent_id = 3
+1	Quando	quando	SCONJ	csst	_	3	mark	_	start_char=392|end_char=398
+2	v’	ivi	ADV	b	_	3	advmod:lmod	_	start_char=399|end_char=401|SpaceAfter=No
+3	apparve	apparire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	start_char=401|end_char=408
+4	che	che	PRON	pr	PronType=Rel	7	nsubj	_	start_char=409|end_char=412
+5	sen	sen	ADV	b	_	3	advmod:tmod	_	start_char=413|end_char=416|SpaceAfter=No
+6	’	’	PUNCT	_	_	3	punct	_	start_char=416|end_char=417
+7	gia	gire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=418|end_char=421
+8	dolendo	dolere	VERB	vi2gp	VerbForm=Conv|Voice=Act	7	advcl	_	start_char=422|end_char=429|SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	start_char=429|end_char=430|SpacesAfter=\n
+10	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	start_char=431|end_char=433
+11	’	’	PUNCT	_	_	14	punct	_	start_char=434|end_char=435|SpaceAfter=No
+12	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	start_char=435|end_char=436
+13	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	14	amod	_	start_char=437|end_char=442
+14	sonno	sonno	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	start_char=443|end_char=448
+15	ch	chi	PRON	pr	PronType=Rel	19	nsubj	_	start_char=449|end_char=451|SpaceAfter=No
+16	’	’	PUNCT	_	_	19	punct	_	start_char=451|end_char=452|SpaceAfter=No
+17	allor	allora	ADV	b	_	19	advmod:tmod	_	start_char=452|end_char=457
+18	si	si	PRON	pf3yim	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	19	expl:impers	_	start_char=458|end_char=460
+19	compiea	compiere	VERB	vi+2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	start_char=461|end_char=468|SpaceAfter=No
+20	,	,	PUNCT	_	_	27	punct	_	start_char=468|end_char=469|SpacesAfter=\n
+21	chè	chè	SCONJ	cssc	_	27	mark	_	start_char=470|end_char=473
+22	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=474|end_char=476
+23	su	su	ADP	rm	_	25	case	_	start_char=477|end_char=479|SpaceAfter=No
+24	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=479|end_char=480
+25	contrario	contrario	NOUN	sm2ms	Gender=Masc|Number=Sing	27	obl:lmod	_	start_char=481|end_char=490
+26	lo	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=491|end_char=493
+27	venia	venire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	start_char=494|end_char=499
+28	vincendo	vincere	VERB	vi2gp	VerbForm=Conv|Voice=Act	27	advcl	_	start_char=500|end_char=508|SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	start_char=508|end_char=509|SpaceAfter=No
+

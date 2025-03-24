@@ -1,0 +1,125 @@
+# newdoc id = 33 - Sonetto.
+# text = S’io prego questa donna che pietate non sia nemica del suo cor gentile, tu di’ ch’io sono sconoscente e vile e disperato e pien di vanitate.
+# sent_id = 0
+1	S’	se	SCONJ	cssv	_	3	mark	_	start_char=0|end_char=2|SpaceAfter=No
+2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=2|end_char=4
+3	prego	pregare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=5|end_char=10
+4	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=11|end_char=17
+5	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	3	obj	_	start_char=18|end_char=23
+6	che	che	PRON	pr	PronType=Rel	10	nsubj	_	start_char=24|end_char=27
+7	pietate	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	10	nsubj	_	start_char=28|end_char=35|SpacesAfter=\n
+8	non	non	ADV	b	PronType=Neg	10	advmod:neg	_	start_char=36|end_char=39
+9	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=40|end_char=43
+10	nemica	nemico	ADJ	a1fsx	Gender=Fem|Number=Sing	5	acl:relcl	_	start_char=44|end_char=50
+11-12	del	_	_	_	_	_	_	_	start_char=51|end_char=54
+11	di	di	ADP	_	_	14	case	_	_
+12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=55|end_char=58
+14	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl	_	start_char=59|end_char=62
+15	gentile	gentile	ADJ	a2ms	Gender=Masc|Number=Sing	14	amod	_	start_char=63|end_char=70|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	start_char=70|end_char=71|SpacesAfter=\n
+17	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	0	root	_	start_char=72|end_char=74
+18	di	di	ADP	epskg	_	19	case	_	start_char=75|end_char=77|SpaceAfter=No
+19	’	’	PUNCT	_	_	23	punct	_	start_char=77|end_char=78
+20	ch’	che	SCONJ	cssu	_	23	mark	_	start_char=79|end_char=82|SpaceAfter=No
+21	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	23	nsubj	_	start_char=82|end_char=84
+22	sono	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=85|end_char=89
+23	sconoscente	sconoscere	ADJ	a2ms	Gender=Masc|Number=Sing	17	advcl	_	start_char=90|end_char=101
+24	e	e	CCONJ	cscc	_	25	cc	_	start_char=102|end_char=103
+25	vile	vile	ADJ	a2ms	Gender=Masc|Number=Sing	23	conj	_	start_char=104|end_char=108|SpacesAfter=\n
+26	e	e	CCONJ	cscc	_	27	cc	_	start_char=109|end_char=110
+27	disperato	disperato	ADJ	a1ms	Gender=Masc|Number=Sing	25	conj	_	start_char=111|end_char=120
+28	e	e	CCONJ	cscc	_	29	cc	_	start_char=121|end_char=122
+29	pien	pieno	ADJ	a1msxc5	Gender=Masc|Number=Sing	27	conj	_	start_char=123|end_char=127
+30	di	di	ADP	epskg	_	31	case	_	start_char=128|end_char=130
+31	vanitate	vanità	NOUN	sf3fs	Gender=Fem|Number=Sing	29	obl	_	start_char=131|end_char=139|SpaceAfter=No
+32	.	.	PUNCT	_	_	17	punct	_	start_char=139|end_char=140|SpacesAfter=\n\n
+
+# text = Onde ti vien si nova crudeltate?
+# sent_id = 1
+1	Onde	onde	ADV	cscn	_	3	advmod	_	start_char=142|end_char=146
+2	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	3	iobj	_	start_char=147|end_char=149
+3	vien	venire	VERB	vi*3ips3	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=150|end_char=154
+4	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	start_char=155|end_char=157
+5	nova	nuovo	ADJ	a1fs	Gender=Fem|Number=Sing	6	amod	_	start_char=158|end_char=162
+6	crudeltate	crudeltà	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nsubj	_	start_char=163|end_char=173|SpaceAfter=No
+7	?	?	PUNCT	_	_	3	punct	_	start_char=173|end_char=174|SpacesAfter=\n
+
+# text = Già risomigli, a chi ti vede, umile saggia ed adorna ed accorta e sottile e fatta a modo di soavitate.
+# sent_id = 2
+1	Già	già	ADV	b	_	2	advmod:tmod	_	start_char=175|end_char=178
+2	risomigli	risomigliare	VERB	vi1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=179|end_char=188|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	start_char=188|end_char=189
+4	a	a	ADP	epsk1d	_	5	case	_	start_char=190|end_char=191
+5	chi	chi	PRON	pr	PronType=Rel	7	obl	_	start_char=192|end_char=195
+6	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	7	obj	_	start_char=196|end_char=198
+7	vede	vedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=199|end_char=203|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	start_char=203|end_char=204
+9	umile	umile	ADJ	a2fs	Gender=Fem|Number=Sing	10	conj	_	start_char=205|end_char=210|SpacesAfter=\n
+10	saggia	saggio	ADJ	a1fs	Gender=Fem|Number=Sing	7	advcl:pred	_	start_char=211|end_char=217
+11	ed	e	CCONJ	cscc	_	12	cc	_	start_char=218|end_char=220
+12	adorna	adorno	ADJ	a1fs	Gender=Fem|Number=Sing	10	conj	_	start_char=221|end_char=227
+13	ed	e	CCONJ	cscc	_	14	cc	_	start_char=228|end_char=230
+14	accorta	accorgere	VERB	vi2ppa1fss	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	conj	_	start_char=231|end_char=238
+15	e	e	CCONJ	cscc	_	16	cc	_	start_char=239|end_char=240
+16	sottile	sottile	ADJ	a2fs	Gender=Fem|Number=Sing	14	conj	_	start_char=241|end_char=248|SpacesAfter=\n
+17	e	e	CCONJ	cscc	_	18	cc	_	start_char=249|end_char=250
+18	fatta	fare	VERB	vtp1pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	16	conj	_	start_char=251|end_char=256
+19	a	a	ADP	epskm	_	20	case	_	start_char=257|end_char=258
+20	modo	modo	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obl	_	start_char=259|end_char=263
+21	di	di	ADP	epskg	_	22	case	_	start_char=264|end_char=266
+22	soavitate	soavità	NOUN	sf1fp	Gender=Fem|Number=Plur	20	nmod	_	start_char=267|end_char=276|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	start_char=276|end_char=277|SpacesAfter=\n\n
+
+# text = L’anima mia dolente e paurosa piange ne li sospir che nel cor trova sì, che bagnati di pianto escon fore.
+# sent_id = 3
+1	L’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=279|end_char=281|SpaceAfter=No
+2	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=281|end_char=286
+3	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	start_char=287|end_char=290
+4	dolente	dolente	ADJ	a2fs	Gender=Fem|Number=Sing	2	amod	_	start_char=291|end_char=298
+5	e	e	CCONJ	cscc	_	6	cc	_	start_char=299|end_char=300
+6	paurosa	pauroso	ADJ	a1fs	Gender=Fem|Number=Sing	4	conj	_	start_char=301|end_char=308|SpacesAfter=\n
+7	piange	piangere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=309|end_char=315
+8	ne	in	ADP	epaksl	_	10	case	_	start_char=316|end_char=318
+9	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	start_char=319|end_char=321
+10	sospir	sospiro	NOUN	sm3mp	Gender=Masc|Number=Plur	7	obl:lmod	_	start_char=322|end_char=328
+11	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=329|end_char=332
+12-13	nel	_	_	_	_	_	_	_	start_char=333|end_char=336
+12	in	in	ADP	_	_	14	case	_	_
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	15	obl:lmod	_	start_char=337|end_char=340
+15	trova	trovare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=341|end_char=346|SpacesAfter=\n
+16	sì	così	ADV	b	_	15	advmod	_	start_char=347|end_char=349|SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	start_char=349|end_char=350
+18	che	che	SCONJ	cssu	_	22	mark	_	start_char=351|end_char=354
+19	bagnati	bagnare	VERB	vta1pr	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	22	advcl	_	start_char=355|end_char=362
+20	di	di	ADP	epskg	_	21	case	_	start_char=363|end_char=365
+21	pianto	pianto	NOUN	sm2ms	Gender=Masc|Number=Sing	22	obl	_	start_char=366|end_char=372
+22	escon	uscire	VERB	vi2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=373|end_char=378
+23	fore	fuori	ADV	esk	_	22	advmod:lmod	_	start_char=379|end_char=383|SpaceAfter=No
+24	.	.	PUNCT	_	_	7	punct	_	start_char=383|end_char=384|SpacesAfter=\n\n
+
+# text = Allora par che ne la mente piova una figura di donna pensosa, che vegna per veder morir lo core.
+# sent_id = 4
+1	Allora	allora	ADV	b	_	2	advmod:tmod	_	start_char=386|end_char=392
+2	par	parere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=393|end_char=396
+3	che	che	SCONJ	csss	_	7	mark	_	start_char=397|end_char=400
+4	ne	in	ADP	epaksl	_	6	case	_	start_char=401|end_char=403
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=404|end_char=406
+6	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	7	obl:lmod	_	start_char=407|end_char=412
+7	piova	pioggia	VERB	vi1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	start_char=413|end_char=418|SpacesAfter=\n
+8	una	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=419|end_char=422
+9	figura	figura	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=423|end_char=429
+10	di	di	ADP	epskg	_	11	case	_	start_char=430|end_char=432
+11	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	9	nmod	_	start_char=433|end_char=438
+12	pensosa	pensoso	ADJ	a1fs	Gender=Fem|Number=Sing	11	amod	_	start_char=439|end_char=446|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	start_char=446|end_char=447|SpacesAfter=\n
+14	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=448|end_char=451
+15	vegna	venire	VERB	vi3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=452|end_char=457
+16	per	per	ADP	epsf	_	17	mark	_	start_char=458|end_char=461
+17	veder	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	15	advcl	_	start_char=462|end_char=467
+18	morir	morire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	17	xcomp	_	start_char=468|end_char=473
+19	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=474|end_char=476
+20	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	17	obj	_	start_char=477|end_char=481|SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	start_char=481|end_char=482|SpaceAfter=No
+

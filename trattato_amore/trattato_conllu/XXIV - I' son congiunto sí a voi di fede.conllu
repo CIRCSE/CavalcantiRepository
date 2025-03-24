@@ -1,0 +1,121 @@
+# newdoc id = XXIV - I' son congiunto sí a voi di fede
+# text = I' son congiunto sì a voi di fede, gientil mia donna, che manofestare son cierto ch'i' vi posso mio affare: corno convenmi andare a la merzede
+# sent_id = 0
+1	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	congiunto	congiungere	VERB	vtp2ira1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=7|end_char=16
+4	sì	così	ADV	b	_	3	advmod	_	start_char=17|end_char=19
+5	a	a	ADP	epsk1d	_	6	case	_	start_char=20|end_char=21
+6	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	3	obl	_	start_char=22|end_char=25
+7	di	di	ADP	epskg	_	8	case	_	start_char=26|end_char=28
+8	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	6	nmod	_	start_char=29|end_char=33|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	start_char=33|end_char=34|SpacesAfter=\n
+10	gientil	gientile	NOUN	sf3fs	Gender=Fem|Number=Sing	3	vocative	_	start_char=35|end_char=42
+11	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	start_char=43|end_char=46
+12	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	10	nmod	_	start_char=47|end_char=52|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	start_char=52|end_char=53
+14	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=54|end_char=57
+15	manofestare	manofestare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	csubj	_	start_char=58|end_char=69|SpacesAfter=\n
+16	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=70|end_char=73
+17	cierto	cierto	NOUN	sm2ms	Gender=Masc|Number=Sing	12	acl:relcl	_	start_char=74|end_char=80
+18	ch'	che	SCONJ	csss	_	23	mark	_	start_char=81|end_char=84|SpaceAfter=No
+19	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	start_char=84|end_char=86
+20	vi	vi	PRON	py	Clitic=Yes|Person=2|PronType=Prs	23	nsubj	_	start_char=87|end_char=89
+21	posso	potere	AUX	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	start_char=90|end_char=95
+22	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	start_char=96|end_char=99
+23	affare	affare	NOUN	sm3ms	Gender=Masc|Number=Sing	15	obj	_	start_char=100|end_char=106|SpaceAfter=No
+24	:	:	PUNCT	_	_	26	punct	_	start_char=106|end_char=107|SpacesAfter=\n
+25	corno	corno	NOUN	sm2ms	Gender=Masc|Number=Sing	26	nsubj	_	start_char=108|end_char=113
+26	convenmi	convenire	VERB	vta2irs1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=114|end_char=122
+27	andare	andare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	26	xcomp	_	start_char=123|end_char=129
+28	a	a	ADP	epskml	_	30	case	_	start_char=130|end_char=131
+29	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	start_char=132|end_char=134
+30	merzede	merzede	NOUN	sf3fs	Gender=Fem|Number=Sing	26	obl:lmod	_	start_char=135|end_char=142|SpacesAfter=\n\n
+
+# text = di quella, cui dimoro inclino al pede umiliando me: e voi pregare vo' dolcemente, che a lei parlare deggiate, com'amor le mi concede,
+# sent_id = 1
+1	di	di	ADP	epskg	_	2	case	_	start_char=144|end_char=146
+2	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	start_char=147|end_char=153|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	start_char=153|end_char=154
+4	cui	cui	PRON	pr	PronType=Rel	6	obl	_	start_char=155|end_char=158
+5	dimoro	dimora	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=159|end_char=165
+6	inclino	inclinare	VERB	vta2pps	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	start_char=166|end_char=173
+7-8	al	_	_	_	_	_	_	_	start_char=174|end_char=176
+7	a	a	ADP	_	_	9	case	_	_
+8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pede	pede	NOUN	sm3ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=177|end_char=181|SpacesAfter=\n
+10	umiliando	umiliare	VERB	vta1gp	VerbForm=Conv|Voice=Act	6	advcl	_	start_char=182|end_char=191
+11	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	10	obj	_	start_char=192|end_char=194|SpaceAfter=No
+12	:	:	PUNCT	_	_	16	punct	_	start_char=194|end_char=195
+13	e	e	CCONJ	cscc	_	16	cc	_	start_char=196|end_char=197
+14	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	start_char=198|end_char=201
+15	pregare	pregare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	16	advcl	_	start_char=202|end_char=209|SpacesAfter=\n
+16	vo'	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp:reported	_	start_char=210|end_char=213
+17	dolcemente	dolcemente	ADV	b	_	16	advmod	_	start_char=214|end_char=224|SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	start_char=224|end_char=225
+19	che	che	SCONJ	cssu	_	23	mark	_	start_char=226|end_char=229
+20	a	a	ADP	epsk1	_	21	case	_	start_char=230|end_char=231
+21	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=232|end_char=235
+22	parlare	parlare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	23	advcl	_	start_char=236|end_char=243|SpacesAfter=\n
+23	deggiate	dovere	VERB	vta1ipp3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=244|end_char=252|SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	start_char=252|end_char=253
+25	com'	come	ADV	b	_	29	mark	_	start_char=254|end_char=258|SpaceAfter=No
+26	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	29	nsubj	_	start_char=258|end_char=262
+27	le	le	PRON	pp3fsyda	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	iobj	_	start_char=263|end_char=265
+28	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	29	obj	_	start_char=266|end_char=268
+29	concede	concedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=269|end_char=276|SpaceAfter=No
+30	,	,	PUNCT	_	_	2	punct	_	start_char=276|end_char=277|SpacesAfter=\n\n
+
+# text = sì che lo sguardo dolce ed amoroso, che si congiugne co' lo mi' vedere alcuna volta quand'io la rimiro,
+# sent_id = 2
+1	sì	così	ADV	_	_	4	advmod	_	start_char=279|end_char=281
+2	che	che	SCONJ	_	_	4	mark	_	start_char=282|end_char=285
+3	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=286|end_char=288
+4	sguardo	sguardo	NOUN	sm2ms	Gender=Masc|Number=Sing	11	nsubj	_	start_char=289|end_char=296
+5	dolce	dolce	ADJ	a2ms	Gender=Masc|Number=Sing	4	amod	_	start_char=297|end_char=302
+6	ed	e	CCONJ	cscc	_	7	cc	_	start_char=303|end_char=305
+7	amoroso	amoroso	ADJ	a1ms	Gender=Masc|Number=Sing	5	conj	_	start_char=306|end_char=313|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	start_char=313|end_char=314|SpacesAfter=\n
+9	che	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=315|end_char=318
+10	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	11	expl:pv	_	start_char=319|end_char=321
+11	congiugne	congiungere	VERB	vta+2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=322|end_char=331
+12	co'	cuo	ADV	b	_	11	advmod	_	start_char=332|end_char=335
+13	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	start_char=336|end_char=338
+14	mi'	mio	NOUN	sm3ms	Gender=Masc|Number=Sing	11	nsubj	_	start_char=339|end_char=342
+15	vedere	vedere	VERB	vta2fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	11	obj	_	start_char=343|end_char=349|SpacesAfter=\n
+16	alcuna	alcuno	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	17	det	_	start_char=350|end_char=356
+17	volta	volta	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obj	_	start_char=357|end_char=362
+18	quand'	quando	SCONJ	csst	_	21	mark	_	start_char=363|end_char=369|SpaceAfter=No
+19	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	21	nsubj	_	start_char=369|end_char=371
+20	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=372|end_char=374
+21	rimiro	rimirare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=375|end_char=381|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	start_char=381|end_char=382|SpacesAfter=\n\n
+
+# text = agia l'effetto dov'io 'ntorno giro; e voi di cierto dovete sapere ben quella ch'amo; ma nomar no l'oso.
+# sent_id = 3
+1	agia	agio	ADJ	a1fs	Gender=Fem|Number=Sing	0	root	_	start_char=384|end_char=388
+2	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=389|end_char=391|SpaceAfter=No
+3	effetto	effetto	NOUN	sm2ms	Gender=Masc|Number=Sing	1	nsubj	_	start_char=391|end_char=398
+4	dov'	dove	PRON	pr	PronType=Rel	7	obl:lmod	_	start_char=399|end_char=403|SpaceAfter=No
+5	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	7	nsubj	_	start_char=403|end_char=405
+6	'ntorno	intorno	ADV	b	_	7	advmod:lmod	_	start_char=406|end_char=413
+7	giro	girare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=414|end_char=418|SpaceAfter=No
+8	;	;	PUNCT	_	_	14	punct	_	start_char=418|end_char=419|SpacesAfter=\n
+9	e	e	CCONJ	cscc	_	14	cc	_	start_char=420|end_char=421
+10	voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	start_char=422|end_char=425
+11	di	di	ADP	epskg	_	12	case	_	start_char=426|end_char=428
+12	cierto	cierto	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obl	_	start_char=429|end_char=435
+13	dovete	dovere	AUX	vta2ips2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	start_char=436|end_char=442
+14	sapere	sapere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	1	parataxis	_	start_char=443|end_char=449|SpacesAfter=\n
+15	ben	bene	ADV	b	_	14	advmod	_	start_char=450|end_char=453
+16	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	14	nsubj	_	start_char=454|end_char=460
+17	ch'	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=461|end_char=464|SpaceAfter=No
+18	amo	amare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=464|end_char=467|SpaceAfter=No
+19	;	;	PUNCT	_	_	21	punct	_	start_char=467|end_char=468
+20	ma	ma	CCONJ	csca	_	21	cc	_	start_char=469|end_char=471
+21	nomar	nomare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	24	advcl	_	start_char=472|end_char=477
+22	no	non	ADV	b	_	24	advmod:lmod	_	start_char=478|end_char=480
+23	l'	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	start_char=481|end_char=483|SpaceAfter=No
+24	oso	osare	VERB	vta1ips1	Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	_	start_char=483|end_char=486|SpaceAfter=No
+25	.	.	PUNCT	_	_	14	punct	_	start_char=486|end_char=487|SpaceAfter=No
+

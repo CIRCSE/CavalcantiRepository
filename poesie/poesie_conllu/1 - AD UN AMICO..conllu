@@ -1,0 +1,143 @@
+# newdoc id = 1 - AD UN AMICO.
+# text = Certe mie rime a te mandar volendo del greve stato che lo meo cor porta, amor m’apparve in figura morta e disse: — non mandar ch’i’ ti riprendo;
+# sent_id = 0
+1	Certe	certe	DET	ad1fp	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	start_char=0|end_char=5
+2	mie	mio	DET	as1fp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	start_char=6|end_char=9
+3	rime	rima	NOUN	sf1fp	Gender=Fem|Number=Plur	6	nsubj	_	start_char=10|end_char=14
+4	a	a	ADP	epsk1d	_	5	case	_	start_char=15|end_char=16
+5	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	6	obl	_	start_char=17|end_char=19
+6	mandar	mandare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=20|end_char=26
+7	volendo	volere	VERB	vta2gp	VerbForm=Conv|Voice=Act	6	advcl	_	start_char=27|end_char=34|SpacesAfter=\n
+8-9	del	_	_	_	_	_	_	_	start_char=35|end_char=38
+8	di	di	ADP	_	_	11	case	_	_
+9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	greve	greve	ADJ	a2ms	Gender=Masc|Number=Sing	11	amod	_	start_char=39|end_char=44
+11	stato	stato	NOUN	sm2ms	Gender=Masc|Number=Sing	7	obl	_	start_char=45|end_char=50
+12	che	che	PRON	pr	PronType=Rel	16	nsubj	_	start_char=51|end_char=54
+13	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=55|end_char=57
+14	meo	meo	ADJ	a1ms	Gender=Masc|Number=Sing	15	amod	_	start_char=58|end_char=61
+15	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	16	nsubj	_	start_char=62|end_char=65
+16	porta	portare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	start_char=66|end_char=71|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+18	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	nsubj	_	start_char=73|end_char=77
+19	m’	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	20	iobj	_	start_char=78|end_char=80|SpaceAfter=No
+20	apparve	apparire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	start_char=80|end_char=87
+21	in	in	ADP	epskml	_	22	case	_	start_char=88|end_char=90
+22	figura	figura	NOUN	sf1fs	Gender=Fem|Number=Sing	20	obl:lmod	_	start_char=91|end_char=97
+23	morta	morire	VERB	vi3pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	20	xcomp	_	start_char=98|end_char=103|SpacesAfter=\n
+24	e	e	CCONJ	cscc	_	25	cc	_	start_char=104|end_char=105
+25	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	start_char=106|end_char=111|SpaceAfter=No
+26	:	:	PUNCT	_	_	29	punct	_	start_char=111|end_char=112
+27	—	—	PUNCT	_	_	29	punct	_	start_char=113|end_char=114
+28	non	non	ADV	b	PronType=Neg	29	advmod:neg	_	start_char=115|end_char=118
+29	mandar	mandare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	start_char=119|end_char=125
+30	ch’	che	SCONJ	cssb	_	34	mark	_	start_char=126|end_char=129|SpaceAfter=No
+31	i	vi	ADV	b	_	29	advmod:lmod	_	start_char=129|end_char=130|SpaceAfter=No
+32	’	’	PUNCT	_	_	34	punct	_	start_char=130|end_char=131
+33	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	34	obj	_	start_char=132|end_char=134
+34	riprendo	riprendere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	start_char=135|end_char=143|SpaceAfter=No
+35	;	;	PUNCT	_	_	29	punct	_	start_char=143|end_char=144|SpacesAfter=\n\n
+
+# text = però che, se l’amico è quel ch’intendo, e’ non avrà già sì la mente accorta, ch’udendo la ’ngiuliosa cosa e torta che i’ ti fo tuttor soffrire ardendo,
+# sent_id = 1
+1	però	però	ADV	_	_	8	advmod	_	start_char=146|end_char=150
+2	che	che	SCONJ	_	_	16	mark	_	start_char=151|end_char=154|SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	start_char=154|end_char=155
+4	se	se	SCONJ	cssv	_	8	mark	_	start_char=156|end_char=158
+5	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=159|end_char=161|SpaceAfter=No
+6	amico	amico	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nsubj	_	start_char=161|end_char=166
+7	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=167|end_char=168
+8	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	16	advcl	_	start_char=169|end_char=173
+9	ch	chi	PRON	pr	PronType=Rel	11	nsubj	_	start_char=174|end_char=176|SpaceAfter=No
+10	’	’	PUNCT	_	_	8	punct	_	start_char=176|end_char=177|SpaceAfter=No
+11	intendo	intendere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=177|end_char=184|SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	start_char=184|end_char=185|SpacesAfter=\n
+13	e	e	CCONJ	cscc	_	16	cc	_	start_char=186|end_char=187|SpaceAfter=No
+14	’	’	PUNCT	_	_	16	punct	_	start_char=187|end_char=188
+15	non	non	ADV	b	PronType=Neg	16	advmod:neg	_	start_char=189|end_char=192
+16	avrà	avere	VERB	vta5ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=193|end_char=197
+17	già	già	ADV	b	_	16	advmod:tmod	_	start_char=198|end_char=201
+18	sì	così	ADV	b	_	16	advmod	_	start_char=202|end_char=204
+19	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=205|end_char=207
+20	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	16	obj	_	start_char=208|end_char=213
+21	accorta	accorgere	VERB	vi2pra1f	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	start_char=214|end_char=221|SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	start_char=221|end_char=222|SpacesAfter=\n
+23	ch	ch	SCONJ	cssc	_	25	mark	_	start_char=223|end_char=225|SpaceAfter=No
+24	’	’	PUNCT	_	_	25	punct	_	start_char=225|end_char=226|SpaceAfter=No
+25	udendo	udire	VERB	vta3gp	VerbForm=Conv|Voice=Act	21	advcl	_	start_char=226|end_char=232
+26	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	start_char=233|end_char=235
+27	’ngiuliosa	ingiulioso	ADJ	a1fs	Gender=Fem|Number=Sing	28	amod	_	start_char=236|end_char=246
+28	cosa	cosa	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obj	_	start_char=247|end_char=251
+29	e	e	CCONJ	cscc	_	30	cc	_	start_char=252|end_char=253
+30	torta	torcere	VERB	vtp2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	28	conj	_	start_char=254|end_char=259|SpacesAfter=\n
+31	che	che	PRON	pr	PronType=Rel	35	nsubj	_	start_char=260|end_char=263
+32	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	start_char=264|end_char=265|SpaceAfter=No
+33	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	nsubj	_	start_char=265|end_char=266
+34	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	35	obj	_	start_char=267|end_char=269
+35	fo	fare	VERB	vta1ipps	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl:relcl	_	start_char=270|end_char=272
+36	tuttor	tuttora	ADV	b	_	35	advmod:tmod	_	start_char=273|end_char=279
+37	soffrire	soffrire	VERB	vtaff	Tense=Pres|VerbForm=Inf|Voice=Act	35	xcomp	_	start_char=280|end_char=288
+38	ardendo	ardere	VERB	vi2gp	VerbForm=Conv|Voice=Act	37	advcl	_	start_char=289|end_char=296|SpaceAfter=No
+39	,	,	PUNCT	_	_	16	punct	_	start_char=296|end_char=297|SpacesAfter=\n\n
+
+# text = temo non prenda sì gran smarrimento, ch’avanti ch’udit’ aggia tua pesanza, non si diparta da la vita ’l core.
+# sent_id = 2
+1	temo	temere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=299|end_char=303
+2	non	non	ADV	b	PronType=Neg	1	advmod:neg	_	start_char=304|end_char=307
+3	prenda	prendere	VERB	vta2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	start_char=308|end_char=314
+4	sì	così	ADV	b	_	1	advmod	_	start_char=315|end_char=317
+5	gran	grande	ADJ	a2ms	Gender=Masc|Number=Sing	6	amod	_	start_char=318|end_char=322
+6	smarrimento	smarrimento	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obj	_	start_char=323|end_char=334|SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	start_char=334|end_char=335|SpacesAfter=\n
+8	ch’	che	SCONJ	cssu	_	14	mark	_	start_char=336|end_char=339|SpaceAfter=No
+9	avanti	avanti	ADV	_	_	14	advmod:lmod	_	start_char=339|end_char=345
+10	ch	ch	SCONJ	_	_	12	mark	_	start_char=346|end_char=348|SpaceAfter=No
+11	’	’	PUNCT	_	_	12	punct	_	start_char=348|end_char=349|SpaceAfter=No
+12	udit	udit	NOUN	sm1ms	Gender=Masc|Number=Sing	20	vocative	_	start_char=349|end_char=353|SpaceAfter=No
+13	’	’	PUNCT	_	_	12	punct	_	start_char=353|end_char=354
+14	aggia	avere	VERB	vta5cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	start_char=355|end_char=360
+15	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	start_char=361|end_char=364
+16	pesanza	pesanza	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obj	_	start_char=365|end_char=372|SpaceAfter=No
+17	,	,	PUNCT	_	_	12	punct	_	start_char=372|end_char=373|SpacesAfter=\n
+18	non	non	ADV	b	PronType=Neg	20	advmod:neg	_	start_char=374|end_char=377
+19	si	si	PRON	pf3yim	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	20	expl:pv	_	start_char=378|end_char=380
+20	diparta	dipartire	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=381|end_char=388
+21	da	da	ADP	epska	_	23	case	_	start_char=389|end_char=391
+22	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=392|end_char=394
+23	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	20	obl:lmod	_	start_char=395|end_char=399
+24	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=400|end_char=402
+25	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	nsubj	_	start_char=403|end_char=407|SpaceAfter=No
+26	.	.	PUNCT	_	_	20	punct	_	start_char=407|end_char=408|SpacesAfter=\n\n
+
+# text = E tu conosci ben ch’i’ sono amore e ch’i’ ti lascio questa mia sembianza e portone ciascun tuo pensamento.
+# sent_id = 3
+1	E	e	CCONJ	cscc	_	3	cc	_	start_char=410|end_char=411
+2	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=412|end_char=414
+3	conosci	conoscere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=415|end_char=422
+4	ben	bene	ADV	b	_	3	advmod	_	start_char=423|end_char=426
+5	ch	ch	SCONJ	csso	_	10	mark	_	start_char=427|end_char=429|SpaceAfter=No
+6	’	’	PUNCT	_	_	10	punct	_	start_char=429|end_char=430|SpaceAfter=No
+7	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	start_char=430|end_char=431|SpaceAfter=No
+8	’	’	PUNCT	_	_	10	punct	_	start_char=431|end_char=432
+9	sono	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=433|end_char=437
+10	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	ccomp:reported	_	start_char=438|end_char=443|SpacesAfter=\n
+11	e	e	CCONJ	cscc	_	13	cc	_	start_char=444|end_char=445
+12	ch’	che	SCONJ	csso	_	16	mark	_	start_char=446|end_char=449|SpaceAfter=No
+13	i	li	PRON	pp1slso	Person=1|PronType=Prs	16	nsubj	_	start_char=449|end_char=450|SpaceAfter=No
+14	’	’	PUNCT	_	_	16	punct	_	start_char=450|end_char=451
+15	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	16	iobj	_	start_char=452|end_char=454
+16	lascio	lasciare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=455|end_char=461
+17	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	start_char=462|end_char=468
+18	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	start_char=469|end_char=472
+19	sembianza	sembianza	NOUN	sf1fs	Gender=Fem|Number=Sing	16	obj	_	start_char=473|end_char=482|SpacesAfter=\n
+20	e	e	CCONJ	cscc	_	24	cc	_	start_char=483|end_char=484
+21	portone	portone	ADJ	a1ms	Gender=Masc|Number=Sing	19	conj	_	start_char=485|end_char=492
+22	ciascun	ciascuno	DET	ai	PronType=Ind	24	det	_	start_char=493|end_char=500
+23	tuo	tuo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	start_char=501|end_char=504
+24	pensamento	pensamento	NOUN	sm2ms	Gender=Masc|Number=Sing	19	conj	_	start_char=505|end_char=515|SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	start_char=515|end_char=516
+
+# text = —
+# sent_id = 4
+1	—	—	PUNCT	_	_	0	root	_	start_char=517|end_char=518|SpaceAfter=No
+
