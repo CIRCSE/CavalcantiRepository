@@ -1,6 +1,6 @@
 # newdoc id = 6 - a Giovanna.
-# text = Chi è questa che ven ch’ogn’om la mira e fa tremar di chiaritate l’a’re, e mena seco amor sì che parlare null’omo pote, ma ciascun sospira?
 # sent_id = 0
+# text = Chi è questa che ven ch’ogn’om la mira e fa tremar di chiaritate l’a’re, e mena seco amor sì che parlare null’omo pote, ma ciascun sospira?
 1	Chi	chi	PRON	pn	PronType=Rel	0	root	_	start_char=0|end_char=3
 2	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=4|end_char=5
 3	questa	questo	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	start_char=6|end_char=12
@@ -40,8 +40,8 @@
 36	sospira	sospirare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	start_char=131|end_char=138|SpaceAfter=No
 37	?	?	PUNCT	_	_	32	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
 
-# text = O Deo, che sembra quando li occhi gira dica’l Amor, ch’i’ no ’l savria contare: cotanto d’umiltà donna mi pare, ch’ogn’altra ver di lei i’ la chiam’ira.
 # sent_id = 1
+# text = O Deo, che sembra quando li occhi gira dica’l Amor, ch’i’ no ’l savria contare: cotanto d’umiltà donna mi pare, ch’ogn’altra ver di lei i’ la chiam’ira.
 1	O	o	PART	i	_	2	discourse	_	start_char=141|end_char=142
 2	Deo	Dio	PROPN	np	_	21	vocative	_	start_char=143|end_char=146|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	start_char=146|end_char=147
@@ -87,8 +87,8 @@
 43	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	41	obj	_	start_char=289|end_char=292|SpaceAfter=No
 44	.	.	PUNCT	_	_	29	punct	_	start_char=292|end_char=293|SpacesAfter=\n\n
 
-# text = Non si poria contar la sua piagenza, ch’a lei s’inchina ogni gentil virtute, e la beltate per sua dea la mostra.
 # sent_id = 2
+# text = Non si poria contar la sua piagenza, ch’a lei s’inchina ogni gentil virtute, e la beltate per sua dea la mostra.
 1	Non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=295|end_char=298
 2	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	expl:impers	_	start_char=299|end_char=301
 3	poria	potere	AUX	vta*2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	start_char=302|end_char=307
@@ -116,8 +116,8 @@
 25	mostra	mostrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	start_char=400|end_char=406|SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	start_char=406|end_char=407|SpacesAfter=\n\n
 
-# text = Non fu sì alta già la mente nostra e non si pose in noi tanta salute, che propriamente n’aviam canoscenza.
 # sent_id = 3
+# text = Non fu sì alta già la mente nostra e non si pose in noi tanta salute, che propriamente n’aviam canoscenza.
 1	Non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=409|end_char=412
 2	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=413|end_char=415
 3	sì	così	ADV	b	_	4	advmod	_	start_char=416|end_char=418
