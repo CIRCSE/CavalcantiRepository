@@ -80,7 +80,7 @@
 38	.	.	PUNCT	_	_	10	punct	_	start_char=292|end_char=293|SpacesAfter=\n\n
 
 # sent_id = 2
-# text = Non si poria contar la sua piagenza, ch’a lei s’inchina ogni gentil virtute, e la beltate per sua dea la mostra.
+# text = Non si poria contar la sua piagenzach’a lei s’inchina ogni gentil virtute, e la beltate per sua dea la mostra.
 1	Non	non	ADV	b	PronType=Neg	4	advmod:neg	_	start_char=295|end_char=298
 2	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	expl:impers	_	start_char=299|end_char=301
 3	poria	potere	AUX	vta*2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	start_char=302|end_char=307
@@ -88,25 +88,24 @@
 5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=315|end_char=317
 6	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=318|end_char=321
 7	piagenza	piagenza	NOUN	sf1fs	Gender=Fem|Number=Sing	4	nsubj	_	start_char=322|end_char=330|SpaceAfter=No
-8	,	,	PUNCT	_	_	13	punct	_	start_char=330|end_char=331|SpacesAfter=\n
-9	ch’	che	PRON	pr	PronType=Rel	13	nsubj	_	start_char=332|end_char=335|SpaceAfter=No
-10	a	a	ADP	epsk1l	_	11	case	_	start_char=335|end_char=336
-11	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=337|end_char=340
-12	s’	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	_	start_char=341|end_char=343|SpaceAfter=No
-13	inchina	inchinare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=343|end_char=350
-14	ogni	ogni	DET	ai2fs	Gender=Fem|Number=Sing|PronType=Tot	16	det	_	start_char=351|end_char=355
-15	gentil	gentile	ADJ	a2fs	Gender=Fem|Number=Sing	16	amod	_	start_char=356|end_char=362
-16	virtute	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	13	nsubj	_	start_char=363|end_char=370|SpaceAfter=No
-17	,	,	PUNCT	_	_	25	punct	_	start_char=370|end_char=371|SpacesAfter=\n
-18	e	e	CCONJ	cscc	_	25	cc	_	start_char=372|end_char=373
-19	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=374|end_char=376
-20	beltate	beltà	NOUN	sf3fs	Gender=Fem|Number=Sing	25	nsubj	_	start_char=377|end_char=384
-21	per	per	ADP	epskr	_	23	case	_	start_char=385|end_char=388
-22	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	start_char=389|end_char=392
-23	dea	dare	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obl	_	start_char=393|end_char=396
-24	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	start_char=397|end_char=399
-25	mostra	mostrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	start_char=400|end_char=406|SpaceAfter=No
-26	.	.	PUNCT	_	_	4	punct	_	start_char=406|end_char=407|SpacesAfter=\n\n
+8	ch’	che	PRON	pr	PronType=Rel	12	nsubj	_	start_char=332|end_char=335|SpaceAfter=No
+9	a	a	ADP	epsk1l	_	10	case	_	start_char=335|end_char=336
+10	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=337|end_char=340
+11	s’	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	start_char=341|end_char=343|SpaceAfter=No
+12	inchina	inchinare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=343|end_char=350
+13	ogni	ogni	DET	ai2fs	Gender=Fem|Number=Sing|PronType=Tot	15	det	_	start_char=351|end_char=355
+14	gentil	gentile	ADJ	a2fs	Gender=Fem|Number=Sing	15	amod	_	start_char=356|end_char=362
+15	virtute	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	12	nsubj	_	start_char=363|end_char=370|SpaceAfter=No
+16	,	,	PUNCT	_	_	24	punct	_	start_char=370|end_char=371|SpacesAfter=\n
+17	e	e	CCONJ	cscc	_	24	cc	_	start_char=372|end_char=373
+18	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	start_char=374|end_char=376
+19	beltate	beltà	NOUN	sf3fs	Gender=Fem|Number=Sing	24	nsubj	_	start_char=377|end_char=384
+20	per	per	ADP	epskr	_	22	case	_	start_char=385|end_char=388
+21	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	start_char=389|end_char=392
+22	dea	dare	NOUN	sf1fs	Gender=Fem|Number=Sing	24	obl	_	start_char=393|end_char=396
+23	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obj	_	start_char=397|end_char=399
+24	mostra	mostrare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	start_char=400|end_char=406|SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	start_char=406|end_char=407|SpacesAfter=\n\n
 
 # sent_id = 3
 # text = Non fu sì alta già la mente nostra e non si pose in noi tanta salute, che propriamente n’aviam canoscenza.
