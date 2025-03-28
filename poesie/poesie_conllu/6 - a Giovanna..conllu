@@ -1,44 +1,41 @@
 # newdoc id = 6 - a Giovanna.
 # sent_id = 0
-# text = Chi è questa che ven ch’ogn’om la mira e fa tremar di chiaritate l’a’re, e mena seco amor sì che parlare null’omo pote, ma ciascun sospira?
+# text = Chi è questa che ven ch’ogn'om la mira e fa tremar di chiaritate l’a’re, e mena seco amor sì che parlare nullomo pote, ma ciascun sospira?
 1	Chi	chi	PRON	pn	PronType=Rel	0	root	_	start_char=0|end_char=3
 2	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=4|end_char=5
 3	questa	questo	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	1	nsubj	_	start_char=6|end_char=12
 4	che	che	PRON	pr	PronType=Rel	5	nsubj	_	start_char=13|end_char=16
 5	ven	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=17|end_char=20
-6	ch’	che	SCONJ	csss	_	11	mark	_	start_char=21|end_char=24|SpaceAfter=No
-7	ogn	ogli	DET	pp3sss	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	start_char=24|end_char=27|SpaceAfter=No
-8	’	’	PUNCT	_	_	7	punct	_	start_char=27|end_char=28|SpaceAfter=No
-9	om	uomo	PRON	p	_	11	nsubj	_	start_char=28|end_char=30
-10	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=31|end_char=33
-11	mira	mirare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=34|end_char=38|SpacesAfter=\n
-12	e	e	CCONJ	cscc	_	13	cc	_	start_char=39|end_char=40
-13	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=41|end_char=43
-14	tremar	tremare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	13	xcomp	_	start_char=44|end_char=50
-15	di	di	ADP	epskg	_	16	case	_	start_char=51|end_char=53
-16	chiaritate	chiarità	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obl	_	start_char=54|end_char=64
-17	l’	lo	DET	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	start_char=65|end_char=67|SpaceAfter=No
-18	a	a	ADP	epsk	_	19	case	_	start_char=67|end_char=68|SpaceAfter=No
-19	’re	ire	NOUN	s	Gender=Fem|Number=Sing	14	obl	_	start_char=68|end_char=71|SpaceAfter=No
-20	,	,	PUNCT	_	_	22	punct	_	start_char=71|end_char=72|SpacesAfter=\n
-21	e	e	CCONJ	cscc	_	22	cc	_	start_char=73|end_char=74
-22	mena	menare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=75|end_char=79
-23-24	seco	_	_	_	_	_	_	_	start_char=80|end_char=84
-23	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	22	obl	_	_
-24	con	con	ADP	_	Clitic=Yes	23	case	_	_
-25	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	22	obj	_	start_char=85|end_char=89
-26	sì	così	ADV	b	_	28	advmod	_	start_char=90|end_char=92
-27	che	che	SCONJ	cssu	_	28	mark	_	start_char=93|end_char=96
-28	parlare	parlare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	11	advcl	_	start_char=97|end_char=104|SpacesAfter=\n
-29	null	nullo	NOUN	sm2ms	Gender=Masc|Number=Sing	28	obj	_	start_char=105|end_char=109|SpaceAfter=No
-30	’	’	PUNCT	_	_	29	punct	_	start_char=109|end_char=110|SpaceAfter=No
-31	omo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	28	obj	_	start_char=110|end_char=113
-32	pote	potere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	aux	_	start_char=114|end_char=118|SpaceAfter=No
-33	,	,	PUNCT	_	_	36	punct	_	start_char=118|end_char=119
-34	ma	ma	CCONJ	csca	_	36	cc	_	start_char=120|end_char=122
-35	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	36	nsubj	_	start_char=123|end_char=130
-36	sospira	sospirare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	start_char=131|end_char=138|SpaceAfter=No
-37	?	?	PUNCT	_	_	32	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
+6	ch’	che	SCONJ	csss	_	10	mark	_	start_char=21|end_char=24|SpaceAfter=No
+7	ogn'	ogni	DET	pp3sss	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	start_char=24|end_char=27|SpaceAfter=No
+8	om	uomo	PRON	p	_	10	nsubj	_	start_char=28|end_char=30
+9	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=31|end_char=33
+10	mira	mirare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=34|end_char=38|SpacesAfter=\n
+11	e	e	CCONJ	cscc	_	12	cc	_	start_char=39|end_char=40
+12	fa	fare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	start_char=41|end_char=43
+13	tremar	tremare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	12	xcomp	_	start_char=44|end_char=50
+14	di	di	ADP	epskg	_	15	case	_	start_char=51|end_char=53
+15	chiaritate	chiarità	NOUN	sf1fs	Gender=Fem|Number=Sing	13	obl	_	start_char=54|end_char=64
+16	l’	lo	DET	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	start_char=65|end_char=67|SpaceAfter=No
+17	a’re	aria	NOUN	s	Gender=Fem|Number=Sing	13	obj	_	start_char=68|end_char=71|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+19	e	e	CCONJ	cscc	_	20	cc	_	start_char=73|end_char=74
+20	mena	menare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	start_char=75|end_char=79
+21-22	seco	_	_	_	_	_	_	_	start_char=80|end_char=84
+21	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	20	obl	_	_
+22	con	con	ADP	_	Clitic=Yes	21	case	_	_
+23	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obj	_	start_char=85|end_char=89
+24	sì	così	ADV	b	_	26	advmod	_	start_char=90|end_char=92
+25	che	che	SCONJ	cssu	_	26	mark	_	start_char=93|end_char=96
+26	parlare	parlare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	20	advcl	_	start_char=97|end_char=104|SpacesAfter=\n
+27	null'	nullo	DET	sm2ms	Gender=Masc|Number=Sing	28	det	_	start_char=105|end_char=109|SpaceAfter=No
+28	omo	uomo	NOUN	sm2ms	Gender=Masc|Number=Sing	26	nsubj	_	start_char=110|end_char=113
+29	pote	potere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	aux	_	start_char=114|end_char=118|SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	start_char=118|end_char=119
+31	ma	ma	CCONJ	csca	_	33	cc	_	start_char=120|end_char=122
+32	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	33	nsubj	_	start_char=123|end_char=130
+33	sospira	sospirare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	_	start_char=131|end_char=138|SpaceAfter=No
+34	?	?	PUNCT	_	_	1	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
 
 # sent_id = 1
 # text = O Deo, che sembra quando li occhi gira dica’l Amor, ch’i’ no ’l savria contare: cotanto d’umiltà donna mi pare, ch’ogn’altra ver di lei i’ la chiam’ira.
