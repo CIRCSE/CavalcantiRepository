@@ -38,51 +38,46 @@
 34	?	?	PUNCT	_	_	1	punct	_	start_char=138|end_char=139|SpacesAfter=\n\n
 
 # sent_id = 1
-# text = O Deo, che sembra quando li occhi gira dica’l Amor, ch’i’ no ’l savria contare: cotanto d’umiltà donna mi pare, ch’ogn’altra ver di lei i’ la chiam’ira.
+# text = O Deo, che sembra quando li occhi gira dical Amor, ch'i'no ’l savria contare: cotanto d’umiltà donna mi pare, ch’ogn'altra ver di lei i'la chiam'ira.
 1	O	o	PART	i	_	2	discourse	_	start_char=141|end_char=142
-2	Deo	Dio	PROPN	np	_	21	vocative	_	start_char=143|end_char=146|SpaceAfter=No
+2	Deo	Dio	PROPN	np	_	10	vocative	_	start_char=143|end_char=146|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	start_char=146|end_char=147
-4	che	che	PRON	pr	PronType=Rel	5	nsubj	_	start_char=148|end_char=151
-5	sembra	sembrare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=152|end_char=158
+4	che	che	PRON	pr	PronType=Rel	5	obj	_	start_char=148|end_char=151
+5	sembra	sembrare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=152|end_char=158
 6	quando	quando	SCONJ	csst	_	9	mark	_	start_char=159|end_char=165
-7	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=166|end_char=168
+7	li	gli	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=166|end_char=168
 8	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	9	nsubj	_	start_char=169|end_char=174
 9	gira	girare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=175|end_char=179|SpacesAfter=\n
-10	dica	dire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=180|end_char=184|SpaceAfter=No
-11	’	’	PUNCT	_	_	13	punct	_	start_char=184|end_char=185|SpaceAfter=No
-12	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=185|end_char=186
-13	Amor	Amore	PROPN	np	_	10	vocative	_	start_char=187|end_char=191|SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	start_char=191|end_char=192
-15	ch	ch	ADV	b	_	13	advmod	_	start_char=193|end_char=195|SpaceAfter=No
-16	’	’	PUNCT	_	_	21	punct	_	start_char=195|end_char=196|SpaceAfter=No
-17	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	nsubj	_	start_char=196|end_char=197|SpaceAfter=No
-18	’	’	PUNCT	_	_	21	punct	_	start_char=197|end_char=198
-19	no	non	ADV	b	_	21	advmod	_	start_char=199|end_char=201
-20	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=202|end_char=204
-21	savria	sapere	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=205|end_char=211
-22	contare	contare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=212|end_char=219|SpaceAfter=No
-23	:	:	PUNCT	_	_	29	punct	_	start_char=219|end_char=220|SpacesAfter=\n
-24	cotanto	cotanto	ADV	b	_	29	advmod	_	start_char=221|end_char=228
-25	d’	di	ADP	eps	_	26	case	_	start_char=229|end_char=231|SpaceAfter=No
-26	umiltà	umiltà	NOUN	sf3fs	Gender=Fem|Number=Sing	29	obl	_	start_char=231|end_char=237
-27	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	29	nsubj	_	start_char=238|end_char=243
-28	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	29	iobj	_	start_char=244|end_char=246
-29	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	parataxis	_	start_char=247|end_char=251|SpaceAfter=No
-30	,	,	PUNCT	_	_	41	punct	_	start_char=251|end_char=252|SpacesAfter=\n
-31	ch’	che	SCONJ	cssu	_	41	mark	_	start_char=253|end_char=256|SpaceAfter=No
-32	ogn	ogno	ADP	eisks	_	35	case	_	start_char=256|end_char=259|SpaceAfter=No
-33	’	’	ADP	epsksl	_	35	case	_	start_char=259|end_char=260|SpaceAfter=No
-34	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	35	det	_	start_char=260|end_char=265
-35	ver	vero	NOUN	sm2ms	Gender=Masc|Number=Sing	41	obl:lmod	_	start_char=266|end_char=269
-36	di	di	ADP	epskg	_	37	case	_	start_char=270|end_char=272
-37	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	nmod	_	start_char=273|end_char=276
-38	i	li	PRON	pp3ss	Clitic=Yes|Person=3|PronType=Prs	41	nsubj	_	start_char=277|end_char=278|SpaceAfter=No
-39	’	’	PUNCT	_	_	41	punct	_	start_char=278|end_char=279
-40	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	obj	_	start_char=280|end_char=282
-41	chiam	chiare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	start_char=283|end_char=288|SpaceAfter=No
-42	’	’	PUNCT	_	_	41	punct	_	start_char=288|end_char=289|SpaceAfter=No
-43	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	41	obj	_	start_char=289|end_char=292|SpaceAfter=No
-44	.	.	PUNCT	_	_	29	punct	_	start_char=292|end_char=293|SpacesAfter=\n\n
+10-11	dical	_	_	_	_	_	_	_	_
+10	dica'	dire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=180|end_char=184
+11	l	lo	PRON	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	obj	_	start_char=185|end_char=186
+12	Amor	Amore	PROPN	np	_	10	nsubj	_	start_char=187|end_char=191|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	start_char=191|end_char=192
+14	ch'	che	SCONJ	b	_	18	mark	_	start_char=193|end_char=195|SpaceAfter=No
+15	i'	io	PRON	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	nsubj	_	start_char=196|end_char=197|SpaceAfter=No
+16	no	non	ADV	b	_	18	advmod	_	start_char=199|end_char=201
+17	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=202|end_char=204
+18	savria	sapere	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=205|end_char=211
+19	contare	contare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	start_char=212|end_char=219|SpaceAfter=No
+20	:	:	PUNCT	_	_	26	punct	_	start_char=219|end_char=220|SpacesAfter=\n
+21	cotanto	cotanto	ADV	b	_	23	advmod	_	start_char=221|end_char=228
+22	d’	di	ADP	eps	_	23	case	_	start_char=229|end_char=231|SpaceAfter=No
+23	umiltà	umiltà	NOUN	sf3fs	Gender=Fem|Number=Sing	26	obl	_	start_char=231|end_char=237
+24	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	26	nsubj	_	start_char=238|end_char=243
+25	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	26	iobj	_	start_char=244|end_char=246
+26	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	start_char=247|end_char=251|SpaceAfter=No
+27	,	,	PUNCT	_	_	36	punct	_	start_char=251|end_char=252|SpacesAfter=\n
+28	ch’	che	SCONJ	cssu	_	36	mark	_	start_char=253|end_char=256|SpaceAfter=No
+29	ogn'	ogni	DET	eisks	_	30	det	_	start_char=256|end_char=259|SpaceAfter=No
+30	altra	altro	PRON	ai	Gender=Fem|Number=Sing|PronType=Ind	36	obj	_	start_char=260|end_char=265
+31	ver	vero	NOUN	sm2ms	Gender=Masc|Number=Sing	33	case	_	start_char=266|end_char=269
+32	di	di	ADP	epskg	_	33	case	_	start_char=270|end_char=272
+33	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	obl	_	start_char=273|end_char=276
+34	i'	io	PRON	pp3ss	Clitic=Yes|Person=3|PronType=Prs	36	nsubj	_	start_char=277|end_char=278|SpaceAfter=No
+35	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	expl	_	start_char=280|end_char=282
+36	chiam'	chiamare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	start_char=283|end_char=288|SpaceAfter=No
+37	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	36	xcomp	_	start_char=289|end_char=292|SpaceAfter=No
+38	.	.	PUNCT	_	_	10	punct	_	start_char=292|end_char=293|SpacesAfter=\n\n
 
 # sent_id = 2
 # text = Non si poria contar la sua piagenza, ch’a lei s’inchina ogni gentil virtute, e la beltate per sua dea la mostra.
