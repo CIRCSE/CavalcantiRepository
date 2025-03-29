@@ -1,9 +1,9 @@
 # newdoc id = 33 - Sonetto.
-# text = S’io prego questa donna che pietate non sia nemica del suo cor gentile, tu di’ ch’io sono sconoscente e vile e disperato e pien di vanitate.
+# text = S'io prego questa donna che pietate non sia nemica del suo cor gentile, tu di' ch'io sono sconoscente e vile e disperato e pien di vanitate.
 # sent_id = 0
-1	S’	se	SCONJ	cssv	_	3	mark	_	start_char=0|end_char=2|SpaceAfter=No
+1	S'	se	SCONJ	cssv	_	3	mark	_	start_char=0|end_char=2|SpaceAfter=No
 2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=2|end_char=4
-3	prego	pregare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=5|end_char=10
+3	prego	pregare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=5|end_char=10
 4	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=11|end_char=17
 5	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	3	obj	_	start_char=18|end_char=23
 6	che	che	PRON	pr	PronType=Rel	10	nsubj	_	start_char=24|end_char=27
@@ -17,23 +17,22 @@
 13	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=55|end_char=58
 14	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl	_	start_char=59|end_char=62
 15	gentile	gentile	ADJ	a2ms	Gender=Masc|Number=Sing	14	amod	_	start_char=63|end_char=70|SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	start_char=70|end_char=71|SpacesAfter=\n
-17	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	0	root	_	start_char=72|end_char=74
-18	di	di	ADP	epskg	_	19	case	_	start_char=75|end_char=77|SpaceAfter=No
-19	’	’	PUNCT	_	_	23	punct	_	start_char=77|end_char=78
-20	ch’	che	SCONJ	cssu	_	23	mark	_	start_char=79|end_char=82|SpaceAfter=No
-21	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	23	nsubj	_	start_char=82|end_char=84
-22	sono	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=85|end_char=89
-23	sconoscente	sconoscere	ADJ	a2ms	Gender=Masc|Number=Sing	17	advcl	_	start_char=90|end_char=101
-24	e	e	CCONJ	cscc	_	25	cc	_	start_char=102|end_char=103
-25	vile	vile	ADJ	a2ms	Gender=Masc|Number=Sing	23	conj	_	start_char=104|end_char=108|SpacesAfter=\n
-26	e	e	CCONJ	cscc	_	27	cc	_	start_char=109|end_char=110
-27	disperato	disperato	ADJ	a1ms	Gender=Masc|Number=Sing	25	conj	_	start_char=111|end_char=120
-28	e	e	CCONJ	cscc	_	29	cc	_	start_char=121|end_char=122
-29	pien	pieno	ADJ	a1msxc5	Gender=Masc|Number=Sing	27	conj	_	start_char=123|end_char=127
-30	di	di	ADP	epskg	_	31	case	_	start_char=128|end_char=130
-31	vanitate	vanità	NOUN	sf3fs	Gender=Fem|Number=Sing	29	obl	_	start_char=131|end_char=139|SpaceAfter=No
-32	.	.	PUNCT	_	_	17	punct	_	start_char=139|end_char=140|SpacesAfter=\n\n
+16	,	,	PUNCT	_	_	3	punct	_	start_char=70|end_char=71|SpacesAfter=\n
+17	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	18	nsubj	_	start_char=72|end_char=74
+18	di'	dire	VERB	vta3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=75|end_char=78
+19	ch'	che	SCONJ	csso	_	22	mark	_	start_char=79|end_char=82|SpaceAfter=No
+20	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	22	nsubj	_	start_char=82|end_char=84
+21	sono	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=85|end_char=89
+22	sconoscente	sconoscere	ADJ	a2ms	Gender=Masc|Number=Sing	18	ccomp	_	start_char=90|end_char=101
+23	e	e	CCONJ	cscc	_	24	cc	_	start_char=102|end_char=103
+24	vile	vile	ADJ	a2ms	Gender=Masc|Number=Sing	22	conj	_	start_char=104|end_char=108|SpacesAfter=\n
+25	e	e	CCONJ	cscc	_	26	cc	_	start_char=109|end_char=110
+26	disperato	disperato	ADJ	a1ms	Gender=Masc|Number=Sing	24	conj	_	start_char=111|end_char=120
+27	e	e	CCONJ	cscc	_	28	cc	_	start_char=121|end_char=122
+28	pien	pieno	ADJ	a1msxc5	Gender=Masc|Number=Sing	26	conj	_	start_char=123|end_char=127
+29	di	di	ADP	epskg	_	30	case	_	start_char=128|end_char=130
+30	vanitate	vanità	NOUN	sf3fs	Gender=Fem|Number=Sing	28	obl	_	start_char=131|end_char=139|SpaceAfter=No
+31	.	.	PUNCT	_	_	18	punct	_	start_char=139|end_char=140|SpacesAfter=\n\n
 
 # text = Onde ti vien si nova crudeltate?
 # sent_id = 1
@@ -71,9 +70,9 @@
 22	soavitate	soavità	NOUN	sf1fp	Gender=Fem|Number=Plur	20	nmod	_	start_char=267|end_char=276|SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	start_char=276|end_char=277|SpacesAfter=\n\n
 
-# text = L’anima mia dolente e paurosa piange ne li sospir che nel cor trova sì, che bagnati di pianto escon fore.
+# text = L'anima mia dolente e paurosa piange ne li sospir che nel cor trova sì, che bagnati di pianto escon fore.
 # sent_id = 3
-1	L’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=279|end_char=281|SpaceAfter=No
+1	L'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=279|end_char=281|SpaceAfter=No
 2	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=281|end_char=286
 3	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	start_char=287|end_char=290
 4	dolente	dolente	ADJ	a2fs	Gender=Fem|Number=Sing	2	amod	_	start_char=291|end_char=298
@@ -96,7 +95,7 @@
 20	di	di	ADP	epskg	_	21	case	_	start_char=363|end_char=365
 21	pianto	pianto	NOUN	sm2ms	Gender=Masc|Number=Sing	22	obl	_	start_char=366|end_char=372
 22	escon	uscire	VERB	vi2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=373|end_char=378
-23	fore	fuori	ADV	esk	_	22	advmod:lmod	_	start_char=379|end_char=383|SpaceAfter=No
+23	fore	fuori	ADV	eisk	_	22	advmod:lmod	_	start_char=379|end_char=383|SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	start_char=383|end_char=384|SpacesAfter=\n\n
 
 # text = Allora par che ne la mente piova una figura di donna pensosa, che vegna per veder morir lo core.

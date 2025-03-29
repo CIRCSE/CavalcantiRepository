@@ -1,5 +1,5 @@
 # newdoc id = 55 - per Mandetta.
-# text = O tu, che porti ne li occhi sovente amor tenendo tre saette in mano, questo mio spirto che vien di lontano ti raccomanda l’anima dolente.
+# text = O tu, che porti ne li occhi sovente amor tenendo tre saette in mano, questo mio spirto che vien di lontano ti raccomanda l'anima dolente.
 # sent_id = 0
 1	O	o	INTJ	i	_	2	discourse	_	start_char=0|end_char=1
 2	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	25	vocative	_	start_char=2|end_char=4|SpaceAfter=No
@@ -26,24 +26,24 @@
 23	lontano	lontano	ADV	_	_	25	advmod:lmod	_	start_char=99|end_char=106|SpacesAfter=\n
 24	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	25	iobj	_	start_char=107|end_char=109
 25	raccomanda	raccomandare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=110|end_char=120
-26	l’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=121|end_char=123|SpaceAfter=No
+26	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=121|end_char=123|SpaceAfter=No
 27	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obj	_	start_char=123|end_char=128
 28	dolente	dolente	ADJ	a2fs	Gender=Fem|Number=Sing	27	amod	_	start_char=129|end_char=136|SpaceAfter=No
 29	.	.	PUNCT	_	_	25	punct	_	start_char=136|end_char=137|SpacesAfter=\n\n
 
-# text = La quale à già feruta nella mente di due saette l’arciere soriano: a la terza apre l’arco, ma sì piano che non m’aggiunge essendoti presente.
+# text = La quale à già feruta nella mente di due saette l'arciere soriano: a la terza apre l'arco, ma sì piano che non m'aggiunge essendoti presente.
 # sent_id = 1
 1	La	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=139|end_char=141
 2	quale	quale	PRON	pr	PronType=Rel	5	nsubj	_	start_char=142|end_char=147
 3	à	andare	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=148|end_char=149
 4	già	già	ADV	b	_	5	advmod:tmod	_	start_char=150|end_char=153
-5	feruta	ferire	VERB	vta2prs3	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=154|end_char=160
+5	feruta	ferire	VERB	vta2prs3	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=154|end_char=160
 6	nella	nello	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=161|end_char=166
 7	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	5	nsubj	_	start_char=167|end_char=172|SpacesAfter=\n
 8	di	di	ADP	epskg	_	10	case	_	start_char=173|end_char=175
 9	due	due	NUM	an	NumType=Card	10	nummod	_	start_char=176|end_char=179
 10	saette	saetta	NOUN	sf1fp	Gender=Fem|Number=Plur	7	nmod	_	start_char=180|end_char=186
-11	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=187|end_char=189|SpaceAfter=No
+11	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=187|end_char=189|SpaceAfter=No
 12	arciere	arciere	NOUN	sm3ms	Gender=Masc|Number=Sing	5	nsubj	_	start_char=189|end_char=196
 13	soriano	soriano	ADJ	a1ms	Gender=Masc|Number=Sing	12	amod	_	start_char=197|end_char=204|SpaceAfter=No
 14	:	:	PUNCT	_	_	18	punct	_	start_char=204|end_char=205|SpacesAfter=\n
@@ -51,7 +51,7 @@
 16	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=208|end_char=210
 17	terza	terzo	ADJ	an1fs	Gender=Fem|NumType=Ord|Number=Sing	18	obl:lmod	_	start_char=211|end_char=216
 18	apre	aprire	VERB	vta3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=217|end_char=221
-19	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=222|end_char=224|SpaceAfter=No
+19	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=222|end_char=224|SpaceAfter=No
 20	arco	arco	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obj	_	start_char=224|end_char=228|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	start_char=228|end_char=229
 22	ma	ma	CCONJ	csca	_	24	cc	_	start_char=230|end_char=232
@@ -59,7 +59,7 @@
 24	piano	piano	NOUN	sm2ms	Gender=Masc|Number=Sing	18	conj	_	start_char=236|end_char=241|SpacesAfter=\n
 25	che	che	SCONJ	cssu	_	28	mark	_	start_char=242|end_char=245
 26	non	non	ADV	b	PronType=Neg	28	advmod:neg	_	start_char=246|end_char=249
-27	m’	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	28	obj	_	start_char=250|end_char=252|SpaceAfter=No
+27	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	28	obj	_	start_char=250|end_char=252|SpaceAfter=No
 28	aggiunge	aggiungere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=252|end_char=260
 29-30	essendoti	_	_	_	_	_	_	_	start_char=261|end_char=270
 29	sssendo	ssare	VERB	vi2gp	VerbForm=Conv|Voice=Act	28	advcl	_	_
@@ -67,11 +67,11 @@
 31	presente	presente	ADJ	a2ms	Gender=Masc|Number=Sing	29	xcomp	_	start_char=271|end_char=279|SpaceAfter=No
 32	.	.	PUNCT	_	_	18	punct	_	start_char=279|end_char=280|SpacesAfter=\n\n
 
-# text = Perchè saria dell’alma la salute, che quasi giace in fra le membra morta di due saette che fan due ferute.
+# text = Perchè saria dell'alma la salute, che quasi giace in fra le membra morta di due saette che fan due ferute.
 # sent_id = 2
 1	Perchè	perchè	ADV	b	_	4	advmod	_	start_char=282|end_char=288
 2	saria	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	4	cop	_	start_char=289|end_char=294
-3	dell’	dello	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=295|end_char=300|SpaceAfter=No
+3	dell'	dello	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=295|end_char=300|SpaceAfter=No
 4	alma	alma	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=300|end_char=304
 5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=305|end_char=307
 6	salute	salute	NOUN	sf3fs	Gender=Fem|Number=Sing	4	nsubj	_	start_char=308|end_char=314|SpaceAfter=No

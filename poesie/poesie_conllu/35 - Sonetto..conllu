@@ -1,16 +1,16 @@
 # newdoc id = 35 - Sonetto.
-# text = Certo non è de lo ’ntelletto accolto quel che staman ti fece disonesto; or come, già men dico presto, t’apparve rosso spirito nel volto?
+# text = Certo non è de lo 'ntelletto accolto quel che staman ti fece disonesto; or come, già men dico presto, t'apparve rosso spirito nel volto?
 # sent_id = 0
 1	Certo	certo	ADV	b	_	6	advmod	_	start_char=0|end_char=5
 2	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	start_char=6|end_char=9
 3	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=11
 4	de	di	ADP	eps	_	6	case	_	start_char=12|end_char=14
 5	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=15|end_char=17
-6	’ntelletto	intelletto	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=18|end_char=28
-7	accolto	accogliere	VERB	vta2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	acl	_	start_char=29|end_char=36|SpacesAfter=\n
+6	'ntelletto	intelletto	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=18|end_char=28
+7	accolto	accogliere	VERB	vtp2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	start_char=29|end_char=36|SpacesAfter=\n
 8	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	start_char=37|end_char=41
 9	che	che	PRON	pr	PronType=Rel	12	nsubj	_	start_char=42|end_char=45
-10	staman	stamani	ADV	b	_	12	advmod:tmod	_	start_char=46|end_char=52
+10	staman	stamani	NOUN	sm3ms	Gender=Masc|Number=Sing	12	nsubj	_	start_char=46|end_char=52
 11	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	12	obj	_	start_char=53|end_char=55
 12	fece	fare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=56|end_char=60
 13	disonesto	disonesto	ADJ	a1ms	Gender=Masc|Number=Sing	12	xcomp	_	start_char=61|end_char=70|SpaceAfter=No
@@ -23,7 +23,7 @@
 20	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	start_char=89|end_char=93
 21	presto	presto	ADJ	a1msxc	Gender=Masc|Number=Sing	20	xcomp	_	start_char=94|end_char=100|SpaceAfter=No
 22	,	,	PUNCT	_	_	20	punct	_	start_char=100|end_char=101|SpacesAfter=\n
-23	t’	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	24	iobj	_	start_char=102|end_char=104|SpaceAfter=No
+23	t'	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	24	iobj	_	start_char=102|end_char=104|SpaceAfter=No
 24	apparve	apparire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	start_char=104|end_char=111
 25	rosso	rosso	ADJ	a1ms	Gender=Masc|Number=Sing	26	amod	_	start_char=112|end_char=117
 26	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	24	nsubj	_	start_char=118|end_char=125
@@ -33,45 +33,43 @@
 29	volto	volto	NOUN	sm2ms	Gender=Masc|Number=Sing	24	obl:lmod	_	start_char=130|end_char=135|SpaceAfter=No
 30	?	?	PUNCT	_	_	24	punct	_	start_char=135|end_char=136|SpacesAfter=\n\n
 
-# text = Sarebbe forse che t’avesse sciolto amor da quella ch’è nel tondo sesto? o che virazo t’avesse richesto a por te lieto ov’i’ son tristo molto?
+# text = Sarebbe forse che t'avesse sciolto amor da quella ch'è nel tondo sesto? o che virazo t'avesse richesto a por te lieto ov'i' son tristo molto?
 # sent_id = 1
 1	Sarebbe	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	6	aux	_	start_char=138|end_char=145
 2	forse	forse	ADV	b	_	6	advmod	_	start_char=146|end_char=151
 3	che	che	SCONJ	csso	_	6	mark	_	start_char=152|end_char=155
-4	t’	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	6	obj	_	start_char=156|end_char=158|SpaceAfter=No
+4	t'	ti	PRON	pp2syaa	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	6	obj	_	start_char=156|end_char=158|SpaceAfter=No
 5	avesse	avere	AUX	vta5cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	aux	_	start_char=158|end_char=164
-6	sciolto	sciogliere	VERB	vta2cts3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	start_char=165|end_char=172|SpacesAfter=\n
+6	sciolto	sciogliere	VERB	vta2its3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	start_char=165|end_char=172|SpacesAfter=\n
 7	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	obj	_	start_char=173|end_char=177
 8	da	da	ADP	epska	_	9	case	_	start_char=178|end_char=180
 9	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	6	obl	_	start_char=181|end_char=187
-10	ch	chi	PRON	pr	PronType=Rel	16	nsubj	_	start_char=188|end_char=190|SpaceAfter=No
-11	’	’	PUNCT	_	_	15	punct	_	start_char=190|end_char=191|SpaceAfter=No
-12	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=191|end_char=192
-13-14	nel	_	_	_	_	_	_	_	start_char=193|end_char=196
-13	in	in	ADP	_	_	15	case	_	_
-14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	tondo	tondo	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=197|end_char=202
-16	sesto	sesto	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	15	amod	_	start_char=203|end_char=208|SpaceAfter=No
-17	?	?	PUNCT	_	_	23	punct	_	start_char=208|end_char=209|SpacesAfter=\n
-18	o	o	CCONJ	cscd	_	23	cc	_	start_char=210|end_char=211
-19	che	che	SCONJ	csso	_	23	mark	_	start_char=212|end_char=215
-20	virazo	virazo	NOUN	sm2ms	Gender=Masc|Number=Sing	23	nsubj	_	start_char=216|end_char=222
-21	t’	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	23	obj	_	start_char=223|end_char=225|SpaceAfter=No
-22	avesse	avere	AUX	vta5cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	23	aux	_	start_char=225|end_char=231
-23	richesto	richiedere	VERB	vta2its3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	start_char=232|end_char=240|SpacesAfter=\n
-24	a	a	ADP	_	_	25	case	_	start_char=241|end_char=242
-25	por	pore	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	start_char=243|end_char=246
-26	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	23	obl	_	start_char=247|end_char=249
-27	lieto	lieto	ADJ	a1msx	Gender=Masc|Number=Sing	25	amod	_	start_char=250|end_char=255
-28	ov’	ove	PRON	p	_	32	obl	_	start_char=256|end_char=259|SpaceAfter=No
-29	i	vi	ADV	b	_	32	advmod:lmod	_	start_char=259|end_char=260|SpaceAfter=No
-30	’	’	PUNCT	_	_	32	punct	_	start_char=260|end_char=261
-31	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	32	cop	_	start_char=262|end_char=265
-32	tristo	tristo	ADJ	a1msxc	Gender=Masc|Number=Sing	23	advcl	_	start_char=266|end_char=272
-33	molto	molto	ADV	b	_	32	advmod	_	start_char=273|end_char=278|SpaceAfter=No
-34	?	?	PUNCT	_	_	32	punct	_	start_char=278|end_char=279|SpacesAfter=\n\n
+10	ch'	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=188|end_char=191|SpaceAfter=No
+11	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=191|end_char=192
+12-13	nel	_	_	_	_	_	_	_	start_char=193|end_char=196
+12	in	in	ADP	_	_	14	case	_	_
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	tondo	tondo	NOUN	sm2ms	Gender=Masc|Number=Sing	9	acl:relcl	_	start_char=197|end_char=202
+15	sesto	sesto	ADJ	an1ms	Gender=Masc|NumType=Ord|Number=Sing	14	amod	_	start_char=203|end_char=208|SpaceAfter=No
+16	?	?	PUNCT	_	_	21	punct	_	start_char=208|end_char=209|SpacesAfter=\n
+17	o	o	CCONJ	cscd	_	21	cc	_	start_char=210|end_char=211
+18	che	che	SCONJ	csso	_	21	mark	_	start_char=212|end_char=215
+19	virazo	virazo	NOUN	sm2ms	Gender=Masc|Number=Sing	21	nsubj	_	start_char=216|end_char=222
+20	t'	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	21	obj	_	start_char=223|end_char=225|SpaceAfter=No
+21	avesse	avere	VERB	vta5cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=225|end_char=231
+22	richesto	richiedere	NOUN	sm2ms	Gender=Masc|Number=Sing	21	obj	_	start_char=232|end_char=240|SpacesAfter=\n
+23	a	a	ADP	_	_	24	case	_	start_char=241|end_char=242
+24	por	pore	NOUN	_	Gender=Masc|Number=Sing	21	obl:lmod	_	start_char=243|end_char=246
+25	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	21	obl	_	start_char=247|end_char=249
+26	lieto	lieto	ADJ	a1ms	Gender=Masc|Number=Sing	25	amod	_	start_char=250|end_char=255
+27	ov'	ove	PRON	p	_	30	obl	_	start_char=256|end_char=259|SpaceAfter=No
+28	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	start_char=259|end_char=261
+29	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	30	cop	_	start_char=262|end_char=265
+30	tristo	tristo	ADJ	a1ms	Gender=Masc|Number=Sing	25	acl:relcl	_	start_char=266|end_char=272
+31	molto	molto	ADV	b	_	30	advmod	_	start_char=273|end_char=278|SpaceAfter=No
+32	?	?	PUNCT	_	_	6	punct	_	start_char=278|end_char=279|SpacesAfter=\n\n
 
-# text = Di te mi dole, di me guata quanto che me ne fiede mia donna a traverso, tagliando ciò ch’amor porta soave.
+# text = Di te mi dole, di me guata quanto che me ne fiede mia donna a traverso, tagliando ciò ch'amor porta soave.
 # sent_id = 2
 1	Di	di	ADP	epskg	_	2	case	_	start_char=281|end_char=283
 2	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	4	obl:lmod	_	start_char=284|end_char=286
@@ -89,46 +87,45 @@
 14	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	start_char=331|end_char=334
 15	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	13	obj	_	start_char=335|end_char=340
 16	a	a	ADP	_	_	17	case	_	start_char=341|end_char=342
-17	traverso	traverso	NOUN	_	Gender=Masc|Number=Sing	13	obl:lmod	_	start_char=343|end_char=351|SpaceAfter=No
+17	traverso	traverso	ADV	_	_	13	advmod:lmod	_	start_char=343|end_char=351|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	start_char=351|end_char=352|SpacesAfter=\n
 19	tagliando	tagliare	VERB	vta1gp	VerbForm=Conv|Voice=Act	8	advcl	_	start_char=353|end_char=362
 20	ciò	cio'	PRON	pd	PronType=Dem	19	obj	_	start_char=363|end_char=366
-21	ch’	che	PRON	pr	PronType=Rel	23	nsubj	_	start_char=367|end_char=370|SpaceAfter=No
+21	ch'	che	PRON	pr	PronType=Rel	23	nsubj	_	start_char=367|end_char=370|SpaceAfter=No
 22	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	23	obj	_	start_char=370|end_char=374
 23	porta	portare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	start_char=375|end_char=380
 24	soave	soave	ADJ	a2fs	Gender=Fem|Number=Sing	23	xcomp	_	start_char=381|end_char=386|SpaceAfter=No
 25	.	.	PUNCT	_	_	4	punct	_	start_char=386|end_char=387|SpacesAfter=\n\n
 
-# text = Ancor dinanzi m’è rotta la chiave del suo disdegno nel mio core verso, sì che n’ò l’ira ed allegrezza e pianto.
+# text = Ancor dinanzi m'è rotta la chiave del suo disdegno nel mio core verso, sì che n'ò l'ira ed allegrezza e pianto.
 # sent_id = 3
-1	Ancor	ancora	ADV	b	_	6	advmod:tmod	_	start_char=389|end_char=394
-2	dinanzi	dinanzi	ADV	_	_	3	advmod:lmod	_	start_char=395|end_char=402
-3	m	«	ADP	_	_	6	case	_	start_char=403|end_char=404|SpaceAfter=No
-4	’	’	PUNCT	_	_	6	punct	_	start_char=404|end_char=405|SpaceAfter=No
-5	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=405|end_char=406
-6	rotta	rompere	VERB	vtp2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=407|end_char=412
-7	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=413|end_char=415
-8	chiave	chiave	NOUN	sf3fs	Gender=Fem|Number=Sing	6	nsubj	_	start_char=416|end_char=422|SpacesAfter=\n
-9-10	del	_	_	_	_	_	_	_	start_char=423|end_char=426
-9	di	di	ADP	_	_	12	case	_	_
-10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-11	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	start_char=427|end_char=430
-12	disdegno	disdegno	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nmod	_	start_char=431|end_char=439
-13-14	nel	_	_	_	_	_	_	_	start_char=440|end_char=443
-13	in	in	ADP	_	_	16	case	_	_
-14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	start_char=444|end_char=447
-16	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=448|end_char=452
-17	verso	verso	ADP	eiskml	_	12	case	_	start_char=453|end_char=458|SpaceAfter=No
-18	,	,	PUNCT	_	_	23	punct	_	start_char=458|end_char=459|SpacesAfter=\n
-19	sì	così	ADV	_	_	23	advmod	_	start_char=460|end_char=462
-20	che	che	SCONJ	_	_	23	mark	_	start_char=463|end_char=466
-21	n’ò	n’’o	ADV	b	_	23	advmod	_	start_char=467|end_char=470
-22	l’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=471|end_char=473|SpaceAfter=No
-23	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	6	advcl:cmp	_	start_char=473|end_char=476
-24	ed	e	CCONJ	cscc	_	25	cc	_	start_char=477|end_char=479
-25	allegrezza	allegrezza	NOUN	sf1fs	Gender=Fem|Number=Sing	23	conj	_	start_char=480|end_char=490
-26	e	e	CCONJ	cscc	_	27	cc	_	start_char=491|end_char=492
-27	pianto	pianto	NOUN	sm2ms	Gender=Masc|Number=Sing	25	conj	_	start_char=493|end_char=499|SpaceAfter=No
-28	.	.	PUNCT	_	_	6	punct	_	start_char=499|end_char=500|SpaceAfter=No
+1	Ancor	ancora	ADV	b	_	5	advmod:tmod	_	start_char=389|end_char=394
+2	dinanzi	dinanzi	ADV	ek	_	5	advmod:lmod	_	start_char=395|end_char=402
+3	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	5	iobj	_	start_char=403|end_char=405|SpaceAfter=No
+4	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=405|end_char=406
+5	rotta	rompere	VERB	vtp2irs3	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=407|end_char=412
+6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=413|end_char=415
+7	chiave	chiave	NOUN	sf3fs	Gender=Fem|Number=Sing	5	nsubj:pass	_	start_char=416|end_char=422|SpacesAfter=\n
+8-9	del	_	_	_	_	_	_	_	start_char=423|end_char=426
+8	di	di	ADP	_	_	11	case	_	_
+9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=427|end_char=430
+11	disdegno	disdegno	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nmod	_	start_char=431|end_char=439
+12-13	nel	_	_	_	_	_	_	_	start_char=440|end_char=443
+12	in	in	ADP	_	_	15	case	_	_
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	start_char=444|end_char=447
+15	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=448|end_char=452
+16	verso	verso	ADP	eiskml	_	11	case	_	start_char=453|end_char=458|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	start_char=458|end_char=459|SpacesAfter=\n
+18	sì	così	ADV	_	_	20	advmod	_	start_char=460|end_char=462
+19	che	che	SCONJ	_	_	20	mark	_	start_char=463|end_char=466
+20	n'ò	n'tare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=467|end_char=470
+21	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=471|end_char=473|SpaceAfter=No
+22	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	20	obj	_	start_char=473|end_char=476
+23	ed	e	CCONJ	cscc	_	24	cc	_	start_char=477|end_char=479
+24	allegrezza	allegrezza	NOUN	sf1fs	Gender=Fem|Number=Sing	22	conj	_	start_char=480|end_char=490
+25	e	e	CCONJ	cscc	_	26	cc	_	start_char=491|end_char=492
+26	pianto	pianto	NOUN	sm2ms	Gender=Masc|Number=Sing	24	conj	_	start_char=493|end_char=499|SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	start_char=499|end_char=500|SpaceAfter=No
 

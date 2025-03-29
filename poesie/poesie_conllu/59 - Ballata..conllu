@@ -1,5 +1,5 @@
 # newdoc id = 59 - Ballata.
-# text = In un boschetto trovai pasturella più che la stella - bella al mi’ parere.
+# text = In un boschetto trovai pasturella più che la stella - bella al mi' parere.
 # sent_id = 0
 1	In	in	ADP	epsksl	_	3	case	_	start_char=0|end_char=2
 2	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=3|end_char=5
@@ -7,31 +7,30 @@
 4	trovai	trovare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=16|end_char=22
 5	pasturella	pasturella	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obj	_	start_char=23|end_char=33|SpacesAfter=\n
 6	più	più	ADV	bc+	Degree=Cmp	4	advmod	_	start_char=34|end_char=37
-7	che	che	SCONJ	c	_	9	mark	_	start_char=38|end_char=41
+7	che	che	SCONJ	c	_	4	mark	_	start_char=38|end_char=41
 8	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=42|end_char=44
 9	stella	stella	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obj	_	start_char=45|end_char=51
 10	-	-	PUNCT	_	_	11	punct	_	start_char=52|end_char=53
 11	bella	bello	ADJ	a1fs	Gender=Fem|Number=Sing	4	advcl:pred	_	start_char=54|end_char=59
 12-13	al	_	_	_	_	_	_	_	start_char=60|end_char=62
-12	a	a	ADP	_	_	14	case	_	_
-13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-14	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	16	iobj	_	start_char=63|end_char=65|SpaceAfter=No
-15	’	’	PUNCT	_	_	16	punct	_	start_char=65|end_char=66
-16	parere	parere	VERB	vi22pss3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=67|end_char=73|SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	start_char=73|end_char=74|SpacesAfter=\n\n
+12	a	a	ADP	_	_	15	case	_	_
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	mi'	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	start_char=63|end_char=66
+15	parere	parere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	11	obl	_	start_char=67|end_char=73|SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	start_char=73|end_char=74|SpacesAfter=\n\n
 
-# text = Cavelli avea biondetti e ricciutelli e li occhi pien d’amor, cera rosata: con sua verghetta pasturav’ agnelli e, scalza, di rugiada era bagnata: cantava come fosse 'nnamorata: er’ adornata di tutto piacere.
+# text = Cavelli avea biondetti e ricciutelli e li occhi pien d'amor, cera rosata: con sua verghetta pasturav' agnelli e, scalza, di rugiada era bagnata: cantava come fosse 'nnamorata: er' adornata di tutto piacere.
 # sent_id = 1
 1	Cavelli	Cavelli	NOUN	sm2mp	Gender=Masc|Number=Plur	2	nsubj	_	start_char=76|end_char=83
 2	avea	avere	VERB	vta5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=84|end_char=88
 3	biondetti	biondetto	NOUN	sm2mp	Gender=Masc|Number=Plur	2	obj	_	start_char=89|end_char=98
 4	e	e	CCONJ	cscc	_	5	cc	_	start_char=99|end_char=100
-5	ricciutelli	ricciutello	NOUN	sm2mp	Gender=Masc|Number=Plur	3	conj	_	start_char=101|end_char=112|SpacesAfter=\n
+5	ricciutelli	ricciutello	ADJ	a1mp	Gender=Masc|Number=Plur	3	conj	_	start_char=101|end_char=112|SpacesAfter=\n
 6	e	e	CCONJ	cscc	_	5	cc	_	start_char=113|end_char=114
 7	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=115|end_char=117
 8	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	3	conj	_	start_char=118|end_char=123
-9	pien	pieno	ADJ	a1msxc5	Gender=Masc|Number=Plur	2	xcomp	_	start_char=124|end_char=128
-10	d’	di	ADP	eps	_	11	case	_	start_char=129|end_char=131|SpaceAfter=No
+9	pien	pieno	ADJ	a1msxc5	Gender=Masc|Number=Sing	2	xcomp	_	start_char=124|end_char=128
+10	d'	di	ADP	eps	_	11	case	_	start_char=129|end_char=131|SpaceAfter=No
 11	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	9	obl	_	start_char=131|end_char=135|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	start_char=135|end_char=136
 13	cera	cera	NOUN	sf1fs	Gender=Fem|Number=Sing	2	vocative	_	start_char=137|end_char=141
@@ -40,46 +39,44 @@
 16	con	con	ADP	epskw	_	18	case	_	start_char=150|end_char=153
 17	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	start_char=154|end_char=157
 18	verghetta	verghetta	NOUN	sf1fs	Gender=Fem|Number=Sing	19	obl	_	start_char=158|end_char=167
-19	pasturav	pastorare	VERB	vta1iis3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=168|end_char=176|SpaceAfter=No
-20	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	start_char=176|end_char=177
-21	agnelli	agnello	NOUN	sm2mp	Gender=Masc|Number=Plur	19	obj	_	start_char=178|end_char=185|SpacesAfter=\n
-22	e	e	CCONJ	cscc	_	24	cc	_	start_char=186|end_char=187|SpaceAfter=No
-23	,	,	PUNCT	_	_	24	punct	_	start_char=187|end_char=188
-24	scalza	scalzo	ADJ	a1fs	Gender=Fem|Number=Sing	19	advcl:pred	_	start_char=189|end_char=195|SpaceAfter=No
-25	,	,	PUNCT	_	_	24	punct	_	start_char=195|end_char=196
-26	di	di	ADP	epskg	_	27	case	_	start_char=197|end_char=199
-27	rugiada	rugiada	NOUN	sf1fs	Gender=Fem|Number=Sing	29	obl	_	start_char=200|end_char=207
-28	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux:pass	_	start_char=208|end_char=211
-29	bagnata	bagnare	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	advcl	_	start_char=212|end_char=219|SpaceAfter=No
-30	:	:	PUNCT	_	_	31	punct	_	start_char=219|end_char=220|SpacesAfter=\n
-31	cantava	cantare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=221|end_char=228
-32	come	come	ADV	b	_	34	mark	_	start_char=229|end_char=233
-33	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	34	cop	_	start_char=234|end_char=239
-34	'nnamorata	innamorare	VERB	vta1pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	31	ccomp	_	start_char=240|end_char=250|SpaceAfter=No
-35	:	:	PUNCT	_	_	36	punct	_	start_char=250|end_char=251|SpacesAfter=\n
-36	er	eglire	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=252|end_char=254|SpaceAfter=No
-37	’	’	PUNCT	_	_	36	punct	_	start_char=254|end_char=255
-38	adornata	adornare	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	36	xcomp	_	start_char=256|end_char=264
-39	di	di	ADP	epskg	_	41	case	_	start_char=265|end_char=267
-40	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	41	det	_	start_char=268|end_char=273
-41	piacere	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	36	obl	_	start_char=274|end_char=281|SpaceAfter=No
-42	.	.	PUNCT	_	_	19	punct	_	start_char=281|end_char=282|SpacesAfter=\n\n
+19	pasturav'	pastorare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=168|end_char=177
+20	agnelli	agnello	NOUN	sm2mp	Gender=Masc|Number=Plur	19	obj	_	start_char=178|end_char=185|SpacesAfter=\n
+21	e	e	CCONJ	cscc	_	23	cc	_	start_char=186|end_char=187|SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	start_char=187|end_char=188
+23	scalza	scalzo	ADJ	a1fs	Gender=Fem|Number=Sing	19	advcl:pred	_	start_char=189|end_char=195|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	start_char=195|end_char=196
+25	di	di	ADP	epskg	_	26	case	_	start_char=197|end_char=199
+26	rugiada	rugiada	NOUN	sf1fs	Gender=Fem|Number=Sing	28	obl	_	start_char=200|end_char=207
+27	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	cop	_	start_char=208|end_char=211
+28	bagnata	bagnare	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	advcl	_	start_char=212|end_char=219|SpaceAfter=No
+29	:	:	PUNCT	_	_	30	punct	_	start_char=219|end_char=220|SpacesAfter=\n
+30	cantava	cantare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=221|end_char=228
+31	come	come	ADV	b	_	33	mark	_	start_char=229|end_char=233
+32	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux:pass	_	start_char=234|end_char=239
+33	'nnamorata	innamorare	VERB	vta1pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	30	ccomp	_	start_char=240|end_char=250|SpaceAfter=No
+34	:	:	PUNCT	_	_	36	punct	_	start_char=250|end_char=251|SpacesAfter=\n
+35	er'	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	cop	_	start_char=252|end_char=255
+36	adornata	adornare	VERB	vtp2pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	parataxis	_	start_char=256|end_char=264
+37	di	di	ADP	epskg	_	39	case	_	start_char=265|end_char=267
+38	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	39	det	_	start_char=268|end_char=273
+39	piacere	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	36	obl	_	start_char=274|end_char=281|SpaceAfter=No
+40	.	.	PUNCT	_	_	19	punct	_	start_char=281|end_char=282|SpacesAfter=\n\n
 
-# text = D'amor la salutai inmantenente e domandai s’avesse compagnia.
+# text = D'amor la salutai inmantenente e domandai s'avesse compagnia.
 # sent_id = 2
 1	D'	di	ADP	eps	_	2	case	_	start_char=284|end_char=286|SpaceAfter=No
 2	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	4	obl:lmod	_	start_char=286|end_char=290
 3	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=291|end_char=293
 4	salutai	salutare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=294|end_char=301
-5	inmantenente	inmantente	ADJ	a2ms	Gender=Fem|Number=Sing	4	xcomp	_	start_char=302|end_char=314|SpacesAfter=\n
+5	inmantenente	inmantente	ADJ	a2fs	Gender=Fem|Number=Sing	4	xcomp	_	start_char=302|end_char=314|SpacesAfter=\n
 6	e	e	CCONJ	cscc	_	7	cc	_	start_char=315|end_char=316
 7	domandai	domandare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=317|end_char=325
-8	s’	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	9	expl:impers	_	start_char=326|end_char=328|SpaceAfter=No
+8	s'	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	start_char=326|end_char=328|SpaceAfter=No
 9	avesse	avere	VERB	vta5cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	conj	_	start_char=328|end_char=334
 10	compagnia	compagnia	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obj	_	start_char=335|end_char=344|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	start_char=344|end_char=345|SpacesAfter=\n
 
-# text = Ed ella mi rispose dolcemente che sola sola per lo bosco gia, e disse: — sacci, quando l’augel pia, allor disia ’l mio cor drudo avere.
+# text = Ed ella mi rispose dolcemente che sola sola per lo bosco gia, e disse: — sacci, quando l'augel pia, allor disia 'l mio cor drudo avere.
 # sent_id = 3
 1	Ed	e	CCONJ	cscc	_	4	cc	_	start_char=346|end_char=348
 2	ella	ella	PRON	pp3fslso	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=349|end_char=353
@@ -89,7 +86,7 @@
 6	che	che	SCONJ	css	_	12	mark	_	start_char=376|end_char=379
 7	sola	solo	ADJ	a1fs	Gender=Fem|Number=Sing	8	conj	_	start_char=380|end_char=384
 8	sola	solo	ADJ	a1fs	Gender=Fem|Number=Sing	12	advcl:pred	_	start_char=385|end_char=389
-9	per	per	ADP	epskp	_	11	case	_	start_char=390|end_char=393
+9	per	per	ADP	epskr	_	11	case	_	start_char=390|end_char=393
 10	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=394|end_char=396
 11	bosco	bosco	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obl:lmod	_	start_char=397|end_char=402
 12	gia	gire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=403|end_char=406|SpaceAfter=No
@@ -98,89 +95,86 @@
 15	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=410|end_char=415|SpaceAfter=No
 16	:	:	PUNCT	_	_	18	punct	_	start_char=415|end_char=416
 17	—	—	PUNCT	_	_	18	punct	_	start_char=417|end_char=418
-18	sacci	sapere	VERB	vi1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	parataxis	_	start_char=419|end_char=424|SpaceAfter=No
+18	sacci	sapere	VERB	vi1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	ccomp:reported	_	start_char=419|end_char=424|SpaceAfter=No
 19	,	,	PUNCT	_	_	26	punct	_	start_char=424|end_char=425
 20	quando	quando	SCONJ	csst	_	26	mark	_	start_char=426|end_char=432
-21	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=433|end_char=435|SpaceAfter=No
+21	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=433|end_char=435|SpaceAfter=No
 22	augel	augello	NOUN	sm2ms	Gender=Masc|Number=Sing	26	nsubj	_	start_char=435|end_char=440
 23	pia	pio	ADJ	a1fs	Gender=Fem|Number=Sing	22	amod	_	start_char=441|end_char=444|SpaceAfter=No
 24	,	,	PUNCT	_	_	22	punct	_	start_char=444|end_char=445|SpacesAfter=\n
 25	allor	allora	ADV	b	_	26	advmod:tmod	_	start_char=446|end_char=451
 26	disia	desiderare	VERB	vta1dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	parataxis	_	start_char=452|end_char=457
-27	’	’	PUNCT	_	_	32	punct	_	start_char=458|end_char=459|SpaceAfter=No
-28	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	start_char=459|end_char=460
-29	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	30	det:poss	_	start_char=461|end_char=464
-30	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	32	nsubj	_	start_char=465|end_char=468
-31	drudo	drudo	ADJ	a1ms	Gender=Masc|Number=Sing	30	amod	_	start_char=469|end_char=474
-32	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	_	start_char=475|end_char=480|SpaceAfter=No
-33	.	.	PUNCT	_	_	18	punct	_	start_char=480|end_char=481
+27	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	start_char=458|end_char=460
+28	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	det:poss	_	start_char=461|end_char=464
+29	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obj	_	start_char=465|end_char=468
+30	drudo	drudo	ADJ	a1ms	Gender=Masc|Number=Sing	29	amod	_	start_char=469|end_char=474
+31	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	26	advcl	_	start_char=475|end_char=480|SpaceAfter=No
+32	.	.	PUNCT	_	_	18	punct	_	start_char=480|end_char=481
 
 # text = —
 # sent_id = 4
 1	—	—	PUNCT	_	_	0	root	_	start_char=482|end_char=483|SpacesAfter=\n\n
 
-# text = Po’ che mi disse di sua condizione e per lo bosco augelli audio cantare, fra me stesso dicea: — or è stagione
+# text = Po' che mi disse di sua condizione e per lo bosco augelli audio cantare, fra me stesso dicea: — or è stagione
 # sent_id = 5
-1	Po	Po	INTJ	i	_	20	discourse	_	start_char=485|end_char=487|SpaceAfter=No
-2	’	’	PUNCT	_	_	1	punct	_	start_char=487|end_char=488
-3	che	che	PRON	pr	PronType=Rel	5	nsubj	_	start_char=489|end_char=492
-4	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	iobj	_	start_char=493|end_char=495
-5	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=496|end_char=501
-6	di	di	ADP	epskg	_	8	case	_	start_char=502|end_char=504
-7	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	start_char=505|end_char=508
-8	condizione	condizione	NOUN	sf3fs	Gender=Fem|Number=Sing	5	obl	_	start_char=509|end_char=519|SpacesAfter=\n
-9	e	e	CCONJ	cscc	_	12	cc	_	start_char=520|end_char=521
-10	per	per	ADP	epskpl	_	12	case	_	start_char=522|end_char=525
-11	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=526|end_char=528
-12	bosco	bosco	NOUN	sm2ms	Gender=Masc|Number=Sing	8	conj	_	start_char=529|end_char=534
-13	augelli	augello	ADJ	a1mp	Gender=Masc|Number=Plur	14	amod	_	start_char=535|end_char=542
-14	audio	audio	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obj	_	start_char=543|end_char=548
-15	cantare	cantare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	20	advcl	_	start_char=549|end_char=556|SpaceAfter=No
-16	,	,	PUNCT	_	_	1	punct	_	start_char=556|end_char=557|SpacesAfter=\n
-17	fra	fra	ADP	epsksl	_	18	case	_	start_char=558|end_char=561
-18	me	me	PRON	pf1slpr	Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	20	obl	_	start_char=562|end_char=564
-19	stesso	stesso	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	start_char=565|end_char=571
-20	dicea	dire	VERB	vta3iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=572|end_char=577|SpaceAfter=No
-21	:	:	PUNCT	_	_	25	punct	_	start_char=577|end_char=578
-22	—	—	PUNCT	_	_	25	punct	_	start_char=579|end_char=580
-23	or	ora	ADV	b	_	25	advmod:tmod	_	start_char=581|end_char=583
-24	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	start_char=584|end_char=585
-25	stagione	stagione	NOUN	sf3fs	Gender=Fem|Number=Sing	20	ccomp:reported	_	start_char=586|end_char=594|SpacesAfter=\n\n\n
+1	Po'	pov	ADV	_	_	4	advmod	_	start_char=485|end_char=488
+2	che	che	SCONJ	_	_	4	mark	_	start_char=489|end_char=492
+3	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	4	iobj	_	start_char=493|end_char=495
+4	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	start_char=496|end_char=501
+5	di	di	ADP	epskg	_	7	case	_	start_char=502|end_char=504
+6	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	start_char=505|end_char=508
+7	condizione	condizione	NOUN	sf3fs	Gender=Fem|Number=Sing	4	obl	_	start_char=509|end_char=519|SpacesAfter=\n
+8	e	e	CCONJ	cscc	_	11	cc	_	start_char=520|end_char=521
+9	per	per	ADP	epskpl	_	11	case	_	start_char=522|end_char=525
+10	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=526|end_char=528
+11	bosco	bosco	NOUN	sm2ms	Gender=Masc|Number=Sing	7	conj	_	start_char=529|end_char=534
+12	augelli	augello	ADJ	a1mp	Gender=Masc|Number=Plur	13	amod	_	start_char=535|end_char=542
+13	audio	audio	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obj	_	start_char=543|end_char=548
+14	cantare	cantare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	19	advcl	_	start_char=549|end_char=556|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	start_char=556|end_char=557|SpacesAfter=\n
+16	fra	fra	ADP	epsksl	_	17	case	_	start_char=558|end_char=561
+17	me	me	PRON	pf1slpr	Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	19	obl	_	start_char=562|end_char=564
+18	stesso	stesso	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	start_char=565|end_char=571
+19	dicea	dire	VERB	vta3iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=572|end_char=577|SpaceAfter=No
+20	:	:	PUNCT	_	_	24	punct	_	start_char=577|end_char=578
+21	—	—	PUNCT	_	_	24	punct	_	start_char=579|end_char=580
+22	or	ora	ADV	b	_	24	advmod:tmod	_	start_char=581|end_char=583
+23	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=584|end_char=585
+24	stagione	stagione	NOUN	sf3fs	Gender=Fem|Number=Sing	19	ccomp:reported	_	start_char=586|end_char=594|SpacesAfter=\n\n\n
 
-# text = di questa pasturella gio’ pigliare. — Merzè le chiesi sol che di baciare e d’abracciare, se fosse ’n volere.
+# text = di questa pasturella gio' pigliare. — Merzè le chiesi sol che di baciare e d'abracciare, se fosse 'n volere.
 # sent_id = 6
 1	di	di	ADP	epskg	_	3	case	_	start_char=597|end_char=599
 2	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	start_char=600|end_char=606
 3	pasturella	pasturella	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obl:lmod	_	start_char=607|end_char=617
-4	gio	gire	VERB	vi3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=618|end_char=621|SpaceAfter=No
-5	’	’	PUNCT	_	_	6	punct	_	start_char=621|end_char=622
-6	pigliare	pigliare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=623|end_char=631|SpaceAfter=No
-7	.	.	PUNCT	_	_	11	punct	_	start_char=631|end_char=632
-8	—	—	PUNCT	_	_	6	punct	_	start_char=633|end_char=634|SpacesAfter=\n
-9	Merzè	Merzè	PROPN	np	_	11	nsubj	_	start_char=635|end_char=640
-10	le	le	PRON	pp3fsyda	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=641|end_char=643
-11	chiesi	chiedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=644|end_char=650
-12	sol	solo	ADV	b	_	11	advmod	_	start_char=651|end_char=654
-13	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=655|end_char=658
-14	di	di	ADP	epsd	_	15	mark	_	start_char=659|end_char=661
-15	baciare	baciare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	start_char=662|end_char=669|SpacesAfter=\n
-16	e	e	CCONJ	cscc	_	18	cc	_	start_char=670|end_char=671
-17	d’	di	ADP	epsb	_	18	mark	_	start_char=672|end_char=674|SpaceAfter=No
-18	abracciare	abracciare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	15	conj	_	start_char=674|end_char=684|SpaceAfter=No
-19	,	,	PUNCT	_	_	23	punct	_	start_char=684|end_char=685
-20	se	se	SCONJ	cssv	_	23	mark	_	start_char=686|end_char=688
-21	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	start_char=689|end_char=694
-22	’n	in	ADP	epsk	_	23	case	_	start_char=695|end_char=697
-23	volere	volere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	start_char=698|end_char=704|SpaceAfter=No
-24	.	.	PUNCT	_	_	4	punct	_	start_char=704|end_char=705|SpacesAfter=\n\n
+4	gio'	giocare	VERB	vi2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=618|end_char=622
+5	pigliare	pigliare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=623|end_char=631|SpaceAfter=No
+6	.	.	PUNCT	_	_	10	punct	_	start_char=631|end_char=632
+7	—	—	PUNCT	_	_	10	punct	_	start_char=633|end_char=634|SpacesAfter=\n
+8	Merzè	Merzè	PROPN	np	_	10	nsubj	_	start_char=635|end_char=640
+9	le	le	PRON	pp3fsyda	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	iobj	_	start_char=641|end_char=643
+10	chiesi	chiedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=644|end_char=650
+11	sol	solo	ADV	b	_	10	advmod	_	start_char=651|end_char=654
+12	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=655|end_char=658
+13	di	di	ADP	epsd	_	14	mark	_	start_char=659|end_char=661
+14	baciare	baciare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=662|end_char=669|SpacesAfter=\n
+15	e	e	CCONJ	cscc	_	17	cc	_	start_char=670|end_char=671
+16	d'	di	ADP	epsb	_	17	mark	_	start_char=672|end_char=674|SpaceAfter=No
+17	abracciare	abracciare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	start_char=674|end_char=684|SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	start_char=684|end_char=685
+19	se	se	SCONJ	cssv	_	22	mark	_	start_char=686|end_char=688
+20	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux:pass	_	start_char=689|end_char=694
+21	'n	in	ADP	epsk	_	22	case	_	start_char=695|end_char=697
+22	volere	volere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=698|end_char=704|SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	start_char=704|end_char=705|SpacesAfter=\n\n
 
-# text = Per man mi prese d’amorosa voglia e disse che donato m'avea ’l core.
+# text = Per man mi prese d'amorosa voglia e disse che donato m'avea 'l core.
 # sent_id = 7
 1	Per	per	ADP	epskpl	_	2	case	_	start_char=707|end_char=710
 2	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	4	obl:lmod	_	start_char=711|end_char=714
-3	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	4	obj	_	start_char=715|end_char=717
+3	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=715|end_char=717
 4	prese	prendere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=718|end_char=723
-5	d’	di	ADP	epsk	_	7	case	_	start_char=724|end_char=726|SpaceAfter=No
+5	d'	di	ADP	epsk	_	7	case	_	start_char=724|end_char=726|SpaceAfter=No
 6	amorosa	amoroso	ADJ	a1fs	Gender=Fem|Number=Sing	7	amod	_	start_char=726|end_char=733
 7	voglia	voglia	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obl	_	start_char=734|end_char=740|SpacesAfter=\n
 8	e	e	CCONJ	cscc	_	9	cc	_	start_char=741|end_char=742
@@ -189,14 +183,14 @@
 11	donato	donare	VERB	vta1irs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	9	ccomp	_	start_char=753|end_char=759
 12	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	iobj	_	start_char=760|end_char=762|SpaceAfter=No
 13	avea	avere	AUX	vta5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	start_char=762|end_char=766
-14	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=767|end_char=769
+14	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=767|end_char=769
 15	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obj	_	start_char=770|end_char=774|SpaceAfter=No
 16	.	.	PUNCT	_	_	4	punct	_	start_char=774|end_char=775|SpacesAfter=\n
 
-# text = Menommi sott'una freschetta foglia là, dov’io vidi fior d’ogni colore e tanto vi sentio gioia e dolzore, che dio d'amore parvemi vedere.
+# text = Menommi sott'una freschetta foglia là, dov'io vidi fior d'ogni colore e tanto vi sentio gioia e dolzore, che dio d'amore parvemi vedere.
 # sent_id = 8
 1-2	Menommi	_	_	_	_	_	_	_	start_char=776|end_char=783
-1	Menò	menare	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Menò	menare	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	1	iobj	_	_
 3	sott'	sotto	ADP	eisksl	_	5	case	_	start_char=784|end_char=789|SpaceAfter=No
 4	una	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=789|end_char=792
@@ -204,11 +198,11 @@
 6	foglia	foglia	ADJ	a1fs	Gender=Fem|Number=Sing	5	amod	_	start_char=804|end_char=810|SpacesAfter=\n
 7	là	là	ADV	b	_	1	advmod:lmod	_	start_char=811|end_char=813|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	start_char=813|end_char=814
-9	dov’	dove	ADV	b	_	11	advmod:lmod	_	start_char=815|end_char=819|SpaceAfter=No
+9	dov'	dove	ADV	b	_	11	advmod:lmod	_	start_char=815|end_char=819|SpaceAfter=No
 10	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	11	nsubj	_	start_char=819|end_char=821
 11	vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=822|end_char=826
-12	fior	fiore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obj	_	start_char=827|end_char=831
-13	d’	di	ADP	eps	_	15	case	_	start_char=832|end_char=834|SpaceAfter=No
+12	fior	fiore	NOUN	sm3ms	Gender=Masc|Number=Plur	11	obj	_	start_char=827|end_char=831
+13	d'	di	ADP	epsk	_	15	case	_	start_char=832|end_char=834|SpaceAfter=No
 14	ogni	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	start_char=834|end_char=838
 15	colore	colore	NOUN	sm3ms	Gender=Masc|Number=Sing	12	nmod	_	start_char=839|end_char=845|SpacesAfter=\n
 16	e	e	CCONJ	cscc	_	19	cc	_	start_char=846|end_char=847

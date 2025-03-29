@@ -1,5 +1,5 @@
 # newdoc id = 21 - Sonetto.
-# text = Amore e monna Lagia e Guido ed io possiamo ringraziare un ser costui che ’nd’à partitiPoesia numero 22 sapete da cui?
+# text = Amore e monna Lagia e Guido ed io possiamo ringraziare un ser costui che 'nd'à partitiPoesia numero 22 sapete da cui?
 # sent_id = 0
 1	Amore	Amore	PROPN	np	_	10	nsubj	_	start_char=0|end_char=5
 2	e	e	CCONJ	cscc	_	3	cc	_	start_char=6|end_char=7
@@ -15,7 +15,7 @@
 12	ser	ser	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obj	_	start_char=58|end_char=61
 13	costui	costui	PRON	pd3ms	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	start_char=62|end_char=68|SpacesAfter=\n
 14	che	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=69|end_char=72
-15	’nd’à	inda	ADV	b	_	16	advmod	_	start_char=73|end_char=78
+15	'nd'à	inda	ADV	b	_	16	advmod	_	start_char=73|end_char=78
 16	partiti	partire	VERB	vi2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	13	acl:relcl	_	start_char=79|end_char=86|SpaceAfter=No
 17	Poesia	Poesia	PROPN	np	_	16	nsubj	_	start_char=86|end_char=92
 18	numero	numero	NOUN	sm2ms	Gender=Masc|Number=Sing	20	nsubj	_	start_char=93|end_char=99
@@ -25,53 +25,53 @@
 22	cui	cui	PRON	pr	PronType=Rel	20	obl	_	start_char=113|end_char=116|SpaceAfter=No
 23	?	?	PUNCT	_	_	10	punct	_	start_char=116|end_char=117|SpacesAfter=\n
 
-# text = No ’l vo’ contar per averlo in oblio.
+# text = No 'l vo' contar per averlo in oblio.
 # sent_id = 1
 1	No	non	ADV	b	_	3	advmod	_	start_char=118|end_char=120
-2	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=121|end_char=123
-3	vo	andare	VERB	vi1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=124|end_char=126|SpaceAfter=No
-4	’	’	PUNCT	_	_	5	punct	_	start_char=126|end_char=127
-5	contar	contare	VERB	vtafpp	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=128|end_char=134
-6	per	per	ADP	epsf	_	7	mark	_	start_char=135|end_char=138
-7-8	averlo	_	_	_	_	_	_	_	start_char=139|end_char=145
-7	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	_
-8	lo	lo	PRON	pp3msxac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-9	in	in	ADP	epskml	_	10	case	_	start_char=146|end_char=148
-10	oblio	oblio	NOUN	sm2ms	Gender=Masc|Number=Sing	7	obl:lmod	_	start_char=149|end_char=154|SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	start_char=154|end_char=155|SpacesAfter=\n\n
+2	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=121|end_char=123
+3	vo'	volere	VERB	vta2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=124|end_char=127
+4	contar	contare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=128|end_char=134
+5	per	per	ADP	epsf	_	6	mark	_	start_char=135|end_char=138
+6-7	averlo	_	_	_	_	_	_	_	start_char=139|end_char=145
+6	avere	avere	VERB	vta5fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	_
+7	lo	lo	PRON	pp3msxac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	in	in	ADP	epskml	_	9	case	_	start_char=146|end_char=148
+9	oblio	oblio	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	start_char=149|end_char=154|SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	start_char=154|end_char=155|SpacesAfter=\n\n
 
-# text = Poi questi tre più no v’ànno disio, ch’eran serventi di tal guisa in lui, che veramente più di lor non fui imaginando ch’elli fosse Iddio.
+# text = Poi questi tre più no v'ànno disio, ch'eran serventi di tal guisa in lui, che veramente più di lor non fui imaginando ch'elli fosse Iddio.
 # sent_id = 2
-1	Poi	poi	ADV	b	_	6	advmod:tmod	_	start_char=157|end_char=160
+1	Poi	poi	ADV	b	_	7	advmod:tmod	_	start_char=157|end_char=160
 2	questi	questo	DET	ad1mp	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	start_char=161|end_char=167
-3	tre	tre	NUM	an	NumType=Card	6	obl	_	start_char=168|end_char=171
-4	più	più	ADV	b	_	6	advmod	_	start_char=172|end_char=175
-5	no	non	ADV	b	_	6	advmod:lmod	_	start_char=176|end_char=178
-6	v’ànno	iare	VERB	vta2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=179|end_char=185
-7	disio	desiderio	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obj	_	start_char=186|end_char=191|SpaceAfter=No
-8	,	,	PUNCT	_	_	11	punct	_	start_char=191|end_char=192|SpacesAfter=\n
-9	ch’	che	PRON	pr	PronType=Rel	11	nsubj	_	start_char=193|end_char=196|SpaceAfter=No
-10	eran	essere	AUX	vi4iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=196|end_char=200
-11	serventi	servente	ADJ	a1mp	Gender=Masc|Number=Plur	7	acl:relcl	_	start_char=201|end_char=209
-12	di	di	ADP	epskg	_	14	case	_	start_char=210|end_char=212
-13	tal	tale	DET	a2fs	Number=Sing	14	det	_	start_char=213|end_char=216
-14	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	11	obl	_	start_char=217|end_char=222
-15	in	in	ADP	epsksl	_	16	case	_	start_char=223|end_char=225
-16	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=226|end_char=229|SpaceAfter=No
-17	,	,	PUNCT	_	_	25	punct	_	start_char=229|end_char=230|SpacesAfter=\n
-18	che	che	SCONJ	cssu	_	25	mark	_	start_char=231|end_char=234
-19	veramente	veramente	ADV	b	_	25	advmod	_	start_char=235|end_char=244
-20	più	più	ADV	b	_	25	advmod	_	start_char=245|end_char=248
-21	di	di	ADP	epsky	_	22	case	_	start_char=249|end_char=251
-22	lor	loro	PRON	pp3plco	Number=Plur|Person=3|PronType=Prs	25	obl	_	start_char=252|end_char=255
-23	non	non	ADV	b	PronType=Neg	25	advmod:neg	_	start_char=256|end_char=259
-24	fui	essere	AUX	vi4irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	25	aux	_	start_char=260|end_char=263|SpacesAfter=\n
-25	imaginando	immaginare	VERB	vta1gp	VerbForm=Conv|Voice=Act	6	advcl	_	start_char=264|end_char=274
-26	ch’	che	SCONJ	csso	_	29	mark	_	start_char=275|end_char=278|SpaceAfter=No
-27	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=278|end_char=282
-28	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	29	cop	_	start_char=283|end_char=288
-29	Iddio	Dio	PROPN	np	_	25	obj	_	start_char=289|end_char=294|SpaceAfter=No
-30	.	.	PUNCT	_	_	6	punct	_	start_char=294|end_char=295|SpacesAfter=\n\n
+3	tre	tre	NUM	an	NumType=Card	7	obl	_	start_char=168|end_char=171
+4	più	più	ADV	b	_	7	advmod	_	start_char=172|end_char=175
+5	no	non	ADV	b	_	7	advmod:lmod	_	start_char=176|end_char=178
+6	v'	ivi	ADV	b	_	7	advmod:lmod	_	start_char=179|end_char=181|SpaceAfter=No
+7	ànno	are	VERB	vta2irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=181|end_char=185
+8	disio	desiderio	NOUN	sm2ms	Gender=Masc|Number=Sing	7	obj	_	start_char=186|end_char=191|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	start_char=191|end_char=192|SpacesAfter=\n
+10	ch'	che	PRON	pr	PronType=Rel	12	nsubj	_	start_char=193|end_char=196|SpaceAfter=No
+11	eran	essere	AUX	vi4iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=196|end_char=200
+12	serventi	servente	ADJ	a2mp	Gender=Masc|Number=Plur	8	acl:relcl	_	start_char=201|end_char=209
+13	di	di	ADP	epskg	_	15	case	_	start_char=210|end_char=212
+14	tal	tale	DET	a2fs	Number=Sing	15	det	_	start_char=213|end_char=216
+15	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	12	obl	_	start_char=217|end_char=222
+16	in	in	ADP	epsksl	_	17	case	_	start_char=223|end_char=225
+17	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=226|end_char=229|SpaceAfter=No
+18	,	,	PUNCT	_	_	26	punct	_	start_char=229|end_char=230|SpacesAfter=\n
+19	che	che	SCONJ	cssu	_	26	mark	_	start_char=231|end_char=234
+20	veramente	veramente	ADV	b	_	26	advmod	_	start_char=235|end_char=244
+21	più	più	ADV	b	_	26	advmod	_	start_char=245|end_char=248
+22	di	di	ADP	epsky	_	23	case	_	start_char=249|end_char=251
+23	lor	loro	PRON	pp3plco	Number=Plur|Person=3|PronType=Prs	26	obl	_	start_char=252|end_char=255
+24	non	non	ADV	b	PronType=Neg	26	advmod:neg	_	start_char=256|end_char=259
+25	fui	essere	AUX	vi4irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	26	aux	_	start_char=260|end_char=263|SpacesAfter=\n
+26	imaginando	immaginare	VERB	vta1gp	VerbForm=Conv|Voice=Act	7	advcl	_	start_char=264|end_char=274
+27	ch'	che	SCONJ	csse	_	30	mark	_	start_char=275|end_char=278|SpaceAfter=No
+28	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=278|end_char=282
+29	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	cop	_	start_char=283|end_char=288
+30	Iddio	Dio	PROPN	np	_	26	obj	_	start_char=289|end_char=294|SpaceAfter=No
+31	.	.	PUNCT	_	_	7	punct	_	start_char=294|end_char=295|SpacesAfter=\n\n
 
 # text = Sia ringraziato amor, che se n'accorse primeramente, poi la donna saggia che in quel punto li ritolse il core:
 # sent_id = 3
@@ -99,13 +99,13 @@
 22	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obj	_	start_char=402|end_char=406|SpaceAfter=No
 23	:	:	PUNCT	_	_	2	punct	_	start_char=406|end_char=407|SpacesAfter=\n\n
 
-# text = e Guido ancor che n’è del tutto fore, ed io ancor, che ’n sua virtute caggia: se poi mi piacque no ’l si crede forse.
+# text = e Guido ancor che n'è del tutto fore, ed io ancor, che 'n sua virtute caggia: se poi mi piacque no 'l si crede forse.
 # sent_id = 4
 1	e	e	CCONJ	cscc	_	2	cc	_	start_char=409|end_char=410
 2	Guido	Guido	PROPN	np	_	0	root	_	start_char=411|end_char=416
 3	ancor	ancora	ADV	_	_	2	advmod:tmod	_	start_char=417|end_char=422
 4	che	che	PRON	pr	PronType=Rel	10	nsubj	_	start_char=423|end_char=426
-5	n’	ne	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	iobj	_	start_char=427|end_char=429|SpaceAfter=No
+5	n'	ne	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	iobj	_	start_char=427|end_char=429|SpaceAfter=No
 6	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=429|end_char=430
 7-8	del	_	_	_	_	_	_	_	start_char=431|end_char=434
 7	di	di	ADP	_	_	9	case	_	_
@@ -115,23 +115,22 @@
 11	,	,	PUNCT	_	_	13	punct	_	start_char=445|end_char=446|SpacesAfter=\n
 12	ed	e	CCONJ	cscc	_	13	cc	_	start_char=447|end_char=449
 13	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	10	nsubj	_	start_char=450|end_char=452
-14	ancor	ancora	ADV	b	_	20	advmod:tmod	_	start_char=453|end_char=458|SpaceAfter=No
+14	ancor	ancora	ADV	b	_	13	orphan	_	start_char=453|end_char=458|SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	start_char=458|end_char=459
 16	che	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=460|end_char=463
-17	’n	in	ADP	epsksl	_	19	case	_	start_char=464|end_char=466
+17	'n	in	ADP	epsksl	_	19	case	_	start_char=464|end_char=466
 18	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	start_char=467|end_char=470
 19	virtute	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	20	obl:lmod	_	start_char=471|end_char=478
 20	caggia	cadere	VERB	vi2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=479|end_char=485|SpaceAfter=No
-21	:	:	PUNCT	_	_	30	punct	_	start_char=485|end_char=486|SpacesAfter=\n
+21	:	:	PUNCT	_	_	25	punct	_	start_char=485|end_char=486|SpacesAfter=\n
 22	se	se	SCONJ	cssv	_	25	mark	_	start_char=487|end_char=489
 23	poi	poi	ADV	b	_	25	advmod:tmod	_	start_char=490|end_char=493
 24	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	25	iobj	_	start_char=494|end_char=496
-25	piacque	piacere	VERB	vi*2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	advcl	_	start_char=497|end_char=504
-26	no	non	ADV	b	_	25	advmod:lmod	_	start_char=505|end_char=507
-27	’	’	PUNCT	_	_	30	punct	_	start_char=508|end_char=509|SpaceAfter=No
-28	l	lo	PRON	pp	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj	_	start_char=509|end_char=510
-29	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	30	expl:impers	_	start_char=511|end_char=513
-30	crede	credere	VERB	vta*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	start_char=514|end_char=519
-31	forse	forse	ADV	b	_	30	advmod	_	start_char=520|end_char=525|SpaceAfter=No
-32	.	.	PUNCT	_	_	30	punct	_	start_char=525|end_char=526|SpaceAfter=No
+25	piacque	piacere	VERB	vi*2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	start_char=497|end_char=504
+26	no	non	ADV	b	_	29	advmod:lmod	_	start_char=505|end_char=507
+27	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	start_char=508|end_char=510
+28	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	29	expl:impers	_	start_char=511|end_char=513
+29	crede	credere	VERB	vta*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	start_char=514|end_char=519
+30	forse	forse	ADV	b	_	29	advmod	_	start_char=520|end_char=525|SpaceAfter=No
+31	.	.	PUNCT	_	_	29	punct	_	start_char=525|end_char=526|SpaceAfter=No
 

@@ -1,5 +1,5 @@
 # newdoc id = 56 - per Mandetta.
-# text = Donna mia, non vedestu colui che ’n su lo core mi tenea la mano, quando ti rispondea fiochetto e piano per la temenza de li colpi sui?
+# text = Donna mia, non vedestu colui che 'n su lo core mi tenea la mano, quando ti rispondea fiochetto e piano per la temenza de li colpi sui?
 # sent_id = 0
 1	Donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	5	nsubj	_	start_char=0|end_char=5
 2	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	det:poss	_	start_char=6|end_char=9|SpaceAfter=No
@@ -8,7 +8,7 @@
 5	vedestu	vedere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=15|end_char=22
 6	colui	colui	PRON	pdms	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	start_char=23|end_char=28|SpacesAfter=\n
 7	che	che	PRON	pr	PronType=Rel	13	nsubj	_	start_char=29|end_char=32
-8	’n	in	ADP	_	_	11	case	_	start_char=33|end_char=35
+8	'n	in	ADP	_	_	11	case	_	start_char=33|end_char=35
 9	su	su	ADV	_	_	11	case	_	start_char=36|end_char=38
 10	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=39|end_char=41
 11	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	13	obl:lmod	_	start_char=42|end_char=46
@@ -18,7 +18,7 @@
 15	mano	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	13	obj	_	start_char=59|end_char=63|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	start_char=63|end_char=64|SpacesAfter=\n
 17	quando	quando	SCONJ	csst	_	19	mark	_	start_char=65|end_char=71
-18	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	19	iobj	_	start_char=72|end_char=74
+18	ti	ti	PRON	pp2syaa	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	19	obj	_	start_char=72|end_char=74
 19	rispondea	rispondere	VERB	vta2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=75|end_char=84
 20	fiochetto	fiochetto	NOUN	sm2ms	Gender=Masc|Number=Sing	19	obj	_	start_char=85|end_char=94
 21	e	e	CCONJ	cscc	_	22	cc	_	start_char=95|end_char=96
@@ -32,7 +32,7 @@
 29	sui	suo	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	28	det:poss	_	start_char=130|end_char=133|SpaceAfter=No
 30	?	?	PUNCT	_	_	5	punct	_	start_char=133|end_char=134|SpacesAfter=\n\n
 
-# text = Elli fu amore, che, trovando nui, meco restette che venia lontano, a guisa d’un arcier presto soriano, acconcio sol per uccider altrui.
+# text = Elli fu amore, che, trovando nui, meco restette che venia lontano, a guisa d'un arcier presto soriano, acconcio sol per uccider altrui.
 # sent_id = 1
 1	Elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=136|end_char=140
 2	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=141|end_char=143
@@ -41,19 +41,19 @@
 5	che	che	PRON	pr	PronType=Rel	3	nsubj	_	start_char=151|end_char=154|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	start_char=154|end_char=155
 7	trovando	trovare	VERB	vta1gp	VerbForm=Conv|Voice=Act	3	advcl	_	start_char=156|end_char=164
-8	nui	nue	NUM	an	NumType=Card	7	obj	_	start_char=165|end_char=168|SpaceAfter=No
+8	nui	nue	ADV	b	_	7	advmod	_	start_char=165|end_char=168|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	start_char=168|end_char=169|SpacesAfter=\n
 10-11	meco	_	_	_	_	_	_	_	start_char=170|end_char=174
 10	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	7	obl	_	_
 11	con	con	ADP	_	Clitic=Yes	12	case	_	_
-12	restette	restetta	NOUN	sf1fs	Gender=Fem|Number=Sing	7	obl	_	start_char=175|end_char=183
+12	restette	restetta	NOUN	sf1fs	Gender=Fem|Number=Plur	7	obl	_	start_char=175|end_char=183
 13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=184|end_char=187
 14	venia	venire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	start_char=188|end_char=193
 15	lontano	lontano	ADV	b	_	14	advmod:lmod	_	start_char=194|end_char=201|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	start_char=201|end_char=202|SpacesAfter=\n
 17	a	a	ADP	_	_	18	case	_	start_char=203|end_char=204
-18	guisa	guisa	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	start_char=205|end_char=210
-19	d’	di	ADP	_	_	21	case	_	start_char=211|end_char=213|SpaceAfter=No
+18	guisa	guisa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	start_char=205|end_char=210
+19	d'	di	ADP	_	_	21	case	_	start_char=211|end_char=213|SpaceAfter=No
 20	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	start_char=213|end_char=215
 21	arcier	arciero	NOUN	sm3ms	Gender=Masc|Number=Sing	18	nmod	_	start_char=216|end_char=222
 22	presto	presto	ADJ	a1ms	Gender=Masc|Number=Sing	21	amod	_	start_char=223|end_char=229
@@ -66,7 +66,7 @@
 29	altrui	altrui	PRON	pi	PronType=Ind	28	obj	_	start_char=264|end_char=270|SpaceAfter=No
 30	.	.	PUNCT	_	_	3	punct	_	start_char=270|end_char=271|SpacesAfter=\n\n
 
-# text = E trasse poi de gli occhi toi sospiri, i quai mi saettò nel cor sì forte ch’i’ mi partii sbigottito, fuggendo.
+# text = E trasse poi de gli occhi toi sospiri, i quai mi saettò nel cor sì forte ch'i' mi partii sbigottito, fuggendo.
 # sent_id = 2
 1	E	e	CCONJ	cscc	_	2	cc	_	start_char=273|end_char=274
 2	trasse	trarre	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=275|end_char=281
@@ -79,7 +79,7 @@
 9	,	,	PUNCT	_	_	13	punct	_	start_char=310|end_char=311|SpacesAfter=\n
 10	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	start_char=312|end_char=313
 11	quai	quale	PRON	pr2mp	Number=Plur|PronType=Rel	13	nsubj	_	start_char=314|end_char=318
-12	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	13	obj	_	start_char=319|end_char=321
+12	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	obj	_	start_char=319|end_char=321
 13	saettò	saettare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=322|end_char=328
 14-15	nel	_	_	_	_	_	_	_	start_char=329|end_char=332
 14	in	in	ADP	_	_	16	case	_	_
@@ -87,20 +87,19 @@
 16	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	13	obl:lmod	_	start_char=333|end_char=336
 17	sì	così	ADV	b	_	18	advmod	_	start_char=337|end_char=339
 18	forte	forte	ADV	b	_	13	advmod	_	start_char=340|end_char=345|SpacesAfter=\n
-19	ch’	che	SCONJ	cssu	_	23	mark	_	start_char=346|end_char=349|SpaceAfter=No
-20	i	li	PRON	pp3sss	Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=349|end_char=350|SpaceAfter=No
-21	’	’	PRON	pp3sydd	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	23	iobj	_	start_char=350|end_char=351
-22	mi	mi	PRON	pf1syle	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	23	expl:pv	_	start_char=352|end_char=354
-23	partii	partire	VERB	vi+3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	advcl	_	start_char=355|end_char=361
-24	sbigottito	sbigottire	VERB	vta1pra1	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	23	xcomp	_	start_char=362|end_char=372|SpaceAfter=No
-25	,	,	PUNCT	_	_	26	punct	_	start_char=372|end_char=373
-26	fuggendo	fuggire	VERB	vtaggp	VerbForm=Conv|Voice=Act	23	advcl	_	start_char=374|end_char=382|SpaceAfter=No
-27	.	.	PUNCT	_	_	2	punct	_	start_char=382|end_char=383|SpacesAfter=\n\n
+19	ch'	che	SCONJ	cssu	_	22	mark	_	start_char=346|end_char=349|SpaceAfter=No
+20	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=349|end_char=351
+21	mi	mi	PRON	pf1syle	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	22	expl:pv	_	start_char=352|end_char=354
+22	partii	partire	VERB	vi+3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	advcl	_	start_char=355|end_char=361
+23	sbigottito	sbigottire	VERB	vta1pr1	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	22	xcomp	_	start_char=362|end_char=372|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	start_char=372|end_char=373
+25	fuggendo	fuggire	VERB	vtaggp	VerbForm=Conv|Voice=Act	22	advcl	_	start_char=374|end_char=382|SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	start_char=382|end_char=383|SpacesAfter=\n\n
 
-# text = Allor m’apparve di sicur la morte accompagnata di quelli martiri, che soglion consumare altrui piangendo.
+# text = Allor m'apparve di sicur la morte accompagnata di quelli martiri, che soglion consumare altrui piangendo.
 # sent_id = 3
 1	Allor	allora	ADV	b	_	3	advmod:tmod	_	start_char=385|end_char=390
-2	m’	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	start_char=391|end_char=393|SpaceAfter=No
+2	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	start_char=391|end_char=393|SpaceAfter=No
 3	apparve	apparire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=393|end_char=400
 4	di	di	ADP	epskg	_	5	case	_	start_char=401|end_char=403
 5	sicur	sicuro	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl	_	start_char=404|end_char=409
@@ -114,7 +113,7 @@
 13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=451|end_char=454
 14	soglion	solere	VERB	vi2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=455|end_char=462
 15	consumare	consumare	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=463|end_char=472
-16	altrui	altrui	DET	ai	PronType=Ind	17	obj	_	start_char=473|end_char=479
+16	altrui	altrui	DET	ai	PronType=Ind	17	det	_	start_char=473|end_char=479
 17	piangendo	piangere	VERB	vi2gp	VerbForm=Conv|Voice=Act	15	advcl	_	start_char=480|end_char=489|SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	start_char=489|end_char=490|SpaceAfter=No
 

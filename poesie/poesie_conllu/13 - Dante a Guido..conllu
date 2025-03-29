@@ -1,5 +1,5 @@
 # newdoc id = 13 - Dante a Guido.
-# text = Guido, vorrei che tu e Lapo ed io fossimo presi per incantamento e messi in un vascel ch’ad ogni vento per mare andasse a voler vostro e mio,
+# text = Guido, vorrei che tu e Lapo ed io fossimo presi per incantamento e messi in un vascel ch'ad ogni vento per mare andasse a voler vostro e mio,
 # sent_id = 0
 1	Guido	Guido	PROPN	np	_	3	nsubj	_	start_char=0|end_char=5|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	start_char=5|end_char=6
@@ -15,11 +15,11 @@
 12	per	per	ADP	epskr	_	13	case	_	start_char=48|end_char=51
 13	incantamento	incantamento	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obl	_	start_char=52|end_char=64|SpacesAfter=\n
 14	e	e	CCONJ	cscc	_	15	cc	_	start_char=65|end_char=66
-15	messi	mettere	VERB	vtp2crs1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	start_char=67|end_char=72
+15	messi	mettere	VERB	vtp2cts1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	start_char=67|end_char=72
 16	in	in	ADP	epsksl	_	18	case	_	start_char=73|end_char=75
 17	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	start_char=76|end_char=78
 18	vascel	vascello	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obl:lmod	_	start_char=79|end_char=85
-19	ch’	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=86|end_char=89|SpaceAfter=No
+19	ch'	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=86|end_char=89|SpaceAfter=No
 20	ad	a	ADP	epskml	_	22	case	_	start_char=89|end_char=91
 21	ogni	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Tot	22	det	_	start_char=92|end_char=96
 22	vento	vento	NOUN	sm2ms	Gender=Masc|Number=Sing	25	obl:lmod	_	start_char=97|end_char=102|SpacesAfter=\n
@@ -64,7 +64,7 @@
 27	disio	desiderio	NOUN	sm2ms	Gender=Masc|Number=Sing	25	obj	_	start_char=276|end_char=281|SpaceAfter=No
 28	.	.	PUNCT	_	_	25	punct	_	start_char=281|end_char=282|SpacesAfter=\n\n
 
-# text = E monna Vanna e monna Bice poi con quella ch’è sul numero del trenta con noi ponesse il buono incantatore:
+# text = E monna Vanna e monna Bice poi con quella ch'è sul numero del trenta con noi ponesse il buono incantatore:
 # sent_id = 2
 1	E	e	CCONJ	cscc	_	2	cc	_	start_char=284|end_char=285
 2	monna	monna	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=286|end_char=291
@@ -75,32 +75,31 @@
 7	poi	poi	ADV	b	_	9	advmod:tmod	_	start_char=311|end_char=314|SpacesAfter=\n
 8	con	con	ADP	epskc	_	9	case	_	start_char=315|end_char=318
 9	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	2	nmod	_	start_char=319|end_char=325
-10	ch	chi	PRON	pr	PronType=Rel	21	nsubj	_	start_char=326|end_char=328|SpaceAfter=No
-11	’	’	PUNCT	_	_	15	punct	_	start_char=328|end_char=329|SpaceAfter=No
-12	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=329|end_char=330
-13-14	sul	_	_	_	_	_	_	_	start_char=331|end_char=334
-13	su	su	ADP	rdms	_	15	case	_	start_char=331|end_char=333
-14	l	il	DET	rms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=333|end_char=334
-15	numero	numero	NOUN	sm2ms	Gender=Masc|Number=Sing	21	obl:lmod	_	start_char=335|end_char=341
-16-17	del	_	_	_	_	_	_	_	start_char=342|end_char=345
-16	di	di	ADP	_	_	18	case	_	_
-17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	trenta	trenta	NUM	an	NumType=Card	21	obl:arg	_	start_char=346|end_char=352|SpacesAfter=\n
-19	con	con	ADP	epskc	_	20	case	_	start_char=353|end_char=356
-20	noi	noi	PRON	pp1plco	Number=Plur|Person=1|PronType=Prs	21	obl	_	start_char=357|end_char=360
-21	ponesse	porre	VERB	vta2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=361|end_char=368
-22	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	start_char=369|end_char=371
-23	buono	buono	ADJ	a1ms	Gender=Masc|Number=Sing	24	amod	_	start_char=372|end_char=377
-24	incantatore	incantatore	NOUN	sm3ms	Gender=Masc|Number=Sing	21	obj	_	start_char=378|end_char=389|SpaceAfter=No
-25	:	:	PUNCT	_	_	21	punct	_	start_char=389|end_char=390|SpacesAfter=\n\n
+10	ch'	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=326|end_char=329|SpaceAfter=No
+11	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=329|end_char=330
+12-13	sul	_	_	_	_	_	_	_	start_char=331|end_char=334
+12	su	su	ADP	rdms	_	14	case	_	start_char=331|end_char=333
+13	l	il	DET	m	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	start_char=333|end_char=334
+14	numero	numero	NOUN	sm2ms	Gender=Masc|Number=Sing	20	obl:lmod	_	start_char=335|end_char=341
+15-16	del	_	_	_	_	_	_	_	start_char=342|end_char=345
+15	di	di	ADP	_	_	17	case	_	_
+16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	trenta	trenta	NUM	an	NumType=Card	14	nmod	_	start_char=346|end_char=352|SpacesAfter=\n
+18	con	con	ADP	epskc	_	19	case	_	start_char=353|end_char=356
+19	noi	noi	PRON	pp1plco	Number=Plur|Person=1|PronType=Prs	20	obl	_	start_char=357|end_char=360
+20	ponesse	porre	VERB	vta2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=361|end_char=368
+21	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	start_char=369|end_char=371
+22	buono	buono	ADJ	a1ms	Gender=Masc|Number=Sing	23	amod	_	start_char=372|end_char=377
+23	incantatore	incantatore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obj	_	start_char=378|end_char=389|SpaceAfter=No
+24	:	:	PUNCT	_	_	2	punct	_	start_char=389|end_char=390|SpacesAfter=\n\n
 
-# text = e quivi ragionar sempre d’amore, e ciascuna di lor fosse contenta si come io credo che sariamo noi.
+# text = e quivi ragionar sempre d'amore, e ciascuna di lor fosse contenta si come io credo che sariamo noi.
 # sent_id = 3
 1	e	e	CCONJ	cscc	_	3	cc	_	start_char=392|end_char=393
 2	quivi	quivi	ADV	b	_	3	advmod:lmod	_	start_char=394|end_char=399
 3	ragionar	ragionare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	0	root	_	start_char=400|end_char=408
 4	sempre	sempre	ADV	b	_	3	advmod:tmod	_	start_char=409|end_char=415
-5	d’	di	ADP	eps	_	6	case	_	start_char=416|end_char=418|SpaceAfter=No
+5	d'	di	ADP	eps	_	6	case	_	start_char=416|end_char=418|SpaceAfter=No
 6	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obl	_	start_char=418|end_char=423|SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	start_char=423|end_char=424|SpacesAfter=\n
 8	e	e	CCONJ	cscc	_	13	cc	_	start_char=425|end_char=426

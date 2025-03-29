@@ -1,56 +1,55 @@
 # newdoc id = 10 - a Giovanna.
-# text = Li miei foll’occhi, che prima guardaro vostra figura piena di valore, fuor quei che di voi, donna, m’acusaro nel fero loco, ove ten corte amore.
+# text = Li miei foll'occhi, che prima guardaro vostra figura piena di valore, fuor quei che di voi, donna, m'acusaro nel fero loco, ove ten corte amore.
 # sent_id = 0
-1	Li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	start_char=0|end_char=2
-2	miei	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	start_char=3|end_char=7
-3	foll	folle	NOUN	sm2mp	Gender=Masc|Number=Plur	25	nsubj	_	start_char=8|end_char=12|SpaceAfter=No
-4	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	start_char=12|end_char=13|SpaceAfter=No
-5	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	25	nsubj	_	start_char=13|end_char=18|SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	start_char=18|end_char=19
-7	che	che	PRON	pr	PronType=Rel	9	nsubj	_	start_char=20|end_char=23
-8	prima	prima	ADV	b	_	9	advmod:tmod	_	start_char=24|end_char=29
-9	guardaro	guardare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=30|end_char=38|SpacesAfter=\n
-10	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=39|end_char=45
-11	figura	figura	NOUN	sf1fs	Gender=Fem|Number=Sing	9	obj	_	start_char=46|end_char=52
-12	piena	pieno	ADJ	a1fsxc5	Gender=Fem|Number=Sing	11	amod	_	start_char=53|end_char=58
-13	di	di	ADP	epskg	_	14	case	_	start_char=59|end_char=61
-14	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	12	obl	_	start_char=62|end_char=68|SpaceAfter=No
-15	,	,	PUNCT	_	_	17	punct	_	start_char=68|end_char=69|SpacesAfter=\n
-16	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=70|end_char=74
-17	quei	quello	PRON	pd1mp	Gender=Masc|Number=Plur|PronType=Dem	25	ccomp:reported	_	start_char=75|end_char=79
-18	che	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=80|end_char=83
-19	di	di	ADP	epsk8	_	20	case	_	start_char=84|end_char=86
-20	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	22	nmod	_	start_char=87|end_char=90|SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	start_char=90|end_char=91
-22	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	25	vocative	_	start_char=92|end_char=97|SpaceAfter=No
-23	,	,	PUNCT	_	_	22	punct	_	start_char=97|end_char=98
-24	m’	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	25	obj	_	start_char=99|end_char=101|SpaceAfter=No
-25	acusaro	accusare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=101|end_char=108|SpacesAfter=\n
-26-27	nel	_	_	_	_	_	_	_	start_char=109|end_char=112
-26	in	in	ADP	_	_	29	case	_	_
-27	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-28	fero	fiero	ADJ	a1ms	Gender=Masc|Number=Sing	29	amod	_	start_char=113|end_char=117
-29	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	25	obl:lmod	_	start_char=118|end_char=122|SpaceAfter=No
-30	,	,	PUNCT	_	_	34	punct	_	start_char=122|end_char=123
-31	ove	ove	ADV	p	_	34	advmod:lmod	_	start_char=124|end_char=127
-32-33	ten	_	_	_	_	_	_	_	start_char=128|end_char=131
-32	te	te	PRON	pp2syco	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	34	obj	_	_
-33	ne	ne	PRON	pp3ypt	Clitic=Yes|Person=3|PronType=Prs	34	obl:arg	_	_
-34	corte	corte	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	acl:relcl	_	start_char=132|end_char=137
-35	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	34	obj	_	start_char=138|end_char=143|SpaceAfter=No
-36	.	.	PUNCT	_	_	25	punct	_	start_char=143|end_char=144|SpacesAfter=\n\n
+1	Li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=0|end_char=2
+2	miei	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	start_char=3|end_char=7
+3	foll'	follo	NUM	an	NumType=Card	4	nummod	_	start_char=8|end_char=13|SpaceAfter=No
+4	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	24	nsubj	_	start_char=13|end_char=18|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	start_char=18|end_char=19
+6	che	che	PRON	pr	PronType=Rel	8	nsubj	_	start_char=20|end_char=23
+7	prima	prima	ADV	b	_	8	advmod:tmod	_	start_char=24|end_char=29
+8	guardaro	guardare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=30|end_char=38|SpacesAfter=\n
+9	vostra	vostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	start_char=39|end_char=45
+10	figura	figura	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obj	_	start_char=46|end_char=52
+11	piena	pieno	ADJ	a1fsxc5	Gender=Fem|Number=Sing	10	amod	_	start_char=53|end_char=58
+12	di	di	ADP	epskg	_	13	case	_	start_char=59|end_char=61
+13	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obl	_	start_char=62|end_char=68|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	start_char=68|end_char=69|SpacesAfter=\n
+15	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=70|end_char=74
+16	quei	quello	PRON	pd1mp	Gender=Masc|Number=Plur|PronType=Dem	24	ccomp:reported	_	start_char=75|end_char=79
+17	che	che	PRON	pr	PronType=Rel	24	nsubj	_	start_char=80|end_char=83
+18	di	di	ADP	epsk8	_	19	case	_	start_char=84|end_char=86
+19	voi	voi	PRON	pp2plco	Number=Plur|Person=2|PronType=Prs	21	nmod	_	start_char=87|end_char=90|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	start_char=90|end_char=91
+21	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	24	vocative	_	start_char=92|end_char=97|SpaceAfter=No
+22	,	,	PUNCT	_	_	4	punct	_	start_char=97|end_char=98
+23	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	24	obj	_	start_char=99|end_char=101|SpaceAfter=No
+24	acusaro	accusare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=101|end_char=108|SpacesAfter=\n
+25-26	nel	_	_	_	_	_	_	_	start_char=109|end_char=112
+25	in	in	ADP	_	_	28	case	_	_
+26	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+27	fero	fiero	ADJ	a1ms	Gender=Masc|Number=Sing	28	amod	_	start_char=113|end_char=117
+28	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	24	obl:lmod	_	start_char=118|end_char=122|SpaceAfter=No
+29	,	,	PUNCT	_	_	33	punct	_	start_char=122|end_char=123
+30	ove	ove	ADV	p	_	33	advmod:lmod	_	start_char=124|end_char=127
+31-32	ten	_	_	_	_	_	_	_	start_char=128|end_char=131
+31	te	te	PRON	pp2syco	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	33	obj	_	_
+32	ne	ne	PRON	pp3ypt	Clitic=Yes|Person=3|PronType=Prs	33	obl:arg	_	_
+33	corte	corte	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl:relcl	_	start_char=132|end_char=137
+34	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	33	obj	_	start_char=138|end_char=143|SpaceAfter=No
+35	.	.	PUNCT	_	_	24	punct	_	start_char=143|end_char=144|SpacesAfter=\n\n
 
-# text = E mantenente avanti lui mostraro ch’io era fatto vostro servidore; perchè sospiri e dolor mi pigliaro vedendo che temenza avea lo core.
+# text = E mantenente avanti lui mostraro ch'io era fatto vostro servidore; perchè sospiri e dolor mi pigliaro vedendo che temenza avea lo core.
 # sent_id = 1
 1	E	e	CCONJ	cscc	_	5	cc	_	start_char=146|end_char=147
 2	mantenente	mantenente	ADV	b	_	5	advmod	_	start_char=148|end_char=158
 3	avanti	avanti	ADV	b	_	5	advmod:lmod	_	start_char=159|end_char=165
 4	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=166|end_char=169
 5	mostraro	mostrare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=170|end_char=178|SpacesAfter=\n
-6	ch’	che	SCONJ	csso	_	9	mark	_	start_char=179|end_char=182|SpaceAfter=No
+6	ch'	che	SCONJ	csso	_	9	mark	_	start_char=179|end_char=182|SpaceAfter=No
 7	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	9	nsubj	_	start_char=182|end_char=184
 8	era	essere	AUX	vi4iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	start_char=185|end_char=188
-9	fatto	fare	VERB	vi1its1	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	start_char=189|end_char=194
+9	fatto	fare	VERB	vi1its1	Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Tense=Past|VerbForm=Part	5	ccomp	_	start_char=189|end_char=194
 10	vostro	vostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=195|end_char=201
 11	servidore	servidore	NOUN	sm3ms	Gender=Masc|Number=Sing	9	nsubj	_	start_char=202|end_char=211|SpaceAfter=No
 12	;	;	PUNCT	_	_	18	punct	_	start_char=211|end_char=212|SpacesAfter=\n
@@ -61,42 +60,40 @@
 17	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	18	obj	_	start_char=236|end_char=238
 18	pigliaro	pigliare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=239|end_char=247|SpacesAfter=\n
 19	vedendo	vedere	VERB	vta2gp	VerbForm=Conv|Voice=Act	18	advcl	_	start_char=248|end_char=255
-20	che	che	SCONJ	csso	_	22	mark	_	start_char=256|end_char=259
+20	che	che	SCONJ	cssu	_	22	mark	_	start_char=256|end_char=259
 21	temenza	temenza	NOUN	sf1fs	Gender=Fem|Number=Sing	22	nsubj	_	start_char=260|end_char=267
 22	avea	avere	VERB	vta5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	start_char=268|end_char=272
 23	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	start_char=273|end_char=275
 24	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	22	obj	_	start_char=276|end_char=280|SpaceAfter=No
 25	.	.	PUNCT	_	_	5	punct	_	start_char=280|end_char=281|SpacesAfter=\n\n
 
-# text = Menarmi tosto senza riposanza in una parte, là ’v’i’ trovai gente che ciascun si doleva d’amor forte.
+# text = Menarmi tosto senza riposanza in una parte, là 'v'i' trovai gente che ciascun si doleva d'amor forte.
 # sent_id = 2
 1-2	Menarmi	_	_	_	_	_	_	_	start_char=283|end_char=290
-1	Menare	menare	VERB	vta+ipss	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Menare	menare	VERB	vta+iiss	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	1	iobj	_	_
 3	tosto	tosto	ADV	b	_	1	advmod:tmod	_	start_char=291|end_char=296
 4	senza	senza	ADP	epskm	_	5	case	_	start_char=297|end_char=302
 5	riposanza	riposanza	NOUN	sf1fs	Gender=Fem|Number=Sing	1	obl:lmod	_	start_char=303|end_char=312|SpacesAfter=\n
 6	in	in	ADP	epsksl	_	8	case	_	start_char=313|end_char=315
-7	una	uno	DET	an1f	Gender=Fem|Number=Sing	8	det	_	start_char=316|end_char=319
+7	una	uno	DET	rifs	Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=316|end_char=319
 8	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	1	obl:lmod	_	start_char=320|end_char=325|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	start_char=325|end_char=326
-10	là	là	ADV	b	_	15	advmod:lmod	_	start_char=327|end_char=329
-11	’	’	PUNCT	_	_	10	punct	_	start_char=330|end_char=331|SpaceAfter=No
-12	v’	ivi	ADV	by	_	15	advmod:lmod	_	start_char=331|end_char=333|SpaceAfter=No
-13	i	vi	ADV	b	_	15	advmod:lmod	_	start_char=333|end_char=334|SpaceAfter=No
-14	’	’	PUNCT	_	_	15	punct	_	start_char=334|end_char=335
-15	trovai	trovare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=336|end_char=342
-16	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	15	obj	_	start_char=343|end_char=348|SpacesAfter=\n
-17	che	che	PRON	pr	PronType=Rel	20	nsubj	_	start_char=349|end_char=352
-18	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	start_char=353|end_char=360
-19	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	20	expl:pv	_	start_char=361|end_char=363
-20	doleva	dolere	VERB	vta+1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=364|end_char=370
-21	d’	di	ADP	eps	_	22	case	_	start_char=371|end_char=373|SpaceAfter=No
-22	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obl	_	start_char=373|end_char=377
-23	forte	forte	ADJ	a2ms	Gender=Masc|Number=Sing	22	amod	_	start_char=378|end_char=383|SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	start_char=383|end_char=384|SpacesAfter=\n\n
+10	là	là	ADV	_	_	1	advmod:lmod	_	start_char=327|end_char=329
+11	'v'	dove	ADV	_	_	13	advmod:lmod	_	start_char=330|end_char=333|SpaceAfter=No
+12	i'	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	13	nsubj	_	start_char=333|end_char=335
+13	trovai	trovare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=336|end_char=342
+14	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	13	obj	_	start_char=343|end_char=348|SpacesAfter=\n
+15	che	che	PRON	pr	PronType=Rel	18	nsubj	_	start_char=349|end_char=352
+16	ciascun	ciascuno	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	18	nsubj	_	start_char=353|end_char=360
+17	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	18	expl:pv	_	start_char=361|end_char=363
+18	doleva	dolere	VERB	vta+iiis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=364|end_char=370
+19	d'	di	ADP	eps	_	20	case	_	start_char=371|end_char=373|SpaceAfter=No
+20	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	obl	_	start_char=373|end_char=377
+21	forte	forte	ADJ	a2ms	Gender=Masc|Number=Sing	20	amod	_	start_char=378|end_char=383|SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	start_char=383|end_char=384|SpacesAfter=\n\n
 
-# text = Quando mi vider, tutti con pietanza dissermi: — fatto se’ di tal servente che mai non dei sperare altro che morte.
+# text = Quando mi vider, tutti con pietanza dissermi: — fatto se' di tal servente che mai non dei sperare altro che morte.
 # sent_id = 3
 1	Quando	quando	SCONJ	csst	_	3	mark	_	start_char=386|end_char=392
 2	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	3	obj	_	start_char=393|end_char=395
@@ -108,21 +105,20 @@
 8	dissermi	dissermere	VERB	vta2ip	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=422|end_char=430|SpaceAfter=No
 9	:	:	PUNCT	_	_	11	punct	_	start_char=430|end_char=431
 10	—	—	PUNCT	_	_	11	punct	_	start_char=432|end_char=433
-11	fatto	fare	VERB	vta2irs3	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	ccomp:reported	_	start_char=434|end_char=439
-12	se	se	SCONJ	cssv	_	8	mark	_	start_char=440|end_char=442|SpaceAfter=No
-13	’	’	PUNCT	_	_	11	punct	_	start_char=442|end_char=443
-14	di	di	ADP	epskg	_	16	case	_	start_char=444|end_char=446
-15	tal	tale	DET	a2ms	Number=Sing	16	det	_	start_char=447|end_char=450
-16	servente	servente	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obl	_	start_char=451|end_char=459|SpacesAfter=\n
-17	che	che	SCONJ	cssu	_	21	mark	_	start_char=460|end_char=463
-18	mai	mai	ADV	b	_	21	advmod:tmod	_	start_char=464|end_char=467
-19	non	non	ADV	b	PronType=Neg	21	advmod:neg	_	start_char=468|end_char=471
-20	dei	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=472|end_char=475
-21	sperare	sperare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	ccomp	_	start_char=476|end_char=483
-22	altro	altro	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	21	obj	_	start_char=484|end_char=489
-23	che	che	SCONJ	c	_	24	mark	_	start_char=490|end_char=493
-24	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	21	obj	_	start_char=494|end_char=499|SpaceAfter=No
-25	.	.	PUNCT	_	_	11	punct	_	start_char=499|end_char=500
+11	fatto	fare	VERB	vta2ips	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	ccomp:reported	_	start_char=434|end_char=439
+12	se'	essere	AUX	vi4ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=440|end_char=443
+13	di	di	ADP	epskg	_	15	case	_	start_char=444|end_char=446
+14	tal	tale	DET	a2ms	Number=Sing	15	det	_	start_char=447|end_char=450
+15	servente	servente	NOUN	sm3ms	Gender=Masc|Number=Sing	11	obl:lmod	_	start_char=451|end_char=459|SpacesAfter=\n
+16	che	che	SCONJ	cssu	_	20	mark	_	start_char=460|end_char=463
+17	mai	mai	ADV	b	_	20	advmod:tmod	_	start_char=464|end_char=467
+18	non	non	ADV	b	PronType=Neg	20	advmod:neg	_	start_char=468|end_char=471
+19	dei	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=472|end_char=475
+20	sperare	sperare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	ccomp	_	start_char=476|end_char=483
+21	altro	altro	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	20	obj	_	start_char=484|end_char=489
+22	che	che	SCONJ	c	_	23	mark	_	start_char=490|end_char=493
+23	morte	morte	NOUN	sf3fs	Gender=Fem|Number=Sing	20	obj	_	start_char=494|end_char=499|SpaceAfter=No
+24	.	.	PUNCT	_	_	11	punct	_	start_char=499|end_char=500
 
 # text = —
 # sent_id = 4

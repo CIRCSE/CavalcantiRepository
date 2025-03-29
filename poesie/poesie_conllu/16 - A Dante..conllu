@@ -1,5 +1,5 @@
 # newdoc id = 16 - A Dante.
-# text = Dante, un sospiro messagier del core subitamente m’assalì dormendo, ed io mi risvegliai allor, temendo ched elli fosse in compagnia d’amore.
+# text = Dante, un sospiro messagier del core subitamente m'assalì dormendo, ed io mi risvegliai allor, temendo ched elli fosse in compagnia d'amore.
 # sent_id = 0
 1	Dante	Dante	PROPN	np	_	11	nsubj	_	start_char=0|end_char=5|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	start_char=5|end_char=6
@@ -11,9 +11,9 @@
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	5	nmod	_	start_char=32|end_char=36|SpacesAfter=\n
 9	subitamente	subitamente	ADV	b	_	11	advmod:tmod	_	start_char=37|end_char=48
-10	m’	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	obj	_	start_char=49|end_char=51|SpaceAfter=No
+10	m'	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	11	obj	_	start_char=49|end_char=51|SpaceAfter=No
 11	assalì	assalire	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=51|end_char=57
-12	dormendo	dormire	VERB	vi1gp	VerbForm=Conv|Voice=Act	11	advcl	_	start_char=58|end_char=66|SpaceAfter=No
+12	dormendo	dormire	VERB	vi2gp	VerbForm=Conv|Voice=Act	11	advcl	_	start_char=58|end_char=66|SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	start_char=66|end_char=67|SpacesAfter=\n
 14	ed	e	CCONJ	cscc	_	17	cc	_	start_char=68|end_char=70
 15	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	17	nsubj	_	start_char=71|end_char=73
@@ -22,63 +22,60 @@
 18	allor	allora	ADV	b	_	17	advmod:tmod	_	start_char=88|end_char=93|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	start_char=93|end_char=94
 20	temendo	temere	VERB	vta2gp	VerbForm=Conv|Voice=Act	17	advcl	_	start_char=95|end_char=102|SpacesAfter=\n
-21	ched	ched	SCONJ	cssv	_	25	mark	_	start_char=103|end_char=107
+21	ched	ched	SCONJ	csso	_	20	mark	_	start_char=103|end_char=107
 22	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=108|end_char=112
 23	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	cop	_	start_char=113|end_char=118
 24	in	in	ADP	epskm	_	25	case	_	start_char=119|end_char=121
 25	compagnia	compagnia	NOUN	sf1fs	Gender=Fem|Number=Sing	20	obl:lmod	_	start_char=122|end_char=131
-26	d’	di	ADP	eps	_	27	case	_	start_char=132|end_char=134|SpaceAfter=No
+26	d'	di	ADP	eps	_	27	case	_	start_char=132|end_char=134|SpaceAfter=No
 27	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	25	nmod	_	start_char=134|end_char=139|SpaceAfter=No
 28	.	.	PUNCT	_	_	11	punct	_	start_char=139|end_char=140|SpacesAfter=\n\n
 
-# text = Poi mi girai e vidi ’l servidore di monna Lagia, che venia dicendo: — aiutami, pietà — sì che piangendo i’ presi di mercè tanto valore,
+# text = Poi mi girai e vidi 'l servidore di monna Lagia, che venia dicendo: — aiutami, pietà — sì che piangendo i' presi di mercè tanto valore,
 # sent_id = 1
 1	Poi	poi	ADV	b	_	3	advmod:tmod	_	start_char=142|end_char=145
 2	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	3	obj	_	start_char=146|end_char=148
 3	girai	girare	VERB	vta+1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=149|end_char=154
 4	e	e	CCONJ	cscc	_	5	cc	_	start_char=155|end_char=156
 5	vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=157|end_char=161
-6	’	’	PUNCT	_	_	8	punct	_	start_char=162|end_char=163|SpaceAfter=No
-7	l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=163|end_char=164
-8	servidore	servidore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	nsubj	_	start_char=165|end_char=174|SpacesAfter=\n
-9	di	di	ADP	epskg	_	10	case	_	start_char=175|end_char=177
-10	monna	monna	PROPN	np	_	8	nmod	_	start_char=178|end_char=183
-11	Lagia	Lagia	PROPN	np	_	8	nmod	_	start_char=184|end_char=189|SpaceAfter=No
-12	,	,	PUNCT	_	_	14	punct	_	start_char=189|end_char=190
-13	che	che	PRON	pr	PronType=Rel	14	nsubj	_	start_char=191|end_char=194
-14	venia	venire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	start_char=195|end_char=200
-15	dicendo	dire	VERB	vta3gp	VerbForm=Conv|Voice=Act	14	advcl	_	start_char=201|end_char=208|SpaceAfter=No
-16	:	:	PUNCT	_	_	18	punct	_	start_char=208|end_char=209|SpacesAfter=\n
-17	—	—	PUNCT	_	_	18	punct	_	start_char=210|end_char=211
-18-19	aiutami	_	_	_	_	_	_	_	start_char=212|end_char=219|SpaceAfter=No
-18	aiuta	aiutare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=212|end_char=217
-19	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	18	iobj	_	start_char=217|end_char=219
-20	,	,	PUNCT	_	_	21	punct	_	start_char=219|end_char=220
-21	pietà	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	18	vocative	_	start_char=221|end_char=226
-22	—	—	PUNCT	_	_	28	punct	_	start_char=227|end_char=228
-23	sì	così	ADV	_	_	28	advmod	_	start_char=229|end_char=231
-24	che	che	SCONJ	_	_	28	mark	_	start_char=232|end_char=235
-25	piangendo	piangere	VERB	vi2gp	VerbForm=Conv|Voice=Act	28	advcl	_	start_char=236|end_char=245|SpacesAfter=\n
-26	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	start_char=246|end_char=247|SpaceAfter=No
-27	’	’	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	start_char=247|end_char=248
-28	presi	prendere	VERB	vta2prs	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	18	advcl	_	start_char=249|end_char=254
-29	di	di	ADP	epskg	_	30	case	_	start_char=255|end_char=257
-30	mercè	mercè	NOUN	sf3fs	Gender=Fem|Number=Sing	28	obl	_	start_char=258|end_char=263
-31	tanto	tanto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	32	det	_	start_char=264|end_char=269
-32	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	28	obj	_	start_char=270|end_char=276|SpaceAfter=No
-33	,	,	PUNCT	_	_	3	punct	_	start_char=276|end_char=277|SpacesAfter=\n\n
+6	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=162|end_char=164
+7	servidore	servidore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obj	_	start_char=165|end_char=174|SpacesAfter=\n
+8	di	di	ADP	epskg	_	9	case	_	start_char=175|end_char=177
+9	monna	monna	PROPN	np	_	7	nmod	_	start_char=178|end_char=183
+10	Lagia	Lagia	PROPN	np	_	7	nmod	_	start_char=184|end_char=189|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	start_char=189|end_char=190
+12	che	che	PRON	pr	PronType=Rel	13	nsubj	_	start_char=191|end_char=194
+13	venia	venire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=195|end_char=200
+14	dicendo	dire	VERB	vta3gp	VerbForm=Conv|Voice=Act	13	advcl	_	start_char=201|end_char=208|SpaceAfter=No
+15	:	:	PUNCT	_	_	17	punct	_	start_char=208|end_char=209|SpacesAfter=\n
+16	—	—	PUNCT	_	_	17	punct	_	start_char=210|end_char=211
+17-18	aiutami	_	_	_	_	_	_	_	start_char=212|end_char=219|SpaceAfter=No
+17	aiuta	aiutare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=212|end_char=217
+18	mi	mi	PRON	pp1sxda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	17	iobj	_	start_char=217|end_char=219
+19	,	,	PUNCT	_	_	20	punct	_	start_char=219|end_char=220
+20	pietà	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	17	vocative	_	start_char=221|end_char=226
+21	—	—	PUNCT	_	_	26	punct	_	start_char=227|end_char=228
+22	sì	così	ADV	_	_	26	advmod	_	start_char=229|end_char=231
+23	che	che	SCONJ	_	_	26	mark	_	start_char=232|end_char=235
+24	piangendo	piangere	VERB	vi2gp	VerbForm=Conv|Voice=Act	26	advcl	_	start_char=236|end_char=245|SpacesAfter=\n
+25	i'	io	PRON	pp1slso	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	nsubj	_	start_char=246|end_char=248
+26	presi	prendere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=249|end_char=254
+27	di	di	ADP	epskg	_	28	case	_	start_char=255|end_char=257
+28	mercè	mercè	NOUN	sf3fs	Gender=Fem|Number=Sing	26	obl	_	start_char=258|end_char=263
+29	tanto	tanto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	30	det	_	start_char=264|end_char=269
+30	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	26	obj	_	start_char=270|end_char=276|SpaceAfter=No
+31	,	,	PUNCT	_	_	3	punct	_	start_char=276|end_char=277|SpacesAfter=\n\n
 
-# text = ch’io giunsi amore ch’afilava dardi.
+# text = ch'io giunsi amore ch'afilava dardi.
 # sent_id = 2
-1	ch	ch	ADV	b	_	4	advmod	_	start_char=279|end_char=281|SpaceAfter=No
-2	’	’	PUNCT	_	_	4	punct	_	start_char=281|end_char=282|SpaceAfter=No
-3	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	4	nsubj	_	start_char=282|end_char=284
-4	giunsi	giungere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=285|end_char=291
-5	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	4	obj	_	start_char=292|end_char=297
-6	ch’	che	PRON	pr	PronType=Rel	7	nsubj	_	start_char=298|end_char=301|SpaceAfter=No
-7	afilava	afilare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=301|end_char=308
-8	dardi	dardo	NOUN	sm2mp	Gender=Masc|Number=Plur	7	obj	_	start_char=309|end_char=314|SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	start_char=314|end_char=315|SpacesAfter=\n
+1	ch'	che	SCONJ	cssc	_	3	mark	_	start_char=279|end_char=282|SpaceAfter=No
+2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=282|end_char=284
+3	giunsi	giungere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=285|end_char=291
+4	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obj	_	start_char=292|end_char=297
+5	ch'	che	PRON	pr	PronType=Rel	6	nsubj	_	start_char=298|end_char=301|SpaceAfter=No
+6	afilava	afilare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=301|end_char=308
+7	dardi	dardo	NOUN	sm2mp	Gender=Masc|Number=Plur	6	obj	_	start_char=309|end_char=314|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	start_char=314|end_char=315|SpacesAfter=\n
 
 # text = Allor lo domandai del suo tormento ed elli mi rispose in questa guisa:
 # sent_id = 3
@@ -103,7 +100,7 @@
 # sent_id = 4
 1	—	—	PUNCT	_	_	0	root	_	start_char=388|end_char=389
 
-# text = Dì al servente che la donna è prisa e tengola per far suo piacimento: e se no ’l crede dì ch’a li occhi guardi. —
+# text = Dì al servente che la donna è prisa e tengola per far suo piacimento: e se no 'l crede dì ch'a li occhi guardi. —
 # sent_id = 5
 1	Dì	dire	VERB	vta3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=390|end_char=392
 2-3	al	_	_	_	_	_	_	_	start_char=393|end_char=395
@@ -123,18 +120,18 @@
 14	far	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	start_char=440|end_char=443
 15	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	start_char=444|end_char=447
 16	piacimento	piacimento	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obj	_	start_char=448|end_char=458|SpaceAfter=No
-17	:	:	PUNCT	_	_	23	punct	_	start_char=458|end_char=459|SpacesAfter=\n
-18	e	e	CCONJ	cscc	_	23	cc	_	start_char=460|end_char=461
-19	se	se	SCONJ	cssv	_	23	mark	_	start_char=462|end_char=464
-20	no	non	ADV	b	_	23	advmod	_	start_char=465|end_char=467
-21	’l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=468|end_char=470
-22	crede	credere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	start_char=471|end_char=476
-23	dì	dire	VERB	vta3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=477|end_char=479
-24	ch’	che	SCONJ	csso	_	28	mark	_	start_char=480|end_char=483|SpaceAfter=No
+17	:	:	PUNCT	_	_	22	punct	_	start_char=458|end_char=459|SpacesAfter=\n
+18	e	e	CCONJ	cscc	_	22	cc	_	start_char=460|end_char=461
+19	se	se	SCONJ	cssv	_	22	mark	_	start_char=462|end_char=464
+20	no	non	ADV	b	_	22	advmod	_	start_char=465|end_char=467
+21	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=468|end_char=470
+22	crede	credere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=471|end_char=476
+23	dì	dì	NOUN	sm3ms	Gender=Masc|Number=Sing	22	obj	_	start_char=477|end_char=479
+24	ch'	che	SCONJ	csso	_	28	mark	_	start_char=480|end_char=483|SpaceAfter=No
 25	a	a	ADP	epsk1d	_	27	case	_	start_char=483|end_char=484
 26	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	start_char=485|end_char=487
 27	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	28	obl	_	start_char=488|end_char=493
-28	guardi	guardare	VERB	vta1cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	23	ccomp	_	start_char=494|end_char=500|SpaceAfter=No
-29	.	.	PUNCT	_	_	23	punct	_	start_char=500|end_char=501
+28	guardi	guardare	VERB	vta1cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	ccomp	_	start_char=494|end_char=500|SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	start_char=500|end_char=501
 30	—	—	PUNCT	_	_	1	punct	_	start_char=502|end_char=503|SpaceAfter=No
 

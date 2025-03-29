@@ -1,14 +1,14 @@
 # newdoc id = 15 - Ballata.
-# text = Se m’à del tutto obliato merzede già però fede — il cor non abandona; anzi ragiona — di servire a grato al dispietato — core.
+# text = Se m'à del tutto obliato merzede già però fede — il cor non abandona; anzi ragiona — di servire a grato al dispietato — core.
 # sent_id = 0
 1	Se	se	SCONJ	cssv	_	7	mark	_	start_char=0|end_char=2
-2	m’à	m’e	ADV	b	_	7	advmod:tmod	_	start_char=3|end_char=6
+2	m'à	m'a	ADV	b	_	7	advmod:tmod	_	start_char=3|end_char=6
 3-4	del	_	_	_	_	_	_	_	start_char=7|end_char=10
 3	di	di	ADP	_	_	5	case	_	_
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	7	obl:lmod	_	start_char=11|end_char=16
-6	obliato	obliare	VERB	vta1pra1m	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl	_	start_char=17|end_char=24
-7	merzede	merzedere	VERB	viaipp3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	start_char=25|end_char=32|SpacesAfter=\n
+6	obliato	obliare	VERB	vta1pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl	_	start_char=17|end_char=24
+7	merzede	merzedere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	start_char=25|end_char=32|SpacesAfter=\n
 8	già	già	ADV	b	_	7	advmod:tmod	_	start_char=33|end_char=36
 9	però	però	ADV	cssc	_	10	advmod	_	start_char=37|end_char=41
 10	fede	fede	NOUN	sf3fs	Gender=Fem|Number=Sing	7	nsubj	_	start_char=42|end_char=46
@@ -33,47 +33,44 @@
 28	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	conj	_	start_char=120|end_char=124|SpaceAfter=No
 29	.	.	PUNCT	_	_	15	punct	_	start_char=124|end_char=125|SpacesAfter=\n
 
-# text = E qual si sente simil me’ ciò crede; ma chi tal vede? — certo non persona; ch’amor mi dona — spirito ’n su’ stato, che figurato — more.
+# text = E qual si sente simil me' ciò crede; ma chi tal vede? — certo non persona; ch'amor mi dona — spirito 'n su' stato, che figurato — more.
 # sent_id = 1
-1	E	e	CCONJ	cscc	_	9	cc	_	start_char=126|end_char=127
+1	E	e	CCONJ	cscc	_	8	cc	_	start_char=126|end_char=127
 2	qual	quale	DET	ar	Number=Sing|PronType=Rel	4	det	_	start_char=128|end_char=132
 3	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	expl:impers	_	start_char=133|end_char=135
-4	sente	sentire	VERB	vtp3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	advcl	_	start_char=136|end_char=141
+4	sente	sentire	VERB	vtp3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	start_char=136|end_char=141
 5	simil	simile	ADJ	a2fs	Gender=Fem|Number=Sing	6	amod	_	start_char=142|end_char=147
-6	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	4	nsubj:pass	_	start_char=148|end_char=150|SpaceAfter=No
-7	’	’	PUNCT	_	_	4	punct	_	start_char=150|end_char=151
-8	ciò	cio'	PRON	pd	PronType=Dem	9	nsubj	_	start_char=152|end_char=155
-9	crede	credere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=156|end_char=161|SpaceAfter=No
-10	;	;	PUNCT	_	_	14	punct	_	start_char=161|end_char=162|SpacesAfter=\n
-11	ma	ma	CCONJ	csca	_	14	cc	_	start_char=163|end_char=165
-12	chi	chi	PRON	pn	PronType=Rel	14	nsubj	_	start_char=166|end_char=169
-13	tal	tale	DET	a2ns	Number=Sing	14	xcomp	_	start_char=170|end_char=173
-14	vede	vedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=174|end_char=178|SpaceAfter=No
-15	?	?	PUNCT	_	_	14	punct	_	start_char=178|end_char=179
-16	—	—	PUNCT	_	_	14	punct	_	start_char=180|end_char=181
-17	certo	certo	ADV	b	_	19	advmod	_	start_char=182|end_char=187
-18	non	non	ADV	b	PronType=Neg	19	advmod:neg	_	start_char=188|end_char=191
-19	persona	persona	NOUN	sf1fs	Gender=Fem|Number=Sing	14	conj	_	start_char=192|end_char=199|SpaceAfter=No
-20	;	;	PUNCT	_	_	24	punct	_	start_char=199|end_char=200|SpacesAfter=\n
-21	ch’	che	SCONJ	cssc	_	24	mark	_	start_char=201|end_char=204|SpaceAfter=No
-22	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	24	nsubj	_	start_char=204|end_char=208
-23	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	24	obj	_	start_char=209|end_char=211
-24	dona	donare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	start_char=212|end_char=216
-25	—	—	PUNCT	_	_	26	punct	_	start_char=217|end_char=218
-26	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	24	vocative	_	start_char=219|end_char=226
-27	’	’	PUNCT	_	_	26	punct	_	start_char=227|end_char=228|SpaceAfter=No
-28	n	i	ADP	_	_	31	case	_	start_char=228|end_char=229
-29	su	su	ADP	_	_	31	case	_	start_char=230|end_char=232|SpaceAfter=No
-30	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	start_char=232|end_char=233
-31	stato	stato	NOUN	sm2ms	Gender=Masc|Number=Sing	24	obl	_	start_char=234|end_char=239|SpaceAfter=No
-32	,	,	PUNCT	_	_	36	punct	_	start_char=239|end_char=240|SpacesAfter=\n
-33	che	che	PRON	pr	PronType=Rel	36	nsubj	_	start_char=241|end_char=244
-34	figurato	figurare	VERB	vta1pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	36	advcl	_	start_char=245|end_char=253
-35	—	—	PUNCT	_	_	36	punct	_	start_char=254|end_char=255
-36	more	morire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	start_char=256|end_char=260|SpaceAfter=No
-37	.	.	PUNCT	_	_	36	punct	_	start_char=260|end_char=261|SpacesAfter=\n
+6	me'	meglio	NOUN	sf1fs	Gender=Fem|Number=Sing	4	nsubj:pass	_	start_char=148|end_char=151
+7	ciò	cio'	PRON	pd	PronType=Dem	8	nsubj	_	start_char=152|end_char=155
+8	crede	credere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	start_char=156|end_char=161|SpaceAfter=No
+9	;	;	PUNCT	_	_	13	punct	_	start_char=161|end_char=162|SpacesAfter=\n
+10	ma	ma	CCONJ	csca	_	13	cc	_	start_char=163|end_char=165
+11	chi	chi	PRON	pr	PronType=Rel	13	nsubj	_	start_char=166|end_char=169
+12	tal	tale	DET	a2ns	Number=Sing	13	xcomp	_	start_char=170|end_char=173
+13	vede	vedere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=174|end_char=178|SpaceAfter=No
+14	?	?	PUNCT	_	_	13	punct	_	start_char=178|end_char=179
+15	—	—	PUNCT	_	_	18	punct	_	start_char=180|end_char=181
+16	certo	certo	ADV	b	_	18	advmod	_	start_char=182|end_char=187
+17	non	non	ADV	b	PronType=Neg	18	advmod:neg	_	start_char=188|end_char=191
+18	persona	persona	NOUN	sf1fs	Gender=Fem|Number=Sing	13	conj	_	start_char=192|end_char=199|SpaceAfter=No
+19	;	;	PUNCT	_	_	23	punct	_	start_char=199|end_char=200|SpacesAfter=\n
+20	ch'	che	SCONJ	cssc	_	23	mark	_	start_char=201|end_char=204|SpaceAfter=No
+21	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	23	nsubj	_	start_char=204|end_char=208
+22	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	23	obj	_	start_char=209|end_char=211
+23	dona	donare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=212|end_char=216
+24	—	—	PUNCT	_	_	25	punct	_	start_char=217|end_char=218
+25	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	23	vocative	_	start_char=219|end_char=226
+26	'n	in	ADP	epsks	_	28	case	_	start_char=227|end_char=229
+27	su'	suo	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	start_char=230|end_char=233
+28	stato	stato	NOUN	sm2ms	Gender=Masc|Number=Sing	23	obl:lmod	_	start_char=234|end_char=239|SpaceAfter=No
+29	,	,	PUNCT	_	_	33	punct	_	start_char=239|end_char=240|SpacesAfter=\n
+30	che	che	PRON	pr	PronType=Rel	33	nsubj	_	start_char=241|end_char=244
+31	figurato	figurare	VERB	vtp1pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	33	advcl	_	start_char=245|end_char=253
+32	—	—	PUNCT	_	_	33	punct	_	start_char=254|end_char=255
+33	more	morire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	start_char=256|end_char=260|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	punct	_	start_char=260|end_char=261|SpacesAfter=\n
 
-# text = Chè, quando lo piacer mi stringe tanto che lo sospir si mova, par che nel cor mi piova un dolce amor sì bono, ch’io dico: — donna, tutto vostro sono.
+# text = Chè, quando lo piacer mi stringe tanto che lo sospir si mova, par che nel cor mi piova un dolce amor sì bono, ch'io dico: — donna, tutto vostro sono.
 # sent_id = 2
 1	Chè	chè	SCONJ	cssc	_	15	mark	_	start_char=262|end_char=265|SpaceAfter=No
 2	,	,	PUNCT	_	_	7	punct	_	start_char=265|end_char=266
@@ -103,7 +100,7 @@
 25	sì	così	ADV	b	_	26	advmod	_	start_char=363|end_char=365
 26	bono	bono	ADJ	a1ms	Gender=Masc|Number=Sing	21	xcomp	_	start_char=366|end_char=370|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	start_char=370|end_char=371|SpacesAfter=\n
-28	ch’	che	SCONJ	cssu	_	30	mark	_	start_char=372|end_char=375|SpaceAfter=No
+28	ch'	che	SCONJ	cssu	_	30	mark	_	start_char=372|end_char=375|SpaceAfter=No
 29	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	30	nsubj	_	start_char=375|end_char=377
 30	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	start_char=378|end_char=382|SpaceAfter=No
 31	:	:	PUNCT	_	_	33	punct	_	start_char=382|end_char=383

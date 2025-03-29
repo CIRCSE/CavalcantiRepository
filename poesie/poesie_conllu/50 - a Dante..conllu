@@ -1,5 +1,5 @@
 # newdoc id = 50 - a Dante.
-# text = Io vengo il giorno a te infinite volte e trovoti pensar troppo vilmente: allor mi dol de la gentil tua mente e d’assai tue virtù che ti son tolte.
+# text = Io vengo il giorno a te infinite volte e trovoti pensar troppo vilmente: allor mi dol de la gentil tua mente e d'assai tue virtù che ti son tolte.
 # sent_id = 0
 1	Io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
 2	vengo	vengere	VERB	vi1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
@@ -10,7 +10,7 @@
 7	infinite	infinito	ADJ	a1fp	Gender=Fem|Number=Plur	8	amod	_	start_char=24|end_char=32
 8	volte	volta	NOUN	sf1fp	Gender=Fem|Number=Plur	2	nsubj	_	start_char=33|end_char=38|SpacesAfter=\n
 9	e	e	CCONJ	cscc	_	10	cc	_	start_char=39|end_char=40
-10	trovoti	trovare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=41|end_char=48
+10	trovoti	trovare	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=41|end_char=48
 11	pensar	pensare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=49|end_char=55
 12	troppo	troppo	ADV	b	_	11	advmod	_	start_char=56|end_char=62
 13	vilmente	vilmente	ADV	b	_	11	advmod	_	start_char=63|end_char=71|SpaceAfter=No
@@ -24,7 +24,7 @@
 21	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	start_char=99|end_char=102
 22	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	17	nmod	_	start_char=103|end_char=108|SpacesAfter=\n
 23	e	e	CCONJ	cscc	_	27	cc	_	start_char=109|end_char=110
-24	d’	di	ADP	eps	_	27	case	_	start_char=111|end_char=113|SpaceAfter=No
+24	d'	di	ADP	eps	_	27	case	_	start_char=111|end_char=113|SpaceAfter=No
 25	assai	assai	DET	ai	PronType=Ind	27	det	_	start_char=113|end_char=118
 26	tue	tuo	DET	as1fp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	27	det:poss	_	start_char=119|end_char=122
 27	virtù	virtù	NOUN	sf3fp	Gender=Fem|Number=Plur	22	conj	_	start_char=123|end_char=128
@@ -63,42 +63,41 @@
 24	ricolte	raccogliere	VERB	vta2ibs3	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	15	advcl	_	start_char=269|end_char=276|SpaceAfter=No
 25	.	.	PUNCT	_	_	15	punct	_	start_char=276|end_char=277|SpacesAfter=\n\n
 
-# text = Or non ardisco per la vil tua vita, far mostramento che tu’ dir mi piaccia, nè vengo ’n guisa a te che tu mi veggi.
+# text = Or non ardisco per la vil tua vita, far mostramento che tu' dir mi piaccia, nè vengo 'n guisa a te che tu mi veggi.
 # sent_id = 2
 1	Or	ora	ADV	b	_	3	advmod:tmod	_	start_char=279|end_char=281
 2	non	non	ADV	b	PronType=Neg	3	advmod:neg	_	start_char=282|end_char=285
-3	ardisco	ardire	VERB	vta1pp11	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=286|end_char=293
+3	ardisco	ardire	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=286|end_char=293
 4	per	per	ADP	epskr	_	6	case	_	start_char=294|end_char=297
 5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=298|end_char=300
 6	vil	vile	NOUN	sf3fs	Gender=Fem|Number=Sing	3	obl:lmod	_	start_char=301|end_char=304
 7	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	start_char=305|end_char=308
 8	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	3	obj	_	start_char=309|end_char=313|SpaceAfter=No
-9	,	,	PUNCT	_	_	3	punct	_	start_char=313|end_char=314|SpacesAfter=\n
-10	far	fare	VERB	vta1mp2	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=315|end_char=318
+9	,	,	PUNCT	_	_	10	punct	_	start_char=313|end_char=314|SpacesAfter=\n
+10	far	fare	VERB	vta1mp	Mood=Imp|Person=2|Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=315|end_char=318
 11	mostramento	mostramento	NOUN	sm2ms	Gender=Masc|Number=Sing	10	obj	_	start_char=319|end_char=330
-12	che	che	SCONJ	csso	_	17	mark	_	start_char=331|end_char=334
-13	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	17	nsubj	_	start_char=335|end_char=337|SpaceAfter=No
-14	’	’	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=337|end_char=338
-15	dir	dire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	17	nsubj	_	start_char=339|end_char=342
-16	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	17	iobj	_	start_char=343|end_char=345
-17	piaccia	piacere	VERB	vi2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=346|end_char=353|SpaceAfter=No
-18	,	,	PUNCT	_	_	20	punct	_	start_char=353|end_char=354|SpacesAfter=\n
-19	nè	nè	CCONJ	cscc	_	20	cc	_	start_char=355|end_char=357
-20	vengo	vengere	VERB	vi3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	start_char=358|end_char=363
-21	’n	in	ADP	_	_	22	case	_	start_char=364|end_char=366
-22	guisa	guisa	NOUN	_	Gender=Fem|Number=Sing	20	obl:lmod	_	start_char=367|end_char=372
-23	a	a	ADP	_	_	24	case	_	start_char=373|end_char=374
-24	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	20	obl:lmod	_	start_char=375|end_char=377
-25	che	che	SCONJ	csso	_	28	mark	_	start_char=378|end_char=381
-26	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	28	nsubj	_	start_char=382|end_char=384
-27	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	obj	_	start_char=385|end_char=387
-28	veggi	vedere	VERB	vta2cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	start_char=388|end_char=393|SpaceAfter=No
-29	.	.	PUNCT	_	_	3	punct	_	start_char=393|end_char=394|SpacesAfter=\n\n
+12	che	che	SCONJ	csso	_	16	mark	_	start_char=331|end_char=334
+13	tu'	tui	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	16	nsubj	_	start_char=335|end_char=338
+14	dir	dire	VERB	vta3fpm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	16	nsubj	_	start_char=339|end_char=342
+15	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	16	iobj	_	start_char=343|end_char=345
+16	piaccia	piacere	VERB	vi2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=346|end_char=353|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	start_char=353|end_char=354|SpacesAfter=\n
+18	nè	nè	CCONJ	cscc	_	19	cc	_	start_char=355|end_char=357
+19	vengo	vengere	VERB	vi3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=358|end_char=363
+20	'n	in	ADP	_	_	21	case	_	start_char=364|end_char=366
+21	guisa	guisa	NOUN	_	Gender=Fem|Number=Sing	19	obl:lmod	_	start_char=367|end_char=372
+22	a	a	ADP	_	_	23	case	_	start_char=373|end_char=374
+23	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	19	obl:lmod	_	start_char=375|end_char=377
+24	che	che	SCONJ	csso	_	27	mark	_	start_char=378|end_char=381
+25	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	27	nsubj	_	start_char=382|end_char=384
+26	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	27	obj	_	start_char=385|end_char=387
+27	veggi	vedere	VERB	vta2cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	start_char=388|end_char=393|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	start_char=393|end_char=394|SpacesAfter=\n\n
 
-# text = Se ’l presente sonetto spesso leggi lo spirito noioso che ti caccia si partirà da l’anima invilita.
+# text = Se 'l presente sonetto spesso leggi lo spirito noioso che ti caccia si partirà da l'anima invilita.
 # sent_id = 3
 1	Se	se	SCONJ	cssv	_	6	mark	_	start_char=396|end_char=398
-2	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=399|end_char=401
+2	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=399|end_char=401
 3	presente	presente	ADJ	a2ms	Gender=Masc|Number=Sing	4	amod	_	start_char=402|end_char=410
 4	sonetto	sonetto	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	start_char=411|end_char=418
 5	spesso	spesso	ADV	b	_	6	advmod:tmod	_	start_char=419|end_char=425
@@ -112,7 +111,7 @@
 13	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	start_char=464|end_char=466
 14	partirà	partire	VERB	vi+3ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	start_char=467|end_char=474
 15	da	da	ADP	epska	_	17	case	_	start_char=475|end_char=477
-16	l’	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=478|end_char=480|SpaceAfter=No
+16	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=478|end_char=480|SpaceAfter=No
 17	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obl:lmod	_	start_char=480|end_char=485
 18	invilita	invilitare	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	17	acl	_	start_char=486|end_char=494|SpaceAfter=No
 19	.	.	PUNCT	_	_	14	punct	_	start_char=494|end_char=495|SpaceAfter=No

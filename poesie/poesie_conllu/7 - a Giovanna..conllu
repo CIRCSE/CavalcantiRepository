@@ -1,5 +1,5 @@
 # newdoc id = 7 - a Giovanna.
-# text = Beltà di donna di piagente core, e cavalieri armati che sian genti, cantar d’augelli, e ragionar d’amore, adorni legni in mar forte correnti,
+# text = Beltà di donna di piagente core, e cavalieri armati che sian genti, cantar d'augelli, e ragionar d'amore, adorni legni in mar forte correnti,
 # sent_id = 0
 1	Beltà	Beltà	PROPN	np	_	15	nsubj	_	start_char=0|end_char=5
 2	di	di	ADP	epskg	_	3	case	_	start_char=6|end_char=8
@@ -16,12 +16,12 @@
 13	genti	gente	NOUN	sf3fp	Gender=Fem|Number=Plur	9	acl:relcl	_	start_char=61|end_char=66|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	start_char=66|end_char=67|SpacesAfter=\n
 15	cantar	cantare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	start_char=68|end_char=74
-16	d’	di	ADP	eps	_	17	case	_	start_char=75|end_char=77|SpaceAfter=No
+16	d'	di	ADP	eps	_	17	case	_	start_char=75|end_char=77|SpaceAfter=No
 17	augelli	augello	NOUN	sm2mp	Gender=Masc|Number=Plur	15	obl	_	start_char=77|end_char=84|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	start_char=84|end_char=85
 19	e	e	CCONJ	cscc	_	20	cc	_	start_char=86|end_char=87
 20	ragionar	ragionare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	15	conj	_	start_char=88|end_char=96
-21	d’	di	ADP	eps	_	22	case	_	start_char=97|end_char=99|SpaceAfter=No
+21	d'	di	ADP	eps	_	22	case	_	start_char=97|end_char=99|SpaceAfter=No
 22	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	obl	_	start_char=99|end_char=104|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	start_char=104|end_char=105|SpacesAfter=\n
 24	adorni	adorno	ADJ	a1mp	Gender=Masc|Number=Plur	25	amod	_	start_char=106|end_char=112
@@ -32,42 +32,42 @@
 29	correnti	correre	VERB	vi2ppa2fp	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	15	advcl	_	start_char=132|end_char=140|SpaceAfter=No
 30	,	,	PUNCT	_	_	1	punct	_	start_char=140|end_char=141|SpacesAfter=\n\n
 
-# text = aire sereno quand’appar l’albore, e bianca neve scender senza venti, rivera d’acqua, e prato d’ogni fiore, oro, argento, azzurro in ornamenti,
+# text = aire sereno quand'appar l'albore, e bianca neve scender senza venti, rivera d'acqua, e prato d'ogni fiore, oro, argento, azzurro in ornamenti,
 # sent_id = 1
-1	aire	aire	NOUN	sf3fp	Gender=Fem|Number=Plur	4	nsubj	_	start_char=143|end_char=147
-2	sereno	sereno	NOUN	sm2ms	Gender=Masc|Number=Sing	4	nsubj	_	start_char=148|end_char=154
-3	quand’	quando	ADV	b	_	4	advmod	_	start_char=155|end_char=161|SpaceAfter=No
-4	appar	apparire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=161|end_char=166
-5	l’	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=167|end_char=169|SpaceAfter=No
+1	aire	aire	NOUN	sm3ms	Gender=Fem|Number=Sing	2	nsubj	_	start_char=143|end_char=147
+2	sereno	sereno	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	start_char=148|end_char=154
+3	quand'	quando	SCONJ	csst	_	4	mark	_	start_char=155|end_char=161|SpaceAfter=No
+4	appar	apparire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=161|end_char=166
+5	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=167|end_char=169|SpaceAfter=No
 6	albore	albore	NOUN	sm3ms	Gender=Masc|Number=Sing	4	nsubj	_	start_char=169|end_char=175|SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	start_char=175|end_char=176|SpacesAfter=\n
 8	e	e	CCONJ	cscc	_	11	cc	_	start_char=177|end_char=178
 9	bianca	bianco	ADJ	a1fs	Gender=Fem|Number=Sing	10	amod	_	start_char=179|end_char=185
 10	neve	neve	NOUN	sf3fs	Gender=Fem|Number=Sing	11	nsubj	_	start_char=186|end_char=190
 11	scender	scendere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	4	advcl	_	start_char=191|end_char=198
-12	senza	senza	ADP	epskm	_	13	case	_	start_char=199|end_char=204
+12	senza	senza	ADP	epskw	_	13	case	_	start_char=199|end_char=204
 13	venti	vento	NOUN	sm2mp	Gender=Masc|Number=Plur	11	obl	_	start_char=205|end_char=210|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	start_char=210|end_char=211|SpacesAfter=\n
-15	rivera	rivera	ADJ	a1fsc	Gender=Fem|Number=Sing	11	advcl:pred	_	start_char=212|end_char=218
-16	d’	di	ADP	eps	_	17	case	_	start_char=219|end_char=221|SpaceAfter=No
+15	rivera	rivera	ADJ	a1fs	Gender=Fem|Number=Sing	11	advcl:pred	_	start_char=212|end_char=218
+16	d'	di	ADP	eps	_	17	case	_	start_char=219|end_char=221|SpaceAfter=No
 17	acqua	acqua	NOUN	sf1fs	Gender=Fem|Number=Sing	15	obl	_	start_char=221|end_char=226|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	start_char=226|end_char=227
 19	e	e	CCONJ	cscc	_	20	cc	_	start_char=228|end_char=229
 20	prato	prato	NOUN	sm2ms	Gender=Masc|Number=Sing	15	conj	_	start_char=230|end_char=235
-21	d’	di	ADP	eps	_	23	case	_	start_char=236|end_char=238|SpaceAfter=No
-22	ogni	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Tot	23	det	_	start_char=238|end_char=242
+21	d'	di	ADP	epske	_	23	case	_	start_char=236|end_char=238|SpaceAfter=No
+22	ogni	ogni	DET	ai2ms	Number=Sing|PronType=Tot	23	det	_	start_char=238|end_char=242
 23	fiore	fiore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	nmod	_	start_char=243|end_char=248|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	start_char=248|end_char=249|SpacesAfter=\n
-25	oro	oro	NOUN	sm2ms	Gender=Masc|Number=Sing	15	conj	_	start_char=250|end_char=253|SpaceAfter=No
+25	oro	oro	NOUN	sm2ms	Gender=Masc|Number=Sing	20	conj	_	start_char=250|end_char=253|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	start_char=253|end_char=254
 27	argento	argento	NOUN	sm2ms	Gender=Masc|Number=Sing	25	conj	_	start_char=255|end_char=262|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	start_char=262|end_char=263
 29	azzurro	azzurro	NOUN	sm2ms	Gender=Masc|Number=Sing	27	conj	_	start_char=264|end_char=271
 30	in	in	ADP	epskm	_	31	case	_	start_char=272|end_char=274
 31	ornamenti	ornamento	NOUN	sm2mp	Gender=Masc|Number=Plur	29	nmod	_	start_char=275|end_char=284|SpaceAfter=No
-32	,	,	PUNCT	_	_	4	punct	_	start_char=284|end_char=285|SpacesAfter=\n\n
+32	,	,	PUNCT	_	_	1	punct	_	start_char=284|end_char=285|SpacesAfter=\n\n
 
-# text = passa la gran beltate e la piagenza de la mia donna e ’l suo gentil coraggio sì, che rassembra vile a chi ciò sguarda.
+# text = passa la gran beltate e la piagenza de la mia donna e 'l suo gentil coraggio sì, che rassembra vile a chi ciò sguarda.
 # sent_id = 2
 1	passa	passare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=287|end_char=292
 2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=293|end_char=295
@@ -81,7 +81,7 @@
 10	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	start_char=329|end_char=332
 11	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nmod	_	start_char=333|end_char=338
 12	e	e	CCONJ	cscc	_	16	cc	_	start_char=339|end_char=340
-13	’l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=341|end_char=343
+13	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=341|end_char=343
 14	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	start_char=344|end_char=347
 15	gentil	gentile	ADJ	a2ms	Gender=Masc|Number=Sing	16	amod	_	start_char=348|end_char=354
 16	coraggio	coraggio	NOUN	sm2ms	Gender=Masc|Number=Sing	11	conj	_	start_char=355|end_char=363|SpacesAfter=\n
@@ -96,26 +96,25 @@
 25	sguarda	sguardare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp	_	start_char=397|end_char=404|SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	start_char=404|end_char=405|SpacesAfter=\n\n
 
-# text = E tanto è più d’ogn’altra canoscenza quanto lo cielo de la terra è maggio.
+# text = E tanto è più d'ogn'altra canoscenza quanto lo cielo de la terra è maggio.
 # sent_id = 3
-1	E	e	CCONJ	cscc	_	9	cc	_	start_char=407|end_char=408
-2	tanto	tanto	ADV	b	_	4	advmod	_	start_char=409|end_char=414
-3	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=415|end_char=416
-4	più	più	ADV	b	_	0	root	_	start_char=417|end_char=420
-5	d’	di	ADP	eps	_	9	case	_	start_char=421|end_char=423|SpaceAfter=No
-6	ogn	ogno	DET	ai2fs	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	start_char=423|end_char=426|SpaceAfter=No
-7	’	’	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=426|end_char=427|SpaceAfter=No
-8	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	9	det	_	start_char=427|end_char=432
-9	canoscenza	conoscenza	NOUN	sf1fs	Gender=Fem|Number=Sing	4	obl	_	start_char=433|end_char=443|SpacesAfter=\n
-10	quanto	quanto	ADV	b	_	17	mark	_	start_char=444|end_char=450
-11	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=451|end_char=453
-12	cielo	cielo	NOUN	sm2ms	Gender=Masc|Number=Sing	17	nsubj	_	start_char=454|end_char=459
-13	de	di	ADP	eps	_	15	case	_	start_char=460|end_char=462
-14	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=463|end_char=465
-15	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	12	nmod	_	start_char=466|end_char=471
-16	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=472|end_char=473
-17	maggio	maggiore	ADJ	a2ms	Gender=Fem|Number=Sing	9	acl:relcl	_	start_char=474|end_char=480|SpaceAfter=No
-18	.	.	PUNCT	_	_	9	punct	_	start_char=480|end_char=481|SpacesAfter=\n
+1	E	e	CCONJ	cscc	_	8	cc	_	start_char=407|end_char=408
+2	tanto	tanto	ADV	b	_	8	advmod	_	start_char=409|end_char=414
+3	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=415|end_char=416
+4	più	più	ADV	b	_	8	advmod	_	start_char=417|end_char=420
+5	d'	di	ADP	eps	_	8	case	_	start_char=421|end_char=423|SpaceAfter=No
+6	ogn'	ogni	DET	ai2fs	Gender=Fem|Number=Sing|PronType=Tot	8	det	_	start_char=423|end_char=427|SpaceAfter=No
+7	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	start_char=427|end_char=432
+8	canoscenza	conoscenza	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	start_char=433|end_char=443|SpacesAfter=\n
+9	quanto	quanto	ADV	b	_	16	mark	_	start_char=444|end_char=450
+10	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=451|end_char=453
+11	cielo	cielo	NOUN	sm2ms	Gender=Masc|Number=Sing	16	nsubj	_	start_char=454|end_char=459
+12	de	di	ADP	eps	_	14	case	_	start_char=460|end_char=462
+13	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=463|end_char=465
+14	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	11	nmod	_	start_char=466|end_char=471
+15	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=472|end_char=473
+16	maggio	maggiore	ADJ	a2ms	Gender=Fem|Number=Sing	8	acl:relcl	_	start_char=474|end_char=480|SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	start_char=480|end_char=481|SpacesAfter=\n
 
 # text = A simil di natura ben non tarda.
 # sent_id = 4
