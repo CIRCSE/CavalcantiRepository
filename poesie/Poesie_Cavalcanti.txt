@@ -614,7 +614,7 @@ Sonetto.
 
 Amore e monna Lagia e Guido ed io
 possiamo ringraziare un ser costui
-che 'nd'à partitiPoesia numero 22 sapete da cui?
+che 'nd'à partiti... sapete da cui?
 No 'l vo' contar per averlo in oblio.
 
 Poi questi tre più no v'ànno disio,
@@ -632,8 +632,7 @@ se poi mi piacque no 'l si crede forse.
 
 
 
-
-Poesia numero 23
+Poesia numero 22 
 
 Ballata.
 
@@ -658,7 +657,7 @@ che se ne porta tutta mia possanza.
 
 
 
-Poesia numero 24
+Poesia numero 23
 
 l'Orlandi a Guido.
 
@@ -680,7 +679,8 @@ E tu 'l feristi e nolli parla sema.
 Ovidio leggi; più di te ne vide.
 Dal mio balestro guarda ed aggi tema.
 
-Poesia numero 25
+
+Poesia numero 24
 
 a Guido Orlandi.
 
@@ -708,7 +708,7 @@ amore à fabbricato ciò ch'io limo.
 
 
 
-Poesia numero 26
+Poesia numero 25
 
 
 risposta dell'Orlandi a Guido.
@@ -737,7 +737,7 @@ amor carnale: non tangio nel limo.
  
 
 
-Poesia numero 27
+Poesia numero 26
 Sonetto.
 
 Un amoroso sguardo spiritale
@@ -761,7 +761,7 @@ ch'un poco di pietà no i fosse a noia.
 
 
 
-Poesia numero 28
+Poesia numero 27
 
 Sonetto.
 
@@ -787,7 +787,7 @@ veggendo morto 'l cor nel lato manco.
 
 
 
-Poesia numero 29
+Poesia numero 28
 
 Sonetto.
 
@@ -812,7 +812,7 @@ chè morte 'l porta in man tagliato in croce. —
 
 
 
-Poesia numero 30
+Poesia numero 29
 
 Sonetto.
 
@@ -837,7 +837,7 @@ che per disdegno uom non dà lor salute.
 
 
 
-Poesia numero 31
+Poesia numero 30
 
 Sonetto.
 
@@ -862,7 +862,7 @@ di grande sua pietate piangeria.
 
 
 
-Poesia numero 32
+Poesia numero 31
 
 Sonetto.
 
@@ -886,7 +886,7 @@ che sia, com'egli è morto, aperto segno.
 
 
 
-Poesia numero 33
+Poesia numero 32
 
 Sonetto.
 
@@ -910,7 +910,7 @@ che vegna per veder morir lo core.
 
 
 
-Poesia numero 34
+Poesia numero 33
 
 Sonetto.
 
@@ -933,7 +933,7 @@ che consolasse mia vita dolente
 dicendo: — spiritei, non vi partite. — 
 
 
-Poesia numero 35
+Poesia numero 34
 
 Sonetto.
 
@@ -957,7 +957,7 @@ sì che n'ò l'ira ed allegrezza e pianto.
 
 
 
-Poesia numero 36
+Poesia numero 35
 
 Sonetto.
 
@@ -981,7 +981,7 @@ gravati d'angosciosa debolezza.
 
 
 
-Poesia numero 37
+Poesia numero 36
 
 Sonetto.
 
@@ -1006,7 +1006,7 @@ com'ella fu e fia sempre d'amore.
 
 
 
-Poesia numero 38
+Poesia numero 37
 
 Sonetto.
 
@@ -1031,7 +1031,7 @@ per forza d'uno spirito che 'l vede.
 
 
 
-Poesia numero 39
+Poesia numero 38
 
 Sonetto.
 
@@ -1056,7 +1056,7 @@ dove si lancia crudeltà d'amore.
 
 
 
-Poesia numero 40
+Poesia numero 39
 
 Gianni Alfani a Guido.
 
@@ -1078,7 +1078,7 @@ Io le respuosi che tu senza inganno
 portavi pien di ta' saette un sacco
 che gli trarresti di briga e d'affanno.
 
-Poesia numero 41
+Poesia numero 40
 
 Mottetto a Gianni Alfani.
 
@@ -1101,7 +1101,7 @@ vuol di giustizia fio.
 
 
 
-Poesia numero 42
+Poesia numero 41
 
 Bernardo da Bologna a Guido.
 
@@ -1123,7 +1123,7 @@ la conoscenza di me da te l'ave. —
 Ben è così, com si dice, la chiave. — 
 — A lui ne mandi trentamila some. — 
 
-Poesia numero 43
+Poesia numero 42
 
 Guido a Bernardo da Bologna.
 
@@ -1147,7 +1147,7 @@ belle ed adorne di gentil costume.
 
 
 
-Poesia numero 44
+Poesia numero 43
 
 Ballata.
 
@@ -1182,7 +1182,7 @@ che mostri quella che t'à fatto onore.
 
 
 
-Poesia numero 45
+Poesia numero 44
 
 Ballata.
 
@@ -1212,7 +1212,7 @@ vedrai la sua vertù nel ciel salita. —
 
 
 
-Poesia numero 46
+Poesia numero 45
 
 Ballata.
 
@@ -1247,7 +1247,7 @@ che 'l 'maginar vi si possa finire.
 
 
 
-Poesia numero 47
+Poesia numero 46
 
 Ballata.
 
@@ -1274,7 +1274,7 @@ quando passò nella mente un romore,
 il qual dicea: — dentro bieltà che more;
 ma guarda che pietà non vi si miri. — 
 
-Poesia numero 48
+Poesia numero 47
 
 Ballata.
 
@@ -1316,7 +1316,7 @@ ch'a la sua donna faccia compagnia.
 
 
 
-Poesia numero 49
+Poesia numero 48
 
 Ballata.
 
@@ -1360,7 +1360,7 @@ li fu di tal piacere a lui gradita.
 
 
 
-Poesia numero 50
+Poesia numero 49
 
 a Dante.
 
@@ -1383,7 +1383,7 @@ lo spirito noioso che ti caccia
 si partirà da l'anima invilita.
 
 
-Poesia numero 51
+Poesia numero 50
 
 a Guido Orlandi.
 
@@ -1406,7 +1406,7 @@ ma dicon ch'è idolatra i fra' Minori
 per invidia che non n'è lor vicina.
 
 
-Poesia numero 52
+Poesia numero 51
 
 sonetto doppio di Guido Orlandi.
 
@@ -1436,7 +1436,7 @@ e de la fede son difenditori
 li bon predicatori:
 lor predicanza è nostra medicina.
 
-Poesia numero 53
+Poesia numero 52
 
 per Mandetta.
 
@@ -1459,7 +1459,7 @@ ferita a morte d'un tagliente dardo,
 che questa donna nel partir li gitta.
 
 
-Poesia numero 54
+Poesia numero 53
 
 per Mandetta.
 
@@ -1526,7 +1526,7 @@ dilli con voce leve:
 
 
 
-Poesia numero 55
+Poesia numero 54
 
 per Mandetta.
 
@@ -1549,7 +1549,7 @@ e la seconda disia la vertute
 de la gran gioia, che la terza porta.
 
 
-Poesia numero 56
+Poesia numero 55
 
 per Mandetta.
 
@@ -1573,7 +1573,7 @@ accompagnata di quelli martiri,
 che soglion consumare altrui piangendo.
 
 
-Poesia numero 57
+Poesia numero 56
 
 per Mandetta.
 
@@ -1596,7 +1596,7 @@ che non sdegnate di tenerci noi
 tanto, ch'un poco di pietà vi miri.
 
 
-Poesia numero 58
+Poesia numero 57
 
 a Nerone Cavalcanti.
 
@@ -1620,7 +1620,7 @@ se fossi paziente del mercato.
 
 
 
-Poesia numero 59
+Poesia numero 58
 
 Ballata.
 
@@ -1661,7 +1661,7 @@ che dio d'amore parvemi vedere.
 
 
 
-Poesia numero 60
+Poesia numero 59
 
 Farinata degli Uberti a Guido.
 
@@ -1685,7 +1685,7 @@ però rassetta, se vuo', tuo mottetto.
 
 
 
-Poesia numero 61
+Poesia numero 60
 
 ad un amico.
 
@@ -1711,7 +1711,7 @@ del novo acquisto spesso ti ripiglia.
 
 
 
-Poesia numero 62
+Poesia numero 61
 
 a Manetto Portinari.
 
@@ -1737,7 +1737,7 @@ o tu morresti o fuggiresti via.
 
 
 
-Poesia numero 63
+Poesia numero 62
 
 Ballata.
 
@@ -1781,7 +1781,7 @@ vede la morte sotto 'l meo colore.
 
 
 
-Poesia numero 64
+Poesia numero 63
 
 Ballata.
 
