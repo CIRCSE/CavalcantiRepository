@@ -1,0 +1,124 @@
+# newdoc id = 27 - Sonetto.
+# sent_id = 0
+# text = Voi che per li occhi mi passaste 'l core e destaste la mente che dormia, guardate a l'angosciosa vita mia, chè sospirando la distrugge amore.
+1	Voi	voi	PRON	pp2plso	Number=Plur|Person=2|PronType=Prs	17	nsubj	_	start_char=0|end_char=3
+2	che	che	PRON	pr	PronType=Rel	7	nsubj	_	start_char=4|end_char=7
+3	per	per	ADP	epskr	_	5	case	_	start_char=8|end_char=11
+4	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	start_char=12|end_char=14
+5	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	7	obl:lmod	_	start_char=15|end_char=20
+6	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=21|end_char=23
+7	passaste	passare	VERB	vta1irp2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=24|end_char=32
+8	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=33|end_char=35
+9	core	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	7	obj	_	start_char=36|end_char=40|SpacesAfter=\n
+10	e	e	CCONJ	cscc	_	11	cc	_	start_char=41|end_char=42
+11	destaste	destare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=43|end_char=51
+12	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=52|end_char=54
+13	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	11	obj	_	start_char=55|end_char=60
+14	che	che	PRON	pr	PronType=Rel	15	nsubj	_	start_char=61|end_char=64
+15	dormia	dormire	VERB	vi3iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=65|end_char=71|SpaceAfter=No
+16	,	,	PUNCT	_	_	1	punct	_	start_char=71|end_char=72|SpacesAfter=\n
+17	guardate	guardare	VERB	vta1mpp2	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=73|end_char=81
+18	a	a	ADP	epsk1d	_	21	case	_	start_char=82|end_char=83
+19	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=84|end_char=86|SpaceAfter=No
+20	angosciosa	angoscioso	ADJ	a1fs	Gender=Fem|Number=Sing	21	amod	_	start_char=86|end_char=96
+21	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	17	obl	_	start_char=97|end_char=101
+22	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	start_char=102|end_char=105|SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	start_char=105|end_char=106|SpacesAfter=\n
+24	chè	chè	SCONJ	cssc	_	27	mark	_	start_char=107|end_char=110
+25	sospirando	sospirare	VERB	vi1gp	VerbForm=Conv|Voice=Act	27	advcl	_	start_char=111|end_char=121
+26	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=122|end_char=124
+27	distrugge	distruggere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=125|end_char=134
+28	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	27	nsubj	_	start_char=135|end_char=140|SpaceAfter=No
+29	.	.	PUNCT	_	_	17	punct	_	start_char=140|end_char=141|SpacesAfter=\n\n
+
+# sent_id = 1
+# text = E ven tagliando di sì gran valore che' deboletti spiriti van via; riman figura sol' en signoria e voce alquanta che parla dolore.
+1	E	e	CCONJ	cscc	_	2	cc	_	start_char=143|end_char=144
+2	ven	venire	VERB	cscn	_	0	root	_	start_char=145|end_char=148
+3	tagliando	tagliare	VERB	vta1gp	VerbForm=Conv|Voice=Act	2	advcl	_	start_char=149|end_char=158
+4	di	di	ADP	epskg	_	7	case	_	start_char=159|end_char=161
+5	sì	così	ADV	b	_	7	advmod	_	start_char=162|end_char=164
+6	gran	grande	ADJ	a2ms	Gender=Masc|Number=Sing	7	amod	_	start_char=165|end_char=169
+7	valore	valore	NOUN	sm3ms	Gender=Masc|Number=Sing	3	obl	_	start_char=170|end_char=176|SpacesAfter=\n
+8	che	che	SCONJ	cssu	_	12	mark	_	start_char=177|end_char=180|SpaceAfter=No
+9	'	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	start_char=180|end_char=181
+10	deboletti	deboletto	ADJ	a1mp	Gender=Masc|Number=Plur	11	amod	_	start_char=182|end_char=191
+11	spiriti	spirito	NOUN	sm2mp	Gender=Masc|Number=Plur	12	nsubj	_	start_char=192|end_char=199
+12	van	andare	VERB	vi1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=200|end_char=203
+13	via	via	ADV	sf1fs	Gender=Fem|Number=Sing	12	advmod	_	start_char=204|end_char=207|SpaceAfter=No
+14	;	;	PUNCT	_	_	15	punct	_	start_char=207|end_char=208|SpacesAfter=\n
+15	riman	rimanere	VERB	vi2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=209|end_char=214
+16	figura	figura	NOUN	sf1fs	Gender=Fem|Number=Sing	15	nsubj	_	start_char=215|end_char=221
+17	sol'	solo	ADV	b	_	15	advmod	_	start_char=222|end_char=226
+18	en	in	ADP	cscd	_	19	case	_	start_char=227|end_char=229
+19	signoria	signoria	NOUN	sf1fs	Gender=Fem|Number=Sing	15	obl	_	start_char=230|end_char=238|SpacesAfter=\n
+20	e	e	CCONJ	cscc	_	21	cc	_	start_char=239|end_char=240
+21	voce	voce	NOUN	sf3fs	Gender=Fem|Number=Sing	16	conj	_	start_char=241|end_char=245
+22	alquanta	alquanto	ADJ	a1fs	Gender=Fem|Number=Sing	21	amod	_	start_char=246|end_char=254
+23	che	che	PRON	pr	PronType=Rel	24	nsubj	_	start_char=255|end_char=258
+24	parla	parlare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	start_char=259|end_char=264
+25	dolore	dolore	NOUN	sm3ms	Gender=Masc|Number=Sing	24	obj	_	start_char=265|end_char=271|SpaceAfter=No
+26	.	.	PUNCT	_	_	15	punct	_	start_char=271|end_char=272|SpacesAfter=\n\n
+
+# sent_id = 2
+# text = Questa virtù d'amor, che m'à disfatto, da' vostr'occhi gentil presta si mosse: un dardo mi gittò dentro da 'l fianco.
+1	Questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	start_char=274|end_char=280
+2	virtù	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	18	nsubj	_	start_char=281|end_char=286
+3	d'	di	ADP	eps	_	4	case	_	start_char=287|end_char=289|SpaceAfter=No
+4	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	2	nmod	_	start_char=289|end_char=293|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	start_char=293|end_char=294
+6	che	che	PRON	pr	PronType=Rel	9	nsubj	_	start_char=295|end_char=298
+7	m'	mi	PRON	b	_	9	obj	_	start_char=299|end_char=302|SpaceAfter=No
+8	à	avere	AUX	b	_	9	aux	_	start_char=299|end_char=302
+9	disfatto	disfare	VERB	vta2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	acl:relcl	_	start_char=303|end_char=311|SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	start_char=311|end_char=312|SpacesAfter=\n
+11-12	da'	_	_	_	_	_	_	_	start_char=313|end_char=316
+11	da	da	ADP	_	_	14	case	_	_
+12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	vostr'	vostro	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=317|end_char=323|SpaceAfter=No
+14	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	18	obl:lmod	_	start_char=323|end_char=328
+15	gentil	gentile	ADJ	a2ms	Number=Sing	14	amod	_	start_char=329|end_char=335
+16	presta	presto	ADJ	a1fs	Gender=Fem|Number=Sing	18	advcl:pred	_	start_char=336|end_char=342
+17	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	18	expl:pv	_	start_char=343|end_char=345
+18	mosse	muovere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=346|end_char=351|SpaceAfter=No
+19	:	:	PUNCT	_	_	23	punct	_	start_char=351|end_char=352|SpacesAfter=\n
+20	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	start_char=353|end_char=355
+21	dardo	dardo	NOUN	sm2ms	Gender=Masc|Number=Sing	23	obj	_	start_char=356|end_char=361
+22	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|Poss=Yes|PronType=Prs	23	iobj	_	start_char=362|end_char=364
+23	gittò	gettare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	parataxis	_	start_char=365|end_char=370
+24	dentro	dentro	ADV	_	_	27	advmod:lmod	_	start_char=371|end_char=377
+25	da	da	ADP	_	_	27	case	_	start_char=378|end_char=380
+26	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=381|end_char=383
+27	fianco	fianco	NOUN	sm2ms	Gender=Masc|Number=Sing	23	obl:lmod	_	start_char=384|end_char=390|SpaceAfter=No
+28	.	.	PUNCT	_	_	23	punct	_	start_char=390|end_char=391|SpacesAfter=\n\n
+
+# sent_id = 3
+# text = Sì giunse ritto 'l colpo al primo tratto, che l'anima tremando si riscosse veggendo morto 'l cor nel lato manco.
+1	Sì	così	ADV	b	_	3	advmod	_	start_char=393|end_char=395
+2	giunse	giungere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=396|end_char=402
+3	ritto	ritto	ADJ	a1ms	Gender=Masc|Number=Sing	2	advcl:pred	_	start_char=403|end_char=408
+4	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=409|end_char=411
+5	colpo	colpo	NOUN	sm2ms	Gender=Masc|Number=Sing	2	nsubj	_	start_char=412|end_char=417
+6-7	al	_	_	_	_	_	_	_	start_char=418|end_char=420
+6	a	a	ADP	_	_	9	case	_	_
+7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	primo	primo	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	start_char=421|end_char=426
+9	tratto	trarre	VERB	vta2prsm2ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	obl	_	start_char=427|end_char=433|SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	start_char=433|end_char=434|SpacesAfter=\n
+11	che	che	SCONJ	cssu	_	16	mark	_	start_char=435|end_char=438
+12	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=439|end_char=441|SpaceAfter=No
+13	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	16	nsubj	_	start_char=441|end_char=446
+14	tremando	tremare	VERB	vtagp	VerbForm=Conv|Voice=Act	16	advcl	_	start_char=447|end_char=455
+15	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	16	expl:pv	_	start_char=456|end_char=458
+16	riscosse	riscuotere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=459|end_char=467|SpacesAfter=\n
+17	veggendo	vedere	VERB	vta2gp	VerbForm=Conv|Voice=Act	16	advcl	_	start_char=468|end_char=476
+18	morto	morire	VERB	vi3pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	20	acl	_	start_char=477|end_char=482
+19	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=483|end_char=485
+20	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	17	obj	_	start_char=486|end_char=489
+21-22	nel	_	_	_	_	_	_	_	start_char=490|end_char=493
+21	in	in	ADP	_	_	23	case	_	_
+22	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	lato	lato	NOUN	sm2ms	Gender=Masc|Number=Sing	17	obl:lmod	_	start_char=494|end_char=498
+24	manco	manco	ADJ	a1ms	Gender=Masc|Number=Sing	23	amod	_	start_char=499|end_char=504|SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	start_char=504|end_char=505|SpaceAfter=No
+

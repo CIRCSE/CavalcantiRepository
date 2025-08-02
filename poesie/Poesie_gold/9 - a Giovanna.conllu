@@ -1,0 +1,136 @@
+# newdoc id = 9 - a Giovanna.
+# sent_id = 0
+# text = Io vidi li occhi, dove Amor si mise quando mi fece di sè pauroso, che mi guardar com'io fosse noioso: allora dico che 'l cor si divise.
+1	Io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3|end_char=7
+3	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=8|end_char=10
+4	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	2	obj	_	start_char=11|end_char=16|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	start_char=16|end_char=17
+6	dove	dove	ADV	b	_	9	obl:lmod	_	start_char=18|end_char=22
+7	Amor	Amore	PROPN	np	_	9	nsubj	_	start_char=23|end_char=27
+8	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	start_char=28|end_char=30
+9	mise	mettere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=31|end_char=35|SpacesAfter=\n
+10	quando	quando	SCONJ	csst	_	12	mark	_	start_char=36|end_char=42
+11	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	obj	_	start_char=43|end_char=45
+12	fece	fare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=46|end_char=50
+13	di	di	ADP	epskg	_	14	case	_	start_char=51|end_char=53
+14	sè	sè	PRON	pf3slpr	Person=3|PronType=Prs|Reflex=Yes	15	obl	_	start_char=54|end_char=56
+15	pauroso	pauroso	ADJ	a1ms	Gender=Masc|Number=Sing	12	xcomp	_	start_char=57|end_char=64|SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	start_char=64|end_char=65|SpacesAfter=\n
+17	che	che	SCONJ	cssu	_	19	mark	_	start_char=66|end_char=69
+18	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|PronType=Prs	19	obj	_	start_char=70|end_char=72
+19	guardar	guardare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=73|end_char=80
+20	com'	come	ADV	b	_	23	mark	_	start_char=81|end_char=85|SpaceAfter=No
+21	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	23	nsubj	_	start_char=85|end_char=87
+22	fosse	essere	AUX	vi4cis1	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	23	cop	_	start_char=88|end_char=93
+23	noioso	noioso	ADJ	a1msx	Gender=Masc|Number=Sing	19	ccomp	_	start_char=94|end_char=100|SpaceAfter=No
+24	:	:	PUNCT	_	_	26	punct	_	start_char=100|end_char=101|SpacesAfter=\n
+25	allora	allora	ADV	b	_	26	advmod:tmod	_	start_char=102|end_char=108
+26	dico	dire	VERB	vta3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=109|end_char=113
+27	che	che	SCONJ	csso	_	31	mark	_	start_char=114|end_char=117
+28	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	start_char=118|end_char=120
+29	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	31	nsubj:pass	_	start_char=121|end_char=124
+30	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	31	expl:pv	_	start_char=125|end_char=127
+31	divise	dividere	VERB	vtp2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	26	ccomp	_	start_char=128|end_char=134|SpaceAfter=No
+32	.	.	PUNCT	_	_	26	punct	_	start_char=134|end_char=135|SpacesAfter=\n\n
+
+# sent_id = 1
+# text = E, se non fosse che la donna rise, io parlerei di tal guisa doglioso ch'amor medesimo farla cruccioso, che fè lo inmaginar che mi conquise.
+1	E	e	CCONJ	cscc	_	12	cc	_	start_char=137|end_char=138|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	start_char=138|end_char=139
+3	se	se	SCONJ	cssv	_	5	mark	_	start_char=140|end_char=142
+4	non	non	ADV	b	PronType=Neg	5	advmod:neg	_	start_char=143|end_char=146
+5	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	start_char=147|end_char=152
+6	che	che	SCONJ	csss	_	9	mark	_	start_char=153|end_char=156
+7	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=157|end_char=159
+8	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	9	nsubj	_	start_char=160|end_char=165
+9	rise	ridere	VERB	vi2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	csubj	_	start_char=166|end_char=170|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	start_char=170|end_char=171|SpacesAfter=\n
+11	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	12	nsubj	_	start_char=172|end_char=174
+12	parlerei	parlare	VERB	vi1dps1	Mood=Cnd|Number=Sing|Person=1|Tense=Pres	0	root	_	start_char=175|end_char=183
+13	di	di	ADP	epskg	_	15	case	_	start_char=184|end_char=186
+14	tal	tale	DET	a2fs	Number=Sing	15	det	_	start_char=187|end_char=190
+15	guisa	guisa	NOUN	sf1fs	Gender=Fem|Number=Sing	12	obl	_	start_char=191|end_char=196
+16	doglioso	doglioso	ADJ	a1ms	Gender=Masc|Number=Sing	12	advcl:pred	_	start_char=197|end_char=205|SpacesAfter=\n
+17	ch'	che	SCONJ	cssu	_	20	mark	_	start_char=206|end_char=209|SpaceAfter=No
+18	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	20	nsubj	_	start_char=209|end_char=213
+19	medesimo	medesimo	ADJ	a1ms	Gender=Masc|Number=Sing	18	amod	_	start_char=214|end_char=222
+20-21	farla	_	_	_	_	_	_	_	start_char=223|end_char=228
+20	fare	fare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	15	acl	_	_
+21	la	la	PRON	pp3fsxac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+22	cruccioso	cruccioso	ADJ	a1ms	Gender=Masc|Number=Sing	20	xcomp	_	start_char=229|end_char=238|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	start_char=238|end_char=239|SpacesAfter=\n
+24	che	che	PRON	pr	PronType=Rel	25	nsubj	_	start_char=240|end_char=243
+25	fè	fare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	start_char=244|end_char=246
+26	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=247|end_char=249
+27	inmaginar	inmaginare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	25	obj	_	start_char=250|end_char=259
+28	che	che	PRON	pr	PronType=Rel	30	nsubj	_	start_char=260|end_char=263
+29	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	30	obj	_	start_char=264|end_char=266
+30	conquise	conquidere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	acl:relcl	_	start_char=267|end_char=275|SpaceAfter=No
+31	.	.	PUNCT	_	_	12	punct	_	start_char=275|end_char=276|SpacesAfter=\n\n
+
+# sent_id = 2
+# text = Dal ciel si mosse un spirito in quel punto, che quella donna mi degnò guardare, e vennesi a posar nel mio pensero.
+1-2	Dal	_	_	_	_	_	_	_	start_char=278|end_char=281
+1	da	da	ADP	_	_	3	case	_	_
+2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ciel	cielo	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=282|end_char=286
+4	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	start_char=287|end_char=289
+5	mosse	muovere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=290|end_char=295
+6	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=296|end_char=298
+7	spirito	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	5	nsubj	_	start_char=299|end_char=306
+8	in	in	ADP	epsksl	_	10	case	_	start_char=307|end_char=309
+9	quel	quello	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=310|end_char=314
+10	punto	punto	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	start_char=315|end_char=320|SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	start_char=320|end_char=321|SpacesAfter=\n
+12	che	che	PRON	pr	PronType=Rel	16	obl:lmod	_	start_char=322|end_char=325
+13	quella	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	start_char=326|end_char=332
+14	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	16	nsubj	_	start_char=333|end_char=338
+15	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	17	obj	_	start_char=339|end_char=341
+16	degnò	degnare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=342|end_char=347
+17	guardare	guardare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	_	start_char=348|end_char=356|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	start_char=356|end_char=357|SpacesAfter=\n
+19	e	e	CCONJ	cscc	_	20	cc	_	start_char=358|end_char=359
+20-21	vennesi	_	_	_	_	_	_	_	start_char=360|end_char=367
+20	venne	venire	VERB	vi+1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+21	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	_
+22	a	a	ADP	epsb	_	23	mark	_	start_char=368|end_char=369
+23	posar	posare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	20	advcl	_	start_char=370|end_char=375
+24-25	nel	_	_	_	_	_	_	_	start_char=376|end_char=379
+24	in	in	ADP	_	_	27	case	_	_
+25	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+26	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	27	det:poss	_	start_char=380|end_char=383
+27	pensero	pensiero	NOUN	sm2ms	Gender=Masc|Number=Sing	23	obl:lmod	_	start_char=384|end_char=391|SpaceAfter=No
+28	.	.	PUNCT	_	_	5	punct	_	start_char=391|end_char=392|SpacesAfter=\n\n
+
+# sent_id = 3
+# text = E lì mi conta si d'amore il vero, che ogni sua virtù veder mi pare sì, com'io fosse ne lo suo cor giunto.
+1	E	e	CCONJ	cscc	_	4	cc	_	start_char=394|end_char=395
+2	lì	lì	ADV	b	_	4	advmod:lmod	_	start_char=396|end_char=398
+3	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|PronType=Prs	4	iobj	_	start_char=399|end_char=401
+4	conta	contare	VERB	vta1iis3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=402|end_char=407
+5	si	si	ADV	pf3xpe	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	advmod	_	start_char=408|end_char=410
+6	d'	di	ADP	eps	_	7	case	_	start_char=411|end_char=413|SpaceAfter=No
+7	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	9	nmod	_	start_char=413|end_char=418
+8	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=419|end_char=421
+9	vero	vero	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obj	_	start_char=422|end_char=426|SpaceAfter=No
+10	,	,	PUNCT	_	_	17	punct	_	start_char=426|end_char=427|SpacesAfter=\n
+11	che	che	SCONJ	cssu	_	17	mark	_	start_char=428|end_char=431
+12	ogni	ogni	DET	ai2fs	Gender=Fem|Number=Sing|PronType=Tot	14	det	_	start_char=432|end_char=436
+13	sua	suo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	start_char=437|end_char=440
+14	virtù	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	15	obj	_	start_char=441|end_char=446
+15	veder	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	17	csubj	_	start_char=447|end_char=452
+16	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	17	iobj	_	start_char=453|end_char=455
+17	pare	parere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=456|end_char=460|SpacesAfter=\n
+18	sì	così	ADV	b	_	17	advmod	_	start_char=461|end_char=463|SpaceAfter=No
+19	,	,	PUNCT	_	_	27	punct	_	start_char=463|end_char=464
+20	com'	come	SCONJ	csst	_	27	mark	_	start_char=465|end_char=469|SpaceAfter=No
+21	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	27	nsubj	_	start_char=469|end_char=471
+22	fosse	essere	AUX	vi4cis1	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	27	aux	_	start_char=472|end_char=477
+23	ne	in	ADP	epaksl	_	26	case	_	start_char=478|end_char=480
+24	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	start_char=481|end_char=483
+25	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	start_char=484|end_char=487
+26	cor	cuore	NOUN	sm3ms	Gender=Masc|Number=Sing	27	obl:lmod	_	start_char=488|end_char=491
+27	giunto	giungere	VERB	vta2ir1	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	start_char=492|end_char=498|SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	start_char=498|end_char=499|SpaceAfter=No
+
