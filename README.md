@@ -1,4 +1,4 @@
-# Guido Cavalcanti
+# Guido Cavalcanti, Rhymes (c. 1255–1300, Old Florentine) 
 
 
 The folder ```poesie``` contains the files of poems/sonnets in two formats: .conllu and .txt. It also includes a script to split the file containing all texts into individual files.
