@@ -1,15 +1,18 @@
-# Cavalcanti Working Repository
+# Guido Cavalcanti
 
-Repository di lavoro per l'annotazione di Guido Cavalcanti.
 
- - ```poesie``` contiene i file delle poesie/sonetti in due formati conllu e txt in più si trova lo script per decomporre il file contentente tutti i testi nei file singoli
- - ```trattato_amore``` contiene i file dell Trattato d'amore in due formati conllu e txt in più si trova lo script per decomporre il file contentente tutti i testi dei poemetti nei file singoli
- - ```processTextFile.py``` è lo script per processare i file txt utilizzando il modello di stanza
+The folder ```poesie``` contains the files of poems/sonnets in two formats: .conllu and .txt. It also includes a script to split the file containing all texts into individual files.
+The folder ```trattato_amore``` contains the files of _Trattato d’amore_ in both .conllu and .txt formats. It also includes a script to split the file containing all the _poemetti_ into individual files.
+```processTextFile.py``` is the script used to process the .txt files using the Stanza model.
+Inside the ```poesie``` folder, the subfolder ```poesie_gold``` contains the sonnets manually annotated.
 
- In ```poesie```, nella cartella ```poesie_gold``` sono riportati i sonetti annotati manualmente.
- La descrizione del lavoro si può trovare in "What Is Better for Syntactic Parsing? A Comparison between Supervised and Unsupervised Models on Dante and Cavalcanti". 
+A description of the work can be found in: "What Is Better for Syntactic Parsing? A Comparison between Supervised and Unsupervised Models on Dante and Cavalcanti". 
 
- Per informazioni su annotazione:
- claudia.corbetta@unibg.it
- annaerminia.colombi01@universitadipavia.it
+For questions about annotation:
+claudia.corbetta@unibg.it; 
+annaerminia.colombi01@universitadipavia.it
  
+For questions about the Stanza model:
+giovanni.moretti@unicatt.it
+
+Corresponding author: claudia.corbetta@unibg.it
